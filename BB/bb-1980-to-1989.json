@@ -1,0 +1,62 @@
+[
+    {
+        "id": "98QosPvWrCI",
+        "parentid": "",
+        "soap": "BB",
+        "category": "B",
+        "title": "Jeff Conaway The Bold and The Beautiful",
+        "date": "01/01/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "00:21",
+        "channel": "theystartedonsoaps"
+    },
+    {
+        "id": "aNqK7ZzrVW0",
+        "parentid": "",
+        "soap": "BB",
+        "category": "A",
+        "title": "Episode",
+        "date": "8/10/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "0:32",
+        "channel": "snarkweighsin"
+    },
+    {
+        "id": "0Mn2QIlVyX0",
+        "parentid": "",
+        "soap": "BB",
+        "category": "A",
+        "title": "Episode",
+        "date": "8/10/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "5:35",
+        "channel": "snarkweighsin"
+    },
+    {
+        "id": "w7bp8N2DMSY",
+        "parentid": "",
+        "soap": "BB",
+        "category": "A",
+        "title": "Episode",
+        "date": "8/10/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "4:12",
+        "channel": "snarkweighsin"
+    },
+    {
+        "id": "QXDO0Alfj2s",
+        "parentid": "",
+        "soap": "BB",
+        "category": "A",
+        "title": "Episode",
+        "date": "8/10/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "6:02",
+        "channel": "snarkweighsin"
+    }
+]
