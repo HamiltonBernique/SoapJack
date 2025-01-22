@@ -1,0 +1,110 @@
+[
+    {
+        "id": "V_4mjbOBB98",
+        "parentid": "",
+        "soap": "DAYS",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/08/1965",
+        "part": "1",
+        "total": "1",
+        "duration": "22:13",
+        "channel": "classicsoapoperas"
+    },
+    {
+        "id": "-czRQ16JA_A",
+        "parentid": "",
+        "soap": "DAYS",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/09/1965",
+        "part": "1",
+        "total": "1",
+        "duration": "21:06",
+        "channel": "classicsoapoperas"
+    },
+    {
+        "id": "AFywcCz4B_4",
+        "parentid": "",
+        "soap": "DAYS",
+        "category": "B",
+        "title": "Promo",
+        "date": "01/01/1974",
+        "part": "1",
+        "total": "1",
+        "duration": "0:57",
+        "channel": "robwargo"
+    },
+    {
+        "id": "ui8n_s_MKf0",
+        "parentid": "",
+        "soap": "DAYS",
+        "category": "A",
+        "title": "Horton Thanksgiving Prayer",
+        "date": "11/28/1974",
+        "part": "1",
+        "total": "1",
+        "duration": "1:47",
+        "channel": "doolflashbacks"
+    },
+    {
+        "id": "82VD5DimctA",
+        "parentid": "",
+        "soap": "DAYS",
+        "category": "A",
+        "title": "Kitty Lester",
+        "date": "01/01/1976",
+        "part": "1",
+        "total": "1",
+        "duration": "7:06",
+        "channel": "theystartedonsoaps"
+    },
+    {
+        "id": "iotyfHR47lU",
+        "parentid": "",
+        "soap": "DAYS",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/01/1976",
+        "part": "1",
+        "total": "1",
+        "duration": "42:14",
+        "channel": "classicsoapoperas"
+    },
+    {
+        "id": "MjVbfEL6jtY",
+        "parentid": "",
+        "soap": "DAYS",
+        "category": "A",
+        "title": "Samantha and Marlena",
+        "date": "01/01/1977",
+        "part": "1",
+        "total": "1",
+        "duration": "1:14",
+        "channel": "doolflashbacks"
+    },
+    {
+        "id": "ER0QrkfDMiI",
+        "parentid": "",
+        "soap": "DAYS",
+        "category": "A",
+        "title": "Marlena Confronts Samantha",
+        "date": "01/01/1977",
+        "part": "1",
+        "total": "1",
+        "duration": "01:37",
+        "channel": "doolflashbacks"
+    },
+    {
+        "id": "N-j09rfcyN0",
+        "parentid": "",
+        "soap": "DAYS",
+        "category": "A",
+        "title": "The Hortons Sing 'Always'",
+        "date": "01/01/1979",
+        "part": "1",
+        "total": "1",
+        "duration": "02:24",
+        "channel": "ackgh73994"
+    }
+]
