@@ -1,11 +1,11 @@
 # The SoapJack Project
-YouTube classic soap opera videos in chronological order. The reponsitory contains the data of classic soap opera videos from YouTube in the approximate order of their broadcast dates.
+Presenting YouTube classic soap opera videos in chronological order. The repository contains the data of classic soap opera videos from YouTube in the approximate order of their broadcast dates.
 
-This site is under construction and about 50% complete.
+This site is under construction and is about 50% complete.
 
 For questions, contact Bruce Hamilton at hamiltonbernique@icloud.com
 
-To watcj a video from the data, copy the id from the json data into the YouTube search bar. Or you can construct the URL in in two ways:
+To watch a video from the data, copy the id from the json data into the YouTube search bar. Or you can construct the URL in in two ways:
 
 - https://youtu.be/{id}
 - https://www.youtube.com/watch?v={id}
@@ -23,3 +23,5 @@ The JSON data has the following elements:
 | part | The part number of a series. |
 | total | The total number of parts. |
 | channel | The YouTube channel that hosts the video. The HamiltonBernique Project is very appreciateive of the fine work these soap fans have made, for without them this history making would not be possible.|
+
+
