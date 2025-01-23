@@ -3,12 +3,12 @@ Presenting YouTube classic soap opera videos in chronological order. The reposit
 
 This site is under construction and is about 50% complete.
 
-For questions, contact Bruce Hamilton at hamiltonbernique@icloud.com
+For questions, contact Bruce Hamilton at `hamiltonbernique@icloud.com`
 
 To watch a video from the data, copy the id from the json data into the YouTube search bar. Or you can construct the URL in in two ways:
 
-- https://youtu.be/{id}
-- https://www.youtube.com/watch?v={id}
+- `https://youtu.be/{id}`
+- `https://www.youtube.com/watch?v={id}`
 
 The JSON data has the following elements:
 
