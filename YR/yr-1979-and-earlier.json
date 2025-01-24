@@ -1,0 +1,38 @@
+[
+    {
+        "id": "TRrYpl5XFIQ",
+        "parentid": "",
+        "soap": "YR",
+        "category": "B",
+        "title": "Closing theme",
+        "date": "01/01/1973",
+        "part": "1",
+        "total": "1",
+        "duration": "2:33",
+        "channel": "edynsanchez"
+    },
+    {
+        "id": "esdpjjyOPLI",
+        "parentid": "",
+        "soap": "YR",
+        "category": "A",
+        "title": "Tom Selleck",
+        "date": "01/01/1975",
+        "part": "1",
+        "total": "1",
+        "duration": "04:05",
+        "channel": "theystartedonsoaps"
+    },
+    {
+        "id": "mOSx3Vt4WVM",
+        "parentid": "",
+        "soap": "YR",
+        "category": "B",
+        "title": "Opening",
+        "date": "01/01/1978",
+        "part": "1",
+        "total": "1",
+        "duration": "0:30",
+        "channel": "fyi"
+    }
+]
