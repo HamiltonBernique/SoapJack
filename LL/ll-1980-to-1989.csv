@@ -1,0 +1,3 @@
+id,title,duration,soap,date,category,parentid,part,total,channel
+"=HYPERLINK(""https://youtu.be/8bkqLRz-UQI"", ""Link"")",Episode,30:14,LL,02/01/1980,A,,1,1,thechandlerhh
+"=HYPERLINK(""https://youtu.be/OFjwKrzKdtI"", ""Link"")",Episode,19:01,LL,10/15/1982,A,P_9d43bce0,2,2,romabriere
