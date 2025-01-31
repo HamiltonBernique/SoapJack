@@ -1,6 +1,6 @@
 [
     {
-        "id": "=HYPERLINK(\"https://youtu.be/0lBEPeFDB2k\", \"Link\")",
+        "id": "0lBEPeFDB2k",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -12,7 +12,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/nq-Nj7GGE34\", \"Link\")",
+        "id": "nq-Nj7GGE34",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -24,7 +24,7 @@
         "channel": "edwynsanchez"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/WCtEV-hj89E\", \"Link\")",
+        "id": "WCtEV-hj89E",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -36,7 +36,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/6ndZfsCYNlk\", \"Link\")",
+        "id": "6ndZfsCYNlk",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -48,7 +48,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/2jTvCcV5i-8\", \"Link\")",
+        "id": "2jTvCcV5i-8",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -60,7 +60,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/pv9UcBqYTBo\", \"Link\")",
+        "id": "pv9UcBqYTBo",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -72,7 +72,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/kdMvoANhe2M\", \"Link\")",
+        "id": "kdMvoANhe2M",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -84,7 +84,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/Nq5eWJFfVh0\", \"Link\")",
+        "id": "Nq5eWJFfVh0",
         "parentid": "P_bfc0939e",
         "soap": "GL",
         "category": "A",
@@ -96,7 +96,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/NY8_qjjCzwI\", \"Link\")",
+        "id": "NY8_qjjCzwI",
         "parentid": "P_bfc0939e",
         "soap": "GL",
         "category": "A",
@@ -108,7 +108,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/J_JfNVhN8ks\", \"Link\")",
+        "id": "J_JfNVhN8ks",
         "parentid": "P_bfc0939e",
         "soap": "GL",
         "category": "A",
@@ -120,7 +120,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/qR4qKr8Ih8o\", \"Link\")",
+        "id": "qR4qKr8Ih8o",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -132,7 +132,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/dRb2Wao_z6k\", \"Link\")",
+        "id": "dRb2Wao_z6k",
         "parentid": "P_884b34f0",
         "soap": "GL",
         "category": "A",
@@ -144,7 +144,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/IArLzFFWCbM\", \"Link\")",
+        "id": "IArLzFFWCbM",
         "parentid": "P_884b34f0",
         "soap": "GL",
         "category": "A",
@@ -156,7 +156,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/p85ogCIS90Y\", \"Link\")",
+        "id": "p85ogCIS90Y",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -168,7 +168,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/Pr61NC0nOYM\", \"Link\")",
+        "id": "Pr61NC0nOYM",
         "parentid": "P_d09fa631",
         "soap": "GL",
         "category": "A",
@@ -180,7 +180,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/KhCJEKCqbFo\", \"Link\")",
+        "id": "KhCJEKCqbFo",
         "parentid": "P_d09fa631",
         "soap": "GL",
         "category": "A",
@@ -192,7 +192,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/FoJFHqHykIg\", \"Link\")",
+        "id": "FoJFHqHykIg",
         "parentid": "P_d09fa631",
         "soap": "GL",
         "category": "A",
@@ -204,7 +204,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/nd4-5GCG7gI\", \"Link\")",
+        "id": "nd4-5GCG7gI",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -216,7 +216,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/cPHzmF2Q5Og\", \"Link\")",
+        "id": "cPHzmF2Q5Og",
         "parentid": "P_81aec314",
         "soap": "GL",
         "category": "A",
@@ -228,7 +228,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/HcnhxuJCOrU\", \"Link\")",
+        "id": "HcnhxuJCOrU",
         "parentid": "P_81aec314",
         "soap": "GL",
         "category": "A",
@@ -240,7 +240,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/IeVzIaiaCio\", \"Link\")",
+        "id": "IeVzIaiaCio",
         "parentid": "P_81aec314",
         "soap": "GL",
         "category": "A",
@@ -252,7 +252,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/5-FRxfrmcMA\", \"Link\")",
+        "id": "5-FRxfrmcMA",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -264,7 +264,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/9cdfwpzzz5M\", \"Link\")",
+        "id": "9cdfwpzzz5M",
         "parentid": "P_ac0d2ef6",
         "soap": "GL",
         "category": "A",
@@ -276,7 +276,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/9bRUPtYvrfs\", \"Link\")",
+        "id": "9bRUPtYvrfs",
         "parentid": "P_ac0d2ef6",
         "soap": "GL",
         "category": "A",
@@ -288,7 +288,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/s7A2IsqmFjE\", \"Link\")",
+        "id": "s7A2IsqmFjE",
         "parentid": "P_ac0d2ef6",
         "soap": "GL",
         "category": "A",
@@ -300,7 +300,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/JO9lwk9ZTAU\", \"Link\")",
+        "id": "JO9lwk9ZTAU",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -312,7 +312,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/unm86jFV8b0\", \"Link\")",
+        "id": "unm86jFV8b0",
         "parentid": "P_6f1d1f57",
         "soap": "GL",
         "category": "A",
@@ -324,7 +324,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/EzX3IIu0duA\", \"Link\")",
+        "id": "EzX3IIu0duA",
         "parentid": "P_6f1d1f57",
         "soap": "GL",
         "category": "A",
@@ -336,7 +336,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/AzFB3HOdEy4\", \"Link\")",
+        "id": "AzFB3HOdEy4",
         "parentid": "P_6f1d1f57",
         "soap": "GL",
         "category": "A",
@@ -348,7 +348,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/2MmFxog4m8Q\", \"Link\")",
+        "id": "2MmFxog4m8Q",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -360,7 +360,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/dG-0Rt8Sa_Y\", \"Link\")",
+        "id": "dG-0Rt8Sa_Y",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -372,7 +372,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/TqQuITs2l8U\", \"Link\")",
+        "id": "TqQuITs2l8U",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -384,7 +384,7 @@
         "channel": "bartko"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/UUBTP9zzUoY\", \"Link\")",
+        "id": "UUBTP9zzUoY",
         "parentid": "P_2d6897f4",
         "soap": "GL",
         "category": "A",
@@ -396,7 +396,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/il6LazPyX2M\", \"Link\")",
+        "id": "il6LazPyX2M",
         "parentid": "P_2d6897f4",
         "soap": "GL",
         "category": "A",
@@ -408,7 +408,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/jzyMZTj_R7M\", \"Link\")",
+        "id": "jzyMZTj_R7M",
         "parentid": "P_2d6897f4",
         "soap": "GL",
         "category": "A",
@@ -420,7 +420,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/blCejCaNEwI\", \"Link\")",
+        "id": "blCejCaNEwI",
         "parentid": "",
         "soap": "GL",
         "category": "B",
@@ -432,7 +432,7 @@
         "channel": "edynsanchez"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/kbq7PfqeUaQ\", \"Link\")",
+        "id": "kbq7PfqeUaQ",
         "parentid": "",
         "soap": "GL",
         "category": "B",
@@ -444,7 +444,7 @@
         "channel": "chucksnitchler"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/03L1O2H8k2E\", \"Link\")",
+        "id": "03L1O2H8k2E",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -456,7 +456,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/RqRYb_Fn7H0\", \"Link\")",
+        "id": "RqRYb_Fn7H0",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -468,7 +468,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/OWokOK1o2uU\", \"Link\")",
+        "id": "OWokOK1o2uU",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -480,7 +480,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/IeXc94Dw5zw\", \"Link\")",
+        "id": "IeXc94Dw5zw",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -492,7 +492,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/GyTmoq1Q8FA\", \"Link\")",
+        "id": "GyTmoq1Q8FA",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -504,7 +504,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/m6429B4oE28\", \"Link\")",
+        "id": "m6429B4oE28",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -516,7 +516,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/a3CQ3D_-_ZY\", \"Link\")",
+        "id": "a3CQ3D_-_ZY",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -528,7 +528,7 @@
         "channel": "edwynsanchez"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/CY7SBX4wuNo\", \"Link\")",
+        "id": "CY7SBX4wuNo",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -540,7 +540,7 @@
         "channel": "edwynsanchez"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/6yvyXFQPV50\", \"Link\")",
+        "id": "6yvyXFQPV50",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -552,7 +552,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/A8KwZEwL_54\", \"Link\")",
+        "id": "A8KwZEwL_54",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -564,7 +564,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/IXWsCE9kRUA\", \"Link\")",
+        "id": "IXWsCE9kRUA",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -576,7 +576,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/2GOzumeGrQk\", \"Link\")",
+        "id": "2GOzumeGrQk",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -588,7 +588,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/EUzHhraTrk0\", \"Link\")",
+        "id": "EUzHhraTrk0",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -600,7 +600,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/e5siGocLGIw\", \"Link\")",
+        "id": "e5siGocLGIw",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -612,7 +612,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/sK9ffvPqJyE\", \"Link\")",
+        "id": "sK9ffvPqJyE",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -624,7 +624,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/4mN5z8ZxCTY\", \"Link\")",
+        "id": "4mN5z8ZxCTY",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -636,7 +636,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/2O62Jg2cxKI\", \"Link\")",
+        "id": "2O62Jg2cxKI",
         "parentid": "P_3a49eed8",
         "soap": "GL",
         "category": "A",
@@ -648,7 +648,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/yVu5HoPHaH0\", \"Link\")",
+        "id": "yVu5HoPHaH0",
         "parentid": "P_3a49eed8",
         "soap": "GL",
         "category": "A",
@@ -660,7 +660,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/T0V85N5XnQs\", \"Link\")",
+        "id": "T0V85N5XnQs",
         "parentid": "P_3a49eed8",
         "soap": "GL",
         "category": "A",
@@ -672,7 +672,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/4Y-A0P8DHz0\", \"Link\")",
+        "id": "4Y-A0P8DHz0",
         "parentid": "P_577149ec",
         "soap": "GL",
         "category": "A",
@@ -684,7 +684,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/8ggHQizy3iU\", \"Link\")",
+        "id": "8ggHQizy3iU",
         "parentid": "P_577149ec",
         "soap": "GL",
         "category": "A",
@@ -696,7 +696,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/4mMdsxDJ8b8\", \"Link\")",
+        "id": "4mMdsxDJ8b8",
         "parentid": "P_577149ec",
         "soap": "GL",
         "category": "A",
@@ -708,7 +708,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/vRVGhg-_Sas\", \"Link\")",
+        "id": "vRVGhg-_Sas",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -720,7 +720,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/pRZXTLPN-xw\", \"Link\")",
+        "id": "pRZXTLPN-xw",
         "parentid": "P_38575c1c",
         "soap": "GL",
         "category": "A",
@@ -732,7 +732,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/t9P17N96buc\", \"Link\")",
+        "id": "t9P17N96buc",
         "parentid": "P_38575c1c",
         "soap": "GL",
         "category": "A",
@@ -744,7 +744,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/WKXg7yNbfLE\", \"Link\")",
+        "id": "WKXg7yNbfLE",
         "parentid": "P_38575c1c",
         "soap": "GL",
         "category": "A",
@@ -756,7 +756,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/yahlzytEPF0\", \"Link\")",
+        "id": "yahlzytEPF0",
         "parentid": "P_5c0fe148",
         "soap": "GL",
         "category": "A",
@@ -768,7 +768,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/0jM_cPlL8Rw\", \"Link\")",
+        "id": "0jM_cPlL8Rw",
         "parentid": "P_5c0fe148",
         "soap": "GL",
         "category": "A",
@@ -780,7 +780,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/wkQXC1yi4zQ\", \"Link\")",
+        "id": "wkQXC1yi4zQ",
         "parentid": "P_5c0fe148",
         "soap": "GL",
         "category": "A",
@@ -792,7 +792,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/5Gb_J2gLY3A\", \"Link\")",
+        "id": "5Gb_J2gLY3A",
         "parentid": "P_cd362c16",
         "soap": "GL",
         "category": "A",
@@ -804,7 +804,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/BdGcc7BR33k\", \"Link\")",
+        "id": "BdGcc7BR33k",
         "parentid": "P_cd362c16",
         "soap": "GL",
         "category": "A",
@@ -816,7 +816,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/tclECYcn3yg\", \"Link\")",
+        "id": "tclECYcn3yg",
         "parentid": "P_cd362c16",
         "soap": "GL",
         "category": "A",
@@ -828,7 +828,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/yicTtXgbVf4\", \"Link\")",
+        "id": "yicTtXgbVf4",
         "parentid": "P_246f690a",
         "soap": "GL",
         "category": "A",
@@ -840,7 +840,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/L2vs-XD6nT8\", \"Link\")",
+        "id": "L2vs-XD6nT8",
         "parentid": "P_246f690a",
         "soap": "GL",
         "category": "A",
@@ -852,7 +852,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/sD6amCbY-vY\", \"Link\")",
+        "id": "sD6amCbY-vY",
         "parentid": "P_246f690a",
         "soap": "GL",
         "category": "A",
@@ -864,7 +864,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/SXSw_zu9ULg\", \"Link\")",
+        "id": "SXSw_zu9ULg",
         "parentid": "P_66fe3f52",
         "soap": "GL",
         "category": "A",
@@ -876,7 +876,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/aCBYYKp_gaY\", \"Link\")",
+        "id": "aCBYYKp_gaY",
         "parentid": "P_66fe3f52",
         "soap": "GL",
         "category": "A",
@@ -888,7 +888,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/HUzOyTet4Hs\", \"Link\")",
+        "id": "HUzOyTet4Hs",
         "parentid": "P_66fe3f52",
         "soap": "GL",
         "category": "A",
@@ -900,7 +900,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/NS4OUp1P2Zg\", \"Link\")",
+        "id": "NS4OUp1P2Zg",
         "parentid": "P_a950d426",
         "soap": "GL",
         "category": "A",
@@ -912,7 +912,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/v30RBqTtDX4\", \"Link\")",
+        "id": "v30RBqTtDX4",
         "parentid": "P_a950d426",
         "soap": "GL",
         "category": "A",
@@ -924,7 +924,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/BxLH3S-wFl4\", \"Link\")",
+        "id": "BxLH3S-wFl4",
         "parentid": "P_a950d426",
         "soap": "GL",
         "category": "A",
@@ -936,7 +936,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/VEjrTkYyTXE\", \"Link\")",
+        "id": "VEjrTkYyTXE",
         "parentid": "P_89fd9710",
         "soap": "GL",
         "category": "A",
@@ -948,7 +948,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/bniNm0ctnro\", \"Link\")",
+        "id": "bniNm0ctnro",
         "parentid": "P_89fd9710",
         "soap": "GL",
         "category": "A",
@@ -960,7 +960,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/TsmqPUOc00U\", \"Link\")",
+        "id": "TsmqPUOc00U",
         "parentid": "P_89fd9710",
         "soap": "GL",
         "category": "A",
@@ -972,7 +972,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/aMejbL5g3NY\", \"Link\")",
+        "id": "aMejbL5g3NY",
         "parentid": "P_4ce87366",
         "soap": "GL",
         "category": "A",
@@ -984,7 +984,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/wiKM6vkEtEM\", \"Link\")",
+        "id": "wiKM6vkEtEM",
         "parentid": "P_4ce87366",
         "soap": "GL",
         "category": "A",
@@ -996,7 +996,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/nlo64g0qfn8\", \"Link\")",
+        "id": "nlo64g0qfn8",
         "parentid": "P_4ce87366",
         "soap": "GL",
         "category": "A",
@@ -1008,7 +1008,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/XcykBjSXbzA\", \"Link\")",
+        "id": "XcykBjSXbzA",
         "parentid": "P_36dc0fd3",
         "soap": "GL",
         "category": "A",
@@ -1020,7 +1020,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/TjJAz6ZMcdk\", \"Link\")",
+        "id": "TjJAz6ZMcdk",
         "parentid": "P_36dc0fd3",
         "soap": "GL",
         "category": "A",
@@ -1032,7 +1032,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/m7irKN3zo18\", \"Link\")",
+        "id": "m7irKN3zo18",
         "parentid": "P_36dc0fd3",
         "soap": "GL",
         "category": "A",
@@ -1044,7 +1044,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/s0S1jXNwWSY\", \"Link\")",
+        "id": "s0S1jXNwWSY",
         "parentid": "P_8646c6c6",
         "soap": "GL",
         "category": "A",
@@ -1056,7 +1056,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/MO9NeE45Huc\", \"Link\")",
+        "id": "MO9NeE45Huc",
         "parentid": "P_8646c6c6",
         "soap": "GL",
         "category": "A",
@@ -1068,7 +1068,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/9ILNp2n3OKE\", \"Link\")",
+        "id": "9ILNp2n3OKE",
         "parentid": "P_8646c6c6",
         "soap": "GL",
         "category": "A",
@@ -1080,7 +1080,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/Br2n03hUlzg\", \"Link\")",
+        "id": "Br2n03hUlzg",
         "parentid": "P_7b339542",
         "soap": "GL",
         "category": "A",
@@ -1092,7 +1092,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/eQZ8LiFy4xs\", \"Link\")",
+        "id": "eQZ8LiFy4xs",
         "parentid": "P_7b339542",
         "soap": "GL",
         "category": "A",
@@ -1104,7 +1104,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/GWrlS_8Btlc\", \"Link\")",
+        "id": "GWrlS_8Btlc",
         "parentid": "P_7b339542",
         "soap": "GL",
         "category": "A",
@@ -1116,7 +1116,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/xwUJidYzwe0\", \"Link\")",
+        "id": "xwUJidYzwe0",
         "parentid": "P_7b339542",
         "soap": "GL",
         "category": "A",
@@ -1128,7 +1128,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/nhBl-sY8oRY\", \"Link\")",
+        "id": "nhBl-sY8oRY",
         "parentid": "P_277b58a1",
         "soap": "GL",
         "category": "A",
@@ -1140,7 +1140,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/8uXl2elK_vk\", \"Link\")",
+        "id": "8uXl2elK_vk",
         "parentid": "P_277b58a1",
         "soap": "GL",
         "category": "A",
@@ -1152,7 +1152,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/JucZBsaq06o\", \"Link\")",
+        "id": "JucZBsaq06o",
         "parentid": "P_cb689e68",
         "soap": "GL",
         "category": "A",
@@ -1164,7 +1164,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/iQ60DrWKVAI\", \"Link\")",
+        "id": "iQ60DrWKVAI",
         "parentid": "P_cb689e68",
         "soap": "GL",
         "category": "A",
@@ -1176,7 +1176,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/666djtPEpLA\", \"Link\")",
+        "id": "666djtPEpLA",
         "parentid": "P_cb689e68",
         "soap": "GL",
         "category": "A",
@@ -1188,7 +1188,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/BlfKOsHCZ08\", \"Link\")",
+        "id": "BlfKOsHCZ08",
         "parentid": "P_47b3c71a",
         "soap": "GL",
         "category": "A",
@@ -1200,7 +1200,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/ISMkiNgDQN8\", \"Link\")",
+        "id": "ISMkiNgDQN8",
         "parentid": "P_47b3c71a",
         "soap": "GL",
         "category": "A",
@@ -1212,7 +1212,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/p_j8-zd9Ek0\", \"Link\")",
+        "id": "p_j8-zd9Ek0",
         "parentid": "P_47b3c71a",
         "soap": "GL",
         "category": "A",
@@ -1224,7 +1224,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/XSTBIChKW-g\", \"Link\")",
+        "id": "XSTBIChKW-g",
         "parentid": "P_47f9632a",
         "soap": "GL",
         "category": "A",
@@ -1236,7 +1236,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/AwP0W9MY1aw\", \"Link\")",
+        "id": "AwP0W9MY1aw",
         "parentid": "P_47f9632a",
         "soap": "GL",
         "category": "A",
@@ -1248,7 +1248,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/h4Bb4WQ6TSw\", \"Link\")",
+        "id": "h4Bb4WQ6TSw",
         "parentid": "P_47f9632a",
         "soap": "GL",
         "category": "A",
@@ -1260,7 +1260,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/ZWhnG7BlpqY\", \"Link\")",
+        "id": "ZWhnG7BlpqY",
         "parentid": "P_5d22f82c",
         "soap": "GL",
         "category": "A",
@@ -1272,7 +1272,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/SjJ5QqlG4k8\", \"Link\")",
+        "id": "SjJ5QqlG4k8",
         "parentid": "P_5d22f82c",
         "soap": "GL",
         "category": "A",
@@ -1284,7 +1284,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/jQtnwpgzODc\", \"Link\")",
+        "id": "jQtnwpgzODc",
         "parentid": "P_5d22f82c",
         "soap": "GL",
         "category": "A",
@@ -1296,7 +1296,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/ORsd4szPx2w\", \"Link\")",
+        "id": "ORsd4szPx2w",
         "parentid": "P_36d7cc98",
         "soap": "GL",
         "category": "A",
@@ -1308,7 +1308,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/jS8stuO_d1E\", \"Link\")",
+        "id": "jS8stuO_d1E",
         "parentid": "P_36d7cc98",
         "soap": "GL",
         "category": "A",
@@ -1320,7 +1320,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/x0DkStx4txc\", \"Link\")",
+        "id": "x0DkStx4txc",
         "parentid": "P_36d7cc98",
         "soap": "GL",
         "category": "A",
@@ -1332,7 +1332,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/GKu22TLlayg\", \"Link\")",
+        "id": "GKu22TLlayg",
         "parentid": "P_ba410efc",
         "soap": "GL",
         "category": "A",
@@ -1344,7 +1344,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/gQ-XN3JaMPM\", \"Link\")",
+        "id": "gQ-XN3JaMPM",
         "parentid": "P_ba410efc",
         "soap": "GL",
         "category": "A",
@@ -1356,7 +1356,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/a26VXeKcmDY\", \"Link\")",
+        "id": "a26VXeKcmDY",
         "parentid": "P_ba410efc",
         "soap": "GL",
         "category": "A",
@@ -1368,7 +1368,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/BOBBCFSbzaM\", \"Link\")",
+        "id": "BOBBCFSbzaM",
         "parentid": "P_112b1e4b",
         "soap": "GL",
         "category": "A",
@@ -1380,7 +1380,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/XuiwpPDMreI\", \"Link\")",
+        "id": "XuiwpPDMreI",
         "parentid": "P_112b1e4b",
         "soap": "GL",
         "category": "A",
@@ -1392,7 +1392,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/8hRxxAxHDqw\", \"Link\")",
+        "id": "8hRxxAxHDqw",
         "parentid": "P_112b1e4b",
         "soap": "GL",
         "category": "A",
@@ -1404,7 +1404,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/Eg2Q8OeC4jw\", \"Link\")",
+        "id": "Eg2Q8OeC4jw",
         "parentid": "P_c0f4c633",
         "soap": "GL",
         "category": "A",
@@ -1416,7 +1416,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/GpicpI4xCvc\", \"Link\")",
+        "id": "GpicpI4xCvc",
         "parentid": "P_c0f4c633",
         "soap": "GL",
         "category": "A",
@@ -1428,7 +1428,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/M7QtzF7dU58\", \"Link\")",
+        "id": "M7QtzF7dU58",
         "parentid": "P_c0f4c633",
         "soap": "GL",
         "category": "A",
@@ -1440,7 +1440,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/DiFvOC8cwEM\", \"Link\")",
+        "id": "DiFvOC8cwEM",
         "parentid": "P_098cfa51",
         "soap": "GL",
         "category": "A",
@@ -1452,7 +1452,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/Py_qEEVYdNQ\", \"Link\")",
+        "id": "Py_qEEVYdNQ",
         "parentid": "P_098cfa51",
         "soap": "GL",
         "category": "A",
@@ -1464,7 +1464,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/u6L68ARtFzI\", \"Link\")",
+        "id": "u6L68ARtFzI",
         "parentid": "P_098cfa51",
         "soap": "GL",
         "category": "A",
@@ -1476,7 +1476,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/gCiYJk40Hn0\", \"Link\")",
+        "id": "gCiYJk40Hn0",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -1488,7 +1488,7 @@
         "channel": "fyi"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/Hk53vhFCM78\", \"Link\")",
+        "id": "Hk53vhFCM78",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -1500,7 +1500,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/Uab29m2-wlc\", \"Link\")",
+        "id": "Uab29m2-wlc",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -1512,7 +1512,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/1qm4XkXEgqY\", \"Link\")",
+        "id": "1qm4XkXEgqY",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -1524,7 +1524,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/yGXgY8-I9OY\", \"Link\")",
+        "id": "yGXgY8-I9OY",
         "parentid": "P_a2667e0b",
         "soap": "GL",
         "category": "A",
@@ -1536,7 +1536,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/WP6gonPapRY\", \"Link\")",
+        "id": "WP6gonPapRY",
         "parentid": "P_a2667e0b",
         "soap": "GL",
         "category": "A",
@@ -1548,7 +1548,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/QJCs-6RLgvA\", \"Link\")",
+        "id": "QJCs-6RLgvA",
         "parentid": "P_a2667e0b",
         "soap": "GL",
         "category": "A",
@@ -1560,7 +1560,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/UH5po9xuJW0\", \"Link\")",
+        "id": "UH5po9xuJW0",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -1572,7 +1572,7 @@
         "channel": "theystartedonsoaps"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/XsjHu3dpDMA\", \"Link\")",
+        "id": "XsjHu3dpDMA",
         "parentid": "P_5a2586a4",
         "soap": "GL",
         "category": "A",
@@ -1584,7 +1584,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/DSzN3bwFD2g\", \"Link\")",
+        "id": "DSzN3bwFD2g",
         "parentid": "P_5a2586a4",
         "soap": "GL",
         "category": "A",
@@ -1596,7 +1596,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/_DtnUV9-nT0\", \"Link\")",
+        "id": "_DtnUV9-nT0",
         "parentid": "P_5a2586a4",
         "soap": "GL",
         "category": "A",
@@ -1608,7 +1608,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/KryaMGxXATU\", \"Link\")",
+        "id": "KryaMGxXATU",
         "parentid": "P_f74c4a78",
         "soap": "GL",
         "category": "A",
@@ -1620,7 +1620,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/pP0NHLkkYaw\", \"Link\")",
+        "id": "pP0NHLkkYaw",
         "parentid": "P_f74c4a78",
         "soap": "GL",
         "category": "A",
@@ -1632,7 +1632,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/gedrokFC_ao\", \"Link\")",
+        "id": "gedrokFC_ao",
         "parentid": "P_f74c4a78",
         "soap": "GL",
         "category": "A",
@@ -1644,7 +1644,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/E2apyesWuBc\", \"Link\")",
+        "id": "E2apyesWuBc",
         "parentid": "P_13ef8161",
         "soap": "GL",
         "category": "A",
@@ -1656,7 +1656,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/c4BjgiNNhQc\", \"Link\")",
+        "id": "c4BjgiNNhQc",
         "parentid": "P_13ef8161",
         "soap": "GL",
         "category": "A",
@@ -1668,7 +1668,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/Gv4ewzwOuzo\", \"Link\")",
+        "id": "Gv4ewzwOuzo",
         "parentid": "P_13ef8161",
         "soap": "GL",
         "category": "A",
@@ -1680,7 +1680,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/u_TYE_N2BGU\", \"Link\")",
+        "id": "u_TYE_N2BGU",
         "parentid": "P_c566d9b5",
         "soap": "GL",
         "category": "A",
@@ -1692,7 +1692,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/WSp0e6xHKpI\", \"Link\")",
+        "id": "WSp0e6xHKpI",
         "parentid": "P_c566d9b5",
         "soap": "GL",
         "category": "A",
@@ -1704,7 +1704,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/Ru6AAITSBvA\", \"Link\")",
+        "id": "Ru6AAITSBvA",
         "parentid": "P_c566d9b5",
         "soap": "GL",
         "category": "A",
@@ -1716,7 +1716,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/Ahb0-VYLOew\", \"Link\")",
+        "id": "Ahb0-VYLOew",
         "parentid": "P_5c931ac4",
         "soap": "GL",
         "category": "A",
@@ -1728,7 +1728,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/zMg0oJGYUJU\", \"Link\")",
+        "id": "zMg0oJGYUJU",
         "parentid": "P_5c931ac4",
         "soap": "GL",
         "category": "A",
@@ -1740,7 +1740,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/SNPPRGpvGTE\", \"Link\")",
+        "id": "SNPPRGpvGTE",
         "parentid": "P_5c931ac4",
         "soap": "GL",
         "category": "A",
@@ -1752,7 +1752,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/54ysiJg3GHI\", \"Link\")",
+        "id": "54ysiJg3GHI",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -1764,7 +1764,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/o9PiIeoATd4\", \"Link\")",
+        "id": "o9PiIeoATd4",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -1776,7 +1776,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/vhTKHQ1v9PI\", \"Link\")",
+        "id": "vhTKHQ1v9PI",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -1788,7 +1788,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/53R35149S9c\", \"Link\")",
+        "id": "53R35149S9c",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -1800,7 +1800,7 @@
         "channel": "fyi"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/BoxvcQa4Uig\", \"Link\")",
+        "id": "BoxvcQa4Uig",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -1812,7 +1812,7 @@
         "channel": "fyi"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/fBZDbPWc5lI\", \"Link\")",
+        "id": "fBZDbPWc5lI",
         "parentid": "",
         "soap": "GL",
         "category": "B",
@@ -1824,7 +1824,7 @@
         "channel": "chucksnitchler"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/BiJBN6RQR9U\", \"Link\")",
+        "id": "BiJBN6RQR9U",
         "parentid": "P_bd84663d",
         "soap": "GL",
         "category": "A",
@@ -1836,7 +1836,7 @@
         "channel": "oakdalehistorian"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/s1GPaeYIDOE\", \"Link\")",
+        "id": "s1GPaeYIDOE",
         "parentid": "P_bd84663d",
         "soap": "GL",
         "category": "A",
@@ -1848,7 +1848,7 @@
         "channel": "oakdalehistorian"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/9dpaBkNA0rA\", \"Link\")",
+        "id": "9dpaBkNA0rA",
         "parentid": "P_bd84663d",
         "soap": "GL",
         "category": "A",
@@ -1860,7 +1860,7 @@
         "channel": "oakdalehistorian"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/dviBXLKEXs4\", \"Link\")",
+        "id": "dviBXLKEXs4",
         "parentid": "P_bd84663d",
         "soap": "GL",
         "category": "A",
@@ -1872,7 +1872,7 @@
         "channel": "oakdalehistorian"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/Joc8E8AohAs\", \"Link\")",
+        "id": "Joc8E8AohAs",
         "parentid": "P_75b89bea",
         "soap": "GL",
         "category": "A",
@@ -1884,7 +1884,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/U-oQ4npNGdI\", \"Link\")",
+        "id": "U-oQ4npNGdI",
         "parentid": "P_75b89bea",
         "soap": "GL",
         "category": "A",
@@ -1896,7 +1896,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/B9nRycBNfPg\", \"Link\")",
+        "id": "B9nRycBNfPg",
         "parentid": "P_75b89bea",
         "soap": "GL",
         "category": "A",
@@ -1908,7 +1908,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/RhgsVfYNcjU\", \"Link\")",
+        "id": "RhgsVfYNcjU",
         "parentid": "P_d25eeb1b",
         "soap": "GL",
         "category": "A",
@@ -1920,7 +1920,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/knQScR6AoVg\", \"Link\")",
+        "id": "knQScR6AoVg",
         "parentid": "P_d25eeb1b",
         "soap": "GL",
         "category": "A",
@@ -1932,7 +1932,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/sCTCCEEB1kI\", \"Link\")",
+        "id": "sCTCCEEB1kI",
         "parentid": "P_d25eeb1b",
         "soap": "GL",
         "category": "A",
@@ -1944,7 +1944,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/rc_6MlEsFF8\", \"Link\")",
+        "id": "rc_6MlEsFF8",
         "parentid": "P_2333142b",
         "soap": "GL",
         "category": "A",
@@ -1956,7 +1956,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/VFBh3FMKUPY\", \"Link\")",
+        "id": "VFBh3FMKUPY",
         "parentid": "P_2333142b",
         "soap": "GL",
         "category": "A",
@@ -1968,7 +1968,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/LZwjGmbVw6Q\", \"Link\")",
+        "id": "LZwjGmbVw6Q",
         "parentid": "P_2333142b",
         "soap": "GL",
         "category": "A",
@@ -1980,7 +1980,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/9_XtpN-YSTA\", \"Link\")",
+        "id": "9_XtpN-YSTA",
         "parentid": "P_733e04e5",
         "soap": "GL",
         "category": "A",
@@ -1992,7 +1992,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/2ztwkHXz1iQ\", \"Link\")",
+        "id": "2ztwkHXz1iQ",
         "parentid": "P_733e04e5",
         "soap": "GL",
         "category": "A",
@@ -2004,7 +2004,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/kVpdkLRUb6U\", \"Link\")",
+        "id": "kVpdkLRUb6U",
         "parentid": "P_733e04e5",
         "soap": "GL",
         "category": "A",
@@ -2016,7 +2016,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/Ok5c-fCGWVc\", \"Link\")",
+        "id": "Ok5c-fCGWVc",
         "parentid": "P_5eba2195",
         "soap": "GL",
         "category": "A",
@@ -2028,7 +2028,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/NmfGKno2j5E\", \"Link\")",
+        "id": "NmfGKno2j5E",
         "parentid": "P_5eba2195",
         "soap": "GL",
         "category": "A",
@@ -2040,7 +2040,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/uMZ8VX5DcJM\", \"Link\")",
+        "id": "uMZ8VX5DcJM",
         "parentid": "P_5eba2195",
         "soap": "GL",
         "category": "A",
@@ -2052,7 +2052,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/Id5uXha3t5Q\", \"Link\")",
+        "id": "Id5uXha3t5Q",
         "parentid": "P_a2d07ede",
         "soap": "GL",
         "category": "A",
@@ -2064,7 +2064,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/K62qCG6Scr4\", \"Link\")",
+        "id": "K62qCG6Scr4",
         "parentid": "P_a2d07ede",
         "soap": "GL",
         "category": "A",
@@ -2076,7 +2076,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/gfEkjSGN2CA\", \"Link\")",
+        "id": "gfEkjSGN2CA",
         "parentid": "P_a2d07ede",
         "soap": "GL",
         "category": "A",
@@ -2088,7 +2088,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/HFbcPVuRoco\", \"Link\")",
+        "id": "HFbcPVuRoco",
         "parentid": "P_d8b2be6d",
         "soap": "GL",
         "category": "A",
@@ -2100,7 +2100,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/Oc3rIV3XA50\", \"Link\")",
+        "id": "Oc3rIV3XA50",
         "parentid": "P_d8b2be6d",
         "soap": "GL",
         "category": "A",
@@ -2112,7 +2112,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/2TKxKOLzYao\", \"Link\")",
+        "id": "2TKxKOLzYao",
         "parentid": "P_d8b2be6d",
         "soap": "GL",
         "category": "A",
@@ -2124,7 +2124,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/XKzxsaxfgoo\", \"Link\")",
+        "id": "XKzxsaxfgoo",
         "parentid": "P_afc4c82d",
         "soap": "GL",
         "category": "A",
@@ -2136,7 +2136,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/07Pn3llWZhM\", \"Link\")",
+        "id": "07Pn3llWZhM",
         "parentid": "P_afc4c82d",
         "soap": "GL",
         "category": "A",
@@ -2148,7 +2148,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/hxIF-eVWhXI\", \"Link\")",
+        "id": "hxIF-eVWhXI",
         "parentid": "P_afc4c82d",
         "soap": "GL",
         "category": "A",
@@ -2160,7 +2160,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/Es5rcKtnNOA\", \"Link\")",
+        "id": "Es5rcKtnNOA",
         "parentid": "P_9fc67bac",
         "soap": "GL",
         "category": "A",
@@ -2172,7 +2172,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/gBsXtr5HaFI\", \"Link\")",
+        "id": "gBsXtr5HaFI",
         "parentid": "P_9fc67bac",
         "soap": "GL",
         "category": "A",
@@ -2184,7 +2184,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/zed7i5OkevU\", \"Link\")",
+        "id": "zed7i5OkevU",
         "parentid": "P_9fc67bac",
         "soap": "GL",
         "category": "A",
@@ -2196,7 +2196,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/ISnyrUvPhPk\", \"Link\")",
+        "id": "ISnyrUvPhPk",
         "parentid": "P_9fc67bac",
         "soap": "GL",
         "category": "A",
@@ -2208,7 +2208,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/wHRmXjbRZYs\", \"Link\")",
+        "id": "wHRmXjbRZYs",
         "parentid": "P_9e1c18d0",
         "soap": "GL",
         "category": "A",
@@ -2220,7 +2220,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/r9S_9S6pRr0\", \"Link\")",
+        "id": "r9S_9S6pRr0",
         "parentid": "P_9e1c18d0",
         "soap": "GL",
         "category": "A",
@@ -2232,7 +2232,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/7ciG6OLv4UU\", \"Link\")",
+        "id": "7ciG6OLv4UU",
         "parentid": "P_9e1c18d0",
         "soap": "GL",
         "category": "A",
@@ -2244,7 +2244,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/avGP9RzgrLA\", \"Link\")",
+        "id": "avGP9RzgrLA",
         "parentid": "P_cc23be08",
         "soap": "GL",
         "category": "A",
@@ -2256,7 +2256,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/vy4-APlm7aE\", \"Link\")",
+        "id": "vy4-APlm7aE",
         "parentid": "P_cc23be08",
         "soap": "GL",
         "category": "A",
@@ -2268,7 +2268,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/GOp1AtMRmnM\", \"Link\")",
+        "id": "GOp1AtMRmnM",
         "parentid": "P_cc23be08",
         "soap": "GL",
         "category": "A",
@@ -2280,7 +2280,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/txl9R5vVPws\", \"Link\")",
+        "id": "txl9R5vVPws",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -2292,7 +2292,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/znAdQAudijo\", \"Link\")",
+        "id": "znAdQAudijo",
         "parentid": "P_723ff671",
         "soap": "GL",
         "category": "A",
@@ -2304,7 +2304,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/ayf-7ZbwLbs\", \"Link\")",
+        "id": "ayf-7ZbwLbs",
         "parentid": "P_723ff671",
         "soap": "GL",
         "category": "A",
@@ -2316,7 +2316,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/yRPREpiUfEk\", \"Link\")",
+        "id": "yRPREpiUfEk",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -2328,7 +2328,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/k_CIwtpMWHI\", \"Link\")",
+        "id": "k_CIwtpMWHI",
         "parentid": "P_da6aeb87",
         "soap": "GL",
         "category": "A",
@@ -2340,7 +2340,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/ckmrOnd9W_8\", \"Link\")",
+        "id": "ckmrOnd9W_8",
         "parentid": "P_da6aeb87",
         "soap": "GL",
         "category": "A",
@@ -2352,7 +2352,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/cFBsXwr1DIw\", \"Link\")",
+        "id": "cFBsXwr1DIw",
         "parentid": "P_da6aeb87",
         "soap": "GL",
         "category": "A",
@@ -2364,7 +2364,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/GyFyxM267NQ\", \"Link\")",
+        "id": "GyFyxM267NQ",
         "parentid": "P_62eb4281",
         "soap": "GL",
         "category": "A",
@@ -2376,7 +2376,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/Q72tm4ty3_g\", \"Link\")",
+        "id": "Q72tm4ty3_g",
         "parentid": "P_62eb4281",
         "soap": "GL",
         "category": "A",
@@ -2388,7 +2388,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/hdlWskd5FFc\", \"Link\")",
+        "id": "hdlWskd5FFc",
         "parentid": "P_62eb4281",
         "soap": "GL",
         "category": "A",
@@ -2400,7 +2400,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/BnUkwMXa884\", \"Link\")",
+        "id": "BnUkwMXa884",
         "parentid": "P_618c9322",
         "soap": "GL",
         "category": "A",
@@ -2412,7 +2412,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/D2NMXCX3fOg\", \"Link\")",
+        "id": "D2NMXCX3fOg",
         "parentid": "P_618c9322",
         "soap": "GL",
         "category": "A",
@@ -2424,7 +2424,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/lWrvOlszFxY\", \"Link\")",
+        "id": "lWrvOlszFxY",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -2436,7 +2436,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/-WyrXBnOzgs\", \"Link\")",
+        "id": "-WyrXBnOzgs",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -2448,7 +2448,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/nTQ_ltPyeFg\", \"Link\")",
+        "id": "nTQ_ltPyeFg",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -2460,7 +2460,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/FNAm6F0aQ0c\", \"Link\")",
+        "id": "FNAm6F0aQ0c",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -2472,7 +2472,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/WFH55cSKGFQ\", \"Link\")",
+        "id": "WFH55cSKGFQ",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -2484,7 +2484,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/bDW9gWNoKTY\", \"Link\")",
+        "id": "bDW9gWNoKTY",
         "parentid": "P_e6f3fe73",
         "soap": "GL",
         "category": "A",
@@ -2496,7 +2496,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/10SyanwdBOw\", \"Link\")",
+        "id": "10SyanwdBOw",
         "parentid": "P_e6f3fe73",
         "soap": "GL",
         "category": "A",
@@ -2508,7 +2508,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/T82Ku9Cdg2Q\", \"Link\")",
+        "id": "T82Ku9Cdg2Q",
         "parentid": "P_e6f3fe73",
         "soap": "GL",
         "category": "A",
@@ -2520,7 +2520,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/7iNjQJ2Bs7c\", \"Link\")",
+        "id": "7iNjQJ2Bs7c",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -2532,7 +2532,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/H-ThRW9yClc\", \"Link\")",
+        "id": "H-ThRW9yClc",
         "parentid": "P_4ee1c4f7",
         "soap": "GL",
         "category": "A",
@@ -2544,7 +2544,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/fJtlx1_cFg0\", \"Link\")",
+        "id": "fJtlx1_cFg0",
         "parentid": "P_4ee1c4f7",
         "soap": "GL",
         "category": "A",
@@ -2556,7 +2556,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/6aTlrl5mIZs\", \"Link\")",
+        "id": "6aTlrl5mIZs",
         "parentid": "P_4ee1c4f7",
         "soap": "GL",
         "category": "A",
@@ -2568,7 +2568,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/rml_WzqxrNU\", \"Link\")",
+        "id": "rml_WzqxrNU",
         "parentid": "P_de28ea93",
         "soap": "GL",
         "category": "A",
@@ -2580,7 +2580,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/gfOA-qfdDcc\", \"Link\")",
+        "id": "gfOA-qfdDcc",
         "parentid": "P_de28ea93",
         "soap": "GL",
         "category": "A",
@@ -2592,7 +2592,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/uXDshgPO8BM\", \"Link\")",
+        "id": "uXDshgPO8BM",
         "parentid": "P_de28ea93",
         "soap": "GL",
         "category": "A",
@@ -2604,7 +2604,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/I0bdF2yZor8\", \"Link\")",
+        "id": "I0bdF2yZor8",
         "parentid": "P_8b8edd35",
         "soap": "GL",
         "category": "A",
@@ -2616,7 +2616,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/ECqvfuTNjBI\", \"Link\")",
+        "id": "ECqvfuTNjBI",
         "parentid": "P_8b8edd35",
         "soap": "GL",
         "category": "A",
@@ -2628,7 +2628,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/3bHJ5wvTj_8\", \"Link\")",
+        "id": "3bHJ5wvTj_8",
         "parentid": "P_8b8edd35",
         "soap": "GL",
         "category": "A",
@@ -2640,7 +2640,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/2UVP3dkhGmI\", \"Link\")",
+        "id": "2UVP3dkhGmI",
         "parentid": "P_9629ac89",
         "soap": "GL",
         "category": "A",
@@ -2652,7 +2652,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/WI0AA9sn7aU\", \"Link\")",
+        "id": "WI0AA9sn7aU",
         "parentid": "P_9629ac89",
         "soap": "GL",
         "category": "A",
@@ -2664,7 +2664,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/atJ57wbRs0w\", \"Link\")",
+        "id": "atJ57wbRs0w",
         "parentid": "P_9629ac89",
         "soap": "GL",
         "category": "A",
@@ -2676,7 +2676,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/n0ICAI6zGpE\", \"Link\")",
+        "id": "n0ICAI6zGpE",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -2688,7 +2688,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/U-_Mnb3TFB4\", \"Link\")",
+        "id": "U-_Mnb3TFB4",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -2700,7 +2700,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/C9ZtOFs_tD4\", \"Link\")",
+        "id": "C9ZtOFs_tD4",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -2712,7 +2712,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/5yVwFa9kDOg\", \"Link\")",
+        "id": "5yVwFa9kDOg",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -2724,7 +2724,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/SNpEMNizz48\", \"Link\")",
+        "id": "SNpEMNizz48",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -2736,7 +2736,7 @@
         "channel": "theystartedonsoaps"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/PgOHiQNBD2E\", \"Link\")",
+        "id": "PgOHiQNBD2E",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -2748,7 +2748,7 @@
         "channel": "theystartedonsoaps"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/bXur1cJsxDk\", \"Link\")",
+        "id": "bXur1cJsxDk",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -2760,7 +2760,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/s_Ghk5s0jPM\", \"Link\")",
+        "id": "s_Ghk5s0jPM",
         "parentid": "P_bd5a03fe",
         "soap": "GL",
         "category": "A",
@@ -2772,7 +2772,7 @@
         "channel": "theedgeofnightman"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/OsEZFWg2Pps\", \"Link\")",
+        "id": "OsEZFWg2Pps",
         "parentid": "P_bd5a03fe",
         "soap": "GL",
         "category": "A",
@@ -2784,7 +2784,7 @@
         "channel": "theedgeofnightman"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/-smzLWnQVoE\", \"Link\")",
+        "id": "-smzLWnQVoE",
         "parentid": "P_bd5a03fe",
         "soap": "GL",
         "category": "A",
@@ -2796,7 +2796,7 @@
         "channel": "theedgeofnightman"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/IfDeJaERoEo\", \"Link\")",
+        "id": "IfDeJaERoEo",
         "parentid": "P_bd5a03fe",
         "soap": "GL",
         "category": "A",
@@ -2808,7 +2808,7 @@
         "channel": "theedgeofnightman"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/UD1s0bkkrcI\", \"Link\")",
+        "id": "UD1s0bkkrcI",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -2820,7 +2820,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/wfU5JEs1QtU\", \"Link\")",
+        "id": "wfU5JEs1QtU",
         "parentid": "P_76bd9452",
         "soap": "GL",
         "category": "A",
@@ -2832,7 +2832,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/SLFDgpQi4DY\", \"Link\")",
+        "id": "SLFDgpQi4DY",
         "parentid": "P_76bd9452",
         "soap": "GL",
         "category": "A",
@@ -2844,7 +2844,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/LZ--L2qfiVI\", \"Link\")",
+        "id": "LZ--L2qfiVI",
         "parentid": "P_76bd9452",
         "soap": "GL",
         "category": "A",
@@ -2856,7 +2856,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/nR4yR8FRjtw\", \"Link\")",
+        "id": "nR4yR8FRjtw",
         "parentid": "P_c62ee965",
         "soap": "GL",
         "category": "A",
@@ -2868,7 +2868,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/a8oIsnKS2m8\", \"Link\")",
+        "id": "a8oIsnKS2m8",
         "parentid": "P_c62ee965",
         "soap": "GL",
         "category": "A",
@@ -2880,7 +2880,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/cssiLRhyKLQ\", \"Link\")",
+        "id": "cssiLRhyKLQ",
         "parentid": "P_c62ee965",
         "soap": "GL",
         "category": "A",
@@ -2892,7 +2892,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/ArN0R1JUPbg\", \"Link\")",
+        "id": "ArN0R1JUPbg",
         "parentid": "P_011d17f5",
         "soap": "GL",
         "category": "A",
@@ -2904,7 +2904,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/cMpNFgW8Uy8\", \"Link\")",
+        "id": "cMpNFgW8Uy8",
         "parentid": "P_011d17f5",
         "soap": "GL",
         "category": "A",
@@ -2916,7 +2916,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/Teipxrcpo0c\", \"Link\")",
+        "id": "Teipxrcpo0c",
         "parentid": "P_011d17f5",
         "soap": "GL",
         "category": "A",
@@ -2928,7 +2928,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/O3HzNck9pLs\", \"Link\")",
+        "id": "O3HzNck9pLs",
         "parentid": "P_2260ebde",
         "soap": "GL",
         "category": "A",
@@ -2940,7 +2940,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/nOOZKBLOGaE\", \"Link\")",
+        "id": "nOOZKBLOGaE",
         "parentid": "P_2260ebde",
         "soap": "GL",
         "category": "A",
@@ -2952,7 +2952,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/cHIF7QqM9AM\", \"Link\")",
+        "id": "cHIF7QqM9AM",
         "parentid": "P_2260ebde",
         "soap": "GL",
         "category": "A",
@@ -2964,7 +2964,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/7nr8S9BTzbE\", \"Link\")",
+        "id": "7nr8S9BTzbE",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -2976,7 +2976,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/CJ9FQCQPl8o\", \"Link\")",
+        "id": "CJ9FQCQPl8o",
         "parentid": "P_97d39e0a",
         "soap": "GL",
         "category": "A",
@@ -2988,7 +2988,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/BlUt7kEv8U8\", \"Link\")",
+        "id": "BlUt7kEv8U8",
         "parentid": "P_97d39e0a",
         "soap": "GL",
         "category": "A",
@@ -3000,7 +3000,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/5JXaLq90QKQ\", \"Link\")",
+        "id": "5JXaLq90QKQ",
         "parentid": "P_97d39e0a",
         "soap": "GL",
         "category": "A",
@@ -3012,7 +3012,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/_ZSM0PCQ0L4\", \"Link\")",
+        "id": "_ZSM0PCQ0L4",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3024,7 +3024,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/zdeZT83Ukhw\", \"Link\")",
+        "id": "zdeZT83Ukhw",
         "parentid": "P_05c1d01f",
         "soap": "GL",
         "category": "A",
@@ -3036,7 +3036,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/IC-eio3P0KQ\", \"Link\")",
+        "id": "IC-eio3P0KQ",
         "parentid": "P_05c1d01f",
         "soap": "GL",
         "category": "A",
@@ -3048,7 +3048,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/Tf11PEPk4Gg\", \"Link\")",
+        "id": "Tf11PEPk4Gg",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3060,7 +3060,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/Tvx9F05VmIo\", \"Link\")",
+        "id": "Tvx9F05VmIo",
         "parentid": "P_b3e4b15c",
         "soap": "GL",
         "category": "A",
@@ -3072,7 +3072,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/hiKhe7DoqJo\", \"Link\")",
+        "id": "hiKhe7DoqJo",
         "parentid": "P_b3e4b15c",
         "soap": "GL",
         "category": "A",
@@ -3084,7 +3084,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/4KK6fjlKNTU\", \"Link\")",
+        "id": "4KK6fjlKNTU",
         "parentid": "P_b3e4b15c",
         "soap": "GL",
         "category": "A",
@@ -3096,7 +3096,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/i6JtnnpK8qQ\", \"Link\")",
+        "id": "i6JtnnpK8qQ",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3108,7 +3108,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/N_xwBwwVARg\", \"Link\")",
+        "id": "N_xwBwwVARg",
         "parentid": "P_8e4bc8a8",
         "soap": "GL",
         "category": "A",
@@ -3120,7 +3120,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/-zhN5SrPeFw\", \"Link\")",
+        "id": "-zhN5SrPeFw",
         "parentid": "P_8e4bc8a8",
         "soap": "GL",
         "category": "A",
@@ -3132,7 +3132,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/VWBmaRLPweM\", \"Link\")",
+        "id": "VWBmaRLPweM",
         "parentid": "P_8e4bc8a8",
         "soap": "GL",
         "category": "A",
@@ -3144,7 +3144,7 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/Mu64PyeWzsg\", \"Link\")",
+        "id": "Mu64PyeWzsg",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3156,7 +3156,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/lI22i09t9WU\", \"Link\")",
+        "id": "lI22i09t9WU",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3168,7 +3168,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/wvemWV0nlh4\", \"Link\")",
+        "id": "wvemWV0nlh4",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3180,7 +3180,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/5qavKsWCG50\", \"Link\")",
+        "id": "5qavKsWCG50",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3192,7 +3192,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/ix-CfT5helY\", \"Link\")",
+        "id": "ix-CfT5helY",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3204,7 +3204,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/ErtkgRzAcK0\", \"Link\")",
+        "id": "ErtkgRzAcK0",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3216,7 +3216,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/BUvPpqiiQU0\", \"Link\")",
+        "id": "BUvPpqiiQU0",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3228,7 +3228,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/jZ4U_zXgu_g\", \"Link\")",
+        "id": "jZ4U_zXgu_g",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3240,7 +3240,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/Kvfzf-ucFEQ\", \"Link\")",
+        "id": "Kvfzf-ucFEQ",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3252,7 +3252,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/PyHLBiOjdl8\", \"Link\")",
+        "id": "PyHLBiOjdl8",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3264,7 +3264,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/QpKV6CoK-M0\", \"Link\")",
+        "id": "QpKV6CoK-M0",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3276,7 +3276,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/0yqYEGsyaJM\", \"Link\")",
+        "id": "0yqYEGsyaJM",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3288,7 +3288,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/AiHIsrDyTWA\", \"Link\")",
+        "id": "AiHIsrDyTWA",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3300,7 +3300,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/YVBYakUolDI\", \"Link\")",
+        "id": "YVBYakUolDI",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3312,7 +3312,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/6Nq3Lu6QMhY\", \"Link\")",
+        "id": "6Nq3Lu6QMhY",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3324,7 +3324,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/EN7o6jKffII\", \"Link\")",
+        "id": "EN7o6jKffII",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3336,7 +3336,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/bJnuDZzcXhk\", \"Link\")",
+        "id": "bJnuDZzcXhk",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3348,7 +3348,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/t2nlTSnaDF0\", \"Link\")",
+        "id": "t2nlTSnaDF0",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3360,7 +3360,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/XZt4JJ3Gg74\", \"Link\")",
+        "id": "XZt4JJ3Gg74",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3372,7 +3372,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/tH1mF7TJttA\", \"Link\")",
+        "id": "tH1mF7TJttA",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3384,7 +3384,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/3ms08LZalMQ\", \"Link\")",
+        "id": "3ms08LZalMQ",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3396,7 +3396,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/zOCEw_BP3ck\", \"Link\")",
+        "id": "zOCEw_BP3ck",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3408,7 +3408,7 @@
         "channel": "theystartedonsoaps"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/AnohObWyy-4\", \"Link\")",
+        "id": "AnohObWyy-4",
         "parentid": "P_86771866",
         "soap": "GL",
         "category": "A",
@@ -3420,7 +3420,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/cYiZ5xVfzcg\", \"Link\")",
+        "id": "cYiZ5xVfzcg",
         "parentid": "P_86771866",
         "soap": "GL",
         "category": "A",
@@ -3432,7 +3432,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/NQbceU6sNb0\", \"Link\")",
+        "id": "NQbceU6sNb0",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3444,7 +3444,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/tHpN4mAqM08\", \"Link\")",
+        "id": "tHpN4mAqM08",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3456,7 +3456,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/qkI-lNmaVTI\", \"Link\")",
+        "id": "qkI-lNmaVTI",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3468,7 +3468,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/Tj68RWAPb2M\", \"Link\")",
+        "id": "Tj68RWAPb2M",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3480,7 +3480,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/af22F7NJOKA\", \"Link\")",
+        "id": "af22F7NJOKA",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3492,7 +3492,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/HCxM5zIMYNM\", \"Link\")",
+        "id": "HCxM5zIMYNM",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3504,7 +3504,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/5lUx2RVd2Hk\", \"Link\")",
+        "id": "5lUx2RVd2Hk",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3516,7 +3516,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/hfM6SJ5bWNs\", \"Link\")",
+        "id": "hfM6SJ5bWNs",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3528,7 +3528,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/BZEYdn8F3fA\", \"Link\")",
+        "id": "BZEYdn8F3fA",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3540,7 +3540,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/3E0SNU9WTPw\", \"Link\")",
+        "id": "3E0SNU9WTPw",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3552,7 +3552,7 @@
         "channel": "edwynsanchez"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/hpwKVdJlQvc\", \"Link\")",
+        "id": "hpwKVdJlQvc",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3564,7 +3564,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/zYGiptfsyio\", \"Link\")",
+        "id": "zYGiptfsyio",
         "parentid": "",
         "soap": "GL",
         "category": "B",
@@ -3576,7 +3576,7 @@
         "channel": "fyi"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/4VowNPlVTek\", \"Link\")",
+        "id": "4VowNPlVTek",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3588,7 +3588,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/mPzRrF20TrM\", \"Link\")",
+        "id": "mPzRrF20TrM",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3600,7 +3600,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/gDy5cu1fXvE\", \"Link\")",
+        "id": "gDy5cu1fXvE",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3612,7 +3612,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/mc4IyBoiCPk\", \"Link\")",
+        "id": "mc4IyBoiCPk",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3624,7 +3624,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/o7m1fkXB2NY\", \"Link\")",
+        "id": "o7m1fkXB2NY",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3636,7 +3636,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/_D4HuhWT5uU\", \"Link\")",
+        "id": "_D4HuhWT5uU",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3648,7 +3648,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/mFjAsgtsb74\", \"Link\")",
+        "id": "mFjAsgtsb74",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3660,7 +3660,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/MH_KcM52fiw\", \"Link\")",
+        "id": "MH_KcM52fiw",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3672,7 +3672,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/8QxkWC-rGmg\", \"Link\")",
+        "id": "8QxkWC-rGmg",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3684,7 +3684,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/x_1_P6l1AUs\", \"Link\")",
+        "id": "x_1_P6l1AUs",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3696,7 +3696,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/JYwJph7auXU\", \"Link\")",
+        "id": "JYwJph7auXU",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3708,7 +3708,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/UKWXUvzF6GI\", \"Link\")",
+        "id": "UKWXUvzF6GI",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3720,7 +3720,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/uxMgN-Gtk5s\", \"Link\")",
+        "id": "uxMgN-Gtk5s",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3732,7 +3732,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/eLFA0qnmJf4\", \"Link\")",
+        "id": "eLFA0qnmJf4",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3744,7 +3744,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/gF_aLdHfhcg\", \"Link\")",
+        "id": "gF_aLdHfhcg",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3756,7 +3756,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/8Ly0yGdQznM\", \"Link\")",
+        "id": "8Ly0yGdQznM",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3768,7 +3768,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/B12OqmhkcWQ\", \"Link\")",
+        "id": "B12OqmhkcWQ",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3780,7 +3780,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/c-VkbqrItUE\", \"Link\")",
+        "id": "c-VkbqrItUE",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3792,7 +3792,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/vHTC7FLB36c\", \"Link\")",
+        "id": "vHTC7FLB36c",
         "parentid": "P_d0b6ca69",
         "soap": "GL",
         "category": "A",
@@ -3804,7 +3804,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/dXIJZb2LAZg\", \"Link\")",
+        "id": "dXIJZb2LAZg",
         "parentid": "P_d0b6ca69",
         "soap": "GL",
         "category": "A",
@@ -3816,7 +3816,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/dtBv5hEsWik\", \"Link\")",
+        "id": "dtBv5hEsWik",
         "parentid": "P_d0b6ca69",
         "soap": "GL",
         "category": "A",
@@ -3828,7 +3828,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/Bf2zHggLx6Y\", \"Link\")",
+        "id": "Bf2zHggLx6Y",
         "parentid": "P_d0b6ca69",
         "soap": "GL",
         "category": "A",
@@ -3840,7 +3840,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/VQoIkjFw1eQ\", \"Link\")",
+        "id": "VQoIkjFw1eQ",
         "parentid": "P_497ec3bb",
         "soap": "GL",
         "category": "A",
@@ -3852,7 +3852,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/H2EV2u1jYLE\", \"Link\")",
+        "id": "H2EV2u1jYLE",
         "parentid": "P_497ec3bb",
         "soap": "GL",
         "category": "A",
@@ -3864,7 +3864,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/Wls803wn1w4\", \"Link\")",
+        "id": "Wls803wn1w4",
         "parentid": "P_497ec3bb",
         "soap": "GL",
         "category": "A",
@@ -3876,7 +3876,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/XZ8tnYhMEYY\", \"Link\")",
+        "id": "XZ8tnYhMEYY",
         "parentid": "P_497ec3bb",
         "soap": "GL",
         "category": "A",
@@ -3888,7 +3888,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/UwHkIrs6104\", \"Link\")",
+        "id": "UwHkIrs6104",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3900,7 +3900,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/zxR6bKe-2kE\", \"Link\")",
+        "id": "zxR6bKe-2kE",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3912,7 +3912,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/M8ffWE7ITy4\", \"Link\")",
+        "id": "M8ffWE7ITy4",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3924,7 +3924,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/YE89VLrWF9Q\", \"Link\")",
+        "id": "YE89VLrWF9Q",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3936,7 +3936,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/HnBiwKhRd0Y\", \"Link\")",
+        "id": "HnBiwKhRd0Y",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3948,7 +3948,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/Zo5JLLHLFhY\", \"Link\")",
+        "id": "Zo5JLLHLFhY",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3960,7 +3960,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/BI6YYqdhok8\", \"Link\")",
+        "id": "BI6YYqdhok8",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3972,7 +3972,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/iPhZ0XXVgko\", \"Link\")",
+        "id": "iPhZ0XXVgko",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3984,7 +3984,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/Z6Esmijjakg\", \"Link\")",
+        "id": "Z6Esmijjakg",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -3996,7 +3996,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/_5u254qGgu4\", \"Link\")",
+        "id": "_5u254qGgu4",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4008,7 +4008,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/BxbeGVutPh4\", \"Link\")",
+        "id": "BxbeGVutPh4",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4020,7 +4020,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/Ay6l20edB1k\", \"Link\")",
+        "id": "Ay6l20edB1k",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4032,7 +4032,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/q9Q5Bi9-4Gk\", \"Link\")",
+        "id": "q9Q5Bi9-4Gk",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4044,7 +4044,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/3O2rFdTwpIY\", \"Link\")",
+        "id": "3O2rFdTwpIY",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4056,7 +4056,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/W_b63C8px3c\", \"Link\")",
+        "id": "W_b63C8px3c",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4068,7 +4068,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/d1IB0CKTbIk\", \"Link\")",
+        "id": "d1IB0CKTbIk",
         "parentid": "",
         "soap": "GL",
         "category": "",
@@ -4080,7 +4080,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/zJ-igD3AWz4\", \"Link\")",
+        "id": "zJ-igD3AWz4",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4092,7 +4092,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/wWalpnoA_MY\", \"Link\")",
+        "id": "wWalpnoA_MY",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4104,7 +4104,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/NadOKCysRu8\", \"Link\")",
+        "id": "NadOKCysRu8",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4116,7 +4116,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/zhIjyTolp4U\", \"Link\")",
+        "id": "zhIjyTolp4U",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4128,7 +4128,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/TbSE7LjQzjs\", \"Link\")",
+        "id": "TbSE7LjQzjs",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4140,7 +4140,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/egs4-gab5CU\", \"Link\")",
+        "id": "egs4-gab5CU",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4152,7 +4152,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/C9f3fopjJ7A\", \"Link\")",
+        "id": "C9f3fopjJ7A",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4164,7 +4164,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/w2JYBu21wi8\", \"Link\")",
+        "id": "w2JYBu21wi8",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4176,7 +4176,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/uuSMLCsiyRo\", \"Link\")",
+        "id": "uuSMLCsiyRo",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4188,7 +4188,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/c_mmsoGx8Vc\", \"Link\")",
+        "id": "c_mmsoGx8Vc",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4200,7 +4200,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/c2C3KzgDSCY\", \"Link\")",
+        "id": "c2C3KzgDSCY",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4212,7 +4212,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/a3nGK0jKyVE\", \"Link\")",
+        "id": "a3nGK0jKyVE",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4224,7 +4224,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/iW-LzVxHGrA\", \"Link\")",
+        "id": "iW-LzVxHGrA",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4236,7 +4236,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/j_3EJ4Qw3A0\", \"Link\")",
+        "id": "j_3EJ4Qw3A0",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4248,7 +4248,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/IxgzpmplK6c\", \"Link\")",
+        "id": "IxgzpmplK6c",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4260,7 +4260,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/MxalDKTGBmo\", \"Link\")",
+        "id": "MxalDKTGBmo",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4272,7 +4272,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/pPMDtL4_5yY\", \"Link\")",
+        "id": "pPMDtL4_5yY",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4284,7 +4284,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/V5EBnW-Bsl8\", \"Link\")",
+        "id": "V5EBnW-Bsl8",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4296,7 +4296,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/oGztWT63Y-E\", \"Link\")",
+        "id": "oGztWT63Y-E",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4308,7 +4308,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/tNdAYELc0GQ\", \"Link\")",
+        "id": "tNdAYELc0GQ",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4320,7 +4320,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/s9uaZ-kS8Jg\", \"Link\")",
+        "id": "s9uaZ-kS8Jg",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4332,7 +4332,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/JCH6wK2csK4\", \"Link\")",
+        "id": "JCH6wK2csK4",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4344,7 +4344,7 @@
         "channel": "pannoni"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/lOPZ4YJzQH4\", \"Link\")",
+        "id": "lOPZ4YJzQH4",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4356,7 +4356,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/z_tUrfv_owo\", \"Link\")",
+        "id": "z_tUrfv_owo",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4368,7 +4368,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/RixJXlhKl3M\", \"Link\")",
+        "id": "RixJXlhKl3M",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4380,7 +4380,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/aFEIVdA5OF8\", \"Link\")",
+        "id": "aFEIVdA5OF8",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4392,7 +4392,7 @@
         "channel": "theystartedonsoaps"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/HTAp-dkrrCg\", \"Link\")",
+        "id": "HTAp-dkrrCg",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4404,7 +4404,7 @@
         "channel": "theystartedonsoaps"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/CH4lY9mFi8o\", \"Link\")",
+        "id": "CH4lY9mFi8o",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4416,7 +4416,7 @@
         "channel": "theystartedonsoaps"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/ghCkk5wEMJE\", \"Link\")",
+        "id": "ghCkk5wEMJE",
         "parentid": "",
         "soap": "GL",
         "category": "B",
@@ -4428,7 +4428,7 @@
         "channel": "edynsanchez"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/bHezo6ouaQ0\", \"Link\")",
+        "id": "bHezo6ouaQ0",
         "parentid": "P_56f099dc",
         "soap": "GL",
         "category": "A",
@@ -4440,7 +4440,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/qlQhK0IY6nM\", \"Link\")",
+        "id": "qlQhK0IY6nM",
         "parentid": "P_56f099dc",
         "soap": "GL",
         "category": "A",
@@ -4452,7 +4452,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/V1VunINPXC8\", \"Link\")",
+        "id": "V1VunINPXC8",
         "parentid": "P_56f099dc",
         "soap": "GL",
         "category": "A",
@@ -4464,7 +4464,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/YaAJvK7Lnrk\", \"Link\")",
+        "id": "YaAJvK7Lnrk",
         "parentid": "P_56f099dc",
         "soap": "GL",
         "category": "A",
@@ -4476,7 +4476,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/LQoH0HaEmJ4\", \"Link\")",
+        "id": "LQoH0HaEmJ4",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4488,7 +4488,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/aKWop6dw_fA\", \"Link\")",
+        "id": "aKWop6dw_fA",
         "parentid": "P_ac05091b",
         "soap": "GL",
         "category": "A",
@@ -4500,7 +4500,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/7iLgB1uAg_o\", \"Link\")",
+        "id": "7iLgB1uAg_o",
         "parentid": "P_ac05091b",
         "soap": "GL",
         "category": "A",
@@ -4512,7 +4512,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/SYAXCyl-9JY\", \"Link\")",
+        "id": "SYAXCyl-9JY",
         "parentid": "P_ac05091b",
         "soap": "GL",
         "category": "A",
@@ -4524,7 +4524,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/V9fYsijcP7A\", \"Link\")",
+        "id": "V9fYsijcP7A",
         "parentid": "P_ac05091b",
         "soap": "GL",
         "category": "A",
@@ -4536,7 +4536,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/2qSBkBlpXE4\", \"Link\")",
+        "id": "2qSBkBlpXE4",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4548,7 +4548,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/0hzQ7f0olBY\", \"Link\")",
+        "id": "0hzQ7f0olBY",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4560,7 +4560,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/zyMXBtXNFLw\", \"Link\")",
+        "id": "zyMXBtXNFLw",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4572,7 +4572,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/uFafrb3u6N0\", \"Link\")",
+        "id": "uFafrb3u6N0",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4584,7 +4584,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/1cy2jvFsQzU\", \"Link\")",
+        "id": "1cy2jvFsQzU",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4596,7 +4596,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/oyGFLWKVYr0\", \"Link\")",
+        "id": "oyGFLWKVYr0",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4608,7 +4608,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/NNTZOd3Jk-Q\", \"Link\")",
+        "id": "NNTZOd3Jk-Q",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4620,7 +4620,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/PkNN3L5Iqak\", \"Link\")",
+        "id": "PkNN3L5Iqak",
         "parentid": "P_45c14296",
         "soap": "GL",
         "category": "A",
@@ -4632,7 +4632,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/xMRXWWKMCA8\", \"Link\")",
+        "id": "xMRXWWKMCA8",
         "parentid": "P_45c14296",
         "soap": "GL",
         "category": "A",
@@ -4644,7 +4644,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/1BDq4Y8HsYg\", \"Link\")",
+        "id": "1BDq4Y8HsYg",
         "parentid": "P_45c14296",
         "soap": "GL",
         "category": "A",
@@ -4656,7 +4656,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/h2qtJJ9_Kus\", \"Link\")",
+        "id": "h2qtJJ9_Kus",
         "parentid": "P_d1d05e52",
         "soap": "GL",
         "category": "A",
@@ -4668,7 +4668,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/XtZPkkvRGtM\", \"Link\")",
+        "id": "XtZPkkvRGtM",
         "parentid": "P_d1d05e52",
         "soap": "GL",
         "category": "A",
@@ -4680,7 +4680,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/X9fK_1R_lMQ\", \"Link\")",
+        "id": "X9fK_1R_lMQ",
         "parentid": "P_d1d05e52",
         "soap": "GL",
         "category": "A",
@@ -4692,7 +4692,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/XBDS234QOAA\", \"Link\")",
+        "id": "XBDS234QOAA",
         "parentid": "P_d1d05e52",
         "soap": "GL",
         "category": "A",
@@ -4704,7 +4704,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/CMzpFjidr-g\", \"Link\")",
+        "id": "CMzpFjidr-g",
         "parentid": "P_a3b24969",
         "soap": "GL",
         "category": "A",
@@ -4716,7 +4716,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/D106-gdTK8c\", \"Link\")",
+        "id": "D106-gdTK8c",
         "parentid": "P_a3b24969",
         "soap": "GL",
         "category": "A",
@@ -4728,7 +4728,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/w-MNR6HtdJM\", \"Link\")",
+        "id": "w-MNR6HtdJM",
         "parentid": "P_a3b24969",
         "soap": "GL",
         "category": "A",
@@ -4740,7 +4740,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/9p8-kvwqFPU\", \"Link\")",
+        "id": "9p8-kvwqFPU",
         "parentid": "P_a3b24969",
         "soap": "GL",
         "category": "A",
@@ -4752,7 +4752,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/Qb4vnl0jJFg\", \"Link\")",
+        "id": "Qb4vnl0jJFg",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4764,7 +4764,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/Sn8UggD4hYg\", \"Link\")",
+        "id": "Sn8UggD4hYg",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4776,7 +4776,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/umHNk3fNvY8\", \"Link\")",
+        "id": "umHNk3fNvY8",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4788,7 +4788,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/x1JqU_F-M0c\", \"Link\")",
+        "id": "x1JqU_F-M0c",
         "parentid": "P_5721ad61",
         "soap": "GL",
         "category": "A",
@@ -4800,7 +4800,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/xFKVW4EGvng\", \"Link\")",
+        "id": "xFKVW4EGvng",
         "parentid": "P_5721ad61",
         "soap": "GL",
         "category": "A",
@@ -4812,7 +4812,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/E-8GBPUCbZ4\", \"Link\")",
+        "id": "E-8GBPUCbZ4",
         "parentid": "P_5721ad61",
         "soap": "GL",
         "category": "A",
@@ -4824,7 +4824,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/t5HqY-bMYvU\", \"Link\")",
+        "id": "t5HqY-bMYvU",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4836,7 +4836,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/NduTx3Hqm-I\", \"Link\")",
+        "id": "NduTx3Hqm-I",
         "parentid": "P_cd1b3576",
         "soap": "GL",
         "category": "A",
@@ -4848,7 +4848,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/jjCiWScF4TY\", \"Link\")",
+        "id": "jjCiWScF4TY",
         "parentid": "P_cd1b3576",
         "soap": "GL",
         "category": "A",
@@ -4860,7 +4860,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/PYLvsySeYYU\", \"Link\")",
+        "id": "PYLvsySeYYU",
         "parentid": "P_cd1b3576",
         "soap": "GL",
         "category": "A",
@@ -4872,7 +4872,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/6T51hIsXruo\", \"Link\")",
+        "id": "6T51hIsXruo",
         "parentid": "P_cd1b3576",
         "soap": "GL",
         "category": "A",
@@ -4884,7 +4884,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/g7fTYXlZfYI\", \"Link\")",
+        "id": "g7fTYXlZfYI",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4896,7 +4896,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/kecjWsAUWbs\", \"Link\")",
+        "id": "kecjWsAUWbs",
         "parentid": "P_9260a3e1",
         "soap": "GL",
         "category": "A",
@@ -4908,7 +4908,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/tQmCcvljX2I\", \"Link\")",
+        "id": "tQmCcvljX2I",
         "parentid": "P_9260a3e1",
         "soap": "GL",
         "category": "A",
@@ -4920,7 +4920,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/7SXsQqLWtPo\", \"Link\")",
+        "id": "7SXsQqLWtPo",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4932,7 +4932,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/Se_YmujX4rc\", \"Link\")",
+        "id": "Se_YmujX4rc",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4944,7 +4944,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/LKhrwZHUqn4\", \"Link\")",
+        "id": "LKhrwZHUqn4",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4956,7 +4956,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/GoYRH4o96x8\", \"Link\")",
+        "id": "GoYRH4o96x8",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4968,7 +4968,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/zEBObv-fr6w\", \"Link\")",
+        "id": "zEBObv-fr6w",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4980,7 +4980,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/J3i1qHTWzUU\", \"Link\")",
+        "id": "J3i1qHTWzUU",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -4992,7 +4992,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/tAh0iqrGfOo\", \"Link\")",
+        "id": "tAh0iqrGfOo",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5004,7 +5004,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/lN4NVaRBHmQ\", \"Link\")",
+        "id": "lN4NVaRBHmQ",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5016,7 +5016,7 @@
         "channel": "pannoni"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/BusDsZRlrpE\", \"Link\")",
+        "id": "BusDsZRlrpE",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5028,7 +5028,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/ih0jJvtcvJA\", \"Link\")",
+        "id": "ih0jJvtcvJA",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5040,7 +5040,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/1arCVPnU77s\", \"Link\")",
+        "id": "1arCVPnU77s",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5052,7 +5052,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/X7uWNaeU3Y0\", \"Link\")",
+        "id": "X7uWNaeU3Y0",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5064,7 +5064,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/fY6pvLeGOa8\", \"Link\")",
+        "id": "fY6pvLeGOa8",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5076,7 +5076,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/nVXrxFSv5BY\", \"Link\")",
+        "id": "nVXrxFSv5BY",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5088,7 +5088,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/l-jsWSt9t4g\", \"Link\")",
+        "id": "l-jsWSt9t4g",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5100,7 +5100,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/QreP3771Q9U\", \"Link\")",
+        "id": "QreP3771Q9U",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5112,7 +5112,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/E8Bp7u-18NM\", \"Link\")",
+        "id": "E8Bp7u-18NM",
         "parentid": "P_3feda81a",
         "soap": "GL",
         "category": "A",
@@ -5124,7 +5124,7 @@
         "channel": "snarkweighsin"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/SPkASWm0Df0\", \"Link\")",
+        "id": "SPkASWm0Df0",
         "parentid": "P_3feda81a",
         "soap": "GL",
         "category": "A",
@@ -5136,7 +5136,7 @@
         "channel": "snarkweighsin"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/UogsrQjgNvw\", \"Link\")",
+        "id": "UogsrQjgNvw",
         "parentid": "P_3feda81a",
         "soap": "GL",
         "category": "A",
@@ -5148,7 +5148,7 @@
         "channel": "snarkweighsin"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/GHqOnow3VKE\", \"Link\")",
+        "id": "GHqOnow3VKE",
         "parentid": "P_3feda81a",
         "soap": "GL",
         "category": "A",
@@ -5160,7 +5160,7 @@
         "channel": "snarkweighsin"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/H1gCg3Slq7I\", \"Link\")",
+        "id": "H1gCg3Slq7I",
         "parentid": "P_3feda81a",
         "soap": "GL",
         "category": "A",
@@ -5172,7 +5172,7 @@
         "channel": "snarkweighsin"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/m-hlYqkuONI\", \"Link\")",
+        "id": "m-hlYqkuONI",
         "parentid": "P_3feda81a",
         "soap": "GL",
         "category": "A",
@@ -5184,7 +5184,7 @@
         "channel": "snarkweighsin"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/oq_xDZ_Kvjk\", \"Link\")",
+        "id": "oq_xDZ_Kvjk",
         "parentid": "P_3feda81a",
         "soap": "GL",
         "category": "A",
@@ -5196,7 +5196,7 @@
         "channel": "snarkweighsin"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/rCgFTJbI0Fg\", \"Link\")",
+        "id": "rCgFTJbI0Fg",
         "parentid": "P_3feda81a",
         "soap": "GL",
         "category": "A",
@@ -5208,7 +5208,7 @@
         "channel": "snarkweighsin"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/LWc4yBjQ2Y4\", \"Link\")",
+        "id": "LWc4yBjQ2Y4",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5220,7 +5220,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/eMuX7JMZ-vc\", \"Link\")",
+        "id": "eMuX7JMZ-vc",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5232,7 +5232,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/Phj1w9B91Gc\", \"Link\")",
+        "id": "Phj1w9B91Gc",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5244,7 +5244,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/r0qyKcnAJrk\", \"Link\")",
+        "id": "r0qyKcnAJrk",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5256,7 +5256,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/M6CnB7dttNk\", \"Link\")",
+        "id": "M6CnB7dttNk",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5268,7 +5268,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/LhkuHiRStHQ\", \"Link\")",
+        "id": "LhkuHiRStHQ",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5280,7 +5280,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/R_MXTgvS3xc\", \"Link\")",
+        "id": "R_MXTgvS3xc",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5292,7 +5292,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/irC-dARd4vo\", \"Link\")",
+        "id": "irC-dARd4vo",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5304,7 +5304,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/gDz1v16nMQY\", \"Link\")",
+        "id": "gDz1v16nMQY",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5316,7 +5316,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/5VxjlrbSDL0\", \"Link\")",
+        "id": "5VxjlrbSDL0",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5328,7 +5328,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/Vqx78DJ9pns\", \"Link\")",
+        "id": "Vqx78DJ9pns",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5340,7 +5340,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/rpLBLnK6Mlo\", \"Link\")",
+        "id": "rpLBLnK6Mlo",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5352,7 +5352,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/T2V-JH8wmhQ\", \"Link\")",
+        "id": "T2V-JH8wmhQ",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5364,7 +5364,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/DeL6PRPDjgI\", \"Link\")",
+        "id": "DeL6PRPDjgI",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5376,7 +5376,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/gOuvqmE1jTA\", \"Link\")",
+        "id": "gOuvqmE1jTA",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5388,7 +5388,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/Esa3MmsP04U\", \"Link\")",
+        "id": "Esa3MmsP04U",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5400,7 +5400,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/B-5IpyKbUw4\", \"Link\")",
+        "id": "B-5IpyKbUw4",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5412,7 +5412,7 @@
         "channel": "theystartedonsoaps"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/d7HVFXd_9h4\", \"Link\")",
+        "id": "d7HVFXd_9h4",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5424,7 +5424,7 @@
         "channel": "theystartedonsoaps"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/vxVYmOBDuow\", \"Link\")",
+        "id": "vxVYmOBDuow",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5436,7 +5436,7 @@
         "channel": "theystartedonsoaps"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/YoMXfZs4uaI\", \"Link\")",
+        "id": "YoMXfZs4uaI",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5448,7 +5448,7 @@
         "channel": "theystartedonsoaps"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/jP56wkBYsTM\", \"Link\")",
+        "id": "jP56wkBYsTM",
         "parentid": "",
         "soap": "GL",
         "category": "B",
@@ -5460,7 +5460,7 @@
         "channel": "edynsanchez"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/dDTYzbnx5yk\", \"Link\")",
+        "id": "dDTYzbnx5yk",
         "parentid": "",
         "soap": "GL",
         "category": "B",
@@ -5472,7 +5472,7 @@
         "channel": "fyi"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/cqvGed-EX8w\", \"Link\")",
+        "id": "cqvGed-EX8w",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5484,7 +5484,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/oz99-m3WY_c\", \"Link\")",
+        "id": "oz99-m3WY_c",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5496,7 +5496,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/a1yydffcvRE\", \"Link\")",
+        "id": "a1yydffcvRE",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5508,7 +5508,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/xjKLCQcxUNg\", \"Link\")",
+        "id": "xjKLCQcxUNg",
         "parentid": "P_af9d26c6",
         "soap": "GL",
         "category": "A",
@@ -5520,7 +5520,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/VUSELyeiFjs\", \"Link\")",
+        "id": "VUSELyeiFjs",
         "parentid": "P_af9d26c6",
         "soap": "GL",
         "category": "A",
@@ -5532,7 +5532,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/5U6_Ht_c4aE\", \"Link\")",
+        "id": "5U6_Ht_c4aE",
         "parentid": "P_af9d26c6",
         "soap": "GL",
         "category": "A",
@@ -5544,7 +5544,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/rbfB9ZoEaNU\", \"Link\")",
+        "id": "rbfB9ZoEaNU",
         "parentid": "P_af9d26c6",
         "soap": "GL",
         "category": "A",
@@ -5556,7 +5556,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/q5BMPKQd-c8\", \"Link\")",
+        "id": "q5BMPKQd-c8",
         "parentid": "P_51bf5942",
         "soap": "GL",
         "category": "A",
@@ -5568,7 +5568,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/wjl3npNuqDo\", \"Link\")",
+        "id": "wjl3npNuqDo",
         "parentid": "P_51bf5942",
         "soap": "GL",
         "category": "A",
@@ -5580,7 +5580,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/K4FtVZk5IMs\", \"Link\")",
+        "id": "K4FtVZk5IMs",
         "parentid": "P_51bf5942",
         "soap": "GL",
         "category": "A",
@@ -5592,7 +5592,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/y_N8gd1KAwo\", \"Link\")",
+        "id": "y_N8gd1KAwo",
         "parentid": "P_38574cee",
         "soap": "GL",
         "category": "A",
@@ -5604,7 +5604,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/4dqXA7TMRu8\", \"Link\")",
+        "id": "4dqXA7TMRu8",
         "parentid": "P_38574cee",
         "soap": "GL",
         "category": "A",
@@ -5616,7 +5616,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/9mYRNKx-ry8\", \"Link\")",
+        "id": "9mYRNKx-ry8",
         "parentid": "P_38574cee",
         "soap": "GL",
         "category": "A",
@@ -5628,7 +5628,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/KStkLJFuFTw\", \"Link\")",
+        "id": "KStkLJFuFTw",
         "parentid": "",
         "soap": "GL",
         "category": "B",
@@ -5640,7 +5640,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/r1bShrh07Pg\", \"Link\")",
+        "id": "r1bShrh07Pg",
         "parentid": "P_30bbb221",
         "soap": "GL",
         "category": "A",
@@ -5652,7 +5652,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/o04YqfH-5vs\", \"Link\")",
+        "id": "o04YqfH-5vs",
         "parentid": "P_30bbb221",
         "soap": "GL",
         "category": "A",
@@ -5664,7 +5664,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/OPDdnxW31Ik\", \"Link\")",
+        "id": "OPDdnxW31Ik",
         "parentid": "P_30bbb221",
         "soap": "GL",
         "category": "A",
@@ -5676,7 +5676,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/8T7-TQ5Gfi4\", \"Link\")",
+        "id": "8T7-TQ5Gfi4",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5688,7 +5688,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/RiIgj_0H-20\", \"Link\")",
+        "id": "RiIgj_0H-20",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5700,7 +5700,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/0IGRYj20idE\", \"Link\")",
+        "id": "0IGRYj20idE",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5712,7 +5712,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/X_ECjBWxt0A\", \"Link\")",
+        "id": "X_ECjBWxt0A",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5724,7 +5724,7 @@
         "channel": "theystartedonsoaps"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/YqPa4TGxFDc\", \"Link\")",
+        "id": "YqPa4TGxFDc",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5736,7 +5736,7 @@
         "channel": "theystartedonsoaps"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/L2lGHUXdi-8\", \"Link\")",
+        "id": "L2lGHUXdi-8",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5748,7 +5748,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/8pwIxVLYZO0\", \"Link\")",
+        "id": "8pwIxVLYZO0",
         "parentid": "P_088cbd9c",
         "soap": "GL",
         "category": "A",
@@ -5760,7 +5760,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/Bh1rPqAov3Q\", \"Link\")",
+        "id": "Bh1rPqAov3Q",
         "parentid": "P_088cbd9c",
         "soap": "GL",
         "category": "A",
@@ -5772,7 +5772,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/eEzTYOS_Huk\", \"Link\")",
+        "id": "eEzTYOS_Huk",
         "parentid": "P_088cbd9c",
         "soap": "GL",
         "category": "A",
@@ -5784,7 +5784,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/zgFzkf_x6tw\", \"Link\")",
+        "id": "zgFzkf_x6tw",
         "parentid": "P_8266d8ec",
         "soap": "GL",
         "category": "A",
@@ -5796,7 +5796,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/-8DUvzcFu1w\", \"Link\")",
+        "id": "-8DUvzcFu1w",
         "parentid": "P_8266d8ec",
         "soap": "GL",
         "category": "A",
@@ -5808,7 +5808,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/oHvsQYJvz_E\", \"Link\")",
+        "id": "oHvsQYJvz_E",
         "parentid": "P_8266d8ec",
         "soap": "GL",
         "category": "A",
@@ -5820,7 +5820,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/vJrO_xWTYnI\", \"Link\")",
+        "id": "vJrO_xWTYnI",
         "parentid": "P_8266d8ec",
         "soap": "GL",
         "category": "A",
@@ -5832,7 +5832,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/4pMi1Nd1z4Q\", \"Link\")",
+        "id": "4pMi1Nd1z4Q",
         "parentid": "P_d88ab722",
         "soap": "GL",
         "category": "A",
@@ -5844,7 +5844,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/3yhCEa6Uxis\", \"Link\")",
+        "id": "3yhCEa6Uxis",
         "parentid": "P_d88ab722",
         "soap": "GL",
         "category": "A",
@@ -5856,7 +5856,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/yH-cWpnPUZQ\", \"Link\")",
+        "id": "yH-cWpnPUZQ",
         "parentid": "P_d88ab722",
         "soap": "GL",
         "category": "A",
@@ -5868,7 +5868,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/PtdEkCb2U-c\", \"Link\")",
+        "id": "PtdEkCb2U-c",
         "parentid": "P_d88ab722",
         "soap": "GL",
         "category": "A",
@@ -5880,7 +5880,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/L_wN8s6jLjg\", \"Link\")",
+        "id": "L_wN8s6jLjg",
         "parentid": "P_14f76602",
         "soap": "GL",
         "category": "A",
@@ -5892,7 +5892,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/J984n6KoO4I\", \"Link\")",
+        "id": "J984n6KoO4I",
         "parentid": "P_14f76602",
         "soap": "GL",
         "category": "A",
@@ -5904,7 +5904,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/s9MF2Fb2ETM\", \"Link\")",
+        "id": "s9MF2Fb2ETM",
         "parentid": "P_14f76602",
         "soap": "GL",
         "category": "A",
@@ -5916,7 +5916,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/GZpMsI7O0tQ\", \"Link\")",
+        "id": "GZpMsI7O0tQ",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5928,7 +5928,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/B818gm8OuN4\", \"Link\")",
+        "id": "B818gm8OuN4",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5940,7 +5940,7 @@
         "channel": "theystartedonsoaps"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/vJXNsAuRWVY\", \"Link\")",
+        "id": "vJXNsAuRWVY",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5952,7 +5952,7 @@
         "channel": "theystartedonsoaps"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/BQzDnSsOkck\", \"Link\")",
+        "id": "BQzDnSsOkck",
         "parentid": "",
         "soap": "GL",
         "category": "B",
@@ -5964,7 +5964,7 @@
         "channel": "theystartedonsoaps"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/S4Vv4-oSjeg\", \"Link\")",
+        "id": "S4Vv4-oSjeg",
         "parentid": "",
         "soap": "GL",
         "category": "B",
@@ -5976,7 +5976,7 @@
         "channel": "fyi"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/vQFmoRRH27o\", \"Link\")",
+        "id": "vQFmoRRH27o",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -5988,7 +5988,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/nUnPGNuB71s\", \"Link\")",
+        "id": "nUnPGNuB71s",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6000,7 +6000,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/Uf3KsOZKcr8\", \"Link\")",
+        "id": "Uf3KsOZKcr8",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6012,7 +6012,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/SkNtm1PKTi0\", \"Link\")",
+        "id": "SkNtm1PKTi0",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6024,7 +6024,7 @@
         "channel": "pannoni"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/X30kHqjg97o\", \"Link\")",
+        "id": "X30kHqjg97o",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6036,7 +6036,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/iljkdGiPFJ0\", \"Link\")",
+        "id": "iljkdGiPFJ0",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6048,7 +6048,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/V1jz48VnQBU\", \"Link\")",
+        "id": "V1jz48VnQBU",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6060,7 +6060,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/kRgbjOqstW0\", \"Link\")",
+        "id": "kRgbjOqstW0",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6072,7 +6072,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/6IVD2IgaR2Y\", \"Link\")",
+        "id": "6IVD2IgaR2Y",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6084,7 +6084,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/AaXqKp8J08E\", \"Link\")",
+        "id": "AaXqKp8J08E",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6096,7 +6096,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/5yb6jqhNE0Q\", \"Link\")",
+        "id": "5yb6jqhNE0Q",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6108,7 +6108,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/GFOUwtSxsAI\", \"Link\")",
+        "id": "GFOUwtSxsAI",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6120,7 +6120,7 @@
         "channel": "pannoni"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/JzsrPnfxHWc\", \"Link\")",
+        "id": "JzsrPnfxHWc",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6132,7 +6132,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/up2OAIUe7_Q\", \"Link\")",
+        "id": "up2OAIUe7_Q",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6144,7 +6144,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/O01mrNURTgM\", \"Link\")",
+        "id": "O01mrNURTgM",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6156,7 +6156,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/WoOQ7wz6hns\", \"Link\")",
+        "id": "WoOQ7wz6hns",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6168,7 +6168,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/DGQsRyeFx1w\", \"Link\")",
+        "id": "DGQsRyeFx1w",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6180,7 +6180,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/gpMfstfQ6Q4\", \"Link\")",
+        "id": "gpMfstfQ6Q4",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6192,7 +6192,7 @@
         "channel": "theystartedonsoaps"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/5ra8oWrOHSg\", \"Link\")",
+        "id": "5ra8oWrOHSg",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6204,7 +6204,7 @@
         "channel": "theystartedonsoaps"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/yNqw1bsukcw\", \"Link\")",
+        "id": "yNqw1bsukcw",
         "parentid": "",
         "soap": "GL",
         "category": "B",
@@ -6216,7 +6216,7 @@
         "channel": "fyi"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/b-2Y6KBTQoo\", \"Link\")",
+        "id": "b-2Y6KBTQoo",
         "parentid": "",
         "soap": "GL",
         "category": "B",
@@ -6228,7 +6228,7 @@
         "channel": "fyi"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/0wt1qIUcLgI\", \"Link\")",
+        "id": "0wt1qIUcLgI",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6240,7 +6240,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/VNZVJRJ1aTA\", \"Link\")",
+        "id": "VNZVJRJ1aTA",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6252,7 +6252,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/iWnkZzfpV68\", \"Link\")",
+        "id": "iWnkZzfpV68",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6264,7 +6264,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/LbBbGKQCZIs\", \"Link\")",
+        "id": "LbBbGKQCZIs",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6276,7 +6276,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/1UcaJ-7n32g\", \"Link\")",
+        "id": "1UcaJ-7n32g",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6288,7 +6288,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/qYCsHNHrulY\", \"Link\")",
+        "id": "qYCsHNHrulY",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6300,7 +6300,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/IYjKKl3soK0\", \"Link\")",
+        "id": "IYjKKl3soK0",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6312,7 +6312,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/zTsldhFYW7Y\", \"Link\")",
+        "id": "zTsldhFYW7Y",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6324,7 +6324,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/Xui7-PfANCw\", \"Link\")",
+        "id": "Xui7-PfANCw",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6336,7 +6336,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/v8k-d4mbmnA\", \"Link\")",
+        "id": "v8k-d4mbmnA",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6348,7 +6348,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/m3sZY5Ouk4M\", \"Link\")",
+        "id": "m3sZY5Ouk4M",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6360,7 +6360,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/bqV-SJdzNoo\", \"Link\")",
+        "id": "bqV-SJdzNoo",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6372,7 +6372,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/tttOLwRlU8w\", \"Link\")",
+        "id": "tttOLwRlU8w",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6384,7 +6384,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/cXvKrkkRhZg\", \"Link\")",
+        "id": "cXvKrkkRhZg",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6396,7 +6396,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/t-ie-wTK3nk\", \"Link\")",
+        "id": "t-ie-wTK3nk",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6408,7 +6408,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/39BLBXDRAug\", \"Link\")",
+        "id": "39BLBXDRAug",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6420,7 +6420,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/SyB3QL0Vrys\", \"Link\")",
+        "id": "SyB3QL0Vrys",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6432,7 +6432,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/DXGhmhzkg68\", \"Link\")",
+        "id": "DXGhmhzkg68",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6444,7 +6444,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/JM-6mj0TZAA\", \"Link\")",
+        "id": "JM-6mj0TZAA",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6456,7 +6456,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/vGo6yannPrs\", \"Link\")",
+        "id": "vGo6yannPrs",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6468,7 +6468,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/C4nyhGaeg1o\", \"Link\")",
+        "id": "C4nyhGaeg1o",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6480,7 +6480,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/kOaKEOAHAOs\", \"Link\")",
+        "id": "kOaKEOAHAOs",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6492,7 +6492,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/e_w91R-wWlI\", \"Link\")",
+        "id": "e_w91R-wWlI",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6504,7 +6504,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/BnPlN1AtfpY\", \"Link\")",
+        "id": "BnPlN1AtfpY",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6516,7 +6516,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/aK4LqRZgCSs\", \"Link\")",
+        "id": "aK4LqRZgCSs",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6528,7 +6528,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/oct_XKwdYqo\", \"Link\")",
+        "id": "oct_XKwdYqo",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6540,7 +6540,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/m74d6Tj0094\", \"Link\")",
+        "id": "m74d6Tj0094",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6552,7 +6552,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/ilESWt_GWSE\", \"Link\")",
+        "id": "ilESWt_GWSE",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6564,7 +6564,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/i5NQN69NpRk\", \"Link\")",
+        "id": "i5NQN69NpRk",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6576,7 +6576,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/tHlDrKOaL0o\", \"Link\")",
+        "id": "tHlDrKOaL0o",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6588,7 +6588,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/AezxIDj6u98\", \"Link\")",
+        "id": "AezxIDj6u98",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6600,7 +6600,7 @@
         "channel": "edwynsanchez"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/VlvHxe_nRGU\", \"Link\")",
+        "id": "VlvHxe_nRGU",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6612,7 +6612,7 @@
         "channel": "theystartedonsoaps"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/f83lDSuMPfI\", \"Link\")",
+        "id": "f83lDSuMPfI",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6624,7 +6624,7 @@
         "channel": "theystartedonsoaps"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/U7tpHOqFXuA\", \"Link\")",
+        "id": "U7tpHOqFXuA",
         "parentid": "",
         "soap": "GL",
         "category": "B",
@@ -6636,7 +6636,7 @@
         "channel": "edynsanchez"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/zM2Bhj0R8gg\", \"Link\")",
+        "id": "zM2Bhj0R8gg",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6648,7 +6648,7 @@
         "channel": "chucksnitchler"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/GdqW6-HoYrQ\", \"Link\")",
+        "id": "GdqW6-HoYrQ",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6660,7 +6660,7 @@
         "channel": "chucksnitchler"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/DzR2puMcDfs\", \"Link\")",
+        "id": "DzR2puMcDfs",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6672,7 +6672,7 @@
         "channel": "pannoni"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/45l_fPa1l00\", \"Link\")",
+        "id": "45l_fPa1l00",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6684,7 +6684,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/6-iMPV1-QFs\", \"Link\")",
+        "id": "6-iMPV1-QFs",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6696,7 +6696,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/eAy8q2U5lCs\", \"Link\")",
+        "id": "eAy8q2U5lCs",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6708,7 +6708,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/fgj3I4nVQSo\", \"Link\")",
+        "id": "fgj3I4nVQSo",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6720,7 +6720,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/gvdXaMmQj-Q\", \"Link\")",
+        "id": "gvdXaMmQj-Q",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6732,7 +6732,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/eJgDPEK_f7Y\", \"Link\")",
+        "id": "eJgDPEK_f7Y",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6744,7 +6744,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/tiEWngiPTPo\", \"Link\")",
+        "id": "tiEWngiPTPo",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6756,7 +6756,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/2Y1DJMGCVew\", \"Link\")",
+        "id": "2Y1DJMGCVew",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6768,7 +6768,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/8PQvvQ48ccA\", \"Link\")",
+        "id": "8PQvvQ48ccA",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6780,7 +6780,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/Uc6NLEeFP1s\", \"Link\")",
+        "id": "Uc6NLEeFP1s",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6792,7 +6792,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/7r_U-xH-z9o\", \"Link\")",
+        "id": "7r_U-xH-z9o",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6804,7 +6804,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/s-OT3iaVLnQ\", \"Link\")",
+        "id": "s-OT3iaVLnQ",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6816,7 +6816,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/W9z_YbTjrKs\", \"Link\")",
+        "id": "W9z_YbTjrKs",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6828,7 +6828,7 @@
         "channel": "jimmuneco"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/0_Ph7BmEDtQ\", \"Link\")",
+        "id": "0_Ph7BmEDtQ",
         "parentid": "P_7e90715e",
         "soap": "GL",
         "category": "A",
@@ -6840,7 +6840,7 @@
         "channel": "snarkweighsin"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/aGBHrjgS4fE\", \"Link\")",
+        "id": "aGBHrjgS4fE",
         "parentid": "P_7e90715e",
         "soap": "GL",
         "category": "A",
@@ -6852,7 +6852,7 @@
         "channel": "snarkweighsin"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/F6U2gPrL8f8\", \"Link\")",
+        "id": "F6U2gPrL8f8",
         "parentid": "P_7e90715e",
         "soap": "GL",
         "category": "A",
@@ -6864,7 +6864,7 @@
         "channel": "snarkweighsin"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/YgjehGoE-Es\", \"Link\")",
+        "id": "YgjehGoE-Es",
         "parentid": "P_7e90715e",
         "soap": "GL",
         "category": "A",
@@ -6876,7 +6876,7 @@
         "channel": "snarkweighsin"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/yfX3n7FPPq8\", \"Link\")",
+        "id": "yfX3n7FPPq8",
         "parentid": "P_7e90715e",
         "soap": "GL",
         "category": "A",
@@ -6888,7 +6888,7 @@
         "channel": "snarkweighsin"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/knu4n4H4N-o\", \"Link\")",
+        "id": "knu4n4H4N-o",
         "parentid": "P_7e90715e",
         "soap": "GL",
         "category": "A",
@@ -6900,7 +6900,7 @@
         "channel": "snarkweighsin"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/i7PSE8VzERE\", \"Link\")",
+        "id": "i7PSE8VzERE",
         "parentid": "P_7e90715e",
         "soap": "GL",
         "category": "A",
@@ -6912,7 +6912,7 @@
         "channel": "snarkweighsin"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/nVL84UpHVfs\", \"Link\")",
+        "id": "nVL84UpHVfs",
         "parentid": "P_7e90715e",
         "soap": "GL",
         "category": "A",
@@ -6924,7 +6924,7 @@
         "channel": "snarkweighsin"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/6VzTGXZ97gM\", \"Link\")",
+        "id": "6VzTGXZ97gM",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6936,7 +6936,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/Gz7QT7DaArU\", \"Link\")",
+        "id": "Gz7QT7DaArU",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6948,7 +6948,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/W7cRNYyf5SE\", \"Link\")",
+        "id": "W7cRNYyf5SE",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6960,7 +6960,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/yjfD6atf_Pw\", \"Link\")",
+        "id": "yjfD6atf_Pw",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6972,7 +6972,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/055lP8IP5U0\", \"Link\")",
+        "id": "055lP8IP5U0",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6984,7 +6984,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/U7b1afSIlqM\", \"Link\")",
+        "id": "U7b1afSIlqM",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -6996,7 +6996,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/LGGAF3ZfxU8\", \"Link\")",
+        "id": "LGGAF3ZfxU8",
         "parentid": "",
         "soap": "GL",
         "category": "A",
@@ -7008,7 +7008,7 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "=HYPERLINK(\"https://youtu.be/D-_fMPXP8vA\", \"Link\")",
+        "id": "D-_fMPXP8vA",
         "parentid": "",
         "soap": "GL",
         "category": "A",

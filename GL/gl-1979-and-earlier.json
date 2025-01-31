@@ -45,7 +45,7 @@
         "part": "1",
         "total": "1",
         "duration": "14:47",
-        "channel": "Moviecraft"
+        "channel": "moviecraft"
     },
     {
         "id": "4k5LEVcK5Kg",
@@ -213,7 +213,7 @@
         "part": "1",
         "total": "1",
         "duration": "14:44",
-        "channel": "Moviecraft"
+        "channel": "moviecraft"
     },
     {
         "id": "vsfepgafIaM",
@@ -336,13 +336,25 @@
         "channel": "edwynsanchez"
     },
     {
+        "id": "Wb4lcEUz0jw",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episodes",
+        "date": "07/01/1966",
+        "part": "1",
+        "total": "1",
+        "duration": "57:08:00",
+        "channel": "edynsanchez"
+    },
+    {
         "id": "VwRTRcfsYIg",
         "parentid": "P_b05f52f6",
         "soap": "GL",
         "category": "A",
         "title": "Summer 1966",
         "date": "07/01/1966",
-        "part": "1",
+        "part": "01",
         "total": "32",
         "duration": "09:35",
         "channel": "matthewsmith"
@@ -354,7 +366,7 @@
         "category": "A",
         "title": "Summer 1966",
         "date": "07/01/1966",
-        "part": "2",
+        "part": "02",
         "total": "32",
         "duration": "04:16",
         "channel": "matthewsmith"
@@ -366,7 +378,7 @@
         "category": "A",
         "title": "Summer 1966",
         "date": "07/01/1966",
-        "part": "3",
+        "part": "03",
         "total": "32",
         "duration": "09:00",
         "channel": "matthewsmith"
@@ -378,7 +390,7 @@
         "category": "A",
         "title": "Summer 1966",
         "date": "07/01/1966",
-        "part": "4",
+        "part": "04",
         "total": "32",
         "duration": "05:00",
         "channel": "matthewsmith"
@@ -390,7 +402,7 @@
         "category": "A",
         "title": "Summer 1966",
         "date": "07/01/1966",
-        "part": "5",
+        "part": "05",
         "total": "32",
         "duration": "08:51",
         "channel": "matthewsmith"
@@ -402,7 +414,7 @@
         "category": "A",
         "title": "Summer 1966",
         "date": "07/01/1966",
-        "part": "6",
+        "part": "06",
         "total": "32",
         "duration": "05:09",
         "channel": "matthewsmith"
@@ -414,7 +426,7 @@
         "category": "A",
         "title": "Summer 1966 (6.5 update)",
         "date": "7/1/1966",
-        "part": "7",
+        "part": "07",
         "total": "32",
         "duration": "4:42",
         "channel": "matthewsmith"
@@ -426,7 +438,7 @@
         "category": "A",
         "title": "Summer 1966",
         "date": "07/01/1966",
-        "part": "8",
+        "part": "08",
         "total": "32",
         "duration": "09:27",
         "channel": "matthewsmith"
@@ -438,7 +450,7 @@
         "category": "A",
         "title": "Summer 1966",
         "date": "07/01/1966",
-        "part": "9",
+        "part": "09",
         "total": "32",
         "duration": "04:34",
         "channel": "matthewsmith"
@@ -720,18 +732,6 @@
         "channel": "matthewsmith"
     },
     {
-        "id": "Wb4lcEUz0jw",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episodes",
-        "date": "07/01/1966",
-        "part": "1",
-        "total": "1",
-        "duration": "57:08:00",
-        "channel": "edynsanchez"
-    },
-    {
         "id": "hTjT-t6pXUk",
         "parentid": "",
         "soap": "GL",
@@ -948,15 +948,15 @@
         "channel": "edynsanchez"
     },
     {
-        "id": "zS7t6yXiB_M",
+        "id": "ngW5lMI6pZE",
         "parentid": "P_76cd1e67",
         "soap": "GL",
         "category": "A",
         "title": "Episode",
         "date": "03/19/1979",
-        "part": "3",
+        "part": "1",
         "total": "3",
-        "duration": "14:36",
+        "duration": "13:38",
         "channel": "soapsnthings"
     },
     {
@@ -972,27 +972,27 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "ngW5lMI6pZE",
+        "id": "zS7t6yXiB_M",
         "parentid": "P_76cd1e67",
         "soap": "GL",
         "category": "A",
         "title": "Episode",
         "date": "03/19/1979",
-        "part": "1",
+        "part": "3",
         "total": "3",
-        "duration": "13:38",
+        "duration": "14:36",
         "channel": "soapsnthings"
     },
     {
-        "id": "AN94ztVnH5E",
+        "id": "wuOyRzJCgEk",
         "parentid": "P_be7e2a4a",
         "soap": "GL",
         "category": "A",
         "title": "Episode",
         "date": "03/20/1979",
-        "part": "3",
+        "part": "1",
         "total": "3",
-        "duration": "13:17",
+        "duration": "14:45",
         "channel": "soapsnthings"
     },
     {
@@ -1008,15 +1008,15 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "wuOyRzJCgEk",
+        "id": "AN94ztVnH5E",
         "parentid": "P_be7e2a4a",
         "soap": "GL",
         "category": "A",
         "title": "Episode",
         "date": "03/20/1979",
-        "part": "1",
+        "part": "3",
         "total": "3",
-        "duration": "14:45",
+        "duration": "13:17",
         "channel": "soapsnthings"
     },
     {
@@ -1452,18 +1452,6 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "9nWjn836XAg",
-        "parentid": "P_128dcdc9",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "12/24/1979",
-        "part": "3",
-        "total": "3",
-        "duration": "11:17",
-        "channel": "soapsnthings"
-    },
-    {
         "id": "fXIYkhS-MUY",
         "parentid": "P_128dcdc9",
         "soap": "GL",
@@ -1473,6 +1461,18 @@
         "part": "2",
         "total": "3",
         "duration": "14:14",
+        "channel": "soapsnthings"
+    },
+    {
+        "id": "9nWjn836XAg",
+        "parentid": "P_128dcdc9",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "12/24/1979",
+        "part": "3",
+        "total": "3",
+        "duration": "11:17",
         "channel": "soapsnthings"
     },
     {
