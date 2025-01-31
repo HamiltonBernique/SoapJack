@@ -1,0 +1,9 @@
+id,title,duration,soap,date,category,parentid,part,total,channel
+"=HYPERLINK(""https://youtu.be/ygbj6aDgOus"", ""Link"")",Episode,29:10,GENR,1/1/1989,A,,1,1,chucksnitchler
+"=HYPERLINK(""https://youtu.be/yitz5-IjdI8"", ""Link"")",Episode,28:27,GENR,1/1/1989,A,,1,1,chucksnitchler
+"=HYPERLINK(""https://youtu.be/ruu_MEIs8OE"", ""Link"")",Episode,28:37,GENR,1/1/1989,A,,1,1,chucksnitchler
+"=HYPERLINK(""https://youtu.be/iLjGfItqmp8"", ""Link"")",First episode,7:34,GENR,01/01/1989,A,P_c94bb7f1,1,5,justininatlanta
+"=HYPERLINK(""https://youtu.be/gheO0wO0G0g"", ""Link"")",First episode,04:39,GENR,01/01/1989,A,P_c94bb7f1,2,5,justininatlanta
+"=HYPERLINK(""https://youtu.be/j_GLk2ZKtOk"", ""Link"")",First episode,5:16,GENR,01/01/1989,A,P_c94bb7f1,3,5,justininatlanta
+"=HYPERLINK(""https://youtu.be/a3f3lM8bN6o"", ""Link"")",First episode,3:25,GENR,01/01/1989,A,P_c94bb7f1,4,5,justininatlanta
+"=HYPERLINK(""https://youtu.be/-hD01EQl_SU"", ""Link"")",First episode,0:38,GENR,01/01/1989,A,P_c94bb7f1,5,5,justininatlanta
