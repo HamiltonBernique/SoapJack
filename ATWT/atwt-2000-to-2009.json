@@ -282,7 +282,7 @@
         "category": "A",
         "title": "Jake and Molly's Wedding",
         "date": "10/01/2001",
-        "part": "1",
+        "part": "01",
         "total": "13",
         "duration": "8:41",
         "channel": "dragonweaver"
@@ -294,7 +294,7 @@
         "category": "A",
         "title": "Jake and Molly's Wedding",
         "date": "10/01/2001",
-        "part": "2",
+        "part": "02",
         "total": "13",
         "duration": "8:23",
         "channel": "dragonweaver"
@@ -306,7 +306,7 @@
         "category": "A",
         "title": "Jake and Molly's Wedding",
         "date": "10/01/2001",
-        "part": "3",
+        "part": "03",
         "total": "13",
         "duration": "08:47",
         "channel": "dragonweaver"
@@ -318,7 +318,7 @@
         "category": "A",
         "title": "Jake and Molly's Wedding",
         "date": "10/01/2001",
-        "part": "4",
+        "part": "04",
         "total": "13",
         "duration": "07:31",
         "channel": "dragonweaver"
@@ -330,7 +330,7 @@
         "category": "A",
         "title": "Jake and Molly's Wedding",
         "date": "10/01/2001",
-        "part": "5",
+        "part": "05",
         "total": "13",
         "duration": "6:34",
         "channel": "dragonweaver"
@@ -342,7 +342,7 @@
         "category": "A",
         "title": "Jake and Molly's Wedding",
         "date": "10/01/2001",
-        "part": "6",
+        "part": "06",
         "total": "13",
         "duration": "05:01",
         "channel": "dragonweaver"
@@ -354,7 +354,7 @@
         "category": "A",
         "title": "Jake and Molly's Wedding",
         "date": "10/01/2001",
-        "part": "7",
+        "part": "07",
         "total": "13",
         "duration": "8:07",
         "channel": "dragonweaver"
@@ -366,7 +366,7 @@
         "category": "A",
         "title": "Jake and Molly's Wedding",
         "date": "10/01/2001",
-        "part": "8",
+        "part": "08",
         "total": "13",
         "duration": "07:10",
         "channel": "dragonweaver"
@@ -378,7 +378,7 @@
         "category": "A",
         "title": "Jake and Molly's Wedding",
         "date": "10/01/2001",
-        "part": "9",
+        "part": "09",
         "total": "13",
         "duration": "7:17",
         "channel": "dragonweaver"
@@ -438,7 +438,7 @@
         "category": "A",
         "title": "Bryants Death",
         "date": "10/23/2001",
-        "part": "1",
+        "part": "01",
         "total": "11",
         "duration": "05:27",
         "channel": "oakdalehistorian"
@@ -450,7 +450,7 @@
         "category": "A",
         "title": "Bryants Death",
         "date": "10/23/2001",
-        "part": "2",
+        "part": "02",
         "total": "11",
         "duration": "7:11",
         "channel": "oakdalehistorian"
@@ -462,7 +462,7 @@
         "category": "A",
         "title": "Bryants Death",
         "date": "10/23/2001",
-        "part": "3",
+        "part": "03",
         "total": "11",
         "duration": "7:10",
         "channel": "oakdalehistorian"
@@ -474,7 +474,7 @@
         "category": "A",
         "title": "Bryants Death",
         "date": "10/23/2001",
-        "part": "4",
+        "part": "04",
         "total": "11",
         "duration": "5:26",
         "channel": "oakdalehistorian"
@@ -486,7 +486,7 @@
         "category": "A",
         "title": "Bryants Death",
         "date": "10/23/2001",
-        "part": "5",
+        "part": "05",
         "total": "11",
         "duration": "04:14",
         "channel": "oakdalehistorian"
@@ -498,7 +498,7 @@
         "category": "A",
         "title": "Bryants Death",
         "date": "10/23/2001",
-        "part": "6",
+        "part": "06",
         "total": "11",
         "duration": "09:37",
         "channel": "oakdalehistorian"
@@ -510,7 +510,7 @@
         "category": "A",
         "title": "Bryants Death",
         "date": "10/23/2001",
-        "part": "7",
+        "part": "07",
         "total": "11",
         "duration": "5:46",
         "channel": "oakdalehistorian"
@@ -522,7 +522,7 @@
         "category": "A",
         "title": "Bryants Death",
         "date": "10/23/2001",
-        "part": "8",
+        "part": "08",
         "total": "11",
         "duration": "7:36",
         "channel": "oakdalehistorian"
@@ -534,7 +534,7 @@
         "category": "A",
         "title": "Bryants Death",
         "date": "10/23/2001",
-        "part": "9",
+        "part": "09",
         "total": "11",
         "duration": "08:39",
         "channel": "oakdalehistorian"
@@ -1284,6 +1284,18 @@
         "channel": "dragonweaver"
     },
     {
+        "id": "QVtTHOgyBjA",
+        "parentid": "",
+        "soap": "ATWT",
+        "category": "A",
+        "title": "Rosanna and Sierra",
+        "date": "01/08/2003",
+        "part": "1",
+        "total": "1",
+        "duration": "8:19",
+        "channel": "dragonweaver"
+    },
+    {
         "id": "weLgC03AOuY",
         "parentid": "P_6a702cc2",
         "soap": "ATWT",
@@ -1305,18 +1317,6 @@
         "part": "2",
         "total": "2",
         "duration": "5:57",
-        "channel": "dragonweaver"
-    },
-    {
-        "id": "QVtTHOgyBjA",
-        "parentid": "",
-        "soap": "ATWT",
-        "category": "A",
-        "title": "Rosanna and Sierra",
-        "date": "01/08/2003",
-        "part": "1",
-        "total": "1",
-        "duration": "8:19",
         "channel": "dragonweaver"
     },
     {
@@ -1368,18 +1368,6 @@
         "channel": "dragonweaver"
     },
     {
-        "id": "RBAQEtcVcpc",
-        "parentid": "P_a7925633",
-        "soap": "ATWT",
-        "category": "A",
-        "title": "Craig Reacts to Ro's Proposal",
-        "date": "01/10/2003",
-        "part": "2",
-        "total": "2",
-        "duration": "6:47",
-        "channel": "dragonweaver"
-    },
-    {
         "id": "8X4T655jdh4",
         "parentid": "P_a7925633",
         "soap": "ATWT",
@@ -1389,6 +1377,18 @@
         "part": "1",
         "total": "2",
         "duration": "4:30",
+        "channel": "dragonweaver"
+    },
+    {
+        "id": "RBAQEtcVcpc",
+        "parentid": "P_a7925633",
+        "soap": "ATWT",
+        "category": "A",
+        "title": "Craig Reacts to Ro's Proposal",
+        "date": "01/10/2003",
+        "part": "2",
+        "total": "2",
+        "duration": "6:47",
         "channel": "dragonweaver"
     },
     {
@@ -1728,6 +1728,18 @@
         "channel": "disabled1955"
     },
     {
+        "id": "dDFKSVobQsY",
+        "parentid": "",
+        "soap": "ATWT",
+        "category": "B",
+        "title": "Carly Promo - Carly Saves J.J",
+        "date": "01/01/2005",
+        "part": "1",
+        "total": "1",
+        "duration": "00:23",
+        "channel": "oakdalehistorian"
+    },
+    {
         "id": "VazBYXnj18c",
         "parentid": "P_232fe16f",
         "soap": "ATWT",
@@ -1797,18 +1809,6 @@
         "part": "2",
         "total": "2",
         "duration": "8:26",
-        "channel": "oakdalehistorian"
-    },
-    {
-        "id": "dDFKSVobQsY",
-        "parentid": "",
-        "soap": "ATWT",
-        "category": "B",
-        "title": "Carly Promo - Carly Saves J.J",
-        "date": "01/01/2005",
-        "part": "1",
-        "total": "1",
-        "duration": "00:23",
         "channel": "oakdalehistorian"
     },
     {
@@ -2208,42 +2208,6 @@
         "channel": "bartko"
     },
     {
-        "id": "2GZKWzOSK_I",
-        "parentid": "P_a92decde",
-        "soap": "ATWT",
-        "category": "A",
-        "title": "Adams Return",
-        "date": "01/01/2006",
-        "part": "1",
-        "total": "3",
-        "duration": "8:56",
-        "channel": "oakdalehistorian"
-    },
-    {
-        "id": "sUWFSBy2DdI",
-        "parentid": "P_a92decde",
-        "soap": "ATWT",
-        "category": "A",
-        "title": "Adams Return",
-        "date": "01/01/2006",
-        "part": "2",
-        "total": "3",
-        "duration": "06:09",
-        "channel": "oakdalehistorian"
-    },
-    {
-        "id": "Om6y_2vgz0Y",
-        "parentid": "P_a92decde",
-        "soap": "ATWT",
-        "category": "A",
-        "title": "Adams Return",
-        "date": "01/01/2006",
-        "part": "3",
-        "total": "3",
-        "duration": "9:25",
-        "channel": "oakdalehistorian"
-    },
-    {
         "id": "zrc6UdxgWCw",
         "parentid": "",
         "soap": "ATWT",
@@ -2424,6 +2388,42 @@
         "channel": "ryanshope"
     },
     {
+        "id": "2GZKWzOSK_I",
+        "parentid": "P_a92decde",
+        "soap": "ATWT",
+        "category": "A",
+        "title": "Adams Return",
+        "date": "01/01/2006",
+        "part": "1",
+        "total": "3",
+        "duration": "8:56",
+        "channel": "oakdalehistorian"
+    },
+    {
+        "id": "sUWFSBy2DdI",
+        "parentid": "P_a92decde",
+        "soap": "ATWT",
+        "category": "A",
+        "title": "Adams Return",
+        "date": "01/01/2006",
+        "part": "2",
+        "total": "3",
+        "duration": "06:09",
+        "channel": "oakdalehistorian"
+    },
+    {
+        "id": "Om6y_2vgz0Y",
+        "parentid": "P_a92decde",
+        "soap": "ATWT",
+        "category": "A",
+        "title": "Adams Return",
+        "date": "01/01/2006",
+        "part": "3",
+        "total": "3",
+        "duration": "9:25",
+        "channel": "oakdalehistorian"
+    },
+    {
         "id": "qr4fviwvxGg",
         "parentid": "",
         "soap": "ATWT",
@@ -2434,6 +2434,42 @@
         "total": "1",
         "duration": "5:13",
         "channel": "bartko"
+    },
+    {
+        "id": "6u7zDVwtcHU",
+        "parentid": "",
+        "soap": "ATWT",
+        "category": "B",
+        "title": "The Perfect Storm Promo",
+        "date": "04/01/2006",
+        "part": "1",
+        "total": "1",
+        "duration": "0:18",
+        "channel": "oakdalehistorian"
+    },
+    {
+        "id": "nFdQ5eAyfgM",
+        "parentid": "",
+        "soap": "ATWT",
+        "category": "B",
+        "title": "The Perfect Storm",
+        "date": "04/01/2006",
+        "part": "1",
+        "total": "1",
+        "duration": "00:18",
+        "channel": "oakdalehistorian"
+    },
+    {
+        "id": "C0fadw8gccg",
+        "parentid": "",
+        "soap": "ATWT",
+        "category": "A",
+        "title": "The Perfect Storm - Casey and Maddie",
+        "date": "04/01/2006",
+        "part": "1",
+        "total": "1",
+        "duration": "08:26",
+        "channel": "oakdalehistorian"
     },
     {
         "id": "yzfbWEsjS6s",
@@ -2493,42 +2529,6 @@
         "part": "5",
         "total": "5",
         "duration": "5:55",
-        "channel": "oakdalehistorian"
-    },
-    {
-        "id": "6u7zDVwtcHU",
-        "parentid": "",
-        "soap": "ATWT",
-        "category": "B",
-        "title": "The Perfect Storm Promo",
-        "date": "04/01/2006",
-        "part": "1",
-        "total": "1",
-        "duration": "0:18",
-        "channel": "oakdalehistorian"
-    },
-    {
-        "id": "nFdQ5eAyfgM",
-        "parentid": "",
-        "soap": "ATWT",
-        "category": "B",
-        "title": "The Perfect Storm",
-        "date": "04/01/2006",
-        "part": "1",
-        "total": "1",
-        "duration": "00:18",
-        "channel": "oakdalehistorian"
-    },
-    {
-        "id": "C0fadw8gccg",
-        "parentid": "",
-        "soap": "ATWT",
-        "category": "A",
-        "title": "The Perfect Storm - Casey and Maddie",
-        "date": "04/01/2006",
-        "part": "1",
-        "total": "1",
-        "duration": "08:26",
         "channel": "oakdalehistorian"
     },
     {
@@ -2892,6 +2892,18 @@
         "channel": "oakdalehistorian"
     },
     {
+        "id": "OCPgDeQiXY0",
+        "parentid": "",
+        "soap": "ATWT",
+        "category": "B",
+        "title": "Carly and Simon Promo",
+        "date": "06/01/2007",
+        "part": "1",
+        "total": "1",
+        "duration": "0:18",
+        "channel": "oakdalehistorian"
+    },
+    {
         "id": "g1E5giKy-Ic",
         "parentid": "P_26d3c64b",
         "soap": "ATWT",
@@ -2937,18 +2949,6 @@
         "part": "4",
         "total": "4",
         "duration": "8:38",
-        "channel": "oakdalehistorian"
-    },
-    {
-        "id": "OCPgDeQiXY0",
-        "parentid": "",
-        "soap": "ATWT",
-        "category": "B",
-        "title": "Carly and Simon Promo",
-        "date": "06/01/2007",
-        "part": "1",
-        "total": "1",
-        "duration": "0:18",
         "channel": "oakdalehistorian"
     },
     {
