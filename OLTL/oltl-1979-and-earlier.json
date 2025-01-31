@@ -72,16 +72,16 @@
         "channel": "chucksnitchler"
     },
     {
-        "id": "LASBdhtsw10",
+        "id": "uQ4QbWEDRwE",
         "parentid": "P_830a8c44",
         "soap": "OLTL",
         "category": "A",
         "title": "A Daytime to Remember",
         "date": "06/01/1976",
-        "part": "3",
+        "part": "1",
         "total": "3",
-        "duration": "04:39",
-        "channel": "Donna515"
+        "duration": "8:02",
+        "channel": "donna515"
     },
     {
         "id": "ovx9v1bvyWE",
@@ -93,19 +93,19 @@
         "part": "2",
         "total": "3",
         "duration": "07:14",
-        "channel": "Donna515"
+        "channel": "donna515"
     },
     {
-        "id": "uQ4QbWEDRwE",
+        "id": "LASBdhtsw10",
         "parentid": "P_830a8c44",
         "soap": "OLTL",
         "category": "A",
         "title": "A Daytime to Remember",
         "date": "06/01/1976",
-        "part": "1",
+        "part": "3",
         "total": "3",
-        "duration": "8:02",
-        "channel": "Donna515"
+        "duration": "04:39",
+        "channel": "donna515"
     },
     {
         "id": "gtGtOLeFJpM",
@@ -252,16 +252,16 @@
         "channel": "edwynsanchez"
     },
     {
-        "id": "6B3E6M5fa3Q",
+        "id": "NDcC2iBxPOA",
         "parentid": "P_68acaf1d",
         "soap": "OLTL",
         "category": "A",
         "title": "Episode",
         "date": "06/01/1979",
-        "part": "3",
+        "part": "1",
         "total": "3",
-        "duration": "04:57",
-        "channel": "Donna515"
+        "duration": "08:24",
+        "channel": "donna515"
     },
     {
         "id": "BDWa7hvo-Rc",
@@ -273,18 +273,18 @@
         "part": "2",
         "total": "3",
         "duration": "5:43",
-        "channel": "Donna515"
+        "channel": "donna515"
     },
     {
-        "id": "NDcC2iBxPOA",
+        "id": "6B3E6M5fa3Q",
         "parentid": "P_68acaf1d",
         "soap": "OLTL",
         "category": "A",
         "title": "Episode",
         "date": "06/01/1979",
-        "part": "1",
+        "part": "3",
         "total": "3",
-        "duration": "08:24",
-        "channel": "Donna515"
+        "duration": "04:57",
+        "channel": "donna515"
     }
 ]
