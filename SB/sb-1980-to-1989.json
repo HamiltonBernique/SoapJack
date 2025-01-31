@@ -888,6 +888,18 @@
         "channel": "santabarbaratvseries"
     },
     {
+        "id": "VEaoXfTIy6c",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Episode 69",
+        "date": "11/01/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "40:06",
+        "channel": "santabarbaratvseries"
+    },
+    {
         "id": "lgr7RSD5AnQ",
         "parentid": "P_802a2ef5",
         "soap": "SB",
@@ -910,18 +922,6 @@
         "total": "2",
         "duration": "01:43",
         "channel": "candyeden"
-    },
-    {
-        "id": "VEaoXfTIy6c",
-        "parentid": "",
-        "soap": "SB",
-        "category": "A",
-        "title": "Episode 69",
-        "date": "11/01/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "40:06",
-        "channel": "santabarbaratvseries"
     },
     {
         "id": "LffP3D8gsy0",
@@ -1200,15 +1200,15 @@
         "channel": "theystartedonsoaps"
     },
     {
-        "id": "QpgoMAQwoqI",
+        "id": "fkQagj5oKnE",
         "parentid": "P_087d8b3a",
         "soap": "SB",
         "category": "A",
         "title": "Cruz and Eden - fight to kiss",
         "date": "01/02/1985",
-        "part": "5",
+        "part": "1",
         "total": "5",
-        "duration": "02:24",
+        "duration": "0:27",
         "channel": "candyeden"
     },
     {
@@ -1221,18 +1221,6 @@
         "part": "2",
         "total": "5",
         "duration": "3:01",
-        "channel": "candyeden"
-    },
-    {
-        "id": "fkQagj5oKnE",
-        "parentid": "P_087d8b3a",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - fight to kiss",
-        "date": "01/02/1985",
-        "part": "1",
-        "total": "5",
-        "duration": "0:27",
         "channel": "candyeden"
     },
     {
@@ -1258,6 +1246,30 @@
         "total": "5",
         "duration": "02:56",
         "channel": "candyeden"
+    },
+    {
+        "id": "QpgoMAQwoqI",
+        "parentid": "P_087d8b3a",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Eden - fight to kiss",
+        "date": "01/02/1985",
+        "part": "5",
+        "total": "5",
+        "duration": "02:24",
+        "channel": "candyeden"
+    },
+    {
+        "id": "in8rDcCDzGI",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Augusta and Sophia catfight",
+        "date": "3/7/1985",
+        "part": "1",
+        "total": "1",
+        "duration": "4:01",
+        "channel": "kellycapwellrobinwright"
     },
     {
         "id": "XvAGpFJeOP0",
@@ -1294,18 +1306,6 @@
         "total": "3",
         "duration": "06:04",
         "channel": "candyeden"
-    },
-    {
-        "id": "in8rDcCDzGI",
-        "parentid": "",
-        "soap": "SB",
-        "category": "A",
-        "title": "Augusta and Sophia catfight",
-        "date": "3/7/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "4:01",
-        "channel": "kellycapwellrobinwright"
     },
     {
         "id": "nxArOXRqx5c",
@@ -1566,7 +1566,7 @@
         "category": "A",
         "title": "Cruz and Eden - Orient Express grand opening",
         "date": "05/10/1985",
-        "part": "1",
+        "part": "01",
         "total": "13",
         "duration": "1:25",
         "channel": "candyeden"
@@ -1578,21 +1578,9 @@
         "category": "A",
         "title": "Cruz and Eden - Orient Express grand opening",
         "date": "05/10/1985",
-        "part": "2",
+        "part": "02",
         "total": "13",
         "duration": "01:14",
-        "channel": "candyeden"
-    },
-    {
-        "id": "6PU4JtCQPik",
-        "parentid": "P_3a1a7331",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Orient Express grand opening",
-        "date": "05/10/1985",
-        "part": "6",
-        "total": "13",
-        "duration": "2:25",
         "channel": "candyeden"
     },
     {
@@ -1602,7 +1590,7 @@
         "category": "A",
         "title": "Cruz and Eden - Orient Express grand opening",
         "date": "05/10/1985",
-        "part": "3",
+        "part": "03",
         "total": "13",
         "duration": "1:57",
         "channel": "candyeden"
@@ -1614,7 +1602,7 @@
         "category": "A",
         "title": "Cruz and Eden - Orient Express grand opening",
         "date": "05/10/1985",
-        "part": "4",
+        "part": "04",
         "total": "13",
         "duration": "2:08",
         "channel": "candyeden"
@@ -1626,9 +1614,21 @@
         "category": "A",
         "title": "Cruz and Eden - Orient Express grand opening",
         "date": "05/10/1985",
-        "part": "5",
+        "part": "05",
         "total": "13",
         "duration": "0:40",
+        "channel": "candyeden"
+    },
+    {
+        "id": "6PU4JtCQPik",
+        "parentid": "P_3a1a7331",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Eden - Orient Express grand opening",
+        "date": "05/10/1985",
+        "part": "06",
+        "total": "13",
+        "duration": "2:25",
         "channel": "candyeden"
     },
     {
@@ -1638,7 +1638,7 @@
         "category": "A",
         "title": "Cruz and Eden - Orient Express grand opening",
         "date": "05/10/1985",
-        "part": "7",
+        "part": "07",
         "total": "13",
         "duration": "04:40",
         "channel": "candyeden"
@@ -1650,7 +1650,7 @@
         "category": "A",
         "title": "Cruz and Eden - Orient Express grand opening",
         "date": "05/10/1985",
-        "part": "8",
+        "part": "08",
         "total": "13",
         "duration": "00:48",
         "channel": "candyeden"
@@ -1662,7 +1662,7 @@
         "category": "A",
         "title": "Cruz and Eden - Orient Express grand opening",
         "date": "05/10/1985",
-        "part": "9",
+        "part": "09",
         "total": "13",
         "duration": "0:41",
         "channel": "candyeden"
@@ -1824,18 +1824,6 @@
         "channel": "candyeden"
     },
     {
-        "id": "8TzUjpR785g",
-        "parentid": "P_c5c49500",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - business to forget a break up",
-        "date": "06/07/1985",
-        "part": "6",
-        "total": "8",
-        "duration": "01:45",
-        "channel": "candyeden"
-    },
-    {
         "id": "0YoiukJv75o",
         "parentid": "P_c5c49500",
         "soap": "SB",
@@ -1845,18 +1833,6 @@
         "part": "4",
         "total": "8",
         "duration": "2:42",
-        "channel": "candyeden"
-    },
-    {
-        "id": "L_MijiRM-dA",
-        "parentid": "P_c5c49500",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - business to forget a break up",
-        "date": "06/07/1985",
-        "part": "8",
-        "total": "8",
-        "duration": "0:28",
         "channel": "candyeden"
     },
     {
@@ -1872,6 +1848,18 @@
         "channel": "candyeden"
     },
     {
+        "id": "8TzUjpR785g",
+        "parentid": "P_c5c49500",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Eden - business to forget a break up",
+        "date": "06/07/1985",
+        "part": "6",
+        "total": "8",
+        "duration": "01:45",
+        "channel": "candyeden"
+    },
+    {
         "id": "mI2sv8ZSM3I",
         "parentid": "P_c5c49500",
         "soap": "SB",
@@ -1881,6 +1869,18 @@
         "part": "7",
         "total": "8",
         "duration": "02:50",
+        "channel": "candyeden"
+    },
+    {
+        "id": "L_MijiRM-dA",
+        "parentid": "P_c5c49500",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Eden - business to forget a break up",
+        "date": "06/07/1985",
+        "part": "8",
+        "total": "8",
+        "duration": "0:28",
         "channel": "candyeden"
     },
     {
@@ -1974,7 +1974,7 @@
         "category": "A",
         "title": "Cruz and Eden -  Guess who's missing again",
         "date": "06/18/1985",
-        "part": "1",
+        "part": "01",
         "total": "17",
         "duration": "0:52",
         "channel": "candyeden"
@@ -1986,7 +1986,7 @@
         "category": "A",
         "title": "Cruz and Eden -  Guess who's missing again",
         "date": "06/18/1985",
-        "part": "2",
+        "part": "02",
         "total": "17",
         "duration": "1:43",
         "channel": "candyeden"
@@ -1998,7 +1998,7 @@
         "category": "A",
         "title": "Cruz and Eden -  Guess who's missing again",
         "date": "06/18/1985",
-        "part": "3",
+        "part": "03",
         "total": "17",
         "duration": "0:53",
         "channel": "candyeden"
@@ -2010,7 +2010,7 @@
         "category": "A",
         "title": "Cruz and Eden -  Guess who's missing again",
         "date": "06/18/1985",
-        "part": "4",
+        "part": "04",
         "total": "17",
         "duration": "0:56",
         "channel": "candyeden"
@@ -2022,7 +2022,7 @@
         "category": "A",
         "title": "Cruz and Eden -  Guess who's missing again",
         "date": "06/18/1985",
-        "part": "5",
+        "part": "05",
         "total": "17",
         "duration": "0:23",
         "channel": "candyeden"
@@ -2034,7 +2034,7 @@
         "category": "A",
         "title": "Cruz and Eden -  Guess who's missing again",
         "date": "06/18/1985",
-        "part": "6",
+        "part": "06",
         "total": "17",
         "duration": "2:25",
         "channel": "candyeden"
@@ -2046,7 +2046,7 @@
         "category": "A",
         "title": "Cruz and Eden -  Guess who's missing again",
         "date": "06/18/1985",
-        "part": "7",
+        "part": "07",
         "total": "17",
         "duration": "01:39",
         "channel": "candyeden"
@@ -2058,7 +2058,7 @@
         "category": "A",
         "title": "Cruz and Eden -  Guess who's missing again",
         "date": "06/18/1985",
-        "part": "8",
+        "part": "08",
         "total": "17",
         "duration": "02:11",
         "channel": "candyeden"
@@ -2070,7 +2070,7 @@
         "category": "A",
         "title": "Cruz and Eden -  Guess who's missing again",
         "date": "06/18/1985",
-        "part": "9",
+        "part": "09",
         "total": "17",
         "duration": "0:55",
         "channel": "candyeden"
@@ -2478,7 +2478,7 @@
         "category": "A",
         "title": "Cruz and Eden - A trap for Kirk",
         "date": "05/02/1986",
-        "part": "1",
+        "part": "01",
         "total": "15",
         "duration": "1:46",
         "channel": "candyeden"
@@ -2490,7 +2490,7 @@
         "category": "A",
         "title": "Cruz and Eden - A trap for Kirk",
         "date": "05/02/1986",
-        "part": "2",
+        "part": "02",
         "total": "15",
         "duration": "2:57",
         "channel": "candyeden"
@@ -2502,7 +2502,7 @@
         "category": "A",
         "title": "Cruz and Eden - A trap for Kirk",
         "date": "05/02/1986",
-        "part": "3",
+        "part": "03",
         "total": "15",
         "duration": "2:51",
         "channel": "candyeden"
@@ -2514,7 +2514,7 @@
         "category": "A",
         "title": "Cruz and Eden - A trap for Kirk",
         "date": "05/02/1986",
-        "part": "4",
+        "part": "04",
         "total": "15",
         "duration": "09:44",
         "channel": "candyeden"
@@ -2526,7 +2526,7 @@
         "category": "A",
         "title": "Cruz and Eden - A trap for Kirk",
         "date": "05/02/1986",
-        "part": "5",
+        "part": "05",
         "total": "15",
         "duration": "1:21",
         "channel": "candyeden"
@@ -2538,7 +2538,7 @@
         "category": "A",
         "title": "Cruz and Eden - A trap for Kirk",
         "date": "05/02/1986",
-        "part": "6",
+        "part": "06",
         "total": "15",
         "duration": "1:37",
         "channel": "candyeden"
@@ -2550,7 +2550,7 @@
         "category": "A",
         "title": "Cruz and Eden - A trap for Kirk",
         "date": "05/02/1986",
-        "part": "7",
+        "part": "07",
         "total": "15",
         "duration": "0:27",
         "channel": "candyeden"
@@ -2562,7 +2562,7 @@
         "category": "A",
         "title": "Cruz and Eden - A trap for Kirk",
         "date": "05/02/1986",
-        "part": "8",
+        "part": "08",
         "total": "15",
         "duration": "0:48",
         "channel": "candyeden"
@@ -2574,7 +2574,7 @@
         "category": "A",
         "title": "Cruz and Eden - A trap for Kirk",
         "date": "05/02/1986",
-        "part": "9",
+        "part": "09",
         "total": "15",
         "duration": "0:56",
         "channel": "candyeden"
@@ -2934,7 +2934,7 @@
         "category": "A",
         "title": "Cruz and Eden - Tormented Hawaii Holidays",
         "date": "12/21/1987",
-        "part": "1",
+        "part": "01",
         "total": "39",
         "duration": "1:40",
         "channel": "candyeden"
@@ -2946,7 +2946,7 @@
         "category": "A",
         "title": "Cruz and Eden - Tormented Hawaii Holidays",
         "date": "12/21/1987",
-        "part": "2",
+        "part": "02",
         "total": "39",
         "duration": "02:12",
         "channel": "candyeden"
@@ -2958,7 +2958,7 @@
         "category": "A",
         "title": "Cruz and Eden - Tormented Hawaii Holidays",
         "date": "12/21/1987",
-        "part": "3",
+        "part": "03",
         "total": "39",
         "duration": "2:19",
         "channel": "candyeden"
@@ -2970,7 +2970,7 @@
         "category": "A",
         "title": "Cruz and Eden - Tormented Hawaii Holidays",
         "date": "12/21/1987",
-        "part": "4",
+        "part": "04",
         "total": "39",
         "duration": "02:08",
         "channel": "candyeden"
@@ -2982,7 +2982,7 @@
         "category": "A",
         "title": "Cruz and Eden - Tormented Hawaii Holidays",
         "date": "12/21/1987",
-        "part": "5",
+        "part": "05",
         "total": "39",
         "duration": "2:33",
         "channel": "candyeden"
@@ -2994,7 +2994,7 @@
         "category": "A",
         "title": "Cruz and Eden - Tormented Hawaii Holidays",
         "date": "12/21/1987",
-        "part": "6",
+        "part": "06",
         "total": "39",
         "duration": "01:48",
         "channel": "candyeden"
@@ -3006,7 +3006,7 @@
         "category": "A",
         "title": "Cruz and Eden - Tormented Hawaii Holidays",
         "date": "12/21/1987",
-        "part": "7",
+        "part": "07",
         "total": "39",
         "duration": "2:42",
         "channel": "candyeden"
@@ -3018,7 +3018,7 @@
         "category": "A",
         "title": "Cruz and Eden - Tormented Hawaii Holidays",
         "date": "12/21/1987",
-        "part": "8",
+        "part": "08",
         "total": "39",
         "duration": "1:07",
         "channel": "candyeden"
@@ -3030,7 +3030,7 @@
         "category": "A",
         "title": "Cruz and Eden - Tormented Hawaii Holidays",
         "date": "12/21/1987",
-        "part": "9",
+        "part": "09",
         "total": "39",
         "duration": "04:44",
         "channel": "candyeden"
@@ -3252,30 +3252,6 @@
         "channel": "candyeden"
     },
     {
-        "id": "F9j7mjjM0NA",
-        "parentid": "P_f501aa47",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Tormented Hawaii Holidays",
-        "date": "12/21/1987",
-        "part": "29",
-        "total": "39",
-        "duration": "1:36",
-        "channel": "candyeden"
-    },
-    {
-        "id": "fWdvWpSWwfk",
-        "parentid": "P_f501aa47",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Tormented Hawaii Holidays",
-        "date": "12/21/1987",
-        "part": "32",
-        "total": "39",
-        "duration": "1:21",
-        "channel": "candyeden"
-    },
-    {
         "id": "V4VgLxu6s1Q",
         "parentid": "P_f501aa47",
         "soap": "SB",
@@ -3285,6 +3261,18 @@
         "part": "28",
         "total": "39",
         "duration": "01:46",
+        "channel": "candyeden"
+    },
+    {
+        "id": "F9j7mjjM0NA",
+        "parentid": "P_f501aa47",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Eden - Tormented Hawaii Holidays",
+        "date": "12/21/1987",
+        "part": "29",
+        "total": "39",
+        "duration": "1:36",
         "channel": "candyeden"
     },
     {
@@ -3309,6 +3297,18 @@
         "part": "31",
         "total": "39",
         "duration": "1:08",
+        "channel": "candyeden"
+    },
+    {
+        "id": "fWdvWpSWwfk",
+        "parentid": "P_f501aa47",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Eden - Tormented Hawaii Holidays",
+        "date": "12/21/1987",
+        "part": "32",
+        "total": "39",
+        "duration": "1:21",
         "channel": "candyeden"
     },
     {
@@ -3642,7 +3642,7 @@
         "category": "A",
         "title": "Cruz and Eden - It's a wonderful Life",
         "date": "12/25/1989",
-        "part": "1",
+        "part": "01",
         "total": "13",
         "duration": "4:02",
         "channel": "retrosoapsantabarbara"
@@ -3654,7 +3654,7 @@
         "category": "A",
         "title": "Cruz and Eden - It's a wonderful Life",
         "date": "12/25/1989",
-        "part": "2",
+        "part": "02",
         "total": "13",
         "duration": "2:38",
         "channel": "retrosoapsantabarbara"
@@ -3666,7 +3666,7 @@
         "category": "A",
         "title": "Cruz and Eden - It's a wonderful Life",
         "date": "12/25/1989",
-        "part": "3",
+        "part": "03",
         "total": "13",
         "duration": "2:50",
         "channel": "retrosoapsantabarbara"
@@ -3678,7 +3678,7 @@
         "category": "A",
         "title": "Cruz and Eden - It's a wonderful Life",
         "date": "12/25/1989",
-        "part": "4",
+        "part": "04",
         "total": "13",
         "duration": "1:33",
         "channel": "retrosoapsantabarbara"
@@ -3690,7 +3690,7 @@
         "category": "A",
         "title": "Cruz and Eden - It's a wonderful Life",
         "date": "12/25/1989",
-        "part": "5",
+        "part": "05",
         "total": "13",
         "duration": "03:17",
         "channel": "retrosoapsantabarbara"
@@ -3702,7 +3702,7 @@
         "category": "A",
         "title": "Cruz and Eden - It's a wonderful Life",
         "date": "12/25/1989",
-        "part": "6",
+        "part": "06",
         "total": "13",
         "duration": "04:07",
         "channel": "retrosoapsantabarbara"
@@ -3714,7 +3714,7 @@
         "category": "A",
         "title": "Cruz and Eden - It's a wonderful Life",
         "date": "12/25/1989",
-        "part": "7",
+        "part": "07",
         "total": "13",
         "duration": "4:30",
         "channel": "retrosoapsantabarbara"
@@ -3726,7 +3726,7 @@
         "category": "A",
         "title": "Cruz and Eden - It's a wonderful Life",
         "date": "12/25/1989",
-        "part": "8",
+        "part": "08",
         "total": "13",
         "duration": "05:30",
         "channel": "retrosoapsantabarbara"
@@ -3738,7 +3738,7 @@
         "category": "A",
         "title": "Cruz and Eden - It's a wonderful Life",
         "date": "12/25/1989",
-        "part": "9",
+        "part": "09",
         "total": "13",
         "duration": "01:16",
         "channel": "retrosoapsantabarbara"
