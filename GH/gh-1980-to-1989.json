@@ -96,18 +96,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "XY-zIixWibI",
-        "parentid": "P_7743cd0e",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "02/29/1980",
-        "part": "2",
-        "total": "2",
-        "duration": "15:02",
-        "channel": "romabriere"
-    },
-    {
         "id": "HA3MnA56pdI",
         "parentid": "P_7743cd0e",
         "soap": "GH",
@@ -117,6 +105,18 @@
         "part": "1",
         "total": "2",
         "duration": "28:19",
+        "channel": "romabriere"
+    },
+    {
+        "id": "XY-zIixWibI",
+        "parentid": "P_7743cd0e",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "02/29/1980",
+        "part": "2",
+        "total": "2",
+        "duration": "15:02",
         "channel": "romabriere"
     },
     {
@@ -165,7 +165,7 @@
         "part": "1",
         "total": "1",
         "duration": "21:05",
-        "channel": "Donna515"
+        "channel": "donna515"
     },
     {
         "id": "C5oQGt57Gsc",
@@ -189,7 +189,7 @@
         "part": "1",
         "total": "1",
         "duration": "20:57",
-        "channel": "Donna515"
+        "channel": "donna515"
     },
     {
         "id": "4eNZ1jLq8JA",
@@ -201,7 +201,7 @@
         "part": "1",
         "total": "1",
         "duration": "20:50",
-        "channel": "Donna515"
+        "channel": "donna515"
     },
     {
         "id": "4QPQ98EwFr0",
@@ -228,18 +228,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "IyfJKmS2pYw",
-        "parentid": "P_d60b2f6c",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "07/10/1980",
-        "part": "2",
-        "total": "2",
-        "duration": "17:23",
-        "channel": "romabriere"
-    },
-    {
         "id": "UuDaPsoo5e8",
         "parentid": "P_d60b2f6c",
         "soap": "GH",
@@ -249,6 +237,18 @@
         "part": "1",
         "total": "2",
         "duration": "25:51",
+        "channel": "romabriere"
+    },
+    {
+        "id": "IyfJKmS2pYw",
+        "parentid": "P_d60b2f6c",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/10/1980",
+        "part": "2",
+        "total": "2",
+        "duration": "17:23",
         "channel": "romabriere"
     },
     {
@@ -276,18 +276,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "laWuM4A1uLM",
-        "parentid": "P_39420402",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "07/18/1980",
-        "part": "2",
-        "total": "2",
-        "duration": "20:06",
-        "channel": "romabriere"
-    },
-    {
         "id": "Tre4eNaN8d0",
         "parentid": "P_39420402",
         "soap": "GH",
@@ -297,6 +285,18 @@
         "part": "1",
         "total": "2",
         "duration": "23:04",
+        "channel": "romabriere"
+    },
+    {
+        "id": "laWuM4A1uLM",
+        "parentid": "P_39420402",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/18/1980",
+        "part": "2",
+        "total": "2",
+        "duration": "20:06",
         "channel": "romabriere"
     },
     {
@@ -540,18 +540,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "7tAEHFgtJ7o",
-        "parentid": "P_690fe26b",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "12/17/1980",
-        "part": "2",
-        "total": "2",
-        "duration": "19:06",
-        "channel": "romabriere"
-    },
-    {
         "id": "AGJ-Tv-rbV4",
         "parentid": "P_690fe26b",
         "soap": "GH",
@@ -561,6 +549,18 @@
         "part": "1",
         "total": "2",
         "duration": "24:13",
+        "channel": "romabriere"
+    },
+    {
+        "id": "7tAEHFgtJ7o",
+        "parentid": "P_690fe26b",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "12/17/1980",
+        "part": "2",
+        "total": "2",
+        "duration": "19:06",
         "channel": "romabriere"
     },
     {
@@ -1008,18 +1008,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "bwbdVyU51aM",
-        "parentid": "P_aad3e807",
-        "soap": "GH",
-        "category": "A",
-        "title": "Laura Goes Missing (AGAIN)",
-        "date": "07/13/1981",
-        "part": "1",
-        "total": "12",
-        "duration": "14:54",
-        "channel": "romabriere"
-    },
-    {
         "id": "hw1ARIo1dTA",
         "parentid": "",
         "soap": "GH",
@@ -1032,13 +1020,25 @@
         "channel": "romabriere"
     },
     {
+        "id": "bwbdVyU51aM",
+        "parentid": "P_aad3e807",
+        "soap": "GH",
+        "category": "A",
+        "title": "Laura Goes Missing (AGAIN)",
+        "date": "07/13/1981",
+        "part": "01",
+        "total": "12",
+        "duration": "14:54",
+        "channel": "romabriere"
+    },
+    {
         "id": "VxrYuq3vcQI",
         "parentid": "P_aad3e807",
         "soap": "GH",
         "category": "A",
         "title": "Laura Goes Missing (AGAIN)",
         "date": "07/13/1981",
-        "part": "2",
+        "part": "02",
         "total": "12",
         "duration": "14:46",
         "channel": "romabriere"
@@ -1050,7 +1050,7 @@
         "category": "A",
         "title": "Laura Goes Missing (AGAIN)",
         "date": "07/13/1981",
-        "part": "3",
+        "part": "03",
         "total": "12",
         "duration": "10:45",
         "channel": "romabriere"
@@ -1062,7 +1062,7 @@
         "category": "A",
         "title": "Laura Goes Missing (AGAIN)",
         "date": "07/13/1981",
-        "part": "4",
+        "part": "04",
         "total": "12",
         "duration": "15:16",
         "channel": "romabriere"
@@ -1074,7 +1074,7 @@
         "category": "A",
         "title": "Laura Goes Missing (AGAIN)",
         "date": "07/13/1981",
-        "part": "5",
+        "part": "05",
         "total": "12",
         "duration": "08:27",
         "channel": "romabriere"
@@ -1086,7 +1086,7 @@
         "category": "A",
         "title": "Laura Goes Missing (AGAIN)",
         "date": "07/13/1981",
-        "part": "6",
+        "part": "06",
         "total": "12",
         "duration": "14:40",
         "channel": "romabriere"
@@ -1098,7 +1098,7 @@
         "category": "A",
         "title": "Laura Goes Missing (AGAIN)",
         "date": "07/13/1981",
-        "part": "7",
+        "part": "07",
         "total": "12",
         "duration": "08:39",
         "channel": "romabriere"
@@ -1110,7 +1110,7 @@
         "category": "A",
         "title": "Laura Goes Missing (AGAIN)",
         "date": "07/13/1981",
-        "part": "8",
+        "part": "08",
         "total": "12",
         "duration": "13:38",
         "channel": "romabriere"
@@ -1122,21 +1122,9 @@
         "category": "A",
         "title": "Laura Goes Missing (AGAIN)",
         "date": "07/13/1981",
-        "part": "9",
+        "part": "09",
         "total": "12",
         "duration": "12:26",
-        "channel": "romabriere"
-    },
-    {
-        "id": "2e6zQ2TA03c",
-        "parentid": "P_aad3e807",
-        "soap": "GH",
-        "category": "A",
-        "title": "Laura Goes Missing (AGAIN)",
-        "date": "07/13/1981",
-        "part": "11",
-        "total": "12",
-        "duration": "13:02",
         "channel": "romabriere"
     },
     {
@@ -1149,6 +1137,18 @@
         "part": "10",
         "total": "12",
         "duration": "10:57",
+        "channel": "romabriere"
+    },
+    {
+        "id": "2e6zQ2TA03c",
+        "parentid": "P_aad3e807",
+        "soap": "GH",
+        "category": "A",
+        "title": "Laura Goes Missing (AGAIN)",
+        "date": "07/13/1981",
+        "part": "11",
+        "total": "12",
+        "duration": "13:02",
         "channel": "romabriere"
     },
     {
@@ -1368,6 +1368,18 @@
         "channel": "romabriere"
     },
     {
+        "id": "ihYIZk6grrs",
+        "parentid": "",
+        "soap": "GH",
+        "category": "A",
+        "title": "Rick/Lesley More Wedding Plans",
+        "date": "11/02/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "03:36",
+        "channel": "romabriere"
+    },
+    {
         "id": "T9YHAs5q0Pc",
         "parentid": "P_d686ed11",
         "soap": "GH",
@@ -1392,27 +1404,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "ihYIZk6grrs",
+        "id": "mciu4h7zbH4",
         "parentid": "",
         "soap": "GH",
         "category": "A",
-        "title": "Rick/Lesley More Wedding Plans",
-        "date": "11/02/1981",
+        "title": "Rick/Lesley Pre Bridal Shower (The Bump)",
+        "date": "11/04/1981",
         "part": "1",
         "total": "1",
-        "duration": "03:36",
-        "channel": "romabriere"
-    },
-    {
-        "id": "0cbufbQxCq8",
-        "parentid": "P_e2060f47",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "11/04/1981",
-        "part": "2",
-        "total": "2",
-        "duration": "22:45",
+        "duration": "14:36",
         "channel": "romabriere"
     },
     {
@@ -1428,39 +1428,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "mciu4h7zbH4",
-        "parentid": "",
+        "id": "0cbufbQxCq8",
+        "parentid": "P_e2060f47",
         "soap": "GH",
         "category": "A",
-        "title": "Rick/Lesley Pre Bridal Shower (The Bump)",
+        "title": "Episode",
         "date": "11/04/1981",
-        "part": "1",
-        "total": "1",
-        "duration": "14:36",
-        "channel": "romabriere"
-    },
-    {
-        "id": "fTw0dDfXIFE",
-        "parentid": "P_83ffcc64",
-        "soap": "GH",
-        "category": "A",
-        "title": "Rick/Lesley Laura's Bridal Shower",
-        "date": "11/05/1981",
-        "part": "1",
-        "total": "2",
-        "duration": "12:58",
-        "channel": "romabriere"
-    },
-    {
-        "id": "taBaLfIKwrk",
-        "parentid": "P_83ffcc64",
-        "soap": "GH",
-        "category": "A",
-        "title": "Rick/Lesley Laura's Bridal Shower",
-        "date": "11/05/1981",
         "part": "2",
         "total": "2",
-        "duration": "08:36",
+        "duration": "22:45",
         "channel": "romabriere"
     },
     {
@@ -1488,6 +1464,42 @@
         "channel": "romabriere"
     },
     {
+        "id": "fTw0dDfXIFE",
+        "parentid": "P_83ffcc64",
+        "soap": "GH",
+        "category": "A",
+        "title": "Rick/Lesley Laura's Bridal Shower",
+        "date": "11/05/1981",
+        "part": "1",
+        "total": "2",
+        "duration": "12:58",
+        "channel": "romabriere"
+    },
+    {
+        "id": "taBaLfIKwrk",
+        "parentid": "P_83ffcc64",
+        "soap": "GH",
+        "category": "A",
+        "title": "Rick/Lesley Laura's Bridal Shower",
+        "date": "11/05/1981",
+        "part": "2",
+        "total": "2",
+        "duration": "08:36",
+        "channel": "romabriere"
+    },
+    {
+        "id": "4WnLmZUoG4c",
+        "parentid": "",
+        "soap": "GH",
+        "category": "A",
+        "title": "Rick/Lesley After Lauras Bridal Shower",
+        "date": "11/06/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "14:03",
+        "channel": "romabriere"
+    },
+    {
         "id": "GIjrsKWmSMQ",
         "parentid": "P_4c485fd7",
         "soap": "GH",
@@ -1512,15 +1524,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "4WnLmZUoG4c",
+        "id": "eALZ5UJ4-CU",
         "parentid": "",
         "soap": "GH",
         "category": "A",
-        "title": "Rick/Lesley After Lauras Bridal Shower",
-        "date": "11/06/1981",
+        "title": "Rick/Lesley Helena Comes To Town",
+        "date": "11/10/1981",
         "part": "1",
         "total": "1",
-        "duration": "14:03",
+        "duration": "15:10",
         "channel": "romabriere"
     },
     {
@@ -1548,15 +1560,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "eALZ5UJ4-CU",
+        "id": "4asPu2kfjZo",
         "parentid": "",
         "soap": "GH",
         "category": "A",
-        "title": "Rick/Lesley Helena Comes To Town",
-        "date": "11/10/1981",
+        "title": "Rick/Lesley The Missing Divorce Papers",
+        "date": "11/11/1981",
         "part": "1",
         "total": "1",
-        "duration": "15:10",
+        "duration": "14:48",
         "channel": "romabriere"
     },
     {
@@ -1581,18 +1593,6 @@
         "part": "2",
         "total": "2",
         "duration": "16:44",
-        "channel": "romabriere"
-    },
-    {
-        "id": "4asPu2kfjZo",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Rick/Lesley The Missing Divorce Papers",
-        "date": "11/11/1981",
-        "part": "1",
-        "total": "1",
-        "duration": "14:48",
         "channel": "romabriere"
     },
     {
@@ -1644,15 +1644,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "1WrD-SJQYOo",
-        "parentid": "P_f225e962",
+        "id": "B-JHmEDWY-s",
+        "parentid": "",
         "soap": "GH",
         "category": "A",
-        "title": "Episode",
+        "title": "Rick/Lesley The Bachelorette Party",
         "date": "11/13/1981",
-        "part": "2",
-        "total": "2",
-        "duration": "18:35",
+        "part": "1",
+        "total": "1",
+        "duration": "12:25",
         "channel": "romabriere"
     },
     {
@@ -1668,27 +1668,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "B-JHmEDWY-s",
-        "parentid": "",
+        "id": "1WrD-SJQYOo",
+        "parentid": "P_f225e962",
         "soap": "GH",
         "category": "A",
-        "title": "Rick/Lesley The Bachelorette Party",
+        "title": "Episode",
         "date": "11/13/1981",
-        "part": "1",
-        "total": "1",
-        "duration": "12:25",
-        "channel": "romabriere"
-    },
-    {
-        "id": "MvBFJIaV-p4",
-        "parentid": "P_022c83c6",
-        "soap": "GH",
-        "category": "A",
-        "title": "Rick/Lesley LandL Wedding",
-        "date": "11/16/1981",
-        "part": "3",
-        "total": "3",
-        "duration": "15:14",
+        "part": "2",
+        "total": "2",
+        "duration": "18:35",
         "channel": "romabriere"
     },
     {
@@ -1716,6 +1704,18 @@
         "channel": "romabriere"
     },
     {
+        "id": "MvBFJIaV-p4",
+        "parentid": "P_022c83c6",
+        "soap": "GH",
+        "category": "A",
+        "title": "Rick/Lesley LandL Wedding",
+        "date": "11/16/1981",
+        "part": "3",
+        "total": "3",
+        "duration": "15:14",
+        "channel": "romabriere"
+    },
+    {
         "id": "LBtWkVAJuSY",
         "parentid": "P_c2fd9389",
         "soap": "GH",
@@ -1737,6 +1737,18 @@
         "part": "2",
         "total": "2",
         "duration": "18:28",
+        "channel": "romabriere"
+    },
+    {
+        "id": "zz-gb89j0Xc",
+        "parentid": "",
+        "soap": "GH",
+        "category": "A",
+        "title": "Rick/Lesley Cassadines Command",
+        "date": "11/19/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "13:07",
         "channel": "romabriere"
     },
     {
@@ -1764,27 +1776,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "zz-gb89j0Xc",
+        "id": "ExGTKN1JS44",
         "parentid": "",
         "soap": "GH",
         "category": "A",
-        "title": "Rick/Lesley Cassadines Command",
-        "date": "11/19/1981",
+        "title": "Rick/Lesley - The Birth of The Sports Center",
+        "date": "11/20/1981",
         "part": "1",
         "total": "1",
-        "duration": "13:07",
-        "channel": "romabriere"
-    },
-    {
-        "id": "U6RoRLIK7eA",
-        "parentid": "P_b7861ceb",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "11/20/1981",
-        "part": "2",
-        "total": "2",
-        "duration": "20:21",
+        "duration": "8:07",
         "channel": "romabriere"
     },
     {
@@ -1800,15 +1800,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "ExGTKN1JS44",
-        "parentid": "",
+        "id": "U6RoRLIK7eA",
+        "parentid": "P_b7861ceb",
         "soap": "GH",
         "category": "A",
-        "title": "Rick/Lesley - The Birth of The Sports Center",
+        "title": "Episode",
         "date": "11/20/1981",
-        "part": "1",
-        "total": "1",
-        "duration": "8:07",
+        "part": "2",
+        "total": "2",
+        "duration": "20:21",
         "channel": "romabriere"
     },
     {
@@ -1872,6 +1872,18 @@
         "channel": "romabriere"
     },
     {
+        "id": "Arm_dyOSz2Q",
+        "parentid": "",
+        "soap": "GH",
+        "category": "A",
+        "title": "Rick/Lesley Pre-Proposal and Proposal",
+        "date": "11/30/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "15:01",
+        "channel": "romabriere"
+    },
+    {
         "id": "reVI6tFbwO8",
         "parentid": "P_865916fc",
         "soap": "GH",
@@ -1896,18 +1908,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "Arm_dyOSz2Q",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Rick/Lesley Pre-Proposal and Proposal",
-        "date": "11/30/1981",
-        "part": "1",
-        "total": "1",
-        "duration": "15:01",
-        "channel": "romabriere"
-    },
-    {
         "id": "dex9l3me14Y",
         "parentid": "",
         "soap": "GH",
@@ -1918,30 +1918,6 @@
         "total": "1",
         "duration": "0:59",
         "channel": "donna515"
-    },
-    {
-        "id": "2RF1FsUHu2Q",
-        "parentid": "P_e5b8a11e",
-        "soap": "GH",
-        "category": "A",
-        "title": "Rick/Lesley The Engagement Party",
-        "date": "12/03/1981",
-        "part": "1",
-        "total": "2",
-        "duration": "13:41",
-        "channel": "romabriere"
-    },
-    {
-        "id": "HrSRieB3NSA",
-        "parentid": "P_e5b8a11e",
-        "soap": "GH",
-        "category": "A",
-        "title": "Rick/Lesley The Engagement Party",
-        "date": "12/03/1981",
-        "part": "2",
-        "total": "2",
-        "duration": "15:10",
-        "channel": "romabriere"
     },
     {
         "id": "agRXZEQtx4w",
@@ -1965,6 +1941,30 @@
         "part": "2",
         "total": "2",
         "duration": "18:56",
+        "channel": "romabriere"
+    },
+    {
+        "id": "2RF1FsUHu2Q",
+        "parentid": "P_e5b8a11e",
+        "soap": "GH",
+        "category": "A",
+        "title": "Rick/Lesley The Engagement Party",
+        "date": "12/03/1981",
+        "part": "1",
+        "total": "2",
+        "duration": "13:41",
+        "channel": "romabriere"
+    },
+    {
+        "id": "HrSRieB3NSA",
+        "parentid": "P_e5b8a11e",
+        "soap": "GH",
+        "category": "A",
+        "title": "Rick/Lesley The Engagement Party",
+        "date": "12/03/1981",
+        "part": "2",
+        "total": "2",
+        "duration": "15:10",
         "channel": "romabriere"
     },
     {
@@ -2040,6 +2040,18 @@
         "channel": "romabriere"
     },
     {
+        "id": "4H2cPT5nMVg",
+        "parentid": "",
+        "soap": "GH",
+        "category": "A",
+        "title": "Rick/Lesley A Home For The Sports Center",
+        "date": "12/10/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "12:16",
+        "channel": "romabriere"
+    },
+    {
         "id": "vE7ayxxJZnU",
         "parentid": "P_5578d51a",
         "soap": "GH",
@@ -2064,15 +2076,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "4H2cPT5nMVg",
-        "parentid": "",
+        "id": "gPaLxS7Yixo",
+        "parentid": "P_f25e68c5",
         "soap": "GH",
         "category": "A",
-        "title": "Rick/Lesley A Home For The Sports Center",
-        "date": "12/10/1981",
+        "title": "Episode",
+        "date": "12/11/1981",
         "part": "1",
-        "total": "1",
-        "duration": "12:16",
+        "total": "2",
+        "duration": "20:28",
         "channel": "romabriere"
     },
     {
@@ -2088,27 +2100,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "gPaLxS7Yixo",
-        "parentid": "P_f25e68c5",
+        "id": "LPEHZBoq9lA",
+        "parentid": "",
         "soap": "GH",
         "category": "A",
-        "title": "Episode",
-        "date": "12/11/1981",
-        "part": "1",
-        "total": "2",
-        "duration": "20:28",
-        "channel": "romabriere"
-    },
-    {
-        "id": "hReNMdPns_Y",
-        "parentid": "P_5f203f9f",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
+        "title": "Rick/Lesley Romantic Evening",
         "date": "12/14/1981",
-        "part": "2",
-        "total": "2",
-        "duration": "18:04",
+        "part": "1",
+        "total": "1",
+        "duration": "12:15",
         "channel": "romabriere"
     },
     {
@@ -2124,15 +2124,27 @@
         "channel": "romabriere"
     },
     {
-        "id": "LPEHZBoq9lA",
-        "parentid": "",
+        "id": "hReNMdPns_Y",
+        "parentid": "P_5f203f9f",
         "soap": "GH",
         "category": "A",
-        "title": "Rick/Lesley Romantic Evening",
+        "title": "Episode",
         "date": "12/14/1981",
+        "part": "2",
+        "total": "2",
+        "duration": "18:04",
+        "channel": "romabriere"
+    },
+    {
+        "id": "oazRv53E9ck",
+        "parentid": "P_b4202fbf",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "12/15/1981",
         "part": "1",
-        "total": "1",
-        "duration": "12:15",
+        "total": "2",
+        "duration": "19:11",
         "channel": "romabriere"
     },
     {
@@ -2148,15 +2160,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "oazRv53E9ck",
-        "parentid": "P_b4202fbf",
+        "id": "MZDlQypbRTw",
+        "parentid": "",
         "soap": "GH",
         "category": "A",
-        "title": "Episode",
-        "date": "12/15/1981",
+        "title": "Rick/Lesley Mrs. Grant Is Leaving PC",
+        "date": "12/16/1981",
         "part": "1",
-        "total": "2",
-        "duration": "19:11",
+        "total": "1",
+        "duration": "14:09",
         "channel": "romabriere"
     },
     {
@@ -2184,15 +2196,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "MZDlQypbRTw",
+        "id": "8G5nK6aJabA",
         "parentid": "",
         "soap": "GH",
         "category": "A",
-        "title": "Rick/Lesley Mrs. Grant Is Leaving PC",
-        "date": "12/16/1981",
+        "title": "Rick/Lesley A Letter Regarding Mike",
+        "date": "12/17/1981",
         "part": "1",
         "total": "1",
-        "duration": "14:09",
+        "duration": "09:08",
         "channel": "romabriere"
     },
     {
@@ -2220,18 +2232,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "8G5nK6aJabA",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Rick/Lesley A Letter Regarding Mike",
-        "date": "12/17/1981",
-        "part": "1",
-        "total": "1",
-        "duration": "09:08",
-        "channel": "romabriere"
-    },
-    {
         "id": "RMRRZBm97Co",
         "parentid": "P_cb7b81fe",
         "soap": "GH",
@@ -2253,6 +2253,18 @@
         "part": "2",
         "total": "2",
         "duration": "13:11",
+        "channel": "romabriere"
+    },
+    {
+        "id": "lnsISKCzfJ0",
+        "parentid": "",
+        "soap": "GH",
+        "category": "A",
+        "title": "Rick/Lesley Lauras Birthday / Bobbie Is Leaving PC",
+        "date": "12/21/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "12:42",
         "channel": "romabriere"
     },
     {
@@ -2280,18 +2292,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "lnsISKCzfJ0",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Rick/Lesley Lauras Birthday / Bobbie Is Leaving PC",
-        "date": "12/21/1981",
-        "part": "1",
-        "total": "1",
-        "duration": "12:42",
-        "channel": "romabriere"
-    },
-    {
         "id": "pNE_i5fwyWk",
         "parentid": "P_cd2746f2",
         "soap": "GH",
@@ -2313,30 +2313,6 @@
         "part": "2",
         "total": "2",
         "duration": "17:59",
-        "channel": "romabriere"
-    },
-    {
-        "id": "Vjqz3Vv9XE0",
-        "parentid": "P_94146c55",
-        "soap": "GH",
-        "category": "A",
-        "title": "Rick/Lesley The Wedding",
-        "date": "12/23/1981",
-        "part": "1",
-        "total": "2",
-        "duration": "15:13",
-        "channel": "romabriere"
-    },
-    {
-        "id": "4y5zh1Qqhec",
-        "parentid": "P_94146c55",
-        "soap": "GH",
-        "category": "A",
-        "title": "Rick/Lesley The Wedding",
-        "date": "12/23/1981",
-        "part": "2",
-        "total": "2",
-        "duration": "12:09",
         "channel": "romabriere"
     },
     {
@@ -2364,6 +2340,30 @@
         "channel": "romabriere"
     },
     {
+        "id": "Vjqz3Vv9XE0",
+        "parentid": "P_94146c55",
+        "soap": "GH",
+        "category": "A",
+        "title": "Rick/Lesley The Wedding",
+        "date": "12/23/1981",
+        "part": "1",
+        "total": "2",
+        "duration": "15:13",
+        "channel": "romabriere"
+    },
+    {
+        "id": "4y5zh1Qqhec",
+        "parentid": "P_94146c55",
+        "soap": "GH",
+        "category": "A",
+        "title": "Rick/Lesley The Wedding",
+        "date": "12/23/1981",
+        "part": "2",
+        "total": "2",
+        "duration": "12:09",
+        "channel": "romabriere"
+    },
+    {
         "id": "0EB3spU79js",
         "parentid": "P_a01306db",
         "soap": "GH",
@@ -2388,18 +2388,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "R4oQhEjrPmU",
-        "parentid": "P_b6de5260",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "12/24/1981",
-        "part": "2",
-        "total": "2",
-        "duration": "15:11",
-        "channel": "romabriere"
-    },
-    {
         "id": "eKL0NYNCIpk",
         "parentid": "P_b6de5260",
         "soap": "GH",
@@ -2412,6 +2400,18 @@
         "channel": "romabriere"
     },
     {
+        "id": "R4oQhEjrPmU",
+        "parentid": "P_b6de5260",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "12/24/1981",
+        "part": "2",
+        "total": "2",
+        "duration": "15:11",
+        "channel": "romabriere"
+    },
+    {
         "id": "ZiQIToYEf_k",
         "parentid": "",
         "soap": "GH",
@@ -2421,30 +2421,6 @@
         "part": "1",
         "total": "1",
         "duration": "28:55",
-        "channel": "romabriere"
-    },
-    {
-        "id": "0Cjz0JyzblU",
-        "parentid": "P_003ea506",
-        "soap": "GH",
-        "category": "A",
-        "title": "Rick/Lesley Christmas Party",
-        "date": "12/26/1981",
-        "part": "1",
-        "total": "2",
-        "duration": "13:20",
-        "channel": "romabriere"
-    },
-    {
-        "id": "hUPb2jsse5I",
-        "parentid": "P_003ea506",
-        "soap": "GH",
-        "category": "A",
-        "title": "Rick/Lesley Christmas Party",
-        "date": "12/26/1981",
-        "part": "2",
-        "total": "2",
-        "duration": "08:18",
         "channel": "romabriere"
     },
     {
@@ -2472,15 +2448,27 @@
         "channel": "romabriere"
     },
     {
-        "id": "nCNhvS0i_9o",
-        "parentid": "P_02b04fab",
+        "id": "0Cjz0JyzblU",
+        "parentid": "P_003ea506",
         "soap": "GH",
         "category": "A",
-        "title": "Episode",
-        "date": "12/28/1981",
+        "title": "Rick/Lesley Christmas Party",
+        "date": "12/26/1981",
+        "part": "1",
+        "total": "2",
+        "duration": "13:20",
+        "channel": "romabriere"
+    },
+    {
+        "id": "hUPb2jsse5I",
+        "parentid": "P_003ea506",
+        "soap": "GH",
+        "category": "A",
+        "title": "Rick/Lesley Christmas Party",
+        "date": "12/26/1981",
         "part": "2",
         "total": "2",
-        "duration": "20:52",
+        "duration": "08:18",
         "channel": "romabriere"
     },
     {
@@ -2493,6 +2481,18 @@
         "part": "1",
         "total": "2",
         "duration": "21:04",
+        "channel": "romabriere"
+    },
+    {
+        "id": "nCNhvS0i_9o",
+        "parentid": "P_02b04fab",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "12/28/1981",
+        "part": "2",
+        "total": "2",
+        "duration": "20:52",
         "channel": "romabriere"
     },
     {
@@ -2556,18 +2556,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "UUOULenKhYE",
-        "parentid": "P_e642c809",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "12/31/1981",
-        "part": "2",
-        "total": "2",
-        "duration": "21:34",
-        "channel": "romabriere"
-    },
-    {
         "id": "gMvOYJex4Tc",
         "parentid": "P_e642c809",
         "soap": "GH",
@@ -2577,6 +2565,18 @@
         "part": "1",
         "total": "2",
         "duration": "21:07",
+        "channel": "romabriere"
+    },
+    {
+        "id": "UUOULenKhYE",
+        "parentid": "P_e642c809",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "12/31/1981",
+        "part": "2",
+        "total": "2",
+        "duration": "21:34",
         "channel": "romabriere"
     },
     {
@@ -2590,66 +2590,6 @@
         "total": "1",
         "duration": "02:01",
         "channel": "theystartedonsoaps"
-    },
-    {
-        "id": "4MnOZ4IgvfQ",
-        "parentid": "P_b00e9e54",
-        "soap": "GH",
-        "category": "A",
-        "title": "Rick/Lesley Laura Presumed Dead",
-        "date": "01/01/1982",
-        "part": "1",
-        "total": "3",
-        "duration": "14:51",
-        "channel": "romabriere"
-    },
-    {
-        "id": "CTPP7FtAe0I",
-        "parentid": "P_b00e9e54",
-        "soap": "GH",
-        "category": "A",
-        "title": "Rick/Lesley Laura Presumed Dead",
-        "date": "01/01/1982",
-        "part": "2",
-        "total": "3",
-        "duration": "14:37",
-        "channel": "romabriere"
-    },
-    {
-        "id": "pu1RSbQI7dI",
-        "parentid": "P_b00e9e54",
-        "soap": "GH",
-        "category": "A",
-        "title": "Rick/Lesley Laura Presumed Dead",
-        "date": "01/01/1982",
-        "part": "3",
-        "total": "3",
-        "duration": "14:03",
-        "channel": "romabriere"
-    },
-    {
-        "id": "9gUH8_5-fcM",
-        "parentid": "P_893b3cff",
-        "soap": "GH",
-        "category": "A",
-        "title": "New Year's Day Episode",
-        "date": "01/01/1982",
-        "part": "1",
-        "total": "2",
-        "duration": "21:47",
-        "channel": "romabriere"
-    },
-    {
-        "id": "0sk1OWCdcX0",
-        "parentid": "P_893b3cff",
-        "soap": "GH",
-        "category": "A",
-        "title": "New Year's Day Episode",
-        "date": "01/01/1982",
-        "part": "2",
-        "total": "2",
-        "duration": "20:25",
-        "channel": "romabriere"
     },
     {
         "id": "D0xU6e8VKUU",
@@ -2688,15 +2628,63 @@
         "channel": "judybeck"
     },
     {
-        "id": "vo5khC5duG4",
-        "parentid": "P_39915525",
+        "id": "9gUH8_5-fcM",
+        "parentid": "P_893b3cff",
         "soap": "GH",
         "category": "A",
-        "title": "Episode",
-        "date": "01/04/1982",
+        "title": "New Year's Day Episode",
+        "date": "01/01/1982",
+        "part": "1",
+        "total": "2",
+        "duration": "21:47",
+        "channel": "romabriere"
+    },
+    {
+        "id": "0sk1OWCdcX0",
+        "parentid": "P_893b3cff",
+        "soap": "GH",
+        "category": "A",
+        "title": "New Year's Day Episode",
+        "date": "01/01/1982",
         "part": "2",
         "total": "2",
-        "duration": "18:36",
+        "duration": "20:25",
+        "channel": "romabriere"
+    },
+    {
+        "id": "4MnOZ4IgvfQ",
+        "parentid": "P_b00e9e54",
+        "soap": "GH",
+        "category": "A",
+        "title": "Rick/Lesley Laura Presumed Dead",
+        "date": "01/01/1982",
+        "part": "1",
+        "total": "3",
+        "duration": "14:51",
+        "channel": "romabriere"
+    },
+    {
+        "id": "CTPP7FtAe0I",
+        "parentid": "P_b00e9e54",
+        "soap": "GH",
+        "category": "A",
+        "title": "Rick/Lesley Laura Presumed Dead",
+        "date": "01/01/1982",
+        "part": "2",
+        "total": "3",
+        "duration": "14:37",
+        "channel": "romabriere"
+    },
+    {
+        "id": "pu1RSbQI7dI",
+        "parentid": "P_b00e9e54",
+        "soap": "GH",
+        "category": "A",
+        "title": "Rick/Lesley Laura Presumed Dead",
+        "date": "01/01/1982",
+        "part": "3",
+        "total": "3",
+        "duration": "14:03",
         "channel": "romabriere"
     },
     {
@@ -2709,6 +2697,30 @@
         "part": "1",
         "total": "2",
         "duration": "23:51",
+        "channel": "romabriere"
+    },
+    {
+        "id": "vo5khC5duG4",
+        "parentid": "P_39915525",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/04/1982",
+        "part": "2",
+        "total": "2",
+        "duration": "18:36",
+        "channel": "romabriere"
+    },
+    {
+        "id": "bkUBkiQkhs8",
+        "parentid": "",
+        "soap": "GH",
+        "category": "A",
+        "title": "Rick/Lesley to 01-05-82 Dr. Bradshaws Party",
+        "date": "01/05/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "10:02",
         "channel": "romabriere"
     },
     {
@@ -2736,18 +2748,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "bkUBkiQkhs8",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Rick/Lesley to 01-05-82 Dr. Bradshaws Party",
-        "date": "01/05/1982",
-        "part": "1",
-        "total": "1",
-        "duration": "10:02",
-        "channel": "romabriere"
-    },
-    {
         "id": "gBo9dKnyMso",
         "parentid": "P_28f06d7e",
         "soap": "GH",
@@ -2772,6 +2772,18 @@
         "channel": "romabriere"
     },
     {
+        "id": "5XFWzfaLSj4",
+        "parentid": "",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/07/1982",
+        "part": "1",
+        "total": "2",
+        "duration": "19:16",
+        "channel": "romabriere"
+    },
+    {
         "id": "mPRze0Fl4ww",
         "parentid": "",
         "soap": "GH",
@@ -2784,15 +2796,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "5XFWzfaLSj4",
+        "id": "3BCfxUE2it8",
         "parentid": "",
         "soap": "GH",
         "category": "A",
-        "title": "Episode",
-        "date": "01/07/1982",
+        "title": "Rick/Lesley Mikes Adoption",
+        "date": "01/08/1982",
         "part": "1",
-        "total": "2",
-        "duration": "19:16",
+        "total": "1",
+        "duration": "12:32",
         "channel": "romabriere"
     },
     {
@@ -2817,18 +2829,6 @@
         "part": "2",
         "total": "2",
         "duration": "21:38",
-        "channel": "romabriere"
-    },
-    {
-        "id": "3BCfxUE2it8",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Rick/Lesley Mikes Adoption",
-        "date": "01/08/1982",
-        "part": "1",
-        "total": "1",
-        "duration": "12:32",
         "channel": "romabriere"
     },
     {
@@ -2880,15 +2880,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "KogIlT9VjX8",
-        "parentid": "P_2916dfe4",
+        "id": "pTnws0jtzGM",
+        "parentid": "",
         "soap": "GH",
         "category": "A",
-        "title": "Episode",
+        "title": "Rick/Lesley Webbers Vs Baldwins",
         "date": "01/13/1982",
-        "part": "2",
-        "total": "2",
-        "duration": "19:50",
+        "part": "1",
+        "total": "1",
+        "duration": "14:25",
         "channel": "romabriere"
     },
     {
@@ -2904,27 +2904,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "pTnws0jtzGM",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Rick/Lesley Webbers Vs Baldwins",
-        "date": "01/13/1982",
-        "part": "1",
-        "total": "1",
-        "duration": "14:25",
-        "channel": "romabriere"
-    },
-    {
-        "id": "0MNUdTwB3r0",
-        "parentid": "P_4960a613",
+        "id": "KogIlT9VjX8",
+        "parentid": "P_2916dfe4",
         "soap": "GH",
         "category": "A",
         "title": "Episode",
-        "date": "01/14/1982",
+        "date": "01/13/1982",
         "part": "2",
         "total": "2",
-        "duration": "17:58",
+        "duration": "19:50",
         "channel": "romabriere"
     },
     {
@@ -2937,6 +2925,18 @@
         "part": "1",
         "total": "2",
         "duration": "24:09",
+        "channel": "romabriere"
+    },
+    {
+        "id": "0MNUdTwB3r0",
+        "parentid": "P_4960a613",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/14/1982",
+        "part": "2",
+        "total": "2",
+        "duration": "17:58",
         "channel": "romabriere"
     },
     {
@@ -3000,15 +3000,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "HwbZqyAsBDA",
-        "parentid": "P_2681cb22",
+        "id": "wTSgJRSMOVA",
+        "parentid": "",
         "soap": "GH",
         "category": "A",
-        "title": "Episode",
+        "title": "Rick/Lesley - The Webber's Get Their Christmas Tree",
         "date": "01/15/1982",
-        "part": "2",
-        "total": "2",
-        "duration": "19:30",
+        "part": "1",
+        "total": "1",
+        "duration": "12:03",
         "channel": "romabriere"
     },
     {
@@ -3024,15 +3024,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "wTSgJRSMOVA",
-        "parentid": "",
+        "id": "HwbZqyAsBDA",
+        "parentid": "P_2681cb22",
         "soap": "GH",
         "category": "A",
-        "title": "Rick/Lesley - The Webber's Get Their Christmas Tree",
+        "title": "Episode",
         "date": "01/15/1982",
-        "part": "1",
-        "total": "1",
-        "duration": "12:03",
+        "part": "2",
+        "total": "2",
+        "duration": "19:30",
         "channel": "romabriere"
     },
     {
@@ -3072,18 +3072,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "qG7xWLOc40o",
-        "parentid": "P_84104a02",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "01/20/1982",
-        "part": "2",
-        "total": "2",
-        "duration": "18:19",
-        "channel": "romabriere"
-    },
-    {
         "id": "m-svWJVtsAU",
         "parentid": "P_84104a02",
         "soap": "GH",
@@ -3093,6 +3081,18 @@
         "part": "1",
         "total": "2",
         "duration": "24:35",
+        "channel": "romabriere"
+    },
+    {
+        "id": "qG7xWLOc40o",
+        "parentid": "P_84104a02",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/20/1982",
+        "part": "2",
+        "total": "2",
+        "duration": "18:19",
         "channel": "romabriere"
     },
     {
@@ -3120,18 +3120,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "NIvT0iSCjUY",
-        "parentid": "P_aca920bd",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "01/21/1982",
-        "part": "2",
-        "total": "2",
-        "duration": "16:39",
-        "channel": "romabriere"
-    },
-    {
         "id": "GcQE0ljK1pc",
         "parentid": "P_aca920bd",
         "soap": "GH",
@@ -3141,6 +3129,18 @@
         "part": "1",
         "total": "2",
         "duration": "21:30",
+        "channel": "romabriere"
+    },
+    {
+        "id": "NIvT0iSCjUY",
+        "parentid": "P_aca920bd",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/21/1982",
+        "part": "2",
+        "total": "2",
+        "duration": "16:39",
         "channel": "romabriere"
     },
     {
@@ -3168,6 +3168,18 @@
         "channel": "romabriere"
     },
     {
+        "id": "E0S8aBo0I0M",
+        "parentid": "",
+        "soap": "GH",
+        "category": "A",
+        "title": "Rick/Lesley Lesley Bonds With Laura #3",
+        "date": "01/25/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "10:19",
+        "channel": "romabriere"
+    },
+    {
         "id": "fevXlcGj8m4",
         "parentid": "P_50cf2031",
         "soap": "GH",
@@ -3192,18 +3204,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "E0S8aBo0I0M",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Rick/Lesley Lesley Bonds With Laura #3",
-        "date": "01/25/1982",
-        "part": "1",
-        "total": "1",
-        "duration": "10:19",
-        "channel": "romabriere"
-    },
-    {
         "id": "Ipzr7aJis5Q",
         "parentid": "",
         "soap": "GH",
@@ -3213,30 +3213,6 @@
         "part": "1",
         "total": "1",
         "duration": "09:22",
-        "channel": "romabriere"
-    },
-    {
-        "id": "r7jbvQCbAf8",
-        "parentid": "P_caa08d6b",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "01/28/1982",
-        "part": "1",
-        "total": "2",
-        "duration": "20:41",
-        "channel": "romabriere"
-    },
-    {
-        "id": "IZGBBPE-lA4",
-        "parentid": "P_caa08d6b",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "01/28/1982",
-        "part": "2",
-        "total": "2",
-        "duration": "21:56",
         "channel": "romabriere"
     },
     {
@@ -3276,15 +3252,27 @@
         "channel": "romabriere"
     },
     {
-        "id": "k1X20s8rec0",
-        "parentid": "P_e5e58a42",
+        "id": "r7jbvQCbAf8",
+        "parentid": "P_caa08d6b",
         "soap": "GH",
         "category": "A",
         "title": "Episode",
-        "date": "01/29/1982",
+        "date": "01/28/1982",
+        "part": "1",
+        "total": "2",
+        "duration": "20:41",
+        "channel": "romabriere"
+    },
+    {
+        "id": "IZGBBPE-lA4",
+        "parentid": "P_caa08d6b",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/28/1982",
         "part": "2",
         "total": "2",
-        "duration": "19:25",
+        "duration": "21:56",
         "channel": "romabriere"
     },
     {
@@ -3297,6 +3285,18 @@
         "part": "1",
         "total": "2",
         "duration": "22:30",
+        "channel": "romabriere"
+    },
+    {
+        "id": "k1X20s8rec0",
+        "parentid": "P_e5e58a42",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/29/1982",
+        "part": "2",
+        "total": "2",
+        "duration": "19:25",
         "channel": "romabriere"
     },
     {
@@ -3432,18 +3432,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "y_ncMF1HqUc",
-        "parentid": "P_0610213f",
-        "soap": "GH",
-        "category": "A",
-        "title": "Rick/Lesley Dollar Day",
-        "date": "02/17/1982",
-        "part": "4",
-        "total": "7",
-        "duration": "13:25",
-        "channel": "romabriere"
-    },
-    {
         "id": "t3vOST_paBg",
         "parentid": "P_0610213f",
         "soap": "GH",
@@ -3453,6 +3441,18 @@
         "part": "3",
         "total": "7",
         "duration": "14:50",
+        "channel": "romabriere"
+    },
+    {
+        "id": "y_ncMF1HqUc",
+        "parentid": "P_0610213f",
+        "soap": "GH",
+        "category": "A",
+        "title": "Rick/Lesley Dollar Day",
+        "date": "02/17/1982",
+        "part": "4",
+        "total": "7",
+        "duration": "13:25",
         "channel": "romabriere"
     },
     {
@@ -3552,6 +3552,18 @@
         "channel": "romabriere"
     },
     {
+        "id": "UwMlr6i2Dqo",
+        "parentid": "P_e44d74bf",
+        "soap": "GH",
+        "category": "A",
+        "title": "Rick/Lesley After Dollar Day",
+        "date": "03/11/1982",
+        "part": "6",
+        "total": "8",
+        "duration": "15:07",
+        "channel": "romabriere"
+    },
+    {
         "id": "x7F9LB6qQM0",
         "parentid": "P_e44d74bf",
         "soap": "GH",
@@ -3573,18 +3585,6 @@
         "part": "8",
         "total": "8",
         "duration": "14:39",
-        "channel": "romabriere"
-    },
-    {
-        "id": "UwMlr6i2Dqo",
-        "parentid": "P_e44d74bf",
-        "soap": "GH",
-        "category": "A",
-        "title": "Rick/Lesley After Dollar Day",
-        "date": "03/11/1982",
-        "part": "6",
-        "total": "8",
-        "duration": "15:07",
         "channel": "romabriere"
     },
     {
@@ -3780,18 +3780,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "w_0q0p86N5A",
-        "parentid": "P_a6ec0f4b",
-        "soap": "GH",
-        "category": "A",
-        "title": "The Webbers Vs. The Waterfront Mob",
-        "date": "05/07/1982",
-        "part": "2",
-        "total": "3",
-        "duration": "7:45",
-        "channel": "romabriere"
-    },
-    {
         "id": "yz22bXPZSlU",
         "parentid": "P_a6ec0f4b",
         "soap": "GH",
@@ -3801,6 +3789,18 @@
         "part": "1",
         "total": "2",
         "duration": "11:28",
+        "channel": "romabriere"
+    },
+    {
+        "id": "w_0q0p86N5A",
+        "parentid": "P_a6ec0f4b",
+        "soap": "GH",
+        "category": "A",
+        "title": "The Webbers Vs. The Waterfront Mob",
+        "date": "05/07/1982",
+        "part": "2",
+        "total": "3",
+        "duration": "7:45",
         "channel": "romabriere"
     },
     {
@@ -3924,18 +3924,6 @@
         "channel": "rhsharp"
     },
     {
-        "id": "0eZBRUIya7o",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "06/02/1982",
-        "part": "2",
-        "total": "2",
-        "duration": "18:15",
-        "channel": "romabriere"
-    },
-    {
         "id": "Hg6rnyapiUA",
         "parentid": "",
         "soap": "GH",
@@ -3945,6 +3933,18 @@
         "part": "1",
         "total": "2",
         "duration": "23:39",
+        "channel": "romabriere"
+    },
+    {
+        "id": "0eZBRUIya7o",
+        "parentid": "",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "06/02/1982",
+        "part": "2",
+        "total": "2",
+        "duration": "18:15",
         "channel": "romabriere"
     },
     {
@@ -4044,18 +4044,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "BElqwjmiVHE",
-        "parentid": "P_20e3c7b1",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "06/09/1982",
-        "part": "2",
-        "total": "2",
-        "duration": "20:57",
-        "channel": "romabriere"
-    },
-    {
         "id": "4Cj7zl7vQmU",
         "parentid": "P_20e3c7b1",
         "soap": "GH",
@@ -4065,6 +4053,18 @@
         "part": "1",
         "total": "2",
         "duration": "21:39",
+        "channel": "romabriere"
+    },
+    {
+        "id": "BElqwjmiVHE",
+        "parentid": "P_20e3c7b1",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "06/09/1982",
+        "part": "2",
+        "total": "2",
+        "duration": "20:57",
         "channel": "romabriere"
     },
     {
@@ -4092,18 +4092,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "kGvHrQNMmdo",
-        "parentid": "P_4bc106b6",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "06/11/1982",
-        "part": "2",
-        "total": "2",
-        "duration": "19:02",
-        "channel": "romabriere"
-    },
-    {
         "id": "_JNIXAjeiQQ",
         "parentid": "P_4bc106b6",
         "soap": "GH",
@@ -4116,15 +4104,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "Y52nTsMK_Ek",
-        "parentid": "P_324ed406",
+        "id": "kGvHrQNMmdo",
+        "parentid": "P_4bc106b6",
         "soap": "GH",
         "category": "A",
         "title": "Episode",
-        "date": "06/14/1982",
+        "date": "06/11/1982",
         "part": "2",
         "total": "2",
-        "duration": "16:25",
+        "duration": "19:02",
         "channel": "romabriere"
     },
     {
@@ -4140,15 +4128,27 @@
         "channel": "romabriere"
     },
     {
-        "id": "AGjBi6S1BSg",
-        "parentid": "P_9d596b2b",
+        "id": "Y52nTsMK_Ek",
+        "parentid": "P_324ed406",
         "soap": "GH",
         "category": "A",
         "title": "Episode",
-        "date": "06/16/1982",
+        "date": "06/14/1982",
         "part": "2",
         "total": "2",
-        "duration": "16:28",
+        "duration": "16:25",
+        "channel": "romabriere"
+    },
+    {
+        "id": "GfUlUYkDENI",
+        "parentid": "P_4063e428",
+        "soap": "GH",
+        "category": "A",
+        "title": "Rick/Lesley - Showdown at The Haunted Star",
+        "date": "06/16/1982",
+        "part": "1",
+        "total": "2",
+        "duration": "14:34",
         "channel": "romabriere"
     },
     {
@@ -4164,15 +4164,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "GfUlUYkDENI",
-        "parentid": "P_4063e428",
+        "id": "AGjBi6S1BSg",
+        "parentid": "P_9d596b2b",
         "soap": "GH",
         "category": "A",
-        "title": "Rick/Lesley - Showdown at The Haunted Star",
+        "title": "Episode",
         "date": "06/16/1982",
-        "part": "1",
+        "part": "2",
         "total": "2",
-        "duration": "14:34",
+        "duration": "16:28",
         "channel": "romabriere"
     },
     {
@@ -4236,6 +4236,18 @@
         "channel": "romabriere"
     },
     {
+        "id": "40LxVZuiBBQ",
+        "parentid": "",
+        "soap": "GH",
+        "category": "A",
+        "title": "Rick/Lesley The End for David Gray",
+        "date": "06/21/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "09:54",
+        "channel": "romabriere"
+    },
+    {
         "id": "ZgP1YoXHeM4",
         "parentid": "P_e0b76190",
         "soap": "GH",
@@ -4260,27 +4272,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "40LxVZuiBBQ",
+        "id": "p82tgTYCZaQ",
         "parentid": "",
         "soap": "GH",
         "category": "A",
-        "title": "Rick/Lesley The End for David Gray",
-        "date": "06/21/1982",
+        "title": "Rick/Lesley to 06-23-82 The Sponge",
+        "date": "06/23/1982",
         "part": "1",
         "total": "1",
-        "duration": "09:54",
-        "channel": "romabriere"
-    },
-    {
-        "id": "BMDHdg4YsHU",
-        "parentid": "P_673e50d8",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "06/23/1982",
-        "part": "2",
-        "total": "2",
-        "duration": "19:53",
+        "duration": "10:43",
         "channel": "romabriere"
     },
     {
@@ -4296,15 +4296,27 @@
         "channel": "romabriere"
     },
     {
-        "id": "p82tgTYCZaQ",
+        "id": "BMDHdg4YsHU",
+        "parentid": "P_673e50d8",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "06/23/1982",
+        "part": "2",
+        "total": "2",
+        "duration": "19:53",
+        "channel": "romabriere"
+    },
+    {
+        "id": "0wQQPwb4WL4",
         "parentid": "",
         "soap": "GH",
         "category": "A",
-        "title": "Rick/Lesley to 06-23-82 The Sponge",
-        "date": "06/23/1982",
+        "title": "Rick/Lesley - Amy's Grad Party",
+        "date": "06/25/1982",
         "part": "1",
         "total": "1",
-        "duration": "10:43",
+        "duration": "10:07",
         "channel": "romabriere"
     },
     {
@@ -4332,15 +4344,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "0wQQPwb4WL4",
-        "parentid": "",
+        "id": "aILzWZTJSKw",
+        "parentid": "P_903326b3",
         "soap": "GH",
         "category": "A",
-        "title": "Rick/Lesley - Amy's Grad Party",
-        "date": "06/25/1982",
+        "title": "Episode",
+        "date": "06/28/1982",
         "part": "1",
-        "total": "1",
-        "duration": "10:07",
+        "total": "2",
+        "duration": "24:24",
         "channel": "romabriere"
     },
     {
@@ -4356,18 +4368,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "aILzWZTJSKw",
-        "parentid": "P_903326b3",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "06/28/1982",
-        "part": "1",
-        "total": "2",
-        "duration": "24:24",
-        "channel": "romabriere"
-    },
-    {
         "id": "TH5UnA8iXtY",
         "parentid": "",
         "soap": "GH",
@@ -4377,18 +4377,6 @@
         "part": "1",
         "total": "1",
         "duration": "06:32",
-        "channel": "romabriere"
-    },
-    {
-        "id": "MVHpZOcUFCc",
-        "parentid": "P_5524c279",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "06/30/1982",
-        "part": "2",
-        "total": "2",
-        "duration": "15:59",
         "channel": "romabriere"
     },
     {
@@ -4404,6 +4392,18 @@
         "channel": "romabriere"
     },
     {
+        "id": "MVHpZOcUFCc",
+        "parentid": "P_5524c279",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "06/30/1982",
+        "part": "2",
+        "total": "2",
+        "duration": "15:59",
+        "channel": "romabriere"
+    },
+    {
         "id": "fCgiCaXKz5E",
         "parentid": "",
         "soap": "GH",
@@ -4413,18 +4413,6 @@
         "part": "1",
         "total": "1",
         "duration": "11:57",
-        "channel": "romabriere"
-    },
-    {
-        "id": "DQWG4cZlYGw",
-        "parentid": "P_05e587b2",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "07/02/1982",
-        "part": "2",
-        "total": "2",
-        "duration": "17:22",
         "channel": "romabriere"
     },
     {
@@ -4440,15 +4428,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "Gy5xSBJ6X2o",
-        "parentid": "P_1f46405e",
+        "id": "DQWG4cZlYGw",
+        "parentid": "P_05e587b2",
         "soap": "GH",
         "category": "A",
         "title": "Episode",
-        "date": "07/05/1982",
+        "date": "07/02/1982",
         "part": "2",
         "total": "2",
-        "duration": "20:23",
+        "duration": "17:22",
         "channel": "romabriere"
     },
     {
@@ -4464,27 +4452,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "HiKEMfvdyyM",
-        "parentid": "P_76f1a9b5",
+        "id": "Gy5xSBJ6X2o",
+        "parentid": "P_1f46405e",
         "soap": "GH",
         "category": "A",
         "title": "Episode",
-        "date": "07/08/1982",
-        "part": "1",
-        "total": "2",
-        "duration": "24:38",
-        "channel": "romabriere"
-    },
-    {
-        "id": "gpzvlT4XZNw",
-        "parentid": "P_76f1a9b5",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "07/08/1982",
+        "date": "07/05/1982",
         "part": "2",
         "total": "2",
-        "duration": "17:24",
+        "duration": "20:23",
         "channel": "romabriere"
     },
     {
@@ -4536,6 +4512,30 @@
         "channel": "romabriere"
     },
     {
+        "id": "HiKEMfvdyyM",
+        "parentid": "P_76f1a9b5",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/08/1982",
+        "part": "1",
+        "total": "2",
+        "duration": "24:38",
+        "channel": "romabriere"
+    },
+    {
+        "id": "gpzvlT4XZNw",
+        "parentid": "P_76f1a9b5",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/08/1982",
+        "part": "2",
+        "total": "2",
+        "duration": "17:24",
+        "channel": "romabriere"
+    },
+    {
         "id": "CBZ08F56VKo",
         "parentid": "P_f3f996a3",
         "soap": "GH",
@@ -4572,18 +4572,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "6D1Cy6UnJug",
-        "parentid": "P_88b4bd96",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "07/14/1982",
-        "part": "2",
-        "total": "2",
-        "duration": "15:27",
-        "channel": "romabriere"
-    },
-    {
         "id": "HEI6jKJA_JI",
         "parentid": "P_88b4bd96",
         "soap": "GH",
@@ -4593,6 +4581,18 @@
         "part": "1",
         "total": "2",
         "duration": "26:39",
+        "channel": "romabriere"
+    },
+    {
+        "id": "6D1Cy6UnJug",
+        "parentid": "P_88b4bd96",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/14/1982",
+        "part": "2",
+        "total": "2",
+        "duration": "15:27",
         "channel": "romabriere"
     },
     {
@@ -4668,6 +4668,18 @@
         "channel": "romabriere"
     },
     {
+        "id": "kRLKhctRuM0",
+        "parentid": "",
+        "soap": "GH",
+        "category": "A",
+        "title": "Rick/Lesley Rick takes on Anthony Hand",
+        "date": "07/21/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "15:15",
+        "channel": "romabriere"
+    },
+    {
         "id": "4SUfFkzEO6g",
         "parentid": "P_254cdbe8",
         "soap": "GH",
@@ -4692,15 +4704,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "kRLKhctRuM0",
+        "id": "lmOWuNkPcig",
         "parentid": "",
         "soap": "GH",
         "category": "A",
-        "title": "Rick/Lesley Rick takes on Anthony Hand",
-        "date": "07/21/1982",
+        "title": "Episode",
+        "date": "07/23/1982",
         "part": "1",
         "total": "1",
-        "duration": "15:15",
+        "duration": "41:44",
         "channel": "romabriere"
     },
     {
@@ -4728,15 +4740,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "lmOWuNkPcig",
+        "id": "Jp8IDtGLcpo",
         "parentid": "",
         "soap": "GH",
         "category": "A",
         "title": "Episode",
-        "date": "07/23/1982",
+        "date": "07/26/1982",
         "part": "1",
-        "total": "1",
-        "duration": "41:44",
+        "total": "2",
+        "duration": "23:41",
         "channel": "romabriere"
     },
     {
@@ -4749,18 +4761,6 @@
         "part": "2",
         "total": "2",
         "duration": "18:24",
-        "channel": "romabriere"
-    },
-    {
-        "id": "Jp8IDtGLcpo",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "07/26/1982",
-        "part": "1",
-        "total": "2",
-        "duration": "23:41",
         "channel": "romabriere"
     },
     {
@@ -4788,18 +4788,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "Va--H2waP0M",
-        "parentid": "P_1eac4e79",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "07/29/1982",
-        "part": "2",
-        "total": "2",
-        "duration": "16:37",
-        "channel": "romabriere"
-    },
-    {
         "id": "wjceEba_VrA",
         "parentid": "P_1eac4e79",
         "soap": "GH",
@@ -4809,6 +4797,18 @@
         "part": "1",
         "total": "2",
         "duration": "25:29",
+        "channel": "romabriere"
+    },
+    {
+        "id": "Va--H2waP0M",
+        "parentid": "P_1eac4e79",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/29/1982",
+        "part": "2",
+        "total": "2",
+        "duration": "16:37",
         "channel": "romabriere"
     },
     {
@@ -4836,18 +4836,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "7U-bWukuNWc",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "07/30/1982",
-        "part": "2",
-        "total": "2",
-        "duration": "16:14",
-        "channel": "romabriere"
-    },
-    {
         "id": "nVtI4VwImVQ",
         "parentid": "",
         "soap": "GH",
@@ -4857,6 +4845,18 @@
         "part": "1",
         "total": "2",
         "duration": "25:39:00",
+        "channel": "romabriere"
+    },
+    {
+        "id": "7U-bWukuNWc",
+        "parentid": "",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/30/1982",
+        "part": "2",
+        "total": "2",
+        "duration": "16:14",
         "channel": "romabriere"
     },
     {
@@ -4968,18 +4968,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "sCQqY5lN-aw",
-        "parentid": "P_f99a6784",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "08/11/1982",
-        "part": "2",
-        "total": "2",
-        "duration": "18:53",
-        "channel": "romabriere"
-    },
-    {
         "id": "-iU45rQGGvE",
         "parentid": "P_f99a6784",
         "soap": "GH",
@@ -4989,6 +4977,18 @@
         "part": "1",
         "total": "2",
         "duration": "23:21",
+        "channel": "romabriere"
+    },
+    {
+        "id": "sCQqY5lN-aw",
+        "parentid": "P_f99a6784",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/11/1982",
+        "part": "2",
+        "total": "2",
+        "duration": "18:53",
         "channel": "romabriere"
     },
     {
@@ -5004,18 +5004,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "Gg3IUJDa9Dw",
-        "parentid": "P_4e91932e",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "08/13/1982",
-        "part": "2",
-        "total": "2",
-        "duration": "17:12",
-        "channel": "romabriere"
-    },
-    {
         "id": "MZZqo0MkSdY",
         "parentid": "P_4e91932e",
         "soap": "GH",
@@ -5025,6 +5013,18 @@
         "part": "1",
         "total": "2",
         "duration": "25:55",
+        "channel": "romabriere"
+    },
+    {
+        "id": "Gg3IUJDa9Dw",
+        "parentid": "P_4e91932e",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/13/1982",
+        "part": "2",
+        "total": "2",
+        "duration": "17:12",
         "channel": "romabriere"
     },
     {
@@ -5052,18 +5052,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "vPdUSwuLZas",
-        "parentid": "P_f57496f9",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "08/18/1982",
-        "part": "2",
-        "total": "2",
-        "duration": "16:33",
-        "channel": "romabriere"
-    },
-    {
         "id": "FjgUr0hdZCA",
         "parentid": "P_f57496f9",
         "soap": "GH",
@@ -5073,6 +5061,18 @@
         "part": "1",
         "total": "2",
         "duration": "26:39",
+        "channel": "romabriere"
+    },
+    {
+        "id": "vPdUSwuLZas",
+        "parentid": "P_f57496f9",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/18/1982",
+        "part": "2",
+        "total": "2",
+        "duration": "16:33",
         "channel": "romabriere"
     },
     {
@@ -5088,18 +5088,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "XgnAGe-CLUE",
-        "parentid": "P_641ba614",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "08/20/1982",
-        "part": "2",
-        "total": "2",
-        "duration": "16:55",
-        "channel": "romabriere"
-    },
-    {
         "id": "0XHa6JQGOcw",
         "parentid": "P_641ba614",
         "soap": "GH",
@@ -5109,6 +5097,18 @@
         "part": "1",
         "total": "2",
         "duration": "25:50",
+        "channel": "romabriere"
+    },
+    {
+        "id": "XgnAGe-CLUE",
+        "parentid": "P_641ba614",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/20/1982",
+        "part": "2",
+        "total": "2",
+        "duration": "16:55",
         "channel": "romabriere"
     },
     {
@@ -5340,18 +5340,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "1kgy8JZbsyE",
-        "parentid": "P_9d43bce0",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "10/15/1982",
-        "part": "1",
-        "total": "2",
-        "duration": "24:03",
-        "channel": "romabriere"
-    },
-    {
         "id": "60IqyU8hYCg",
         "parentid": "",
         "soap": "GH",
@@ -5364,15 +5352,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "M8Pl2KK8IPw",
-        "parentid": "P_e956bd01",
+        "id": "1kgy8JZbsyE",
+        "parentid": "P_9d43bce0",
         "soap": "GH",
         "category": "A",
         "title": "Episode",
-        "date": "10/19/1982",
-        "part": "2",
+        "date": "10/15/1982",
+        "part": "1",
         "total": "2",
-        "duration": "17:39",
+        "duration": "24:03",
         "channel": "romabriere"
     },
     {
@@ -5385,6 +5373,18 @@
         "part": "1",
         "total": "2",
         "duration": "25:30:00",
+        "channel": "romabriere"
+    },
+    {
+        "id": "M8Pl2KK8IPw",
+        "parentid": "P_e956bd01",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "10/19/1982",
+        "part": "2",
+        "total": "2",
+        "duration": "17:39",
         "channel": "romabriere"
     },
     {
@@ -5412,15 +5412,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "ONocfXJIIuk",
-        "parentid": "P_2eccfb2b",
+        "id": "c65gsw0Sm3A",
+        "parentid": "",
         "soap": "GH",
         "category": "A",
-        "title": "Episode",
+        "title": "Rick/Lesley - Everyone Sneaks In To See Luke",
         "date": "10/21/1982",
-        "part": "2",
-        "total": "2",
-        "duration": "21:24",
+        "part": "1",
+        "total": "1",
+        "duration": "12:06",
         "channel": "romabriere"
     },
     {
@@ -5436,15 +5436,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "c65gsw0Sm3A",
-        "parentid": "",
+        "id": "ONocfXJIIuk",
+        "parentid": "P_2eccfb2b",
         "soap": "GH",
         "category": "A",
-        "title": "Rick/Lesley - Everyone Sneaks In To See Luke",
+        "title": "Episode",
         "date": "10/21/1982",
-        "part": "1",
-        "total": "1",
-        "duration": "12:06",
+        "part": "2",
+        "total": "2",
+        "duration": "21:24",
         "channel": "romabriere"
     },
     {
@@ -5484,18 +5484,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "R78MCyjfLqU",
-        "parentid": "P_6f83880b",
-        "soap": "GH",
-        "category": "A",
-        "title": "Les Tries to Raise Money For The Sports Center",
-        "date": "10/28/1982",
-        "part": "2",
-        "total": "2",
-        "duration": "5:50",
-        "channel": "romabriere"
-    },
-    {
         "id": "g-0Igt8-lvY",
         "parentid": "P_4063e428",
         "soap": "GH",
@@ -5505,6 +5493,18 @@
         "part": "1",
         "total": "2",
         "duration": "13:33",
+        "channel": "romabriere"
+    },
+    {
+        "id": "R78MCyjfLqU",
+        "parentid": "P_6f83880b",
+        "soap": "GH",
+        "category": "A",
+        "title": "Les Tries to Raise Money For The Sports Center",
+        "date": "10/28/1982",
+        "part": "2",
+        "total": "2",
+        "duration": "5:50",
         "channel": "romabriere"
     },
     {
@@ -5616,18 +5616,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "1KFyEhfcqMU",
-        "parentid": "P_93ac927b",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "12/07/1982",
-        "part": "2",
-        "total": "2",
-        "duration": "19:17",
-        "channel": "romabriere"
-    },
-    {
         "id": "VxA7zEoFWD8",
         "parentid": "P_93ac927b",
         "soap": "GH",
@@ -5637,6 +5625,18 @@
         "part": "1",
         "total": "2",
         "duration": "22:51",
+        "channel": "romabriere"
+    },
+    {
+        "id": "1KFyEhfcqMU",
+        "parentid": "P_93ac927b",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "12/07/1982",
+        "part": "2",
+        "total": "2",
+        "duration": "19:17",
         "channel": "romabriere"
     },
     {
@@ -5832,30 +5832,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "JJecy0FLn3o",
-        "parentid": "P_77e25d3d",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "01/04/1983",
-        "part": "2",
-        "total": "2",
-        "duration": "19:42",
-        "channel": "romabriere"
-    },
-    {
-        "id": "WT3rxw1YayM",
-        "parentid": "P_77e25d3d",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "01/04/1983",
-        "part": "1",
-        "total": "2",
-        "duration": "23:08",
-        "channel": "romabriere"
-    },
-    {
         "id": "crgKAeBntS0",
         "parentid": "",
         "soap": "GH",
@@ -5880,15 +5856,27 @@
         "channel": "romabriere"
     },
     {
-        "id": "ZjrHMfkIRaI",
-        "parentid": "P_487dedbd",
+        "id": "WT3rxw1YayM",
+        "parentid": "P_77e25d3d",
         "soap": "GH",
         "category": "A",
         "title": "Episode",
-        "date": "01/05/1983",
+        "date": "01/04/1983",
+        "part": "1",
+        "total": "2",
+        "duration": "23:08",
+        "channel": "romabriere"
+    },
+    {
+        "id": "JJecy0FLn3o",
+        "parentid": "P_77e25d3d",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/04/1983",
         "part": "2",
         "total": "2",
-        "duration": "17:56",
+        "duration": "19:42",
         "channel": "romabriere"
     },
     {
@@ -5901,6 +5889,18 @@
         "part": "1",
         "total": "2",
         "duration": "24:50",
+        "channel": "romabriere"
+    },
+    {
+        "id": "ZjrHMfkIRaI",
+        "parentid": "P_487dedbd",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/05/1983",
+        "part": "2",
+        "total": "2",
+        "duration": "17:56",
         "channel": "romabriere"
     },
     {
@@ -5928,6 +5928,18 @@
         "channel": "romabriere"
     },
     {
+        "id": "4BS4wW7aRlU",
+        "parentid": "P_8c8f7a96",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/10/1983",
+        "part": "1",
+        "total": "2",
+        "duration": "25:33:00",
+        "channel": "romabriere"
+    },
+    {
         "id": "5CC8v3N0-ko",
         "parentid": "P_8c8f7a96",
         "soap": "GH",
@@ -5940,15 +5952,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "4BS4wW7aRlU",
-        "parentid": "P_8c8f7a96",
+        "id": "LU4g1C5v-Vo",
+        "parentid": "",
         "soap": "GH",
         "category": "A",
-        "title": "Episode",
-        "date": "01/10/1983",
+        "title": "Rick/Lesley - Johnny Morrissey Joins The Sports Center",
+        "date": "01/11/1983",
         "part": "1",
-        "total": "2",
-        "duration": "25:33:00",
+        "total": "1",
+        "duration": "13:35",
         "channel": "romabriere"
     },
     {
@@ -5976,15 +5988,27 @@
         "channel": "romabriere"
     },
     {
-        "id": "LU4g1C5v-Vo",
-        "parentid": "",
+        "id": "aE-zihPHHlg",
+        "parentid": "P_35dec405",
         "soap": "GH",
         "category": "A",
-        "title": "Rick/Lesley - Johnny Morrissey Joins The Sports Center",
-        "date": "01/11/1983",
+        "title": "Episode",
+        "date": "01/12/1983",
         "part": "1",
-        "total": "1",
-        "duration": "13:35",
+        "total": "2",
+        "duration": "23:21",
+        "channel": "romabriere"
+    },
+    {
+        "id": "OwEVMs1wWFE",
+        "parentid": "P_35dec405",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/12/1983",
+        "part": "2",
+        "total": "2",
+        "duration": "18:15",
         "channel": "romabriere"
     },
     {
@@ -6012,39 +6036,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "aE-zihPHHlg",
-        "parentid": "P_35dec405",
+        "id": "HrYhH8_K_xk",
+        "parentid": "",
         "soap": "GH",
         "category": "A",
-        "title": "Episode",
-        "date": "01/12/1983",
-        "part": "1",
-        "total": "2",
-        "duration": "23:21",
-        "channel": "romabriere"
-    },
-    {
-        "id": "OwEVMs1wWFE",
-        "parentid": "P_35dec405",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "01/12/1983",
-        "part": "2",
-        "total": "2",
-        "duration": "18:15",
-        "channel": "romabriere"
-    },
-    {
-        "id": "Pjk5APoQW1c",
-        "parentid": "P_38ad05bd",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
+        "title": "Rick/Lesley Blackies Frat Party - The Aftermath",
         "date": "01/13/1983",
-        "part": "2",
-        "total": "2",
-        "duration": "18:28",
+        "part": "1",
+        "total": "1",
+        "duration": "11:12",
         "channel": "romabriere"
     },
     {
@@ -6060,39 +6060,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "HrYhH8_K_xk",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Rick/Lesley Blackies Frat Party - The Aftermath",
-        "date": "01/13/1983",
-        "part": "1",
-        "total": "1",
-        "duration": "11:12",
-        "channel": "romabriere"
-    },
-    {
-        "id": "t_TjnH4lfgk",
-        "parentid": "P_bf1ceb15",
+        "id": "Pjk5APoQW1c",
+        "parentid": "P_38ad05bd",
         "soap": "GH",
         "category": "A",
         "title": "Episode",
-        "date": "01/18/1983",
+        "date": "01/13/1983",
         "part": "2",
         "total": "2",
-        "duration": "17:46",
-        "channel": "romabriere"
-    },
-    {
-        "id": "d8xM7ehEOkk",
-        "parentid": "P_bf1ceb15",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "01/18/1983",
-        "part": "1",
-        "total": "2",
-        "duration": "24:48",
+        "duration": "18:28",
         "channel": "romabriere"
     },
     {
@@ -6108,15 +6084,27 @@
         "channel": "romabriere"
     },
     {
-        "id": "LzdaBBuWsRM",
-        "parentid": "P_ab5fccd9",
+        "id": "d8xM7ehEOkk",
+        "parentid": "P_bf1ceb15",
         "soap": "GH",
         "category": "A",
         "title": "Episode",
-        "date": "01/19/1983",
+        "date": "01/18/1983",
+        "part": "1",
+        "total": "2",
+        "duration": "24:48",
+        "channel": "romabriere"
+    },
+    {
+        "id": "t_TjnH4lfgk",
+        "parentid": "P_bf1ceb15",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/18/1983",
         "part": "2",
         "total": "2",
-        "duration": "18:13",
+        "duration": "17:46",
         "channel": "romabriere"
     },
     {
@@ -6132,15 +6120,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "JifHBqFo24g",
-        "parentid": "P_1471f34c",
+        "id": "LzdaBBuWsRM",
+        "parentid": "P_ab5fccd9",
         "soap": "GH",
         "category": "A",
         "title": "Episode",
-        "date": "01/20/1983",
+        "date": "01/19/1983",
         "part": "2",
         "total": "2",
-        "duration": "17:59",
+        "duration": "18:13",
         "channel": "romabriere"
     },
     {
@@ -6156,15 +6144,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "P8mocI6rewc",
-        "parentid": "P_1debb05f",
+        "id": "JifHBqFo24g",
+        "parentid": "P_1471f34c",
         "soap": "GH",
         "category": "A",
         "title": "Episode",
-        "date": "01/21/1983",
+        "date": "01/20/1983",
         "part": "2",
         "total": "2",
-        "duration": "17:55",
+        "duration": "17:59",
         "channel": "romabriere"
     },
     {
@@ -6177,6 +6165,42 @@
         "part": "1",
         "total": "2",
         "duration": "23:43",
+        "channel": "romabriere"
+    },
+    {
+        "id": "P8mocI6rewc",
+        "parentid": "P_1debb05f",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/21/1983",
+        "part": "2",
+        "total": "2",
+        "duration": "17:55",
+        "channel": "romabriere"
+    },
+    {
+        "id": "BxqeasjMdYY",
+        "parentid": "P_5ca2cd5f",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/24/1983",
+        "part": "1",
+        "total": "2",
+        "duration": "26:38",
+        "channel": "romabriere"
+    },
+    {
+        "id": "CtFbSLaeIb0",
+        "parentid": "P_5ca2cd5f",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/24/1983",
+        "part": "2",
+        "total": "2",
+        "duration": "15:54",
         "channel": "romabriere"
     },
     {
@@ -6204,30 +6228,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "CtFbSLaeIb0",
-        "parentid": "P_5ca2cd5f",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "01/24/1983",
-        "part": "2",
-        "total": "2",
-        "duration": "15:54",
-        "channel": "romabriere"
-    },
-    {
-        "id": "BxqeasjMdYY",
-        "parentid": "P_5ca2cd5f",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "01/24/1983",
-        "part": "1",
-        "total": "2",
-        "duration": "26:38",
-        "channel": "romabriere"
-    },
-    {
         "id": "XnHAgoh0eqw",
         "parentid": "P_92cc008c",
         "soap": "GH",
@@ -6237,18 +6237,6 @@
         "part": "3",
         "total": "3",
         "duration": "09:08",
-        "channel": "romabriere"
-    },
-    {
-        "id": "diqhBAOrxgw",
-        "parentid": "P_deaecdc2",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "01/27/1983",
-        "part": "2",
-        "total": "2",
-        "duration": "16:48",
         "channel": "romabriere"
     },
     {
@@ -6264,15 +6252,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "MCw5PfU58rQ",
-        "parentid": "P_0f2f679e",
+        "id": "diqhBAOrxgw",
+        "parentid": "P_deaecdc2",
         "soap": "GH",
         "category": "A",
         "title": "Episode",
-        "date": "01/28/1983",
+        "date": "01/27/1983",
         "part": "2",
         "total": "2",
-        "duration": "16:02",
+        "duration": "16:48",
         "channel": "romabriere"
     },
     {
@@ -6288,6 +6276,18 @@
         "channel": "romabriere"
     },
     {
+        "id": "MCw5PfU58rQ",
+        "parentid": "P_0f2f679e",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/28/1983",
+        "part": "2",
+        "total": "2",
+        "duration": "16:02",
+        "channel": "romabriere"
+    },
+    {
         "id": "lWR2dV2nXMk",
         "parentid": "",
         "soap": "GH",
@@ -6297,18 +6297,6 @@
         "part": "1",
         "total": "1",
         "duration": "8:32",
-        "channel": "romabriere"
-    },
-    {
-        "id": "4Z8ssWlL3O4",
-        "parentid": "P_1dd29e07",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "02/01/1983",
-        "part": "2",
-        "total": "2",
-        "duration": "17:59",
         "channel": "romabriere"
     },
     {
@@ -6324,15 +6312,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "76fxqHmaCOA",
-        "parentid": "P_5ab68033",
+        "id": "4Z8ssWlL3O4",
+        "parentid": "P_1dd29e07",
         "soap": "GH",
         "category": "A",
         "title": "Episode",
-        "date": "02/04/1983",
+        "date": "02/01/1983",
         "part": "2",
         "total": "2",
-        "duration": "18:14",
+        "duration": "17:59",
         "channel": "romabriere"
     },
     {
@@ -6345,6 +6333,18 @@
         "part": "1",
         "total": "2",
         "duration": "24:06",
+        "channel": "romabriere"
+    },
+    {
+        "id": "76fxqHmaCOA",
+        "parentid": "P_5ab68033",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "02/04/1983",
+        "part": "2",
+        "total": "2",
+        "duration": "18:14",
         "channel": "romabriere"
     },
     {
@@ -6420,18 +6420,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "KrxDfAkU8Hk",
-        "parentid": "P_d452654c",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "02/10/1983",
-        "part": "2",
-        "total": "2",
-        "duration": "15:16",
-        "channel": "romabriere"
-    },
-    {
         "id": "8k-r0fCi6Ss",
         "parentid": "P_d452654c",
         "soap": "GH",
@@ -6444,15 +6432,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "E5LuaLtCzhw",
-        "parentid": "P_b6dd808b",
+        "id": "KrxDfAkU8Hk",
+        "parentid": "P_d452654c",
         "soap": "GH",
         "category": "A",
         "title": "Episode",
-        "date": "02/11/1983",
+        "date": "02/10/1983",
         "part": "2",
         "total": "2",
-        "duration": "20:40",
+        "duration": "15:16",
         "channel": "romabriere"
     },
     {
@@ -6465,6 +6453,18 @@
         "part": "1",
         "total": "2",
         "duration": "21:19",
+        "channel": "romabriere"
+    },
+    {
+        "id": "E5LuaLtCzhw",
+        "parentid": "P_b6dd808b",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "02/11/1983",
+        "part": "2",
+        "total": "2",
+        "duration": "20:40",
         "channel": "romabriere"
     },
     {
@@ -6492,18 +6492,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "7A8aGDKxwS4",
-        "parentid": "P_fc33180e",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "02/16/1983",
-        "part": "2",
-        "total": "2",
-        "duration": "15:49",
-        "channel": "romabriere"
-    },
-    {
         "id": "bnOhA_B7JPo",
         "parentid": "P_fc33180e",
         "soap": "GH",
@@ -6516,15 +6504,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "84i60zDNems",
-        "parentid": "P_44b0a47f",
+        "id": "7A8aGDKxwS4",
+        "parentid": "P_fc33180e",
         "soap": "GH",
         "category": "A",
         "title": "Episode",
-        "date": "02/17/1983",
+        "date": "02/16/1983",
         "part": "2",
         "total": "2",
-        "duration": "20:16",
+        "duration": "15:49",
         "channel": "romabriere"
     },
     {
@@ -6540,6 +6528,18 @@
         "channel": "romabriere"
     },
     {
+        "id": "84i60zDNems",
+        "parentid": "P_44b0a47f",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "02/17/1983",
+        "part": "2",
+        "total": "2",
+        "duration": "20:16",
+        "channel": "romabriere"
+    },
+    {
         "id": "t-OkzS85hMA",
         "parentid": "",
         "soap": "GH",
@@ -6550,6 +6550,30 @@
         "total": "1",
         "duration": "3:36",
         "channel": "ackgh73994"
+    },
+    {
+        "id": "oMgDG5-ZJKc",
+        "parentid": "P_3e2bd50f",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "02/18/1983",
+        "part": "1",
+        "total": "2",
+        "duration": "23:59",
+        "channel": "romabriere"
+    },
+    {
+        "id": "mdqO8Sj_6PE",
+        "parentid": "P_3e2bd50f",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "02/18/1983",
+        "part": "2",
+        "total": "2",
+        "duration": "17:29",
+        "channel": "romabriere"
     },
     {
         "id": "0mVGYYgC9I4",
@@ -6573,30 +6597,6 @@
         "part": "2",
         "total": "2",
         "duration": "14:38",
-        "channel": "romabriere"
-    },
-    {
-        "id": "mdqO8Sj_6PE",
-        "parentid": "P_3e2bd50f",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "02/18/1983",
-        "part": "2",
-        "total": "2",
-        "duration": "17:29",
-        "channel": "romabriere"
-    },
-    {
-        "id": "oMgDG5-ZJKc",
-        "parentid": "P_3e2bd50f",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "02/18/1983",
-        "part": "1",
-        "total": "2",
-        "duration": "23:59",
         "channel": "romabriere"
     },
     {
@@ -6648,18 +6648,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "jP4-EWzoPTw",
-        "parentid": "P_4c38ae6b",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "02/22/1983",
-        "part": "2",
-        "total": "2",
-        "duration": "21:58",
-        "channel": "romabriere"
-    },
-    {
         "id": "jP4qig1lyEI",
         "parentid": "P_4c38ae6b",
         "soap": "GH",
@@ -6669,6 +6657,18 @@
         "part": "1",
         "total": "2",
         "duration": "20:16",
+        "channel": "romabriere"
+    },
+    {
+        "id": "jP4-EWzoPTw",
+        "parentid": "P_4c38ae6b",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "02/22/1983",
+        "part": "2",
+        "total": "2",
+        "duration": "21:58",
         "channel": "romabriere"
     },
     {
@@ -6744,18 +6744,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "SN80Owo8txQ",
-        "parentid": "P_5d5cec61",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "03/02/1983",
-        "part": "2",
-        "total": "2",
-        "duration": "18:10",
-        "channel": "romabriere"
-    },
-    {
         "id": "hTXXYzVqarQ",
         "parentid": "P_5d5cec61",
         "soap": "GH",
@@ -6768,15 +6756,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "aoccUOhvA7k",
-        "parentid": "P_3eaccddf",
+        "id": "SN80Owo8txQ",
+        "parentid": "P_5d5cec61",
         "soap": "GH",
         "category": "A",
         "title": "Episode",
-        "date": "03/03/1983",
+        "date": "03/02/1983",
         "part": "2",
         "total": "2",
-        "duration": "17:54",
+        "duration": "18:10",
         "channel": "romabriere"
     },
     {
@@ -6792,6 +6780,18 @@
         "channel": "romabriere"
     },
     {
+        "id": "aoccUOhvA7k",
+        "parentid": "P_3eaccddf",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "03/03/1983",
+        "part": "2",
+        "total": "2",
+        "duration": "17:54",
+        "channel": "romabriere"
+    },
+    {
         "id": "z9UKVFjX6VI",
         "parentid": "",
         "soap": "GH",
@@ -6801,18 +6801,6 @@
         "part": "1",
         "total": "1",
         "duration": "18:42",
-        "channel": "romabriere"
-    },
-    {
-        "id": "KX_U0nolY2U",
-        "parentid": "P_0e091afe",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "03/04/1983",
-        "part": "2",
-        "total": "2",
-        "duration": "14:33",
         "channel": "romabriere"
     },
     {
@@ -6828,15 +6816,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "Mc0HoBJ42IY",
-        "parentid": "P_83bc259c",
+        "id": "KX_U0nolY2U",
+        "parentid": "P_0e091afe",
         "soap": "GH",
         "category": "A",
         "title": "Episode",
-        "date": "03/07/1983",
+        "date": "03/04/1983",
         "part": "2",
         "total": "2",
-        "duration": "17:48",
+        "duration": "14:33",
         "channel": "romabriere"
     },
     {
@@ -6849,6 +6837,18 @@
         "part": "1",
         "total": "2",
         "duration": "25:09",
+        "channel": "romabriere"
+    },
+    {
+        "id": "Mc0HoBJ42IY",
+        "parentid": "P_83bc259c",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "03/07/1983",
+        "part": "2",
+        "total": "2",
+        "duration": "17:48",
         "channel": "romabriere"
     },
     {
@@ -6876,18 +6876,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "GMMK933rkjk",
-        "parentid": "P_143b2511",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "03/09/1983",
-        "part": "2",
-        "total": "2",
-        "duration": "19:59",
-        "channel": "romabriere"
-    },
-    {
         "id": "HHddxNefICw",
         "parentid": "P_143b2511",
         "soap": "GH",
@@ -6900,15 +6888,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "QJqV3bMs-JE",
-        "parentid": "P_f1cbf938",
+        "id": "GMMK933rkjk",
+        "parentid": "P_143b2511",
         "soap": "GH",
         "category": "A",
         "title": "Episode",
-        "date": "03/10/1983",
+        "date": "03/09/1983",
         "part": "2",
         "total": "2",
-        "duration": "18:19",
+        "duration": "19:59",
         "channel": "romabriere"
     },
     {
@@ -6924,15 +6912,27 @@
         "channel": "romabriere"
     },
     {
-        "id": "VPKAMjA0Azo",
-        "parentid": "P_99ed3ef1",
+        "id": "QJqV3bMs-JE",
+        "parentid": "P_f1cbf938",
         "soap": "GH",
         "category": "A",
         "title": "Episode",
-        "date": "03/11/1983",
+        "date": "03/10/1983",
         "part": "2",
         "total": "2",
-        "duration": "15:20",
+        "duration": "18:19",
+        "channel": "romabriere"
+    },
+    {
+        "id": "Me-DOOSbJtU",
+        "parentid": "",
+        "soap": "GH",
+        "category": "A",
+        "title": "Rick/Lesley Claudia's Bridal Shower",
+        "date": "03/11/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "11:23",
         "channel": "romabriere"
     },
     {
@@ -6948,15 +6948,27 @@
         "channel": "romabriere"
     },
     {
-        "id": "Me-DOOSbJtU",
+        "id": "VPKAMjA0Azo",
+        "parentid": "P_99ed3ef1",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "03/11/1983",
+        "part": "2",
+        "total": "2",
+        "duration": "15:20",
+        "channel": "romabriere"
+    },
+    {
+        "id": "C9Ke4qt_buc",
         "parentid": "",
         "soap": "GH",
         "category": "A",
-        "title": "Rick/Lesley Claudia's Bridal Shower",
-        "date": "03/11/1983",
+        "title": "Rick/Lesley Anthony Hand Sets Up Rick  Lesleys Jealousy",
+        "date": "03/14/1983",
         "part": "1",
         "total": "1",
-        "duration": "11:23",
+        "duration": "10:07",
         "channel": "romabriere"
     },
     {
@@ -6981,18 +6993,6 @@
         "part": "2",
         "total": "2",
         "duration": "13:20",
-        "channel": "romabriere"
-    },
-    {
-        "id": "C9Ke4qt_buc",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Rick/Lesley Anthony Hand Sets Up Rick  Lesleys Jealousy",
-        "date": "03/14/1983",
-        "part": "1",
-        "total": "1",
-        "duration": "10:07",
         "channel": "romabriere"
     },
     {
@@ -7044,6 +7044,18 @@
         "channel": "romabriere"
     },
     {
+        "id": "gakSX1hoJBg",
+        "parentid": "P_c03e8ea1",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "03/17/1983",
+        "part": "1",
+        "total": "2",
+        "duration": "22:10",
+        "channel": "romabriere"
+    },
+    {
         "id": "fnABTsqD-d0",
         "parentid": "P_c03e8ea1",
         "soap": "GH",
@@ -7056,15 +7068,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "gakSX1hoJBg",
-        "parentid": "P_c03e8ea1",
+        "id": "3VuSnGu1Mkc",
+        "parentid": "P_c76d00f8",
         "soap": "GH",
         "category": "A",
         "title": "Episode",
-        "date": "03/17/1983",
+        "date": "03/18/1983",
         "part": "1",
         "total": "2",
-        "duration": "22:10",
+        "duration": "27:28",
         "channel": "romabriere"
     },
     {
@@ -7080,15 +7092,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "3VuSnGu1Mkc",
-        "parentid": "P_c76d00f8",
+        "id": "iOUXRJyQx2U",
+        "parentid": "",
         "soap": "GH",
         "category": "A",
-        "title": "Episode",
-        "date": "03/18/1983",
+        "title": "Rick/Lesley to 03-21-83 RandL Excerpts From The Q Party",
+        "date": "03/21/1983",
         "part": "1",
-        "total": "2",
-        "duration": "27:28",
+        "total": "1",
+        "duration": "02:58",
         "channel": "romabriere"
     },
     {
@@ -7116,27 +7128,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "iOUXRJyQx2U",
+        "id": "aZ-5g7obC7c",
         "parentid": "",
         "soap": "GH",
         "category": "A",
-        "title": "Rick/Lesley to 03-21-83 RandL Excerpts From The Q Party",
-        "date": "03/21/1983",
+        "title": "Rick/Lesley Blackie Top Math Student",
+        "date": "03/22/1983",
         "part": "1",
         "total": "1",
-        "duration": "02:58",
-        "channel": "romabriere"
-    },
-    {
-        "id": "VX2iF4nNIg4",
-        "parentid": "P_22ba5a9a",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "03/22/1983",
-        "part": "2",
-        "total": "2",
-        "duration": "19:30",
+        "duration": "07:38",
         "channel": "romabriere"
     },
     {
@@ -7152,27 +7152,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "aZ-5g7obC7c",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Rick/Lesley Blackie Top Math Student",
-        "date": "03/22/1983",
-        "part": "1",
-        "total": "1",
-        "duration": "07:38",
-        "channel": "romabriere"
-    },
-    {
-        "id": "JHTGQ1jyKfg",
-        "parentid": "P_5546ff54",
+        "id": "VX2iF4nNIg4",
+        "parentid": "P_22ba5a9a",
         "soap": "GH",
         "category": "A",
         "title": "Episode",
-        "date": "03/23/1983",
+        "date": "03/22/1983",
         "part": "2",
         "total": "2",
-        "duration": "21:09",
+        "duration": "19:30",
         "channel": "romabriere"
     },
     {
@@ -7185,6 +7173,18 @@
         "part": "1",
         "total": "2",
         "duration": "27:49",
+        "channel": "romabriere"
+    },
+    {
+        "id": "JHTGQ1jyKfg",
+        "parentid": "P_5546ff54",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "03/23/1983",
+        "part": "2",
+        "total": "2",
+        "duration": "21:09",
         "channel": "romabriere"
     },
     {
@@ -7212,18 +7212,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "lGUnC98qPDA",
-        "parentid": "P_62bfa66f",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "03/25/1983",
-        "part": "2",
-        "total": "2",
-        "duration": "19:42",
-        "channel": "romabriere"
-    },
-    {
         "id": "GAzbe3XQi88",
         "parentid": "P_62bfa66f",
         "soap": "GH",
@@ -7233,6 +7221,18 @@
         "part": "1",
         "total": "2",
         "duration": "23:10",
+        "channel": "romabriere"
+    },
+    {
+        "id": "lGUnC98qPDA",
+        "parentid": "P_62bfa66f",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "03/25/1983",
+        "part": "2",
+        "total": "2",
+        "duration": "19:42",
         "channel": "romabriere"
     },
     {
@@ -7248,15 +7248,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "xTt1DBP2ngQ",
-        "parentid": "P_013f83ce",
+        "id": "3yzwLkx94Vo",
+        "parentid": "",
         "soap": "GH",
         "category": "A",
-        "title": "Episode",
+        "title": "Rick/Lesley Rick and Mark Lock Horns Over The Fate Of The Clinic",
         "date": "03/28/1983",
-        "part": "2",
-        "total": "2",
-        "duration": "19:25",
+        "part": "1",
+        "total": "1",
+        "duration": "13:37",
         "channel": "romabriere"
     },
     {
@@ -7272,27 +7272,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "3yzwLkx94Vo",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Rick/Lesley Rick and Mark Lock Horns Over The Fate Of The Clinic",
-        "date": "03/28/1983",
-        "part": "1",
-        "total": "1",
-        "duration": "13:37",
-        "channel": "romabriere"
-    },
-    {
-        "id": "zJl3uvOxrYE",
-        "parentid": "P_a70bfe0f",
+        "id": "xTt1DBP2ngQ",
+        "parentid": "P_013f83ce",
         "soap": "GH",
         "category": "A",
         "title": "Episode",
-        "date": "03/30/1983",
+        "date": "03/28/1983",
         "part": "2",
         "total": "2",
-        "duration": "18:48",
+        "duration": "19:25",
         "channel": "romabriere"
     },
     {
@@ -7305,6 +7293,18 @@
         "part": "1",
         "total": "2",
         "duration": "23:22",
+        "channel": "romabriere"
+    },
+    {
+        "id": "zJl3uvOxrYE",
+        "parentid": "P_a70bfe0f",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "03/30/1983",
+        "part": "2",
+        "total": "2",
+        "duration": "18:48",
         "channel": "romabriere"
     },
     {
@@ -7542,7 +7542,7 @@
         "category": "A",
         "title": "Rick/Lesley Ricks Hear't Tumor",
         "date": "06/30/1983",
-        "part": "1",
+        "part": "01",
         "total": "12",
         "duration": "07:52",
         "channel": "romabriere"
@@ -7554,7 +7554,7 @@
         "category": "A",
         "title": "Rick/Lesley Ricks Hear't Tumor",
         "date": "06/30/1983",
-        "part": "2",
+        "part": "02",
         "total": "12",
         "duration": "12:08",
         "channel": "romabriere"
@@ -7566,7 +7566,7 @@
         "category": "A",
         "title": "Rick/Lesley Ricks Hear't Tumor",
         "date": "06/30/1983",
-        "part": "3",
+        "part": "03",
         "total": "12",
         "duration": "4:44",
         "channel": "romabriere"
@@ -7578,7 +7578,7 @@
         "category": "A",
         "title": "Rick/Lesley Ricks Hear't Tumor",
         "date": "06/30/1983",
-        "part": "4",
+        "part": "04",
         "total": "12",
         "duration": "13:30",
         "channel": "romabriere"
@@ -7590,7 +7590,7 @@
         "category": "A",
         "title": "Rick/Lesley Ricks Hear't Tumor",
         "date": "06/30/1983",
-        "part": "5",
+        "part": "05",
         "total": "12",
         "duration": "11:10",
         "channel": "romabriere"
@@ -7602,7 +7602,7 @@
         "category": "A",
         "title": "Rick/Lesley Ricks Hear't Tumor",
         "date": "06/30/1983",
-        "part": "6",
+        "part": "06",
         "total": "12",
         "duration": "15:19",
         "channel": "romabriere"
@@ -7614,7 +7614,7 @@
         "category": "A",
         "title": "Rick/Lesley Ricks Hear't Tumor",
         "date": "06/30/1983",
-        "part": "7",
+        "part": "07",
         "total": "12",
         "duration": "11:58",
         "channel": "romabriere"
@@ -7626,7 +7626,7 @@
         "category": "A",
         "title": "Rick/Lesley Ricks Hear't Tumor",
         "date": "06/30/1983",
-        "part": "8",
+        "part": "08",
         "total": "12",
         "duration": "4:19",
         "channel": "romabriere"
@@ -7638,7 +7638,7 @@
         "category": "A",
         "title": "Rick/Lesley Ricks Hear't Tumor",
         "date": "06/30/1983",
-        "part": "9",
+        "part": "09",
         "total": "12",
         "duration": "13:36",
         "channel": "romabriere"
@@ -7680,18 +7680,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "FofXd4jWfXE",
-        "parentid": "P_7209af8c",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "07/01/1983",
-        "part": "2",
-        "total": "2",
-        "duration": "19:30",
-        "channel": "romabriere"
-    },
-    {
         "id": "8XC7QGh8LT8",
         "parentid": "P_7209af8c",
         "soap": "GH",
@@ -7704,6 +7692,18 @@
         "channel": "romabriere"
     },
     {
+        "id": "FofXd4jWfXE",
+        "parentid": "P_7209af8c",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/01/1983",
+        "part": "2",
+        "total": "2",
+        "duration": "19:30",
+        "channel": "romabriere"
+    },
+    {
         "id": "ZGRcPrwyKd0",
         "parentid": "",
         "soap": "GH",
@@ -7713,6 +7713,30 @@
         "part": "1",
         "total": "1",
         "duration": "2:58",
+        "channel": "romabriere"
+    },
+    {
+        "id": "_ZytSYYwuNQ",
+        "parentid": "P_1edbc51a",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/04/1983",
+        "part": "1",
+        "total": "2",
+        "duration": "21:52",
+        "channel": "romabriere"
+    },
+    {
+        "id": "C-DWOhH6o7E",
+        "parentid": "P_1edbc51a",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/04/1983",
+        "part": "2",
+        "total": "2",
+        "duration": "20:27",
         "channel": "romabriere"
     },
     {
@@ -7740,30 +7764,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "C-DWOhH6o7E",
-        "parentid": "P_1edbc51a",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "07/04/1983",
-        "part": "2",
-        "total": "2",
-        "duration": "20:27",
-        "channel": "romabriere"
-    },
-    {
-        "id": "_ZytSYYwuNQ",
-        "parentid": "P_1edbc51a",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "07/04/1983",
-        "part": "1",
-        "total": "2",
-        "duration": "21:52",
-        "channel": "romabriere"
-    },
-    {
         "id": "fnb6mJb1Hqk",
         "parentid": "",
         "soap": "GH",
@@ -7773,6 +7773,18 @@
         "part": "1",
         "total": "1",
         "duration": "7:15",
+        "channel": "romabriere"
+    },
+    {
+        "id": "UYm2gP-VohQ",
+        "parentid": "",
+        "soap": "GH",
+        "category": "A",
+        "title": "Jake and Rose - Lou is Accused of Cheating",
+        "date": "07/06/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "10:59",
         "channel": "romabriere"
     },
     {
@@ -7797,18 +7809,6 @@
         "part": "2",
         "total": "2",
         "duration": "20:47",
-        "channel": "romabriere"
-    },
-    {
-        "id": "UYm2gP-VohQ",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Jake and Rose - Lou is Accused of Cheating",
-        "date": "07/06/1983",
-        "part": "1",
-        "total": "1",
-        "duration": "10:59",
         "channel": "romabriere"
     },
     {
@@ -7920,18 +7920,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "r6SRLVQMe2U",
-        "parentid": "P_1388dbb2",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "07/12/1983",
-        "part": "2",
-        "total": "2",
-        "duration": "20:04",
-        "channel": "romabriere"
-    },
-    {
         "id": "20kITXtO5y8",
         "parentid": "P_1388dbb2",
         "soap": "GH",
@@ -7941,6 +7929,18 @@
         "part": "1",
         "total": "2",
         "duration": "22:51",
+        "channel": "romabriere"
+    },
+    {
+        "id": "r6SRLVQMe2U",
+        "parentid": "P_1388dbb2",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/12/1983",
+        "part": "2",
+        "total": "2",
+        "duration": "20:04",
         "channel": "romabriere"
     },
     {
@@ -7992,18 +7992,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "20lbkfJEnvc",
-        "parentid": "P_4fcb6137",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "07/18/1983",
-        "part": "2",
-        "total": "2",
-        "duration": "19:33",
-        "channel": "romabriere"
-    },
-    {
         "id": "4DyPby0kiTc",
         "parentid": "P_4fcb6137",
         "soap": "GH",
@@ -8016,15 +8004,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "1p9bemZVhD4",
-        "parentid": "P_d6b8070d",
+        "id": "20lbkfJEnvc",
+        "parentid": "P_4fcb6137",
         "soap": "GH",
         "category": "A",
         "title": "Episode",
-        "date": "07/19/1983",
+        "date": "07/18/1983",
         "part": "2",
         "total": "2",
-        "duration": "17:18",
+        "duration": "19:33",
         "channel": "romabriere"
     },
     {
@@ -8037,6 +8025,18 @@
         "part": "1",
         "total": "2",
         "duration": "26:27:00",
+        "channel": "romabriere"
+    },
+    {
+        "id": "1p9bemZVhD4",
+        "parentid": "P_d6b8070d",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/19/1983",
+        "part": "2",
+        "total": "2",
+        "duration": "17:18",
         "channel": "romabriere"
     },
     {
@@ -8076,18 +8076,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "GESkuY8iZcM",
-        "parentid": "P_aadf1c93",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "07/25/1983",
-        "part": "2",
-        "total": "2",
-        "duration": "19:55",
-        "channel": "romabriere"
-    },
-    {
         "id": "ClIpqumU1-4",
         "parentid": "P_aadf1c93",
         "soap": "GH",
@@ -8097,6 +8085,18 @@
         "part": "1",
         "total": "2",
         "duration": "23:11",
+        "channel": "romabriere"
+    },
+    {
+        "id": "GESkuY8iZcM",
+        "parentid": "P_aadf1c93",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/25/1983",
+        "part": "2",
+        "total": "2",
+        "duration": "19:55",
         "channel": "romabriere"
     },
     {
@@ -8112,15 +8112,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "-wHSAszjsM4",
-        "parentid": "P_7800e114",
+        "id": "KwVIlbXPsUU",
+        "parentid": "",
         "soap": "GH",
         "category": "A",
-        "title": "Episode",
+        "title": "Jake and Rose - Lou and Jake Take Over In The Diner",
         "date": "07/27/1983",
-        "part": "2",
-        "total": "2",
-        "duration": "17:38",
+        "part": "1",
+        "total": "1",
+        "duration": "8:38",
         "channel": "romabriere"
     },
     {
@@ -8136,15 +8136,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "KwVIlbXPsUU",
-        "parentid": "",
+        "id": "-wHSAszjsM4",
+        "parentid": "P_7800e114",
         "soap": "GH",
         "category": "A",
-        "title": "Jake and Rose - Lou and Jake Take Over In The Diner",
+        "title": "Episode",
         "date": "07/27/1983",
-        "part": "1",
-        "total": "1",
-        "duration": "8:38",
+        "part": "2",
+        "total": "2",
+        "duration": "17:38",
         "channel": "romabriere"
     },
     {
@@ -8232,18 +8232,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "tsVxkK02gHM",
-        "parentid": "P_b8bef70e",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "08/05/1983",
-        "part": "2",
-        "total": "2",
-        "duration": "14:31",
-        "channel": "romabriere"
-    },
-    {
         "id": "L-WHLyDFXJM",
         "parentid": "P_b8bef70e",
         "soap": "GH",
@@ -8256,15 +8244,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "GtOZLjJ9Q2I",
-        "parentid": "P_9fe197ce",
+        "id": "tsVxkK02gHM",
+        "parentid": "P_b8bef70e",
         "soap": "GH",
         "category": "A",
         "title": "Episode",
-        "date": "08/08/1983",
+        "date": "08/05/1983",
         "part": "2",
         "total": "2",
-        "duration": "21:58",
+        "duration": "14:31",
         "channel": "romabriere"
     },
     {
@@ -8277,6 +8265,18 @@
         "part": "1",
         "total": "2",
         "duration": "20:23",
+        "channel": "romabriere"
+    },
+    {
+        "id": "GtOZLjJ9Q2I",
+        "parentid": "P_9fe197ce",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/08/1983",
+        "part": "2",
+        "total": "2",
+        "duration": "21:58",
         "channel": "romabriere"
     },
     {
@@ -8316,18 +8316,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "yEwbykgBqK0",
-        "parentid": "P_bae76da5",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "08/12/1983",
-        "part": "2",
-        "total": "2",
-        "duration": "21:45",
-        "channel": "romabriere"
-    },
-    {
         "id": "ch0RuiAeZ0I",
         "parentid": "P_bae76da5",
         "soap": "GH",
@@ -8337,6 +8325,18 @@
         "part": "1",
         "total": "2",
         "duration": "21:01",
+        "channel": "romabriere"
+    },
+    {
+        "id": "yEwbykgBqK0",
+        "parentid": "P_bae76da5",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/12/1983",
+        "part": "2",
+        "total": "2",
+        "duration": "21:45",
         "channel": "romabriere"
     },
     {
@@ -8388,6 +8388,18 @@
         "channel": "romabriere"
     },
     {
+        "id": "GpLI9zO2rPg",
+        "parentid": "",
+        "soap": "GH",
+        "category": "A",
+        "title": "Rick/Lesley - Rick's Heart Tumor - Part 1",
+        "date": "08/19/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "12:09",
+        "channel": "romabriere"
+    },
+    {
         "id": "R-F-5Q1SszI",
         "parentid": "P_07c9819e",
         "soap": "GH",
@@ -8412,42 +8424,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "GpLI9zO2rPg",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Rick/Lesley - Rick's Heart Tumor - Part 1",
-        "date": "08/19/1983",
-        "part": "1",
-        "total": "1",
-        "duration": "12:09",
-        "channel": "romabriere"
-    },
-    {
-        "id": "sbQtI57fv9w",
-        "parentid": "P_b07584fb",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "08/22/1983",
-        "part": "2",
-        "total": "2",
-        "duration": "21:38",
-        "channel": "romabriere"
-    },
-    {
-        "id": "rkqzIcWH75M",
-        "parentid": "P_b07584fb",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "08/22/1983",
-        "part": "1",
-        "total": "2",
-        "duration": "20:39",
-        "channel": "romabriere"
-    },
-    {
         "id": "bWPHgCEtXSg",
         "parentid": "",
         "soap": "GH",
@@ -8469,6 +8445,54 @@
         "part": "1",
         "total": "1",
         "duration": "5:50",
+        "channel": "romabriere"
+    },
+    {
+        "id": "rkqzIcWH75M",
+        "parentid": "P_b07584fb",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/22/1983",
+        "part": "1",
+        "total": "2",
+        "duration": "20:39",
+        "channel": "romabriere"
+    },
+    {
+        "id": "sbQtI57fv9w",
+        "parentid": "P_b07584fb",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/22/1983",
+        "part": "2",
+        "total": "2",
+        "duration": "21:38",
+        "channel": "romabriere"
+    },
+    {
+        "id": "OzXWDWLpi9k",
+        "parentid": "P_0aa4ba40",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/23/1983",
+        "part": "1",
+        "total": "2",
+        "duration": "21:18",
+        "channel": "romabriere"
+    },
+    {
+        "id": "7ERESjGAnXU",
+        "parentid": "P_0aa4ba40",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/23/1983",
+        "part": "2",
+        "total": "2",
+        "duration": "21:27",
         "channel": "romabriere"
     },
     {
@@ -8532,30 +8556,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "OzXWDWLpi9k",
-        "parentid": "P_0aa4ba40",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "08/23/1983",
-        "part": "1",
-        "total": "2",
-        "duration": "21:18",
-        "channel": "romabriere"
-    },
-    {
-        "id": "7ERESjGAnXU",
-        "parentid": "P_0aa4ba40",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "08/23/1983",
-        "part": "2",
-        "total": "2",
-        "duration": "21:27",
-        "channel": "romabriere"
-    },
-    {
         "id": "_2dHFPOj6SQ",
         "parentid": "P_e78ff72a",
         "soap": "GH",
@@ -8580,15 +8580,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "wsI150crTvk",
-        "parentid": "P_b218b196",
+        "id": "qrSv8i6bYrU",
+        "parentid": "",
         "soap": "GH",
         "category": "A",
-        "title": "Episode",
+        "title": "Jake and Rose - On the Rocks",
         "date": "08/25/1983",
-        "part": "2",
-        "total": "2",
-        "duration": "18:00",
+        "part": "1",
+        "total": "1",
+        "duration": "5:58",
         "channel": "romabriere"
     },
     {
@@ -8604,15 +8604,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "qrSv8i6bYrU",
-        "parentid": "",
+        "id": "wsI150crTvk",
+        "parentid": "P_b218b196",
         "soap": "GH",
         "category": "A",
-        "title": "Jake and Rose - On the Rocks",
+        "title": "Episode",
         "date": "08/25/1983",
-        "part": "1",
-        "total": "1",
-        "duration": "5:58",
+        "part": "2",
+        "total": "2",
+        "duration": "18:00",
         "channel": "romabriere"
     },
     {
@@ -8640,18 +8640,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "-YBYWfZQQ90",
-        "parentid": "P_bd0376fe",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "08/31/1983",
-        "part": "2",
-        "total": "2",
-        "duration": "10:33",
-        "channel": "romabriere"
-    },
-    {
         "id": "22Sycb_iQeM",
         "parentid": "P_bd0376fe",
         "soap": "GH",
@@ -8661,6 +8649,18 @@
         "part": "1",
         "total": "2",
         "duration": "21:35",
+        "channel": "romabriere"
+    },
+    {
+        "id": "-YBYWfZQQ90",
+        "parentid": "P_bd0376fe",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/31/1983",
+        "part": "2",
+        "total": "2",
+        "duration": "10:33",
         "channel": "romabriere"
     },
     {
@@ -8700,15 +8700,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "lCJ31HhyJyQ",
-        "parentid": "P_5a5a80e3",
+        "id": "I-cEam2fZDo",
+        "parentid": "",
         "soap": "GH",
         "category": "A",
-        "title": "Episode",
+        "title": "Rick/Lesley A Womans Work Is Never Done",
         "date": "09/06/1983",
-        "part": "2",
-        "total": "2",
-        "duration": "12:35",
+        "part": "1",
+        "total": "1",
+        "duration": "08:58",
         "channel": "romabriere"
     },
     {
@@ -8724,27 +8724,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "I-cEam2fZDo",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Rick/Lesley A Womans Work Is Never Done",
-        "date": "09/06/1983",
-        "part": "1",
-        "total": "1",
-        "duration": "08:58",
-        "channel": "romabriere"
-    },
-    {
-        "id": "zv60z_Z-rpQ",
-        "parentid": "P_1579fbe4",
+        "id": "lCJ31HhyJyQ",
+        "parentid": "P_5a5a80e3",
         "soap": "GH",
         "category": "A",
         "title": "Episode",
-        "date": "09/08/1983",
+        "date": "09/06/1983",
         "part": "2",
         "total": "2",
-        "duration": "16:15",
+        "duration": "12:35",
         "channel": "romabriere"
     },
     {
@@ -8757,6 +8745,18 @@
         "part": "1",
         "total": "2",
         "duration": "26:16",
+        "channel": "romabriere"
+    },
+    {
+        "id": "zv60z_Z-rpQ",
+        "parentid": "P_1579fbe4",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "09/08/1983",
+        "part": "2",
+        "total": "2",
+        "duration": "16:15",
         "channel": "romabriere"
     },
     {
@@ -8784,30 +8784,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "A0Ffu72Y2vg",
-        "parentid": "P_3e3c1bd2",
-        "soap": "GH",
-        "category": "A",
-        "title": "Jake and Rose - Bed of Roses",
-        "date": "09/12/1983",
-        "part": "1",
-        "total": "2",
-        "duration": "09:49",
-        "channel": "romabriere"
-    },
-    {
-        "id": "OK1zizbk3DU",
-        "parentid": "P_3e3c1bd2",
-        "soap": "GH",
-        "category": "A",
-        "title": "Jake and Rose - Bed of Roses",
-        "date": "09/12/1983",
-        "part": "2",
-        "total": "2",
-        "duration": "08:57",
-        "channel": "romabriere"
-    },
-    {
         "id": "0FtAqxNQXsQ",
         "parentid": "P_2c5ba8da",
         "soap": "GH",
@@ -8832,15 +8808,27 @@
         "channel": "romabriere"
     },
     {
-        "id": "pNtHL97tr5Q",
-        "parentid": "P_0151d7f0",
+        "id": "A0Ffu72Y2vg",
+        "parentid": "P_3e3c1bd2",
         "soap": "GH",
         "category": "A",
-        "title": "Episode",
-        "date": "09/13/1983",
+        "title": "Jake and Rose - Bed of Roses",
+        "date": "09/12/1983",
+        "part": "1",
+        "total": "2",
+        "duration": "09:49",
+        "channel": "romabriere"
+    },
+    {
+        "id": "OK1zizbk3DU",
+        "parentid": "P_3e3c1bd2",
+        "soap": "GH",
+        "category": "A",
+        "title": "Jake and Rose - Bed of Roses",
+        "date": "09/12/1983",
         "part": "2",
         "total": "2",
-        "duration": "18:13",
+        "duration": "08:57",
         "channel": "romabriere"
     },
     {
@@ -8853,6 +8841,30 @@
         "part": "1",
         "total": "2",
         "duration": "23:16",
+        "channel": "romabriere"
+    },
+    {
+        "id": "pNtHL97tr5Q",
+        "parentid": "P_0151d7f0",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "09/13/1983",
+        "part": "2",
+        "total": "2",
+        "duration": "18:13",
+        "channel": "romabriere"
+    },
+    {
+        "id": "TPPu7uhtFi4",
+        "parentid": "",
+        "soap": "GH",
+        "category": "A",
+        "title": "Rick/Lesley Is It A Living Room or A Bachelor Pad.?",
+        "date": "09/14/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "12:25",
         "channel": "romabriere"
     },
     {
@@ -8880,15 +8892,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "TPPu7uhtFi4",
-        "parentid": "",
+        "id": "ijaqZSqui8c",
+        "parentid": "P_264e0923",
         "soap": "GH",
         "category": "A",
-        "title": "Rick/Lesley Is It A Living Room or A Bachelor Pad.?",
-        "date": "09/14/1983",
+        "title": "Episode",
+        "date": "09/15/1983",
         "part": "1",
-        "total": "1",
-        "duration": "12:25",
+        "total": "2",
+        "duration": "23:17",
         "channel": "romabriere"
     },
     {
@@ -8904,25 +8916,13 @@
         "channel": "romabriere"
     },
     {
-        "id": "ijaqZSqui8c",
-        "parentid": "P_264e0923",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "09/15/1983",
-        "part": "1",
-        "total": "2",
-        "duration": "23:17",
-        "channel": "romabriere"
-    },
-    {
         "id": "9vRgv6xLLqs",
         "parentid": "P_2a8c45d2",
         "soap": "GH",
         "category": "A",
         "title": "Rick/Lesley Lesley's Gambling",
         "date": "09/16/1983",
-        "part": "1",
+        "part": "01",
         "total": "17",
         "duration": "12:11",
         "channel": "romabriere"
@@ -8934,7 +8934,7 @@
         "category": "A",
         "title": "Rick/Lesley Lesley's Gambling",
         "date": "09/16/1983",
-        "part": "2",
+        "part": "02",
         "total": "17",
         "duration": "15:07",
         "channel": "romabriere"
@@ -8946,7 +8946,7 @@
         "category": "A",
         "title": "Rick/Lesley Lesley's Gambling",
         "date": "09/16/1983",
-        "part": "3",
+        "part": "03",
         "total": "17",
         "duration": "11:44",
         "channel": "romabriere"
@@ -8958,7 +8958,7 @@
         "category": "A",
         "title": "Rick/Lesley Lesley's Gambling",
         "date": "09/16/1983",
-        "part": "4",
+        "part": "04",
         "total": "17",
         "duration": "11:34",
         "channel": "romabriere"
@@ -8970,7 +8970,7 @@
         "category": "A",
         "title": "Rick/Lesley Lesley's Gambling",
         "date": "09/16/1983",
-        "part": "5",
+        "part": "05",
         "total": "17",
         "duration": "11:28",
         "channel": "romabriere"
@@ -8982,7 +8982,7 @@
         "category": "A",
         "title": "Rick/Lesley Lesley's Gambling",
         "date": "09/16/1983",
-        "part": "6",
+        "part": "06",
         "total": "17",
         "duration": "13:19",
         "channel": "romabriere"
@@ -8994,7 +8994,7 @@
         "category": "A",
         "title": "Rick/Lesley Lesley's Gambling",
         "date": "09/16/1983",
-        "part": "7",
+        "part": "07",
         "total": "17",
         "duration": "05:11",
         "channel": "romabriere"
@@ -9006,7 +9006,7 @@
         "category": "A",
         "title": "Rick/Lesley Lesley's Gambling",
         "date": "09/16/1983",
-        "part": "8",
+        "part": "08",
         "total": "17",
         "duration": "11:29",
         "channel": "romabriere"
@@ -9018,7 +9018,7 @@
         "category": "A",
         "title": "Rick/Lesley Lesley's Gambling",
         "date": "09/16/1983",
-        "part": "9",
+        "part": "09",
         "total": "17",
         "duration": "12:53",
         "channel": "romabriere"
@@ -9120,18 +9120,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "Endf9ecrOtg",
-        "parentid": "P_915072b5",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "09/16/1983",
-        "part": "2",
-        "total": "2",
-        "duration": "13:39",
-        "channel": "romabriere"
-    },
-    {
         "id": "Te23quKrNto",
         "parentid": "P_915072b5",
         "soap": "GH",
@@ -9141,6 +9129,18 @@
         "part": "1",
         "total": "2",
         "duration": "28:38",
+        "channel": "romabriere"
+    },
+    {
+        "id": "Endf9ecrOtg",
+        "parentid": "P_915072b5",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "09/16/1983",
+        "part": "2",
+        "total": "2",
+        "duration": "13:39",
         "channel": "romabriere"
     },
     {
@@ -9156,18 +9156,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "Bv21v5blKfQ",
-        "parentid": "P_ab95fb37",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "09/21/1983",
-        "part": "2",
-        "total": "2",
-        "duration": "22:13",
-        "channel": "romabriere"
-    },
-    {
         "id": "kFEwpxyK6J0",
         "parentid": "P_ab95fb37",
         "soap": "GH",
@@ -9180,15 +9168,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "oE8J4XJHEF8",
-        "parentid": "P_f91ad71a",
+        "id": "Bv21v5blKfQ",
+        "parentid": "P_ab95fb37",
         "soap": "GH",
         "category": "A",
         "title": "Episode",
-        "date": "09/22/1983",
+        "date": "09/21/1983",
         "part": "2",
         "total": "2",
-        "duration": "17:35",
+        "duration": "22:13",
         "channel": "romabriere"
     },
     {
@@ -9201,6 +9189,18 @@
         "part": "1",
         "total": "2",
         "duration": "24:59",
+        "channel": "romabriere"
+    },
+    {
+        "id": "oE8J4XJHEF8",
+        "parentid": "P_f91ad71a",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "09/22/1983",
+        "part": "2",
+        "total": "2",
+        "duration": "17:35",
         "channel": "romabriere"
     },
     {
@@ -9252,18 +9252,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "Pyc1MW3bohA",
-        "parentid": "P_33a7f16e",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "09/28/1983",
-        "part": "2",
-        "total": "2",
-        "duration": "17:33",
-        "channel": "romabriere"
-    },
-    {
         "id": "p7sUDYVyYPQ",
         "parentid": "P_33a7f16e",
         "soap": "GH",
@@ -9273,6 +9261,18 @@
         "part": "1",
         "total": "2",
         "duration": "24:49",
+        "channel": "romabriere"
+    },
+    {
+        "id": "Pyc1MW3bohA",
+        "parentid": "P_33a7f16e",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "09/28/1983",
+        "part": "2",
+        "total": "2",
+        "duration": "17:33",
         "channel": "romabriere"
     },
     {
@@ -9300,18 +9300,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "WHG0keMxKZs",
-        "parentid": "P_1cec606e",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "09/30/1983",
-        "part": "2",
-        "total": "2",
-        "duration": "18:34",
-        "channel": "romabriere"
-    },
-    {
         "id": "9r_PHRmlhl4",
         "parentid": "P_1cec606e",
         "soap": "GH",
@@ -9321,6 +9309,18 @@
         "part": "1",
         "total": "2",
         "duration": "23:24",
+        "channel": "romabriere"
+    },
+    {
+        "id": "WHG0keMxKZs",
+        "parentid": "P_1cec606e",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "09/30/1983",
+        "part": "2",
+        "total": "2",
+        "duration": "18:34",
         "channel": "romabriere"
     },
     {
@@ -9600,30 +9600,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "_yCiOCpPnbw",
-        "parentid": "P_7dbabf11",
-        "soap": "GH",
-        "category": "A",
-        "title": "Blackie and the Riff Raff",
-        "date": "01/01/1984",
-        "part": "2",
-        "total": "2",
-        "duration": "05:44",
-        "channel": "Donna515"
-    },
-    {
-        "id": "WyoOjRmKRrk",
-        "parentid": "P_7dbabf11",
-        "soap": "GH",
-        "category": "A",
-        "title": "Blackie and the Riff Raff",
-        "date": "01/01/1984",
-        "part": "1",
-        "total": "2",
-        "duration": "06:12",
-        "channel": "Donna515"
-    },
-    {
         "id": "8i6uZaXmD-A",
         "parentid": "",
         "soap": "GH",
@@ -9648,6 +9624,30 @@
         "channel": "romabriere"
     },
     {
+        "id": "WyoOjRmKRrk",
+        "parentid": "P_7dbabf11",
+        "soap": "GH",
+        "category": "A",
+        "title": "Blackie and the Riff Raff",
+        "date": "01/01/1984",
+        "part": "1",
+        "total": "2",
+        "duration": "06:12",
+        "channel": "donna515"
+    },
+    {
+        "id": "_yCiOCpPnbw",
+        "parentid": "P_7dbabf11",
+        "soap": "GH",
+        "category": "A",
+        "title": "Blackie and the Riff Raff",
+        "date": "01/01/1984",
+        "part": "2",
+        "total": "2",
+        "duration": "05:44",
+        "channel": "donna515"
+    },
+    {
         "id": "IrMvTLCvFCc",
         "parentid": "P_77a744d2",
         "soap": "GH",
@@ -9669,6 +9669,30 @@
         "part": "2",
         "total": "2",
         "duration": "18:03",
+        "channel": "romabriere"
+    },
+    {
+        "id": "GBv8T-yq09w",
+        "parentid": "P_7c6f8733",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/03/1984",
+        "part": "1",
+        "total": "2",
+        "duration": "24:31",
+        "channel": "romabriere"
+    },
+    {
+        "id": "Gnh4NE1Ym2c",
+        "parentid": "P_7c6f8733",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/03/1984",
+        "part": "2",
+        "total": "2",
+        "duration": "19:25",
         "channel": "romabriere"
     },
     {
@@ -9720,27 +9744,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "GBv8T-yq09w",
-        "parentid": "P_7c6f8733",
+        "id": "MS1XgJ-1U38",
+        "parentid": "P_226b896f",
         "soap": "GH",
         "category": "A",
         "title": "Episode",
-        "date": "01/03/1984",
+        "date": "01/05/1984",
         "part": "1",
         "total": "2",
-        "duration": "24:31",
-        "channel": "romabriere"
-    },
-    {
-        "id": "Gnh4NE1Ym2c",
-        "parentid": "P_7c6f8733",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "01/03/1984",
-        "part": "2",
-        "total": "2",
-        "duration": "19:25",
+        "duration": "22:46",
         "channel": "romabriere"
     },
     {
@@ -9756,15 +9768,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "MS1XgJ-1U38",
-        "parentid": "P_226b896f",
+        "id": "IgNrUWdOdGI",
+        "parentid": "",
         "soap": "GH",
         "category": "A",
-        "title": "Episode",
-        "date": "01/05/1984",
+        "title": "Rick/Lesley - Botulism Outbreak at GH",
+        "date": "01/09/1984",
         "part": "1",
-        "total": "2",
-        "duration": "22:46",
+        "total": "1",
+        "duration": "6:34",
         "channel": "romabriere"
     },
     {
@@ -9792,18 +9804,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "IgNrUWdOdGI",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Rick/Lesley - Botulism Outbreak at GH",
-        "date": "01/09/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "6:34",
-        "channel": "romabriere"
-    },
-    {
         "id": "x7OVxgw2BF0",
         "parentid": "",
         "soap": "GH",
@@ -9813,18 +9813,6 @@
         "part": "1",
         "total": "1",
         "duration": "23:30",
-        "channel": "romabriere"
-    },
-    {
-        "id": "IKWhjVprLLw",
-        "parentid": "P_1d1bfada",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "01/13/1984",
-        "part": "2",
-        "total": "2",
-        "duration": "16:17",
         "channel": "romabriere"
     },
     {
@@ -9840,6 +9828,18 @@
         "channel": "romabriere"
     },
     {
+        "id": "IKWhjVprLLw",
+        "parentid": "P_1d1bfada",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/13/1984",
+        "part": "2",
+        "total": "2",
+        "duration": "16:17",
+        "channel": "romabriere"
+    },
+    {
         "id": "-eAS4pPbR9Q",
         "parentid": "",
         "soap": "GH",
@@ -9849,6 +9849,18 @@
         "part": "1",
         "total": "1",
         "duration": "35:31",
+        "channel": "romabriere"
+    },
+    {
+        "id": "9H_5Ibts1kk",
+        "parentid": "P_be559b4c",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/18/1984",
+        "part": "1",
+        "total": "2",
+        "duration": "22:22",
         "channel": "romabriere"
     },
     {
@@ -9864,15 +9876,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "9H_5Ibts1kk",
-        "parentid": "P_be559b4c",
+        "id": "Tl3FBHWM20A",
+        "parentid": "",
         "soap": "GH",
         "category": "A",
-        "title": "Episode",
-        "date": "01/18/1984",
+        "title": "Rick/Lesley Amy is Out of The Band / Brock Threatens Rick",
+        "date": "01/19/1984",
         "part": "1",
-        "total": "2",
-        "duration": "22:22",
+        "total": "1",
+        "duration": "15:11",
         "channel": "romabriere"
     },
     {
@@ -9900,15 +9912,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "Tl3FBHWM20A",
+        "id": "-A8zoealYCo",
         "parentid": "",
         "soap": "GH",
         "category": "A",
-        "title": "Rick/Lesley Amy is Out of The Band / Brock Threatens Rick",
-        "date": "01/19/1984",
+        "title": "Rick/Lesley Brocks Lies / Blackies Recording Contract",
+        "date": "01/24/1984",
         "part": "1",
         "total": "1",
-        "duration": "15:11",
+        "duration": "10:49",
         "channel": "romabriere"
     },
     {
@@ -9936,15 +9948,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "-A8zoealYCo",
-        "parentid": "",
+        "id": "pXaDNh7m-xA",
+        "parentid": "P_da5c8ad6",
         "soap": "GH",
         "category": "A",
-        "title": "Rick/Lesley Brocks Lies / Blackies Recording Contract",
-        "date": "01/24/1984",
+        "title": "Episode",
+        "date": "01/25/1984",
         "part": "1",
-        "total": "1",
-        "duration": "10:49",
+        "total": "2",
+        "duration": "22:42",
         "channel": "romabriere"
     },
     {
@@ -9957,18 +9969,6 @@
         "part": "2",
         "total": "2",
         "duration": "21:08",
-        "channel": "romabriere"
-    },
-    {
-        "id": "pXaDNh7m-xA",
-        "parentid": "P_da5c8ad6",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "01/25/1984",
-        "part": "1",
-        "total": "2",
-        "duration": "22:42",
         "channel": "romabriere"
     },
     {
@@ -9996,18 +9996,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "cH4BGz3bRqw",
-        "parentid": "P_12993a95",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "01/30/1984",
-        "part": "2",
-        "total": "2",
-        "duration": "18:43",
-        "channel": "romabriere"
-    },
-    {
         "id": "-UQg6Mw_V84",
         "parentid": "P_12993a95",
         "soap": "GH",
@@ -10020,13 +10008,25 @@
         "channel": "romabriere"
     },
     {
+        "id": "cH4BGz3bRqw",
+        "parentid": "P_12993a95",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/30/1984",
+        "part": "2",
+        "total": "2",
+        "duration": "18:43",
+        "channel": "romabriere"
+    },
+    {
         "id": "eJbKgn2KJsw",
         "parentid": "P_40c1119e",
         "soap": "GH",
         "category": "A",
         "title": "Rick/Lesley Ginny Blake",
         "date": "01/31/1984",
-        "part": "1",
+        "part": "01",
         "total": "14",
         "duration": "12:47",
         "channel": "romabriere"
@@ -10038,7 +10038,7 @@
         "category": "A",
         "title": "Rick/Lesley Ginny Blake",
         "date": "01/31/1984",
-        "part": "2",
+        "part": "02",
         "total": "14",
         "duration": "13:34",
         "channel": "romabriere"
@@ -10050,7 +10050,7 @@
         "category": "A",
         "title": "Rick/Lesley Ginny Blake",
         "date": "01/31/1984",
-        "part": "3",
+        "part": "03",
         "total": "14",
         "duration": "5:35",
         "channel": "romabriere"
@@ -10062,7 +10062,7 @@
         "category": "A",
         "title": "Rick/Lesley Ginny Blake",
         "date": "01/31/1984",
-        "part": "4",
+        "part": "04",
         "total": "14",
         "duration": "10:14",
         "channel": "romabriere"
@@ -10074,7 +10074,7 @@
         "category": "A",
         "title": "Rick/Lesley Ginny Blake",
         "date": "01/31/1984",
-        "part": "5",
+        "part": "05",
         "total": "14",
         "duration": "7:07",
         "channel": "romabriere"
@@ -10086,7 +10086,7 @@
         "category": "A",
         "title": "Rick/Lesley Ginny Blake",
         "date": "01/31/1984",
-        "part": "6",
+        "part": "06",
         "total": "14",
         "duration": "09:35",
         "channel": "romabriere"
@@ -10098,7 +10098,7 @@
         "category": "A",
         "title": "Rick/Lesley Ginny Blake",
         "date": "01/31/1984",
-        "part": "7",
+        "part": "07",
         "total": "14",
         "duration": "8:57",
         "channel": "romabriere"
@@ -10110,7 +10110,7 @@
         "category": "A",
         "title": "Rick/Lesley Ginny Blake",
         "date": "01/31/1984",
-        "part": "8",
+        "part": "08",
         "total": "14",
         "duration": "07:14",
         "channel": "romabriere"
@@ -10122,7 +10122,7 @@
         "category": "A",
         "title": "Rick/Lesley Ginny Blake",
         "date": "01/31/1984",
-        "part": "9",
+        "part": "09",
         "total": "14",
         "duration": "14:21",
         "channel": "romabriere"
@@ -10212,18 +10212,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "45CjkjJGZso",
-        "parentid": "P_ace8bfc5",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "02/07/1984",
-        "part": "2",
-        "total": "2",
-        "duration": "18:58",
-        "channel": "romabriere"
-    },
-    {
         "id": "JUOJng-9Ebo",
         "parentid": "P_ace8bfc5",
         "soap": "GH",
@@ -10236,15 +10224,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "akLRJBrla7M",
-        "parentid": "P_e7545bcc",
+        "id": "45CjkjJGZso",
+        "parentid": "P_ace8bfc5",
         "soap": "GH",
         "category": "A",
         "title": "Episode",
-        "date": "02/08/1984",
+        "date": "02/07/1984",
         "part": "2",
         "total": "2",
-        "duration": "19:32",
+        "duration": "18:58",
         "channel": "romabriere"
     },
     {
@@ -10257,6 +10245,18 @@
         "part": "1",
         "total": "2",
         "duration": "23:46",
+        "channel": "romabriere"
+    },
+    {
+        "id": "akLRJBrla7M",
+        "parentid": "P_e7545bcc",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "02/08/1984",
+        "part": "2",
+        "total": "2",
+        "duration": "19:32",
         "channel": "romabriere"
     },
     {
@@ -10332,18 +10332,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "KEJGYirVtCE",
-        "parentid": "P_3c9ae68b",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "02/17/1984",
-        "part": "2",
-        "total": "2",
-        "duration": "19:02",
-        "channel": "romabriere"
-    },
-    {
         "id": "aPKhll07JVY",
         "parentid": "P_3c9ae68b",
         "soap": "GH",
@@ -10353,6 +10341,18 @@
         "part": "1",
         "total": "2",
         "duration": "24:10",
+        "channel": "romabriere"
+    },
+    {
+        "id": "KEJGYirVtCE",
+        "parentid": "P_3c9ae68b",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "02/17/1984",
+        "part": "2",
+        "total": "2",
+        "duration": "19:02",
         "channel": "romabriere"
     },
     {
@@ -10428,6 +10428,18 @@
         "channel": "romabriere"
     },
     {
+        "id": "lXhUCx0iTMM",
+        "parentid": "",
+        "soap": "GH",
+        "category": "A",
+        "title": "Rick/Lesley Lesleys Final Episode",
+        "date": "02/28/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "14:44",
+        "channel": "romabriere"
+    },
+    {
         "id": "R5Blh1hCLys",
         "parentid": "P_d5112d78",
         "soap": "GH",
@@ -10449,18 +10461,6 @@
         "part": "2",
         "total": "2",
         "duration": "16:50",
-        "channel": "romabriere"
-    },
-    {
-        "id": "lXhUCx0iTMM",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Rick/Lesley Lesleys Final Episode",
-        "date": "02/28/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "14:44",
         "channel": "romabriere"
     },
     {
@@ -10524,18 +10524,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "Hx67pRlIMy0",
-        "parentid": "P_f5eb1870",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "03/02/1984",
-        "part": "2",
-        "total": "2",
-        "duration": "18:28",
-        "channel": "romabriere"
-    },
-    {
         "id": "asVKXJJjztU",
         "parentid": "P_f5eb1870",
         "soap": "GH",
@@ -10545,6 +10533,18 @@
         "part": "1",
         "total": "2",
         "duration": "23:48",
+        "channel": "romabriere"
+    },
+    {
+        "id": "Hx67pRlIMy0",
+        "parentid": "P_f5eb1870",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "03/02/1984",
+        "part": "2",
+        "total": "2",
+        "duration": "18:28",
         "channel": "romabriere"
     },
     {
@@ -10596,18 +10596,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "_tN9mZsnRv8",
-        "parentid": "P_6fc0a316",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "03/07/1984",
-        "part": "2",
-        "total": "2",
-        "duration": "18:24",
-        "channel": "romabriere"
-    },
-    {
         "id": "MgtPO8i7ZNQ",
         "parentid": "P_6fc0a316",
         "soap": "GH",
@@ -10617,6 +10605,18 @@
         "part": "1",
         "total": "2",
         "duration": "24:01",
+        "channel": "romabriere"
+    },
+    {
+        "id": "_tN9mZsnRv8",
+        "parentid": "P_6fc0a316",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "03/07/1984",
+        "part": "2",
+        "total": "2",
+        "duration": "18:24",
         "channel": "romabriere"
     },
     {
@@ -10740,18 +10740,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "M_gFKruL9Jw",
-        "parentid": "P_f0efc711",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "03/15/1984",
-        "part": "2",
-        "total": "2",
-        "duration": "16:54",
-        "channel": "romabriere"
-    },
-    {
         "id": "IZuDW9sJHQI",
         "parentid": "P_f0efc711",
         "soap": "GH",
@@ -10764,15 +10752,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "aIZWyb5TSBw",
-        "parentid": "P_e9e23e56",
+        "id": "M_gFKruL9Jw",
+        "parentid": "P_f0efc711",
         "soap": "GH",
         "category": "A",
         "title": "Episode",
-        "date": "03/16/1984",
+        "date": "03/15/1984",
         "part": "2",
         "total": "2",
-        "duration": "20:37",
+        "duration": "16:54",
         "channel": "romabriere"
     },
     {
@@ -10785,6 +10773,18 @@
         "part": "1",
         "total": "2",
         "duration": "23:39",
+        "channel": "romabriere"
+    },
+    {
+        "id": "aIZWyb5TSBw",
+        "parentid": "P_e9e23e56",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "03/16/1984",
+        "part": "2",
+        "total": "2",
+        "duration": "20:37",
         "channel": "romabriere"
     },
     {
@@ -10812,18 +10812,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "tSlwGnoH6yw",
-        "parentid": "P_50f41a9a",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "03/20/1984",
-        "part": "2",
-        "total": "2",
-        "duration": "18:02",
-        "channel": "romabriere"
-    },
-    {
         "id": "J4GOGlBuhTQ",
         "parentid": "P_50f41a9a",
         "soap": "GH",
@@ -10833,6 +10821,18 @@
         "part": "1",
         "total": "2",
         "duration": "24:06",
+        "channel": "romabriere"
+    },
+    {
+        "id": "tSlwGnoH6yw",
+        "parentid": "P_50f41a9a",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "03/20/1984",
+        "part": "2",
+        "total": "2",
+        "duration": "18:02",
         "channel": "romabriere"
     },
     {
@@ -10980,18 +10980,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "QJXWBTr1d-I",
-        "parentid": "P_4f2f9bb6",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "03/29/1984",
-        "part": "2",
-        "total": "2",
-        "duration": "17:44",
-        "channel": "romabriere"
-    },
-    {
         "id": "r1QuzHyFFQ0",
         "parentid": "P_4f2f9bb6",
         "soap": "GH",
@@ -11004,15 +10992,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "ynMP_6dQHSI",
-        "parentid": "P_40ea5dcf",
+        "id": "QJXWBTr1d-I",
+        "parentid": "P_4f2f9bb6",
         "soap": "GH",
         "category": "A",
         "title": "Episode",
-        "date": "03/30/1984",
+        "date": "03/29/1984",
         "part": "2",
         "total": "2",
-        "duration": "17:07",
+        "duration": "17:44",
         "channel": "romabriere"
     },
     {
@@ -11028,15 +11016,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "f5bqGNONOJY",
-        "parentid": "P_e1b480b2",
+        "id": "ynMP_6dQHSI",
+        "parentid": "P_40ea5dcf",
         "soap": "GH",
         "category": "A",
         "title": "Episode",
-        "date": "04/02/1984",
+        "date": "03/30/1984",
         "part": "2",
         "total": "2",
-        "duration": "19:33",
+        "duration": "17:07",
         "channel": "romabriere"
     },
     {
@@ -11049,6 +11037,18 @@
         "part": "1",
         "total": "2",
         "duration": "23:19",
+        "channel": "romabriere"
+    },
+    {
+        "id": "f5bqGNONOJY",
+        "parentid": "P_e1b480b2",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "04/02/1984",
+        "part": "2",
+        "total": "2",
+        "duration": "19:33",
         "channel": "romabriere"
     },
     {
@@ -11109,19 +11109,7 @@
         "part": "1",
         "total": "1",
         "duration": "20:56",
-        "channel": "Donna515"
-    },
-    {
-        "id": "tAZEmZ4_d-s",
-        "parentid": "P_3173ebbd",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "04/05/1984",
-        "part": "2",
-        "total": "2",
-        "duration": "14:53",
-        "channel": "romabriere"
+        "channel": "donna515"
     },
     {
         "id": "WCIh3k0r3tA",
@@ -11133,6 +11121,18 @@
         "part": "1",
         "total": "2",
         "duration": "27:26",
+        "channel": "romabriere"
+    },
+    {
+        "id": "tAZEmZ4_d-s",
+        "parentid": "P_3173ebbd",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "04/05/1984",
+        "part": "2",
+        "total": "2",
+        "duration": "14:53",
         "channel": "romabriere"
     },
     {
@@ -11232,18 +11232,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "JwA8Ot-IN7k",
-        "parentid": "P_0c1cf952",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "04/12/1984",
-        "part": "2",
-        "total": "2",
-        "duration": "16:39",
-        "channel": "romabriere"
-    },
-    {
         "id": "rVyG4UZwW-k",
         "parentid": "P_0c1cf952",
         "soap": "GH",
@@ -11256,15 +11244,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "znfex5wIQRs",
-        "parentid": "P_a1b65c16",
+        "id": "JwA8Ot-IN7k",
+        "parentid": "P_0c1cf952",
         "soap": "GH",
         "category": "A",
         "title": "Episode",
-        "date": "04/13/1984",
+        "date": "04/12/1984",
         "part": "2",
         "total": "2",
-        "duration": "16:41",
+        "duration": "16:39",
         "channel": "romabriere"
     },
     {
@@ -11280,15 +11268,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "Xc06u6Y3oZk",
-        "parentid": "P_7c8d53d6",
+        "id": "znfex5wIQRs",
+        "parentid": "P_a1b65c16",
         "soap": "GH",
         "category": "A",
         "title": "Episode",
-        "date": "04/16/1984",
+        "date": "04/13/1984",
         "part": "2",
         "total": "2",
-        "duration": "15:07",
+        "duration": "16:41",
         "channel": "romabriere"
     },
     {
@@ -11301,6 +11289,18 @@
         "part": "1",
         "total": "2",
         "duration": "27:32",
+        "channel": "romabriere"
+    },
+    {
+        "id": "Xc06u6Y3oZk",
+        "parentid": "P_7c8d53d6",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "04/16/1984",
+        "part": "2",
+        "total": "2",
+        "duration": "15:07",
         "channel": "romabriere"
     },
     {
@@ -11328,18 +11328,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "R6T2NQQec30",
-        "parentid": "P_f6f3dc02",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "04/19/1984",
-        "part": "2",
-        "total": "2",
-        "duration": "20:08",
-        "channel": "romabriere"
-    },
-    {
         "id": "1flXgVHTv9M",
         "parentid": "P_f6f3dc02",
         "soap": "GH",
@@ -11352,15 +11340,15 @@
         "channel": "romabriere"
     },
     {
-        "id": "rc7TWMwn3Y0",
-        "parentid": "P_fa3009b0",
+        "id": "R6T2NQQec30",
+        "parentid": "P_f6f3dc02",
         "soap": "GH",
         "category": "A",
         "title": "Episode",
-        "date": "04/20/1984",
+        "date": "04/19/1984",
         "part": "2",
         "total": "2",
-        "duration": "21:06",
+        "duration": "20:08",
         "channel": "romabriere"
     },
     {
@@ -11373,6 +11361,18 @@
         "part": "1",
         "total": "2",
         "duration": "20:25",
+        "channel": "romabriere"
+    },
+    {
+        "id": "rc7TWMwn3Y0",
+        "parentid": "P_fa3009b0",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "04/20/1984",
+        "part": "2",
+        "total": "2",
+        "duration": "21:06",
         "channel": "romabriere"
     },
     {
@@ -11424,18 +11424,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "d9xZYGC0ikQ",
-        "parentid": "P_9f68abc3",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "04/25/1984",
-        "part": "2",
-        "total": "2",
-        "duration": "17:20",
-        "channel": "romabriere"
-    },
-    {
         "id": "L00F3XBMfyM",
         "parentid": "P_9f68abc3",
         "soap": "GH",
@@ -11445,6 +11433,18 @@
         "part": "1",
         "total": "2",
         "duration": "24:31",
+        "channel": "romabriere"
+    },
+    {
+        "id": "d9xZYGC0ikQ",
+        "parentid": "P_9f68abc3",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "04/25/1984",
+        "part": "2",
+        "total": "2",
+        "duration": "17:20",
         "channel": "romabriere"
     },
     {
@@ -11472,18 +11472,6 @@
         "channel": "romabriere"
     },
     {
-        "id": "Qoxgje-imd8",
-        "parentid": "P_263647ca",
-        "soap": "GH",
-        "category": "A",
-        "title": "Episode",
-        "date": "04/27/1984",
-        "part": "2",
-        "total": "2",
-        "duration": "16:20",
-        "channel": "romabriere"
-    },
-    {
         "id": "H2SUZQ4IufQ",
         "parentid": "P_263647ca",
         "soap": "GH",
@@ -11493,6 +11481,18 @@
         "part": "1",
         "total": "2",
         "duration": "25:29",
+        "channel": "romabriere"
+    },
+    {
+        "id": "Qoxgje-imd8",
+        "parentid": "P_263647ca",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode",
+        "date": "04/27/1984",
+        "part": "2",
+        "total": "2",
+        "duration": "16:20",
         "channel": "romabriere"
     },
     {
@@ -11589,7 +11589,7 @@
         "part": "1",
         "total": "1",
         "duration": "20:57",
-        "channel": "Donna515"
+        "channel": "donna515"
     },
     {
         "id": "wv1wAYqrAiY",
