@@ -552,15 +552,15 @@
         "channel": "pannoni"
     },
     {
-        "id": "HohSjG291WI",
-        "parentid": "P_f22aed1c",
+        "id": "X5deP-yRitA",
+        "parentid": "",
         "soap": "EDGE",
         "category": "A",
-        "title": "Episode",
+        "title": "Nicole is Missing!",
         "date": "01/01/1977",
-        "part": "2",
-        "total": "2",
-        "duration": "22:45",
+        "part": "1",
+        "total": "1",
+        "duration": "20:08",
         "channel": "rhsharp"
     },
     {
@@ -576,15 +576,15 @@
         "channel": "rhsharp"
     },
     {
-        "id": "X5deP-yRitA",
-        "parentid": "",
+        "id": "HohSjG291WI",
+        "parentid": "P_f22aed1c",
         "soap": "EDGE",
         "category": "A",
-        "title": "Nicole is Missing!",
+        "title": "Episode",
         "date": "01/01/1977",
-        "part": "1",
-        "total": "1",
-        "duration": "20:08",
+        "part": "2",
+        "total": "2",
+        "duration": "22:45",
         "channel": "rhsharp"
     },
     {
@@ -612,18 +612,6 @@
         "channel": "edwynsanchez"
     },
     {
-        "id": "VKTAwbEY3TQ",
-        "parentid": "P_464caee0",
-        "soap": "EDGE",
-        "category": "A",
-        "title": "Episode",
-        "date": "01/31/1979",
-        "part": "3",
-        "total": "4",
-        "duration": "00:22:40",
-        "channel": "theedgeofnightman"
-    },
-    {
         "id": "MUg7AJUoA-4",
         "parentid": "P_464caee0",
         "soap": "EDGE",
@@ -645,6 +633,18 @@
         "part": "2",
         "total": "4",
         "duration": "00:16:10",
+        "channel": "theedgeofnightman"
+    },
+    {
+        "id": "VKTAwbEY3TQ",
+        "parentid": "P_464caee0",
+        "soap": "EDGE",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/31/1979",
+        "part": "3",
+        "total": "4",
+        "duration": "00:22:40",
         "channel": "theedgeofnightman"
     },
     {
@@ -756,6 +756,18 @@
         "channel": "theedgeofnightman"
     },
     {
+        "id": "e9xfsJgb2Rk",
+        "parentid": "P_4dc90f9c",
+        "soap": "EDGE",
+        "category": "A",
+        "title": "Episode",
+        "date": "06/01/1979",
+        "part": "1",
+        "total": "3",
+        "duration": "00:13:23",
+        "channel": "theedgeofnightman"
+    },
+    {
         "id": "j_Up9bQ0P94",
         "parentid": "P_4dc90f9c",
         "soap": "EDGE",
@@ -777,18 +789,6 @@
         "part": "3",
         "total": "3",
         "duration": "00:10:26",
-        "channel": "theedgeofnightman"
-    },
-    {
-        "id": "e9xfsJgb2Rk",
-        "parentid": "P_4dc90f9c",
-        "soap": "EDGE",
-        "category": "A",
-        "title": "Episode",
-        "date": "06/01/1979",
-        "part": "1",
-        "total": "3",
-        "duration": "00:13:23",
         "channel": "theedgeofnightman"
     },
     {
