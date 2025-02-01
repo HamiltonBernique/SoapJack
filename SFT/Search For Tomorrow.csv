@@ -1,4 +1,4 @@
-id,title,duration,soap,date,category,parentid,part,total,channel
+link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/14kJiGMBXfw"", ""Link"")",First Episode,01:02,SFT,09/03/1951,A,,1,1,marystuart
 "=HYPERLINK(""https://youtu.be/9aOgdn0JRFg"", ""Link"")","Jo, Arthur and Sam Reynolds",03:34,SFT,01/01/1952,A,,1,1,marystuart
 "=HYPERLINK(""https://youtu.be/9wwBI4Iv6do"", ""Link"")",Marge is Pregnant!,2:40,SFT,06/01/1952,A,,1,1,marystuart
