@@ -1,0 +1,5 @@
+link,title,duration,soap,date,category,parentid,part,total,channel
+"=HYPERLINK(""https://youtu.be/n0XKY1ZYayo"", ""Link"")",Episode,14:32,BDAY,01/01/1955,A,,1,1,moviecraft
+"=HYPERLINK(""https://youtu.be/_H21udRpk_g"", ""Link"")",Episode,14:24,BDAY,01/01/1955,A,,1,1,classicsoapoperas
+"=HYPERLINK(""https://youtu.be/71H9IULgQi8"", ""Link"")",Episode,14:29,BDAY,05/15/1955,A,,1,1,classicsoapoperas
+"=HYPERLINK(""https://youtu.be/Rfx6kJDNfzM"", ""Link"")",Episode,14:33,BDAY,01/01/1960,A,,1,1,moviecraft
