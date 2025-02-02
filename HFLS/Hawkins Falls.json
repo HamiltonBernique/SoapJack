@@ -1,0 +1,74 @@
+[
+    {
+        "id": "cJX8pe2rTqU",
+        "parentid": "",
+        "soap": "HFLS",
+        "category": "A",
+        "title": "Hawkins Falls",
+        "date": "10/21/1950",
+        "part": "1",
+        "total": "1",
+        "duration": "13:55",
+        "channel": "classicsoapoperas"
+    },
+    {
+        "id": "LiMnsUdyeN8",
+        "parentid": "",
+        "soap": "HFLS",
+        "category": "A",
+        "title": "Episode",
+        "date": "05/01/1951",
+        "part": "1",
+        "total": "1",
+        "duration": "14:39",
+        "channel": "tvdays"
+    },
+    {
+        "id": "kfPT-AO1C5k",
+        "parentid": "",
+        "soap": "HFLS",
+        "category": "A",
+        "title": "Episode",
+        "date": "05/04/1953",
+        "part": "1",
+        "total": "1",
+        "duration": "14:37",
+        "channel": "ugabrownmediaarchives"
+    },
+    {
+        "id": "9PBcshj3SsI",
+        "parentid": "",
+        "soap": "HFLS",
+        "category": "A",
+        "title": "Episode",
+        "date": "10/23/1953",
+        "part": "1",
+        "total": "1",
+        "duration": "12:56",
+        "channel": "classicsoapoperas"
+    },
+    {
+        "id": "wXuN7nSjSr4",
+        "parentid": "",
+        "soap": "HFLS",
+        "category": "A",
+        "title": "Episode",
+        "date": "03/01/1955",
+        "part": "1",
+        "total": "1",
+        "duration": "12:30",
+        "channel": "theatercorner"
+    },
+    {
+        "id": "TJIKkHoP_rM",
+        "parentid": "",
+        "soap": "HFLS",
+        "category": "A",
+        "title": "Episode",
+        "date": "04/04/1955",
+        "part": "1",
+        "total": "1",
+        "duration": "12:31",
+        "channel": "tvdays"
+    }
+]
