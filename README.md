@@ -2,7 +2,7 @@
 
 Presenting YouTube classic soap opera videos in chronological order. The repository contains the data of classic soap opera videos from YouTube in the approximate order of their broadcast dates.
 
-This site is under construction and is about 50% complete.
+This site is under construction and is roughly 50% complete.
 
 For questions, contact Bruce Hamilton at `hamiltonbernique@icloud.com`
 
