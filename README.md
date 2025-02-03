@@ -29,7 +29,7 @@ The JSON data has the following elements:
 
 | Soap Opera | Stats
 | --- | --- |
-| ![AMC](/z-media/AMC.png)<br>All My Children (AMC) | 01/01/1970 to 01/01/2017<br>Total: 5333, avg duration: 00:18:50<br>Total A: 5073 (95.12%)<br>Total B: 258 (4.84%) |
+| ![AMC](/z-media/AMC.png)<br> [All My Children](/AMC) (AMC) | 01/01/1970 to 01/01/2017<br>Total: 5333, avg duration: 00:18:50<br>Total A: 5073 (95.12%)<br>Total B: 258 (4.84%) |
 | ![ATWT](/z-media/ATWT.png)<br>As The World Turns (ATWT) | 04/10/1957 to 09/17/2010<br>Total: 644, avg duration: 01:07:17<br>Total A: 573 (88.98%)<br>Total B: 71 (11.02%) |
 | ![AW](/z-media/AW.png)<br>Another World (AW) | 5/22/1964 to 7/15/2002<br>Total: 3888, avg duration: 09:37:34<br>Total A: 3808 (97.94%)<br>Total B: 80 (2.06%) |
 | ![BB](/z-media/BB.png)<br>Bold And The Beautiful (BB) | 01/01/1989 to 09/22/2010<br>Total: 56, avg duration: 00:05:32<br>Total A: 17 (30.36%)<br>Total B: 39 (69.64%) |
