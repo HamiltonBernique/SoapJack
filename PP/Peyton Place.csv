@@ -1,4 +1,4 @@
-id,title,duration,soap,date,category,parentid,part,total,channel
+link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/BTQqqhZ9qd8"", ""Link"")",Episode 1,25:18,PP,09/15/1964,A,,1,1,soapsnthings
 "=HYPERLINK(""https://youtu.be/6d9NLRykjFc"", ""Link"")",Episode 2,25:22,PP,9/17/1964,A,,1,1,soapsnthings
 "=HYPERLINK(""https://youtu.be/TbCAQSMr6C8"", ""Link"")",Episode 3,25:21,PP,9/22/1964,A,,1,1,soapsnthings
@@ -33,12 +33,12 @@ id,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/epwyfOsWr8c"", ""Link"")",Episode 30,25:09,PP,12/29/1964,A,,1,1,soapsnthings
 "=HYPERLINK(""https://youtu.be/IzpM70p4xKA"", ""Link"")",Episode 31,25:19,PP,12/31/1964,A,,1,1,soapsnthings
 "=HYPERLINK(""https://youtu.be/NdpyCs7TJqU"", ""Link"")",Episode 32,25:18,PP,1/5/1965,A,,1,1,soapsnthings
+"=HYPERLINK(""https://youtu.be/G_-VS6mrRpA"", ""Link"")",Episode 33,25:18,PP,01/07/1965,A,,1,1,soapsnthings
 "=HYPERLINK(""https://youtu.be/UlCiahO0Do8"", ""Link"")",Episode 34,25:18,PP,1/12/1965,A,,1,1,soapsnthings
 "=HYPERLINK(""https://youtu.be/qYh4kQtvS5I"", ""Link"")",Episode 35,25:20,PP,1/14/1965,A,,1,1,soapsnthings
 "=HYPERLINK(""https://youtu.be/5avMnhE100U"", ""Link"")",Episode 36,25:19,PP,1/19/1965,A,,1,1,soapsnthings
 "=HYPERLINK(""https://youtu.be/-NAoYBKC7Xw"", ""Link"")",Episode 37,25:18,PP,1/21/1965,A,,1,1,soapsnthings
 "=HYPERLINK(""https://youtu.be/e1NN-72N1E4"", ""Link"")",Episode 38,25:19,PP,1/26/1965,A,,1,1,soapsnthings
-"=HYPERLINK(""https://youtu.be/UH_A0ZhYS6Q"", ""Link"")",Episode 174,25:05,PP,1/27/1965,A,,1,1,soapsnthings
 "=HYPERLINK(""https://youtu.be/PCHWeC6kL6w"", ""Link"")",Episode 39 (Part 1 of 2),14:42,PP,1/28/1965,A,P_3997f7a9,1,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/0KHS-tbT1O8"", ""Link"")",Episode 39 (Part 2 of 2),10:28,PP,1/28/1965,A,P_3997f7a9,2,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/HRsVYznRb9c"", ""Link"")",Episode 40 (Part 1 of 2),15:02,PP,2/2/1965,A,P_51dd3c3f,1,2,soapsnthings
@@ -67,6 +67,10 @@ id,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/7zLiqsDTvqo"", ""Link"")",Episode 51 (Part 2 of 2),12:32,PP,3/11/1965,A,P_2f91b16b,2,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/dTOf7Gt0pEU"", ""Link"")",Episode 52 (Part 1 of 2),10:41,PP,3/16/1965,A,P_1b4de659,1,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/wVa6g1t5hKs"", ""Link"")",Episode 52 (Part 2 of 2),14:37,PP,3/16/1965,A,P_1b4de659,2,2,soapsnthings
+"=HYPERLINK(""https://youtu.be/zajHkxjqVGU"", ""Link"")",Episode 53 (Part 1 of 2),13:03,PP,03/18/1965,A,P_9e985c6b,1,2,soapsnthings
+"=HYPERLINK(""https://youtu.be/IbYc7bix16I"", ""Link"")",Episode 53 (Part 2 of 2),12:19,PP,03/18/1965,A,P_9e985c6b,2,2,soapsnthings
+"=HYPERLINK(""https://youtu.be/7nJoirp1B5A"", ""Link"")",Episode 54 (Part 1 of 2),13:24,PP,03/23/1965,A,P_76dab682,1,2,soapsnthings
+"=HYPERLINK(""https://youtu.be/dnL5pp44b_4"", ""Link"")",Episode 54 (Part 2 of 2),11:53,PP,03/23/1965,A,P_76dab682,2,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/5q_lu_psLFo"", ""Link"")",Episode 55 (Part 1 of 2),13:03,PP,3/25/1965,A,P_21b53d16,1,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/JNoY1YuMiuM"", ""Link"")",Episode 55 (Part 2 of 2),12:17,PP,3/25/1965,A,P_21b53d16,2,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/xQrbDk4RsIo"", ""Link"")",Episode 56 (Part 1 of 2),13:12,PP,3/30/1965,A,P_7dd86103,1,2,soapsnthings
@@ -83,7 +87,6 @@ id,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/BhnYFTd7pIc"", ""Link"")",Episode 61 (Part 2 of 2),11:33,PP,4/15/1965,A,P_deea6080,2,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/2_PLpstn5MU"", ""Link"")",Episode 62 (Part 1 of 2),13:08,PP,4/20/1965,A,P_0659565c,1,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/Eadx0gpN5WY"", ""Link"")",Episode 62 (Part 2 of 2),12:11,PP,4/20/1965,A,P_0659565c,2,2,soapsnthings
-"=HYPERLINK(""https://youtu.be/EbQJI2voz4g"", ""Link"")",Episode 163,25:12,PP,4/22/1965,A,,1,1,soapsnthings
 "=HYPERLINK(""https://youtu.be/B89_SNv_yCc"", ""Link"")",Episode 63 (Part 1 of 2),14:55,PP,4/22/1965,A,P_ad4da357,1,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/JSO9WLwpf6Y"", ""Link"")",Episode 63 (Part 2 of 2),10:27,PP,4/22/1965,A,P_ad4da357,2,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/w_TDr3Yjkxc"", ""Link"")",Episode 64 (Part 1 of 2),12:37,PP,4/27/1965,A,P_d75ea58b,1,2,soapsnthings
@@ -132,7 +135,10 @@ id,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/k6OJVTPoXCc"", ""Link"")",Episode 85 (Part 2 of 2),11:42,PP,7/2/1965,A,P_04afb4ca,2,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/R3Ujfd2NktQ"", ""Link"")",Episode 86 (Part 1 of 2),14:22,PP,7/6/1965,A,P_f7254ba6,1,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/BY0GWtwnvR4"", ""Link"")",Episode 86 (Part 2 of 2),10:42,PP,7/6/1965,A,P_f7254ba6,2,2,soapsnthings
-"=HYPERLINK(""https://youtu.be/G_-VS6mrRpA"", ""Link"")",Episode 33,25:18,PP,7/7/1965,A,,1,1,soapsnthings
+"=HYPERLINK(""https://youtu.be/l8dgnTH3Fkk"", ""Link"")",Episode 87 (Part 1 of 2),13:21,PP,07/08/1965,A,P_dfdc65c5,1,2,soapsnthings
+"=HYPERLINK(""https://youtu.be/WIDjxm731nk"", ""Link"")",Episode 87 (Part 2 of 2),11:48,PP,07/08/1965,A,P_dfdc65c5,2,2,soapsnthings
+"=HYPERLINK(""https://youtu.be/J8SmHs4nWfU"", ""Link"")",Episode 88 (Part 1 of 2),10:39,PP,07/09/1965,A,P_e1e75979,1,2,soapsnthings
+"=HYPERLINK(""https://youtu.be/p7_FDsdV-40"", ""Link"")",Episode 88 (Part 2 of 2),14:34,PP,07/09/1965,A,P_e1e75979,2,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/mGXcbh1Iq-w"", ""Link"")",Episode 89 (Part 1 of 2),13:18,PP,7/13/1965,A,P_6deb13fc,1,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/JEaI52nfUdA"", ""Link"")",Episode 89 (Part 2 of 2),11:51,PP,7/13/1965,A,P_6deb13fc,2,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/PW_7quixFTg"", ""Link"")",Episode 90 (Part 1 of 2),14:47,PP,7/15/1965,A,P_b1b5cc02,1,2,soapsnthings
@@ -155,10 +161,6 @@ id,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/jrMQ74MfDvw"", ""Link"")",Episode 98 (Part 2 of 2),12:01,PP,8/3/1965,A,P_78aea722,2,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/NDPi7w5YGAM"", ""Link"")",Episode 99 (Part 1 of 2),10:24,PP,8/5/1965,A,P_dca8fb50,1,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/L2ioaxVgAOA"", ""Link"")",Episode 99 (Part 2 of 2),14:44,PP,8/5/1965,A,P_dca8fb50,2,2,soapsnthings
-"=HYPERLINK(""https://youtu.be/l8dgnTH3Fkk"", ""Link"")",Episode 87 (Part 1 of 2),13:21,PP,8/8/1965,A,P_dfdc65c5,1,2,soapsnthings
-"=HYPERLINK(""https://youtu.be/WIDjxm731nk"", ""Link"")",Episode 87 (Part 2 of 2),11:48,PP,8/8/1965,A,P_dfdc65c5,2,2,soapsnthings
-"=HYPERLINK(""https://youtu.be/J8SmHs4nWfU"", ""Link"")",Episode 88 (Part 1 of 2),10:39,PP,8/9/1965,A,P_e1e75979,1,2,soapsnthings
-"=HYPERLINK(""https://youtu.be/p7_FDsdV-40"", ""Link"")",Episode 88 (Part 2 of 2),14:34,PP,8/9/1965,A,P_e1e75979,2,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/FGo06sXYS5I"", ""Link"")",Episode 100 (Part 1 of 2),13:35,PP,8/10/1965,A,P_4209494b,1,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/K5Yv31xUAiI"", ""Link"")",Episode 100 (Part 2 of 2),11:24,PP,8/10/1965,A,P_4209494b,2,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/WY7eVCCMCC0"", ""Link"")",Episode 101 (Part 1 of 2),13:26,PP,8/12/1965,A,P_98b221ba,1,2,soapsnthings
@@ -266,6 +268,7 @@ id,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/nDofSDbu2XU"", ""Link"")",Episode 160,25:14,PP,12/27/1965,A,,1,1,soapsnthings
 "=HYPERLINK(""https://youtu.be/d2AjlMr49kA"", ""Link"")",Episode 161,25:15,PP,12/28/1965,A,,1,1,soapsnthings
 "=HYPERLINK(""https://youtu.be/NZz0jQIttMs"", ""Link"")",Episode 162,25:15,PP,12/30/1965,A,,1,1,soapsnthings
+"=HYPERLINK(""https://youtu.be/EbQJI2voz4g"", ""Link"")",Episode 163,25:12,PP,01/03/1966,A,,1,1,soapsnthings
 "=HYPERLINK(""https://youtu.be/hJPEvRe0Hz4"", ""Link"")",Episode 164,25:15,PP,1/4/1966,A,,1,1,soapsnthings
 "=HYPERLINK(""https://youtu.be/efjuWLYjOhQ"", ""Link"")",Episode 165,25:15,PP,1/6/1966,A,,1,1,soapsnthings
 "=HYPERLINK(""https://youtu.be/n343xlMdy6E"", ""Link"")",Episode 166,25:14,PP,1/10/1966,A,,1,1,soapsnthings
@@ -276,6 +279,7 @@ id,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/ZdnaFVmdIVs"", ""Link"")",Episode 171,25:14,PP,1/20/1966,A,,1,1,soapsnthings
 "=HYPERLINK(""https://youtu.be/fRwRro4AYbs"", ""Link"")",Episode 172,25:04,PP,1/24/1966,A,,1,1,soapsnthings
 "=HYPERLINK(""https://youtu.be/PMZfySdveGs"", ""Link"")",Episode 173,25:04,PP,1/25/1966,A,,1,1,soapsnthings
+"=HYPERLINK(""https://youtu.be/UH_A0ZhYS6Q"", ""Link"")",Episode 174,25:05,PP,01/27/1966,A,,1,1,soapsnthings
 "=HYPERLINK(""https://youtu.be/A2ScJvqLD8s"", ""Link"")",Episode 175 (Part 1 of 2),13:31,PP,1/31/1966,A,P_a2910da9,1,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/ZUcWHADhOjE"", ""Link"")",Episode 175 (Part 2 of 2),11:51,PP,1/31/1966,A,P_a2910da9,2,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/x0Ji-pt7Nb8"", ""Link"")",Episode 176 (Part 1 of 2),12:21,PP,2/1/1966,A,P_a9be55f9,1,2,soapsnthings
@@ -318,14 +322,10 @@ id,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/ONH0BrtREJc"", ""Link"")",Episode 194 (Part 2 of 2),11:34,PP,3/15/1966,A,P_00d067d4,2,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/PckHSUli4vE"", ""Link"")",Episode 195 (Part 1 of 2),14:00,PP,3/17/1966,A,P_d4c3de6a,1,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/rdfNc32HhPA"", ""Link"")",Episode 195 (Part 2 of 2),11:15,PP,3/17/1966,A,P_d4c3de6a,2,2,soapsnthings
-"=HYPERLINK(""https://youtu.be/zajHkxjqVGU"", ""Link"")",Episode 53 (Part 1 of 2),13:03,PP,3/18/1966,A,P_9e985c6b,1,2,soapsnthings
-"=HYPERLINK(""https://youtu.be/IbYc7bix16I"", ""Link"")",Episode 53 (Part 2 of 2),12:19,PP,3/18/1966,A,P_9e985c6b,2,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/exdh3eHGauc"", ""Link"")",Episode 196 (Part 1 of 2),11:14,PP,3/21/1966,A,P_83bd0e3c,1,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/85TCBbkcP1Q"", ""Link"")",Episode 196 (Part 2 of 2),14:00,PP,3/21/1966,A,P_83bd0e3c,2,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/xk1cC_c8Gqs"", ""Link"")",Episode 197 (Part 1 of 2),11:42,PP,3/22/1966,A,P_5da84aea,1,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/J9_SIM8Kwz0"", ""Link"")",Episode 197 (Part 2 of 2),13:32,PP,3/22/1966,A,P_5da84aea,2,2,soapsnthings
-"=HYPERLINK(""https://youtu.be/7nJoirp1B5A"", ""Link"")",Episode 54 (Part 1 of 2),13:24,PP,3/23/1966,A,P_76dab682,1,2,soapsnthings
-"=HYPERLINK(""https://youtu.be/dnL5pp44b_4"", ""Link"")",Episode 54 (Part 2 of 2),11:53,PP,3/23/1966,A,P_76dab682,2,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/MZqZ0T6P28E"", ""Link"")",Episode 198 (Part 1 of 2),14:57,PP,3/24/1966,A,P_c5583e6d,1,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/skXAPpDxWhI"", ""Link"")",Episode 198 (Part 2 of 2),10:18,PP,3/24/1966,A,P_c5583e6d,2,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/iZQdWBhD9kA"", ""Link"")",Episode 199 (Part 1 of 2),12:29,PP,3/28/1966,A,P_5622bb4a,1,2,soapsnthings
@@ -711,8 +711,8 @@ id,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/vvsmOGn41rU"", ""Link"")",Episode 389 (Part 2 of 2),14:42,PP,11/23/1967,A,P_a0413d5c,2,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/UcvZG9SBrqI"", ""Link"")",Episode 390 (Part 1 of 2),12:50,PP,11/30/1967,A,P_b22f8aaa,1,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/HmrHb_lR--E"", ""Link"")",Episode 390 (Part 2 of 2),11:24,PP,11/30/1967,A,P_b22f8aaa,2,2,soapsnthings
-"=HYPERLINK(""https://youtu.be/cvrorf4wJ3w"", ""Link"")",Episode 391 (Part 1 of 2),12:47,PP,12/7/1967,A,P_085afc8f,1,2,soapsnthings
-"=HYPERLINK(""https://youtu.be/3Q5_gfQirt0"", ""Link"")",Episode 391 (Part 2 of 2),11:24,PP,12/7/1967,A,P_085afc8f,2,2,soapsnthings
+"=HYPERLINK(""https://youtu.be/cvrorf4wJ3w"", ""Link"")",Episode 391 (Part 1 of 2),12:47,PP,12/04/1967,A,P_085afc8f,1,2,soapsnthings
+"=HYPERLINK(""https://youtu.be/3Q5_gfQirt0"", ""Link"")",Episode 391 (Part 2 of 2),11:24,PP,12/04/1967,A,P_085afc8f,2,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/shxHBJfBkEE"", ""Link"")",Episode 392 (Part 1 of 2),13:22,PP,12/7/1967,A,P_c2787ed5,1,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/3QbZKhIkOn0"", ""Link"")",Episode 392 (Part 2 of 2),10:40,PP,12/7/1967,A,P_c2787ed5,2,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/G0L7d5pI7kE"", ""Link"")",Episode 393 (Part 1 of 2),13:10,PP,12/11/1967,A,P_527d2d1d,1,2,soapsnthings
@@ -731,8 +731,6 @@ id,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/1GnjrlsCzGo"", ""Link"")",Episode 399 (Part 2 of 2),11:18,PP,1/1/1968,A,P_1344d4b8,2,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/_y436Sv2Su8"", ""Link"")",Episode 400 (Part 1 of 2),14:29,PP,1/4/1968,A,P_e902f234,1,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/PRRaKzOyaaM"", ""Link"")",Episode 400 (Part 2 of 2),09:26,PP,1/4/1968,A,P_e902f234,2,2,soapsnthings
-"=HYPERLINK(""https://youtu.be/lJdChHkgi60"", ""Link"")",Episode 490 (Part 1 of 2),13:21,PP,1/6/1968,A,P_f09cbaf8,1,2,soapsnthings
-"=HYPERLINK(""https://youtu.be/b6tRrIbSuM4"", ""Link"")",Episode 490 (Part 2 of 2),11:10,PP,1/6/1968,A,P_f09cbaf8,2,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/6kSl46BOFKc"", ""Link"")",Episode 401 (Part 1 of 2),12:01,PP,1/11/1968,A,P_7004d116,1,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/kEolokBBj3E"", ""Link"")",Episode 401 (Part 2 of 2),12:10,PP,1/11/1968,A,P_7004d116,2,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/IhaBnjbcUU4"", ""Link"")",Episode 402 (Part 1 of 2),13:44,PP,1/15/1968,A,P_48ad85c5,1,2,soapsnthings
@@ -741,8 +739,8 @@ id,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/f3vJOTpHBfs"", ""Link"")",Episode 403 (Part 2 of 2),11:10,PP,1/18/1968,A,P_d7354e8b,2,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/qTzbcLiuJtg"", ""Link"")",Episode 404 (Part 1 of 2),14:58,PP,1/22/1968,A,P_83c5e62b,1,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/XI8kZqMsAF8"", ""Link"")",Episode 404 (Part 2 of 2),9:08,PP,1/22/1968,A,P_83c5e62b,2,2,soapsnthings
-"=HYPERLINK(""https://youtu.be/Md2PWF-ltgE"", ""Link"")",Episode 405 (Part 1 of 2),12:02,PP,1/28/1968,A,P_2fcd4078,1,2,soapsnthings
-"=HYPERLINK(""https://youtu.be/g8ZDoO-eOpQ"", ""Link"")",Episode 405 (Part 2 of 2),11:58,PP,1/28/1968,A,P_2fcd4078,2,2,soapsnthings
+"=HYPERLINK(""https://youtu.be/Md2PWF-ltgE"", ""Link"")",Episode 405 (Part 1 of 2),12:02,PP,01/25/1968,A,P_2fcd4078,1,2,soapsnthings
+"=HYPERLINK(""https://youtu.be/g8ZDoO-eOpQ"", ""Link"")",Episode 405 (Part 2 of 2),11:58,PP,01/25/1968,A,P_2fcd4078,2,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/Kv-Q4-g4lUg"", ""Link"")",Episode 406 (Part 1 of 2),10:18,PP,2/1/1968,A,P_7227ee6d,1,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/IVqBruIdPeY"", ""Link"")",Episode 406 (Part 2 of 2),13:59,PP,2/1/1968,A,P_7227ee6d,2,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/o_gW02RWpNE"", ""Link"")",Episode 407 (Part 1 of 2),14:54,PP,2/5/1968,A,P_67cdc407,1,2,soapsnthings
@@ -763,8 +761,8 @@ id,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/oIzr5h2gH7g"", ""Link"")",Episode 414 (Part 2 of 2),9:34,PP,3/7/1968,A,P_1a09201c,2,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/hhdg5TD7c28"", ""Link"")",Episode 415 (Part 1 of 2),14:44,PP,3/11/1968,A,P_a140ca23,1,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/HmfUm87GplM"", ""Link"")",Episode 415 (Part 2 of 2),9:15,PP,3/11/1968,A,P_a140ca23,2,2,soapsnthings
-"=HYPERLINK(""https://youtu.be/89MHXB1QyFs"", ""Link"")",Episode 416 (Part 1 of 2),14:24,PP,3/15/1968,A,P_7793298a,1,2,soapsnthings
-"=HYPERLINK(""https://youtu.be/SVDzXrbD1BE"", ""Link"")",Episode 416 (Part 2 of 2),09:44,PP,3/15/1968,A,P_7793298a,2,2,soapsnthings
+"=HYPERLINK(""https://youtu.be/89MHXB1QyFs"", ""Link"")",Episode 416 (Part 1 of 2),14:24,PP,03/14/1968,A,P_7793298a,1,2,soapsnthings
+"=HYPERLINK(""https://youtu.be/SVDzXrbD1BE"", ""Link"")",Episode 416 (Part 2 of 2),09:44,PP,03/14/1968,A,P_7793298a,2,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/qcqKZ3V1Kb0"", ""Link"")",Episode 417 (Part 1 of 2),13:33,PP,3/18/1968,A,P_71ab43b7,1,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/lcUpxBnzUow"", ""Link"")",Episode 417 (Part 2 of 2),10:30,PP,3/18/1968,A,P_71ab43b7,2,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/w3YD_Qq_bQk"", ""Link"")",Episode 418 (Part 1 of 2),10:57,PP,3/21/1968,A,P_a087b0f5,1,2,soapsnthings
@@ -910,6 +908,8 @@ id,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/y7V2BdGNdjE"", ""Link"")",Episode 488 (Part 2 of 2),9:31,PP,12/30/1968,A,P_aab9aa74,2,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/xZM4_EojZoo"", ""Link"")",Episode 489 (Part 1 of 2),11:27,PP,1/1/1969,A,P_c63f179c,1,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/jFc9paHhUlE"", ""Link"")",Episode 489 (Part 2 of 2),13:05,PP,1/1/1969,A,P_c63f179c,2,2,soapsnthings
+"=HYPERLINK(""https://youtu.be/lJdChHkgi60"", ""Link"")",Episode 490 (Part 1 of 2),13:21,PP,01/06/1969,A,P_f09cbaf8,1,2,soapsnthings
+"=HYPERLINK(""https://youtu.be/b6tRrIbSuM4"", ""Link"")",Episode 490 (Part 2 of 2),11:10,PP,01/06/1969,A,P_f09cbaf8,2,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/T_YDOydisZ8"", ""Link"")",Episode 491 (Part 1 of 2),12:59,PP,1/8/1969,A,P_43c2141b,1,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/01kq4w_jb4E"", ""Link"")",Episode 491 (Part 2 of 2),11:26,PP,1/8/1969,A,P_43c2141b,2,2,soapsnthings
 "=HYPERLINK(""https://youtu.be/1pZWX9u_zmI"", ""Link"")",Episode 492 (Part 1 of 2),14:32,PP,1/15/1969,A,P_ab185f1b,1,2,soapsnthings

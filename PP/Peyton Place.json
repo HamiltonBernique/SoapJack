@@ -408,6 +408,18 @@
         "channel": "soapsnthings"
     },
     {
+        "id": "G_-VS6mrRpA",
+        "parentid": "",
+        "soap": "PP",
+        "category": "A",
+        "title": "Episode 33",
+        "date": "01/07/1965",
+        "part": "1",
+        "total": "1",
+        "duration": "25:18",
+        "channel": "soapsnthings"
+    },
+    {
         "id": "UlCiahO0Do8",
         "parentid": "",
         "soap": "PP",
@@ -465,18 +477,6 @@
         "part": "1",
         "total": "1",
         "duration": "25:19",
-        "channel": "soapsnthings"
-    },
-    {
-        "id": "UH_A0ZhYS6Q",
-        "parentid": "",
-        "soap": "PP",
-        "category": "A",
-        "title": "Episode 174",
-        "date": "1/27/1965",
-        "part": "1",
-        "total": "1",
-        "duration": "25:05",
         "channel": "soapsnthings"
     },
     {
@@ -816,6 +816,54 @@
         "channel": "soapsnthings"
     },
     {
+        "id": "zajHkxjqVGU",
+        "parentid": "P_9e985c6b",
+        "soap": "PP",
+        "category": "A",
+        "title": "Episode 53 (Part 1 of 2)",
+        "date": "03/18/1965",
+        "part": "1",
+        "total": "2",
+        "duration": "13:03",
+        "channel": "soapsnthings"
+    },
+    {
+        "id": "IbYc7bix16I",
+        "parentid": "P_9e985c6b",
+        "soap": "PP",
+        "category": "A",
+        "title": "Episode 53 (Part 2 of 2)",
+        "date": "03/18/1965",
+        "part": "2",
+        "total": "2",
+        "duration": "12:19",
+        "channel": "soapsnthings"
+    },
+    {
+        "id": "7nJoirp1B5A",
+        "parentid": "P_76dab682",
+        "soap": "PP",
+        "category": "A",
+        "title": "Episode 54 (Part 1 of 2)",
+        "date": "03/23/1965",
+        "part": "1",
+        "total": "2",
+        "duration": "13:24",
+        "channel": "soapsnthings"
+    },
+    {
+        "id": "dnL5pp44b_4",
+        "parentid": "P_76dab682",
+        "soap": "PP",
+        "category": "A",
+        "title": "Episode 54 (Part 2 of 2)",
+        "date": "03/23/1965",
+        "part": "2",
+        "total": "2",
+        "duration": "11:53",
+        "channel": "soapsnthings"
+    },
+    {
         "id": "5q_lu_psLFo",
         "parentid": "P_21b53d16",
         "soap": "PP",
@@ -1005,18 +1053,6 @@
         "part": "2",
         "total": "2",
         "duration": "12:11",
-        "channel": "soapsnthings"
-    },
-    {
-        "id": "EbQJI2voz4g",
-        "parentid": "",
-        "soap": "PP",
-        "category": "A",
-        "title": "Episode 163",
-        "date": "4/22/1965",
-        "part": "1",
-        "total": "1",
-        "duration": "25:12",
         "channel": "soapsnthings"
     },
     {
@@ -1596,15 +1632,51 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "G_-VS6mrRpA",
-        "parentid": "",
+        "id": "l8dgnTH3Fkk",
+        "parentid": "P_dfdc65c5",
         "soap": "PP",
         "category": "A",
-        "title": "Episode 33",
-        "date": "7/7/1965",
+        "title": "Episode 87 (Part 1 of 2)",
+        "date": "07/08/1965",
         "part": "1",
-        "total": "1",
-        "duration": "25:18",
+        "total": "2",
+        "duration": "13:21",
+        "channel": "soapsnthings"
+    },
+    {
+        "id": "WIDjxm731nk",
+        "parentid": "P_dfdc65c5",
+        "soap": "PP",
+        "category": "A",
+        "title": "Episode 87 (Part 2 of 2)",
+        "date": "07/08/1965",
+        "part": "2",
+        "total": "2",
+        "duration": "11:48",
+        "channel": "soapsnthings"
+    },
+    {
+        "id": "J8SmHs4nWfU",
+        "parentid": "P_e1e75979",
+        "soap": "PP",
+        "category": "A",
+        "title": "Episode 88 (Part 1 of 2)",
+        "date": "07/09/1965",
+        "part": "1",
+        "total": "2",
+        "duration": "10:39",
+        "channel": "soapsnthings"
+    },
+    {
+        "id": "p7_FDsdV-40",
+        "parentid": "P_e1e75979",
+        "soap": "PP",
+        "category": "A",
+        "title": "Episode 88 (Part 2 of 2)",
+        "date": "07/09/1965",
+        "part": "2",
+        "total": "2",
+        "duration": "14:34",
         "channel": "soapsnthings"
     },
     {
@@ -1869,54 +1941,6 @@
         "part": "2",
         "total": "2",
         "duration": "14:44",
-        "channel": "soapsnthings"
-    },
-    {
-        "id": "l8dgnTH3Fkk",
-        "parentid": "P_dfdc65c5",
-        "soap": "PP",
-        "category": "A",
-        "title": "Episode 87 (Part 1 of 2)",
-        "date": "8/8/1965",
-        "part": "1",
-        "total": "2",
-        "duration": "13:21",
-        "channel": "soapsnthings"
-    },
-    {
-        "id": "WIDjxm731nk",
-        "parentid": "P_dfdc65c5",
-        "soap": "PP",
-        "category": "A",
-        "title": "Episode 87 (Part 2 of 2)",
-        "date": "8/8/1965",
-        "part": "2",
-        "total": "2",
-        "duration": "11:48",
-        "channel": "soapsnthings"
-    },
-    {
-        "id": "J8SmHs4nWfU",
-        "parentid": "P_e1e75979",
-        "soap": "PP",
-        "category": "A",
-        "title": "Episode 88 (Part 1 of 2)",
-        "date": "8/9/1965",
-        "part": "1",
-        "total": "2",
-        "duration": "10:39",
-        "channel": "soapsnthings"
-    },
-    {
-        "id": "p7_FDsdV-40",
-        "parentid": "P_e1e75979",
-        "soap": "PP",
-        "category": "A",
-        "title": "Episode 88 (Part 2 of 2)",
-        "date": "8/9/1965",
-        "part": "2",
-        "total": "2",
-        "duration": "14:34",
         "channel": "soapsnthings"
     },
     {
@@ -3204,6 +3228,18 @@
         "channel": "soapsnthings"
     },
     {
+        "id": "EbQJI2voz4g",
+        "parentid": "",
+        "soap": "PP",
+        "category": "A",
+        "title": "Episode 163",
+        "date": "01/03/1966",
+        "part": "1",
+        "total": "1",
+        "duration": "25:12",
+        "channel": "soapsnthings"
+    },
+    {
         "id": "hJPEvRe0Hz4",
         "parentid": "",
         "soap": "PP",
@@ -3321,6 +3357,18 @@
         "part": "1",
         "total": "1",
         "duration": "25:04",
+        "channel": "soapsnthings"
+    },
+    {
+        "id": "UH_A0ZhYS6Q",
+        "parentid": "",
+        "soap": "PP",
+        "category": "A",
+        "title": "Episode 174",
+        "date": "01/27/1966",
+        "part": "1",
+        "total": "1",
+        "duration": "25:05",
         "channel": "soapsnthings"
     },
     {
@@ -3828,30 +3876,6 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "zajHkxjqVGU",
-        "parentid": "P_9e985c6b",
-        "soap": "PP",
-        "category": "A",
-        "title": "Episode 53 (Part 1 of 2)",
-        "date": "3/18/1966",
-        "part": "1",
-        "total": "2",
-        "duration": "13:03",
-        "channel": "soapsnthings"
-    },
-    {
-        "id": "IbYc7bix16I",
-        "parentid": "P_9e985c6b",
-        "soap": "PP",
-        "category": "A",
-        "title": "Episode 53 (Part 2 of 2)",
-        "date": "3/18/1966",
-        "part": "2",
-        "total": "2",
-        "duration": "12:19",
-        "channel": "soapsnthings"
-    },
-    {
         "id": "exdh3eHGauc",
         "parentid": "P_83bd0e3c",
         "soap": "PP",
@@ -3897,30 +3921,6 @@
         "part": "2",
         "total": "2",
         "duration": "13:32",
-        "channel": "soapsnthings"
-    },
-    {
-        "id": "7nJoirp1B5A",
-        "parentid": "P_76dab682",
-        "soap": "PP",
-        "category": "A",
-        "title": "Episode 54 (Part 1 of 2)",
-        "date": "3/23/1966",
-        "part": "1",
-        "total": "2",
-        "duration": "13:24",
-        "channel": "soapsnthings"
-    },
-    {
-        "id": "dnL5pp44b_4",
-        "parentid": "P_76dab682",
-        "soap": "PP",
-        "category": "A",
-        "title": "Episode 54 (Part 2 of 2)",
-        "date": "3/23/1966",
-        "part": "2",
-        "total": "2",
-        "duration": "11:53",
         "channel": "soapsnthings"
     },
     {
@@ -8549,7 +8549,7 @@
         "soap": "PP",
         "category": "A",
         "title": "Episode 391 (Part 1 of 2)",
-        "date": "12/7/1967",
+        "date": "12/04/1967",
         "part": "1",
         "total": "2",
         "duration": "12:47",
@@ -8561,7 +8561,7 @@
         "soap": "PP",
         "category": "A",
         "title": "Episode 391 (Part 2 of 2)",
-        "date": "12/7/1967",
+        "date": "12/04/1967",
         "part": "2",
         "total": "2",
         "duration": "11:24",
@@ -8784,30 +8784,6 @@
         "channel": "soapsnthings"
     },
     {
-        "id": "lJdChHkgi60",
-        "parentid": "P_f09cbaf8",
-        "soap": "PP",
-        "category": "A",
-        "title": "Episode 490 (Part 1 of 2)",
-        "date": "1/6/1968",
-        "part": "1",
-        "total": "2",
-        "duration": "13:21",
-        "channel": "soapsnthings"
-    },
-    {
-        "id": "b6tRrIbSuM4",
-        "parentid": "P_f09cbaf8",
-        "soap": "PP",
-        "category": "A",
-        "title": "Episode 490 (Part 2 of 2)",
-        "date": "1/6/1968",
-        "part": "2",
-        "total": "2",
-        "duration": "11:10",
-        "channel": "soapsnthings"
-    },
-    {
         "id": "6kSl46BOFKc",
         "parentid": "P_7004d116",
         "soap": "PP",
@@ -8909,7 +8885,7 @@
         "soap": "PP",
         "category": "A",
         "title": "Episode 405 (Part 1 of 2)",
-        "date": "1/28/1968",
+        "date": "01/25/1968",
         "part": "1",
         "total": "2",
         "duration": "12:02",
@@ -8921,7 +8897,7 @@
         "soap": "PP",
         "category": "A",
         "title": "Episode 405 (Part 2 of 2)",
-        "date": "1/28/1968",
+        "date": "01/25/1968",
         "part": "2",
         "total": "2",
         "duration": "11:58",
@@ -9173,7 +9149,7 @@
         "soap": "PP",
         "category": "A",
         "title": "Episode 416 (Part 1 of 2)",
-        "date": "3/15/1968",
+        "date": "03/14/1968",
         "part": "1",
         "total": "2",
         "duration": "14:24",
@@ -9185,7 +9161,7 @@
         "soap": "PP",
         "category": "A",
         "title": "Episode 416 (Part 2 of 2)",
-        "date": "3/15/1968",
+        "date": "03/14/1968",
         "part": "2",
         "total": "2",
         "duration": "09:44",
@@ -10929,6 +10905,30 @@
         "part": "2",
         "total": "2",
         "duration": "13:05",
+        "channel": "soapsnthings"
+    },
+    {
+        "id": "lJdChHkgi60",
+        "parentid": "P_f09cbaf8",
+        "soap": "PP",
+        "category": "A",
+        "title": "Episode 490 (Part 1 of 2)",
+        "date": "01/06/1969",
+        "part": "1",
+        "total": "2",
+        "duration": "13:21",
+        "channel": "soapsnthings"
+    },
+    {
+        "id": "b6tRrIbSuM4",
+        "parentid": "P_f09cbaf8",
+        "soap": "PP",
+        "category": "A",
+        "title": "Episode 490 (Part 2 of 2)",
+        "date": "01/06/1969",
+        "part": "2",
+        "total": "2",
+        "duration": "11:10",
         "channel": "soapsnthings"
     },
     {
