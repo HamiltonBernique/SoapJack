@@ -1,6 +1,6 @@
 # The SoapJack Project
 
-The SoapJack Project is to create a catalog of YouTube classic soap opera videos organized by their original air dates as much as possible. Data is provided in JSON and CSV formats. For questions and feedback, email Bruce Hamilton at `hamiltonbernique@icloud.com`. Visit the [HamiltonBernique](https://www.youtube.com/@HamiltonBernique) YouTube channel for All My Children and One Life to Live videos.
+The SoapJack Project is to create a catalog of YouTube classic soap opera videos organized by their original air dates as much as possible. Data is provided in JSON and CSV formats. For questions and feedback, email Bruce Hamilton at `hamiltonbernique@icloud.com`. 
 
 Such a dataset is indeed malleable and loosely defined. The aim is an inventory of those classic soap operas that aired from the 1950s to the 2010s, essentially to capture content where there are no means to view it except by the efforts of the devoted fans who uploaded their treasures to YouTube. Some soaps are available in their entirety such as Dark Shadows, so that soap is not included. The data has the following criteria, but input in more than welcome.
 
@@ -29,6 +29,8 @@ The data has the following properties:
 | part | The part number of a series. |
 | total | The total number of parts. |
 | channel | The YouTube channel that hosts the video. The HamiltonBernique Project is very appreciative of the fine work these soap fans have made, for without them this history making would not be possible.|
+
+Visit the [HamiltonBernique](https://www.youtube.com/@HamiltonBernique) YouTube channel for All My Children and One Life to Live videos.
 
 See [How to watch videos](#how-to-watch-videos).
 
