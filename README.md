@@ -66,7 +66,7 @@ B = Promos, open/closings
 | ![OLTL](/z-media/OLTL.png)<br>[One Life To Live](/OLTL) (OLTL) | January 1968 to January 2017<br>Total: 2748<br>Avg dur: 01:08:14<br>Total A: 2369 (86%)<br>Total B: 369 (13%) |
 | ![PP](/z-media/PP.png)<br>[Peyton Place](/PP) (PP) | September 1964 to June 1969<br>Total: 957<br>Avg dur: 00:13:14<br>Total A: 956 (100%)<br>Total B: 1 (0%) |
 | ![PC](/z-media/PC.png)<br>[Port Charles](/PC) (PC) | January 1997 to October 2003<br>Total: 1627<br>Avg dur: 00:20:54<br>Total A: 1622 (100%)<br>Total B: 3 (0%) |
-| ![RARE](/z-media/RARE.png)<br>[Rare Treasures](/RARE) (RARE) | September 1953 to June 1971<br>Total: 9<br>Avg dur: 00:15:33<br>Total A: 9 (100%)<br>Total B: 0 (0%) |
+| ![RARE](/z-media/RARE.png)<br>[Rare Treasures](/RARE) (RARE) | September 1953 to June 1971<br>A collection of singles.<br>Total: 9<br>Avg dur: 00:15:33<br>Total A: 9 (100%)<br>Total B: 0 (0%) |
 | ![RH](/z-media/RH.png)<br>[Ryan's Hope](/RH) (RH) | January 1975 to October 1989<br>Total: 210<br>Avg dur: 00:22:04<br>Total A: 135 (64%)<br>Total B: 75 (36%) |
 | ![SB](/z-media/SB.png)<br>[Santa Barbara](/SB) (SB) | June 1984 to January 1992<br>Total: 317<br>Avg dur: 00:13:27<br>Total A: 312 (98%)<br>Total B: 5 (2%) |
 | ![SFT](/z-media/SFT.png)<br>[Search For Tomorrow](/SFT) (SFT) | September 1951 to December 1986<br>Total: 245<br>Avg dur: 00:37:21<br>Total A: 223 (91%)<br>Total B: 21 (9%) |
