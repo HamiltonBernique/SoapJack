@@ -1,6 +1,6 @@
 # The SoapJack Project
 
-The SoapJack Project is to create a catalog of YouTube classic soap opera videos organized by their original air dates as much as possible. Data is provided in JSON and CSV formats. For questions and feedback, email Bruce Hamilton at `hamiltonbernique@icloud.com`. 
+The SoapJack Project is to create a catalog of YouTube classic soap opera video links organized by their original air dates as much as possible. Data is provided in JSON and CSV formats. There are currently over 26,000 links in the repository. For questions and feedback, email Bruce Hamilton at `hamiltonbernique@icloud.com`. 
 
 Such a dataset is indeed malleable and loosely defined. The aim is an inventory of those classic soap operas that aired from the 1950s to the 2010s, essentially to capture content where there are no means to view it except by the efforts of the devoted fans who uploaded their treasures to YouTube. Some soaps are available in their entirety such as Dark Shadows, so that soap is not included. The data has the following criteria, but input in more than welcome:
 
