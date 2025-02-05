@@ -28,9 +28,7 @@ The data has the following properties:
 | date | The date, often just a year, the episode was originally broadcast. Dates when only the year is known have the date as January 1 or June 1. Dates when only the month is known use the first of the month. |
 | part | The part number of a series. |
 | total | The total number of parts. |
-| channel | The YouTube channel that hosts the video. The HamiltonBernique Project is very appreciative of the fine work these soap fans have made, for without them this history making would not be possible.|
-
-Visit the [HamiltonBernique](https://www.youtube.com/@HamiltonBernique) YouTube channel for All My Children and One Life to Live videos.
+| channel | The YouTube channel that hosts the video. The HamiltonBernique Project is very appreciative of the fine work these soap fans have made, for without them this history making would not be possible. Visit the [HamiltonBernique](https://www.youtube.com/@HamiltonBernique) YouTube channel for All My Children and One Life to Live videos. |
 
 See [How to watch videos](#how-to-watch-videos).
 
