@@ -2,26 +2,21 @@
 
 The SoapJack Project is to create a catalog of YouTube classic soap opera videos organized by their original air dates as much as possible. Data is provided in JSON and CSV formats. For questions and feedback, email Bruce Hamilton at `hamiltonbernique@icloud.com`
 
-To watch a video from the data, copy the id from the JSON data into the YouTube search bar. Or you can construct the URL in in two ways:
+The data has the following properties:
 
-- `https://youtu.be/{id}`
-- `https://www.youtube.com/watch?v={id}`
-
-Column A in the CSV files has the id formatted into a link that will take you right to YouTube. In a Google Sheet, be sure to select Import from the File menu and have `Convert to numbers, text, and formulas` selected.
-
-The JSON data has the following elements:
-
-| Field | Value |
+| Property | Description |
 | --- | --- |
 | id | The YouTube id of the video. |
-| parentid | Applies only to a series of videos constructed of parts, such as Part 1 of 3, 2 of 3, and so on. Uniquely identifies that are parts of a series. |
-| soap | Identifies the soap |
-| category | A = Episode and episode content, B = Promos, opening, and closings |
-| title | The title of the video. |
-| date | The date, often just a year, the soap opera video was originally broadcast. Dates when only the year was known generally have the date of January 1 or June 1 of that year. Dates when only the month was known have the date as the first.|
+| parentid | Identifies the videos that a part of a series, such as Part 1 of 3, 2 of 3, and so on. These videos have the  same date as well as the same parentid. |
+| soap | The code that identifies the soap opera. See their full names below. |
+| category | A = Episode and episode content, B = Promos, opening, and closings. |
+| title | The title of the video. For the most part, original titling by the channel owner is preserved but edited for length and consistency. Titles that just had the date and name of the soap are retitled as 'Episode'. |
+| date | The date, often just a year, the episode was originally broadcast. Dates when only the year is known have the date as January 1 or June 1. Dates when only the month is known use the first of the month. |
 | part | The part number of a series. |
 | total | The total number of parts. |
 | channel | The YouTube channel that hosts the video. The HamiltonBernique Project is very appreciative of the fine work these soap fans have made, for without them this history making would not be possible.|
+
+See [How to watch videos](#how-to-watch-videos).
 
 ## Soap Operas
 
@@ -67,6 +62,43 @@ B = Promos, open/closings
 | ![VALL](/z-media/VALL.png)<br>[Valient Lady](/VALL) (VALL) | Nov 1953 to Jan 1955<br>Total: 5<br>Avg dur: 00:12:52<br>Total A: 5 (100%)<br>Total B: 0 (0%) |
 | ![YR](/z-media/YR.png)<br>[Young And The Restless](/YR) (YR) | Jan 1973 to Jan 2016<br>Total: 54<br>Avg dur: 00:01:09<br>Total A: 19 (35%)<br>Total B: 35 (65%) |
 
+## How to watch videos
+
+You can watch video in three ways.
+
+### Copy id into YouTube search bar
+
+This method is the easiest. Copy the id from the JSON data into the YouTube search bar. Select the video from the search results. If not in the results, construct a YouTube URL.
+
+| Select ID from JSON data |
+| --- |
+| ![Select ID from JSON data](/z-media/z-selectid.png) |
+
+
+### Construct a YouTube URL
+
+Copy the id from the JSON data and append to either of the following URLs, where `{id}` is the id placeholder.
+
+- `https://youtu.be/{id}`
+- `https://www.youtube.com/watch?v={id}`
+
+### Use a CSV file
+
+Download the CSV file and import it into a spreadsheet, as shown here using Google sheets.
+
+1. Select the CSV file in the repository and select **Download raw file** in the upper-right corner to download to your computer.
+1. In Google Sheets, select **Import** from the **File** menu and select the **Upload** tab to upload the CSV file from your computer. Set the import location to replace the current sheet or other desired option. Keep the `Convert text to numbers, dates, and formulas` option selected, as otherwise the YouTube link will not be operational.
+
+| Import a CSV file |
+| --- |
+| ![Import CSV file](/-media/z-csvfile.png)
+
+
+## Contributions and corrections
+
+Soap fans are encouraged to email feedback and corrections, or share an online spreadsheet from a CSV file, to `hamiltonbernique@icloud.com`.
+
+If you have well formed JSON data to contribute, you're welcome to fork the repository and submit a pull request.
 
 
 
