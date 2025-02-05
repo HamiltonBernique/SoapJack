@@ -21,7 +21,7 @@ The data has the following properties:
 | Property | Description |
 | --- | --- |
 | id | The YouTube ID of the video. |
-| parentid | Identifies videos that a part of a series, such as Part 1 of 3, 2 of 3, and so on. These videos have the  same date as well as the same parentid. |
+| parentid | Identifies videos that a part of a series, such as Part 1 of 3, 2 of 3, and so on. These videos have the  same date as well as the same parentid. This value generated for SoapJack data, and does not exist in YouTube. |
 | soap | The code that identifies the soap opera. See their full names below. |
 | category | A = Episodes and episode clips, B = Promos, opening, and closings. |
 | title | The title of the video. For the most part, original titling by the channel owner is preserved but edited for length and consistency. Titles that just had the date and name of the soap are retitled as 'Episode'. |
