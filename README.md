@@ -2,7 +2,7 @@
 
 The SoapJack Project is to create a catalog of YouTube classic soap opera videos organized by their original air dates as much as possible. Data is provided in JSON and CSV formats. For questions and feedback, email Bruce Hamilton at `hamiltonbernique@icloud.com`. 
 
-Such a dataset is indeed malleable and loosely defined. The aim is an inventory of those classic soap operas that aired from the 1950s to the 2010s, essentially to capture content where there are no means to view it except by the efforts of the devoted fans who uploaded their treasures to YouTube. Some soaps are available in their entirety such as Dark Shadows, so that soap is not included. The data has the following criteria, but input in more than welcome.
+Such a dataset is indeed malleable and loosely defined. The aim is an inventory of those classic soap operas that aired from the 1950s to the 2010s, essentially to capture content where there are no means to view it except by the efforts of the devoted fans who uploaded their treasures to YouTube. Some soaps are available in their entirety such as Dark Shadows, so that soap is not included. The data has the following criteria, but input in more than welcome:
 
 - Any episode or partial episode, including clips of scenes and clips of storylines over time.
 - Episode opening sequences and closing credits.
@@ -11,8 +11,8 @@ Such a dataset is indeed malleable and loosely defined. The aim is an inventory 
 
 The following content is not included:
 
-- Tributes (except by the soap or network itself)
-- Montages
+- Tributes (except by the soap or network itself).
+- Montages.
 - Reimagined or altered content.
 - Appearances by soap stars in talk shows, movies, and other venues.
 
@@ -20,14 +20,14 @@ The data has the following properties:
 
 | Property | Description |
 | --- | --- |
-| id | The YouTube id of the video. |
-| parentid | Identifies the videos that a part of a series, such as Part 1 of 3, 2 of 3, and so on. These videos have the  same date as well as the same parentid. |
+| id | The YouTube ID of the video. |
+| parentid | Identifies videos that a part of a series, such as Part 1 of 3, 2 of 3, and so on. These videos have the  same date as well as the same parentid. |
 | soap | The code that identifies the soap opera. See their full names below. |
-| category | A = Episode and episode content, B = Promos, opening, and closings. |
+| category | A = Episodes and episode clips, B = Promos, opening, and closings. |
 | title | The title of the video. For the most part, original titling by the channel owner is preserved but edited for length and consistency. Titles that just had the date and name of the soap are retitled as 'Episode'. |
 | date | The date, often just a year, the episode was originally broadcast. Dates when only the year is known have the date as January 1 or June 1. Dates when only the month is known use the first of the month. |
 | part | The part number of a series. |
-| total | The total number of parts. |
+| total | The total number of parts in the series. |
 | channel | The YouTube channel that hosts the video. The HamiltonBernique Project is very appreciative of the fine work these soap fans have made, for without them this history making would not be possible. Visit the [HamiltonBernique](https://www.youtube.com/@HamiltonBernique) YouTube channel for All My Children and One Life to Live videos. |
 
 See [How to watch videos](#how-to-watch-videos).
@@ -80,11 +80,11 @@ B = Promos, open/closings
 
 ## How to watch videos
 
-You can watch video in three ways.
+You can watch videos from this data in three ways.
 
-### Copy id into YouTube search bar
+### Copy the YouTube ID into the YouTube search bar
 
-This method is the easiest. Copy the id from the JSON data into the YouTube search bar. Select the video from the search results. If not in the results, construct a YouTube URL.
+This method is the easiest. Copy the ID from the JSON data into the YouTube search bar. Select the video from the search results. If not in the results, construct a YouTube URL.
 
 | Select ID from JSON data |
 | --- |
@@ -93,18 +93,20 @@ This method is the easiest. Copy the id from the JSON data into the YouTube sear
 
 ### Construct a YouTube URL
 
-Copy the id from the JSON data and append to either of the following URLs, where `{id}` is the id placeholder.
+Copy the ID from the JSON data and append to either of the following URLs, where `{id}` is the id placeholder.
 
 - `https://youtu.be/{id}`
+  Example: `https://youtu.be/p0Uiknmeg7g`
 - `https://www.youtube.com/watch?v={id}`
+  Example: `https://www.youtube.com/watch?v=p0Uiknmeg7g`
 
 ### Use a CSV file
 
-Download the CSV file and import it into a spreadsheet, as shown here using Google sheets.
+Download the CSV file and import it into a spreadsheet, such as in a Google sheet.
 
 1. Select the CSV file in the repository and select **Download raw file** in the upper-right corner to download to your computer.
-1. In Google Sheets, select **Import** from the **File** menu and select the **Upload** tab to upload the CSV file from your computer. Set the import location to replace the current sheet or other desired option. Keep the `Convert text to numbers, dates, and formulas` option selected, as otherwise the YouTube link will not be operational.
-1. Click the link in column A.
+1. In a Google Sheet, select **Import** from the **File** menu and select the **Upload** tab to upload the CSV file from your computer. Set the **Import location** to replace the current sheet or desired option. Keep the `Convert text to numbers, dates, and formulas` option selected, as otherwise the YouTube link will not be operational.
+1. After the import, you can select links in column A.
 
 | Import a CSV file |
 | --- |
@@ -115,7 +117,4 @@ Download the CSV file and import it into a spreadsheet, as shown here using Goog
 
 Soap fans are encouraged to email feedback and corrections, or share an online spreadsheet from a CSV file, to `hamiltonbernique@icloud.com`.
 
-If you have well formed JSON data to contribute, you're welcome to fork the repository and submit a pull request.
-
-
-
+If you have well formed JSON data to contribute, you're welcome to fork the repository and submit a pull request. The CSV files will be updated to reflect your contributions.
