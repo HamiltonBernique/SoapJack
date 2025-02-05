@@ -88,6 +88,7 @@ Download the CSV file and import it into a spreadsheet, as shown here using Goog
 
 1. Select the CSV file in the repository and select **Download raw file** in the upper-right corner to download to your computer.
 1. In Google Sheets, select **Import** from the **File** menu and select the **Upload** tab to upload the CSV file from your computer. Set the import location to replace the current sheet or other desired option. Keep the `Convert text to numbers, dates, and formulas` option selected, as otherwise the YouTube link will not be operational.
+1. Click the link in column A.
 
 | Import a CSV file |
 | --- |
