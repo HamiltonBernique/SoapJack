@@ -91,7 +91,7 @@ Download the CSV file and import it into a spreadsheet, as shown here using Goog
 
 | Import a CSV file |
 | --- |
-| ![Import CSV file](/-media/z-csvfile.png)
+| ![Import CSV file](/z-media/z-csvfile.png) |
 
 
 ## Contributions and corrections
