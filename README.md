@@ -1,8 +1,10 @@
 # The SoapJack Project
 
-The SoapJack Project is to create a catalog of YouTube classic soap opera video links organized by their original air dates as much as possible. Data is provided in JSON and CSV formats. There are currently over 26,000 links in the repository. For questions and feedback, email Bruce Hamilton at `hamiltonbernique@icloud.com`. 
+The SoapJack Project is to create a catalog of YouTube classic soap opera video links organized by their original air dates -- as much as possible. Data is provided in JSON and CSV formats. For questions and feedback, email Bruce Hamilton at `hamiltonbernique@icloud.com`. 
 
-Such a dataset is indeed malleable and loosely defined. The aim is an inventory of those classic soap operas that aired from the 1950s to the 2010s, essentially to capture content where there are no means to view it except by the efforts of the devoted fans who uploaded their treasures to YouTube. Some soaps are available in their entirety such as Dark Shadows, so that soap is not included. The data has the following criteria, but input in more than welcome:
+There are currently over 26,000 links in the repository. The repository is organized alphabetically by the soap opera codes (listed with their names in the next section) with JSON and CSV files in each. For large datasets, the files are organized by decade.
+
+Such a dataset is indeed malleable and loosely defined. The aim is an inventory of those classic soap operas that aired from the 1950s to the 2010s, essentially to capture content where there are no means to view it except by the efforts of the devoted fans who uploaded their treasures to YouTube. Some soaps are available in their entirety such as Dark Shadows, so that soap is not included. The data has the following criteria, but your input in more than welcome:
 
 - Any episode or partial episode, including clips of scenes and clips of storylines over time.
 - Episode opening sequences and closing credits.
@@ -35,9 +37,9 @@ See [How to watch videos](#how-to-watch-videos).
 ## Soap Operas
 
 Categories:
-A = Episodes and clips
 
-B = Promos, open/closings
+- A = Episodes and clips
+- B = Promos, open/closings
 
 | Soap Opera | Stats
 | --- | --- |
@@ -102,7 +104,7 @@ Copy the ID from the JSON data and append to either of the following URLs, where
 
 ### Use a CSV file
 
-Download the CSV file and import it into a spreadsheet, such as in a Google sheet.
+Download the CSV file and import it into a spreadsheet, such as in a Google sheet. Instructions for Excel will be forthcoming.
 
 1. Select the CSV file in the repository and select **Download raw file** in the upper-right corner to download to your computer.
 1. In a Google Sheet, select **Import** from the **File** menu and select the **Upload** tab to upload the CSV file from your computer. Set the **Import location** to replace the current sheet or desired option. Keep the `Convert text to numbers, dates, and formulas` option selected, as otherwise the YouTube link will not be operational.
