@@ -44,8 +44,8 @@ Categories:
 | Soap Opera | Stats
 | --- | --- |
 | ![AMC](/z-media/AMC.png)<br>[All My Children](/AMC) (AMC) | January 1970 to January 2017<br>Total: 5333<br>Avg dur: 00:18:50<br>Total A: 5073 (95%)<br>Total B: 258 (5%) |
-| ![ATWT](/z-media/ATWT.png)<br>[As The World Turns](/ATWT) (ATWT) | April 1957 to September 2010<br>Total: 644<br>Avg dur: 01:07:17<br>Total A: 573 (89%)<br>Total B: 71 (11%) |
 | ![AW](/z-media/AW.png)<br>[Another World](/AW) (AW) | May 1964 to July 2002<br>Total: 3888<br>Avg dur: 09:37:34<br>Total A: 3808 (98%)<br>Total B: 80 (2%) |
+| ![ATWT](/z-media/ATWT.png)<br>[As The World Turns](/ATWT) (ATWT) | April 1957 to September 2010<br>Total: 644<br>Avg dur: 01:07:17<br>Total A: 573 (89%)<br>Total B: 71 (11%) |
 | ![BB](/z-media/BB.png)<br>[Bold And The Beautiful](/BB) (BB) | January 1989 to September 2010<br>Total: 56<br>Avg dur: 00:05:32<br>Total A: 17 (30%)<br>Total B: 39 (70%) |
 | ![BDAY](/z-media/BDAY.png)<br>[The Brighter Day](/BDAY) (BDAY) | January 1955 to January 1960<br>Total: 4<br>Avg dur: 00:14:29<br>Total A: 4 (100%)<br>Total B: 0 (0%) |
 | ![CITY](/z-media/CITY.png)<br>[The City](/CITY) (CITY) | January 1991 to February 1997<br>Total: 28<br>Avg dur: 00:20:25<br>Total A: 27 (96%)<br>Total B: 1 (4%) |
@@ -104,10 +104,11 @@ Copy the ID from the JSON data and append to either of the following URLs, where
 
 ### Use a CSV file
 
-Download the CSV file and import it into a spreadsheet, such as in a Google sheet. Instructions for Excel will be forthcoming.
+Download the CSV file and import it into a spreadsheet, such as in a Google sheet or in Excel.
 
 1. Select the CSV file in the repository and select **Download raw file** in the upper-right corner to download to your computer.
 1. In a Google Sheet, select **Import** from the **File** menu and select the **Upload** tab to upload the CSV file from your computer. Set the **Import location** to replace the current sheet or desired option. Keep the `Convert text to numbers, dates, and formulas` option selected, as otherwise the YouTube link will not be operational.
+   In the Excel desktop application, select **From Txt/Csv** from on the **Data** ribbon. In Excel online, simply open the fie.
 1. After the import, you can select links in column A.
 
 | Import a CSV file |
