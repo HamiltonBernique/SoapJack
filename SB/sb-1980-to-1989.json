@@ -744,18 +744,6 @@
         "channel": "santabarbaratvseries"
     },
     {
-        "id": "Uo6HrteIoRQ",
-        "parentid": "",
-        "soap": "SB",
-        "category": "A",
-        "title": "Episode 57",
-        "date": "10/16/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "40:48",
-        "channel": "santabarbaratvseries"
-    },
-    {
         "id": "qmu_NXFPeT4",
         "parentid": "",
         "soap": "SB",
@@ -765,6 +753,18 @@
         "part": "1",
         "total": "1",
         "duration": "41:10",
+        "channel": "santabarbaratvseries"
+    },
+    {
+        "id": "Uo6HrteIoRQ",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Episode 57",
+        "date": "10/17/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "40:48",
         "channel": "santabarbaratvseries"
     },
     {
@@ -898,30 +898,6 @@
         "total": "1",
         "duration": "40:06",
         "channel": "santabarbaratvseries"
-    },
-    {
-        "id": "lgr7RSD5AnQ",
-        "parentid": "P_802a2ef5",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - First time I saw you",
-        "date": "11/01/1984",
-        "part": "1",
-        "total": "2",
-        "duration": "03:56",
-        "channel": "candyeden"
-    },
-    {
-        "id": "Y_2pKXHNq9E",
-        "parentid": "P_802a2ef5",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - First time I saw you",
-        "date": "11/01/1984",
-        "part": "2",
-        "total": "2",
-        "duration": "01:43",
-        "channel": "candyeden"
     },
     {
         "id": "LffP3D8gsy0",
@@ -1200,64 +1176,376 @@
         "channel": "theystartedonsoaps"
     },
     {
-        "id": "fkQagj5oKnE",
-        "parentid": "P_087d8b3a",
+        "id": "1JVcp2qEMYM",
+        "parentid": "",
         "soap": "SB",
         "category": "A",
-        "title": "Cruz and Eden - fight to kiss",
-        "date": "01/02/1985",
+        "title": "Cruz and Eden take a look at the moon as Robert Barr watches from afar.",
+        "date": "1/1/1985",
         "part": "1",
-        "total": "5",
-        "duration": "0:27",
-        "channel": "candyeden"
+        "total": "1",
+        "duration": "1:26",
+        "channel": "retrosoapsantabarbara"
     },
     {
-        "id": "rjfyXwdE84Q",
-        "parentid": "P_087d8b3a",
+        "id": "UuXWk_6559w",
+        "parentid": "",
         "soap": "SB",
         "category": "A",
-        "title": "Cruz and Eden - fight to kiss",
-        "date": "01/02/1985",
+        "title": "Cruz and Eden talk about the future",
+        "date": "1/1/1985",
+        "part": "1",
+        "total": "1",
+        "duration": "3:19",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "bEXFZvK06FQ",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Eden think about each other",
+        "date": "1/1/1985",
+        "part": "1",
+        "total": "1",
+        "duration": "1:12",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "u-MSaT-ThHA",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Kelly",
+        "date": "1/1/1985",
+        "part": "1",
+        "total": "1",
+        "duration": "0:57",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "pOOOt68AP6g",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Kelly: their first kiss",
+        "date": "1/1/1985",
+        "part": "1",
+        "total": "1",
+        "duration": "2:55",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "atj28tWt7pM",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Tori argue over what happened in the lighthouse.",
+        "date": "1/1/1985",
+        "part": "1",
+        "total": "1",
+        "duration": "2:35",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "0E_wqJfrXao",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz begins to joke around with Eden",
+        "date": "1/1/1985",
+        "part": "1",
+        "total": "1",
+        "duration": "0:44",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "Y5Pinz0Q-WY",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz leaves the hospital to search for Eden.",
+        "date": "1/1/1985",
+        "part": "1",
+        "total": "1",
+        "duration": "1:04",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "MNiG2QHDaiU",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz regrets not forgiving Eden",
+        "date": "1/1/1985",
+        "part": "1",
+        "total": "1",
+        "duration": "1:04",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "iMj2dU7uoto",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz talks with Tori about how he needs to fix things with Eden.",
+        "date": "1/1/1985",
+        "part": "1",
+        "total": "1",
+        "duration": "1:51",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "l1faTQ7a7JM",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Eden confronts Cruz after Danny's shooting",
+        "date": "1/1/1985",
+        "part": "1",
+        "total": "1",
+        "duration": "1:43",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "YHtaeaqKbKM",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Eden tries to talk with Cruz after Danny's shooting",
+        "date": "1/1/1985",
+        "part": "1",
+        "total": "1",
+        "duration": "1:26",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "3rt6u0LlPeY",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Kelly argues with Robert Barr before he leaves Santa Barbara",
+        "date": "1/1/1985",
+        "part": "1",
+        "total": "1",
+        "duration": "0:47",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "EdYsEtd7KY4",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Kelly holds a gun on Quinn/Robert Barr",
+        "date": "1/1/1985",
+        "part": "1",
+        "total": "1",
+        "duration": "2:12",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "kLPLNxkK8ZU",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Quinn at the beginning of the Robert Barr/Quinn Storyline",
+        "date": "1/1/1985",
+        "part": "1",
+        "total": "1",
+        "duration": "1:36",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "tFpTCLElvI4",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Robert and Eden get stranded on an island",
+        "date": "1/1/1985",
+        "part": "1",
+        "total": "1",
+        "duration": "1:22",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "ZOsGxn7pLYY",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Robert Barr and Cruz Castillo working together again.",
+        "date": "1/1/1985",
+        "part": "1",
+        "total": "1",
+        "duration": "1:04",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "ssyOPJhNyw0",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Robert Barr and Eden discuss what's best for her",
+        "date": "1/1/1985",
+        "part": "1",
+        "total": "1",
+        "duration": "1:35",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "QmIzLMYyFqM",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Robert Barr confesses his love to Eden",
+        "date": "1/1/1985",
+        "part": "1",
+        "total": "1",
+        "duration": "1:14",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "27fKyd9gn70",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Robert Barr or Quinn gives Kelly a special gift",
+        "date": "1/1/1985",
+        "part": "1",
+        "total": "1",
+        "duration": "2:18",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "7wwIZh91JX0",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Robert Barr tries to win Kelly back",
+        "date": "1/1/1985",
+        "part": "1",
+        "total": "1",
+        "duration": "4:08",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "mfjhsm4SBhQ",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Robert tells Eden that they'll never be able to be friends.",
+        "date": "1/1/1985",
+        "part": "1",
+        "total": "1",
+        "duration": "2:08",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "YBY6CvWazWc",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Tori realizes Cruz is dreaming of Eden when he calls out her name.",
+        "date": "1/1/1985",
+        "part": "1",
+        "total": "1",
+        "duration": "1:20",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "CwEM2huNt7A",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Tori takes advantage of Cruz when he's doped up with pain medication.",
+        "date": "1/1/1985",
+        "part": "1",
+        "total": "1",
+        "duration": "1:26",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "gVejGGAPq3I",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Tori tells Cruz that Hayley saw them together and she may tell Eden.",
+        "date": "1/1/1985",
+        "part": "1",
+        "total": "1",
+        "duration": "2:55",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "gITuy31m9xY",
+        "parentid": "P_2fada07c",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz meets up with Eden at the lighthouse",
+        "date": "1/1/1985",
+        "part": "1",
+        "total": "2",
+        "duration": "2:50",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "DkzpRb60ECY",
+        "parentid": "P_2fada07c",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz meets up with Eden at the lighthouse",
+        "date": "1/1/1985",
         "part": "2",
-        "total": "5",
-        "duration": "3:01",
-        "channel": "candyeden"
+        "total": "2",
+        "duration": "3:03",
+        "channel": "retrosoapsantabarbara"
     },
     {
-        "id": "wXuL31GgBf0",
-        "parentid": "P_087d8b3a",
+        "id": "0NLLzR6lYnU",
+        "parentid": "P_815645ec",
         "soap": "SB",
         "category": "A",
-        "title": "Cruz and Eden - fight to kiss",
-        "date": "01/02/1985",
-        "part": "3",
-        "total": "5",
-        "duration": "04:35",
-        "channel": "candyeden"
+        "title": "Eden returns to find out Cruz has been hurt",
+        "date": "1/1/1985",
+        "part": "1",
+        "total": "2",
+        "duration": "1:16",
+        "channel": "retrosoapsantabarbara"
     },
     {
-        "id": "ur7VurL758M",
-        "parentid": "P_087d8b3a",
+        "id": "ZUMebfhXoqQ",
+        "parentid": "P_815645ec",
         "soap": "SB",
         "category": "A",
-        "title": "Cruz and Eden - fight to kiss",
-        "date": "01/02/1985",
-        "part": "4",
-        "total": "5",
-        "duration": "02:56",
-        "channel": "candyeden"
+        "title": "Eden returns to find out Cruz has been hurt",
+        "date": "1/1/1985",
+        "part": "2",
+        "total": "2",
+        "duration": "3:05",
+        "channel": "retrosoapsantabarbara"
     },
     {
-        "id": "QpgoMAQwoqI",
-        "parentid": "P_087d8b3a",
+        "id": "j7LdHAMagSA",
+        "parentid": "P_addad0ce",
         "soap": "SB",
         "category": "A",
-        "title": "Cruz and Eden - fight to kiss",
-        "date": "01/02/1985",
-        "part": "5",
-        "total": "5",
-        "duration": "02:24",
-        "channel": "candyeden"
+        "title": "Kelly sends flowers to Cruz and Eden",
+        "date": "1/1/1985",
+        "part": "1",
+        "total": "2",
+        "duration": "2:13",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "NxVBz1pfGKI",
+        "parentid": "P_addad0ce",
+        "soap": "SB",
+        "category": "A",
+        "title": "Kelly sends flowers to Cruz and Eden",
+        "date": "1/1/1985",
+        "part": "2",
+        "total": "2",
+        "duration": "3:03",
+        "channel": "retrosoapsantabarbara"
     },
     {
         "id": "in8rDcCDzGI",
@@ -1272,42 +1560,6 @@
         "channel": "kellycapwellrobinwright"
     },
     {
-        "id": "XvAGpFJeOP0",
-        "parentid": "P_269ba8b9",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Fight about Gina and business",
-        "date": "03/07/1985",
-        "part": "1",
-        "total": "3",
-        "duration": "03:44",
-        "channel": "candyeden"
-    },
-    {
-        "id": "33n238zPwig",
-        "parentid": "P_269ba8b9",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Fight about Gina and business",
-        "date": "03/07/1985",
-        "part": "2",
-        "total": "3",
-        "duration": "05:30",
-        "channel": "candyeden"
-    },
-    {
-        "id": "GV3B2NO4Wg0",
-        "parentid": "P_269ba8b9",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Fight about Gina and business",
-        "date": "03/07/1985",
-        "part": "3",
-        "total": "3",
-        "duration": "06:04",
-        "channel": "candyeden"
-    },
-    {
         "id": "nxArOXRqx5c",
         "parentid": "P_30a0a7b5",
         "soap": "SB",
@@ -1317,7 +1569,7 @@
         "part": "1",
         "total": "5",
         "duration": "00:41",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruzlovescruz"
     },
     {
         "id": "esVT8COC-Qs",
@@ -1329,7 +1581,7 @@
         "part": "2",
         "total": "5",
         "duration": "3:13",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruzlovescruz"
     },
     {
         "id": "dYxXuSWZbro",
@@ -1341,7 +1593,7 @@
         "part": "3",
         "total": "5",
         "duration": "3:32",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "7fOljs_FkSg",
@@ -1353,7 +1605,7 @@
         "part": "4",
         "total": "5",
         "duration": "2:03",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "RJfGZGy5tx4",
@@ -1365,163 +1617,7 @@
         "part": "5",
         "total": "5",
         "duration": "0:21",
-        "channel": "candyeden"
-    },
-    {
-        "id": "r4MfoHbHCds",
-        "parentid": "P_7ea822ec",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - In search of Lindsay Smith",
-        "date": "03/29/1985",
-        "part": "1",
-        "total": "9",
-        "duration": "0:23",
-        "channel": "candyeden"
-    },
-    {
-        "id": "LJab1F_K4YY",
-        "parentid": "P_7ea822ec",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - In search of Lindsay Smith",
-        "date": "03/29/1985",
-        "part": "2",
-        "total": "9",
-        "duration": "2:09",
-        "channel": "candyeden"
-    },
-    {
-        "id": "QF2xXPkKUps",
-        "parentid": "P_7ea822ec",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - In search of Lindsay Smith",
-        "date": "03/29/1985",
-        "part": "3",
-        "total": "9",
-        "duration": "1:26",
-        "channel": "candyeden"
-    },
-    {
-        "id": "FhAYVcvfeKM",
-        "parentid": "P_7ea822ec",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - In search of Lindsay Smith",
-        "date": "03/29/1985",
-        "part": "4",
-        "total": "9",
-        "duration": "02:20",
-        "channel": "candyeden"
-    },
-    {
-        "id": "6ZJ46WS67XM",
-        "parentid": "P_7ea822ec",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - In search of Lindsay Smith",
-        "date": "03/29/1985",
-        "part": "5",
-        "total": "9",
-        "duration": "03:02",
-        "channel": "candyeden"
-    },
-    {
-        "id": "k7Z42W2F_jQ",
-        "parentid": "P_7ea822ec",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - In search of Lindsay Smith",
-        "date": "03/29/1985",
-        "part": "6",
-        "total": "9",
-        "duration": "02:18",
-        "channel": "candyeden"
-    },
-    {
-        "id": "z9-j0gszR1Q",
-        "parentid": "P_7ea822ec",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - In search of Lindsay Smith",
-        "date": "03/29/1985",
-        "part": "7",
-        "total": "9",
-        "duration": "1:40",
-        "channel": "candyeden"
-    },
-    {
-        "id": "5zk5ZLCgn5s",
-        "parentid": "P_7ea822ec",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - In search of Lindsay Smith",
-        "date": "03/29/1985",
-        "part": "8",
-        "total": "9",
-        "duration": "4:41",
-        "channel": "candyeden"
-    },
-    {
-        "id": "kVeE169Tus8",
-        "parentid": "P_7ea822ec",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - In search of Lindsay Smith",
-        "date": "03/29/1985",
-        "part": "9",
-        "total": "9",
-        "duration": "1:04",
-        "channel": "candyeden"
-    },
-    {
-        "id": "CHAURXUWg7Q",
-        "parentid": "P_e706fbb9",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Orient Express restaurant",
-        "date": "04/02/1985",
-        "part": "1",
-        "total": "4",
-        "duration": "1:35",
-        "channel": "candyeden"
-    },
-    {
-        "id": "4iBfwZsvGK4",
-        "parentid": "P_e706fbb9",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Orient Express restaurant",
-        "date": "04/02/1985",
-        "part": "2",
-        "total": "4",
-        "duration": "0:22",
-        "channel": "candyeden"
-    },
-    {
-        "id": "db8W20t6gX0",
-        "parentid": "P_e706fbb9",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Orient Express restaurant",
-        "date": "04/02/1985",
-        "part": "3",
-        "total": "4",
-        "duration": "02:51",
-        "channel": "candyeden"
-    },
-    {
-        "id": "WbUshtSn040",
-        "parentid": "P_e706fbb9",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Orient Express restaurant",
-        "date": "04/02/1985",
-        "part": "4",
-        "total": "4",
-        "duration": "02:20",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "xdJCwcs9Ek8",
@@ -1533,7 +1629,7 @@
         "part": "1",
         "total": "2",
         "duration": "00:31",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "PtQ_fT4kehw",
@@ -1545,7 +1641,19 @@
         "part": "2",
         "total": "2",
         "duration": "1:52",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
+    },
+    {
+        "id": "JNdT6MzEHGA",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Eden: Cruz tells Eden that she's an addiction",
+        "date": "5/1/1985",
+        "part": "1",
+        "total": "1",
+        "duration": "1:27",
+        "channel": "retrosoapsantabarbara"
     },
     {
         "id": "2nSJLiMTmkc",
@@ -1560,750 +1668,6 @@
         "channel": "kellycapwellrobinwright"
     },
     {
-        "id": "b4Tf1YOSjuk",
-        "parentid": "P_3a1a7331",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Orient Express grand opening",
-        "date": "05/10/1985",
-        "part": "01",
-        "total": "13",
-        "duration": "1:25",
-        "channel": "candyeden"
-    },
-    {
-        "id": "ZYI1kmzx-Yc",
-        "parentid": "P_3a1a7331",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Orient Express grand opening",
-        "date": "05/10/1985",
-        "part": "02",
-        "total": "13",
-        "duration": "01:14",
-        "channel": "candyeden"
-    },
-    {
-        "id": "z694Qs7L2zY",
-        "parentid": "P_3a1a7331",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Orient Express grand opening",
-        "date": "05/10/1985",
-        "part": "03",
-        "total": "13",
-        "duration": "1:57",
-        "channel": "candyeden"
-    },
-    {
-        "id": "iWUdzuG4iMw",
-        "parentid": "P_3a1a7331",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Orient Express grand opening",
-        "date": "05/10/1985",
-        "part": "04",
-        "total": "13",
-        "duration": "2:08",
-        "channel": "candyeden"
-    },
-    {
-        "id": "rI8wYHbFtJs",
-        "parentid": "P_3a1a7331",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Orient Express grand opening",
-        "date": "05/10/1985",
-        "part": "05",
-        "total": "13",
-        "duration": "0:40",
-        "channel": "candyeden"
-    },
-    {
-        "id": "6PU4JtCQPik",
-        "parentid": "P_3a1a7331",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Orient Express grand opening",
-        "date": "05/10/1985",
-        "part": "06",
-        "total": "13",
-        "duration": "2:25",
-        "channel": "candyeden"
-    },
-    {
-        "id": "8UxPiM8b09Y",
-        "parentid": "P_3a1a7331",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Orient Express grand opening",
-        "date": "05/10/1985",
-        "part": "07",
-        "total": "13",
-        "duration": "04:40",
-        "channel": "candyeden"
-    },
-    {
-        "id": "GN4-M3aT3VQ",
-        "parentid": "P_3a1a7331",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Orient Express grand opening",
-        "date": "05/10/1985",
-        "part": "08",
-        "total": "13",
-        "duration": "00:48",
-        "channel": "candyeden"
-    },
-    {
-        "id": "xdnlx0ZTRMc",
-        "parentid": "P_3a1a7331",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Orient Express grand opening",
-        "date": "05/10/1985",
-        "part": "09",
-        "total": "13",
-        "duration": "0:41",
-        "channel": "candyeden"
-    },
-    {
-        "id": "udewHOMnKd8",
-        "parentid": "P_3a1a7331",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Orient Express grand opening",
-        "date": "05/10/1985",
-        "part": "10",
-        "total": "13",
-        "duration": "01:31",
-        "channel": "candyeden"
-    },
-    {
-        "id": "-5nX5H6kfSQ",
-        "parentid": "P_3a1a7331",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Orient Express grand opening",
-        "date": "05/10/1985",
-        "part": "11",
-        "total": "13",
-        "duration": "1:02",
-        "channel": "candyeden"
-    },
-    {
-        "id": "CNqGMZwWO6I",
-        "parentid": "P_3a1a7331",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Orient Express grand opening",
-        "date": "05/10/1985",
-        "part": "12",
-        "total": "13",
-        "duration": "2:14",
-        "channel": "candyeden"
-    },
-    {
-        "id": "CgR-0CCJj6U",
-        "parentid": "P_3a1a7331",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Orient Express grand opening",
-        "date": "05/10/1985",
-        "part": "13",
-        "total": "13",
-        "duration": "02:10",
-        "channel": "candyeden"
-    },
-    {
-        "id": "JQto1O2lZ14",
-        "parentid": "P_350ee136",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Capwell sisters in trouble",
-        "date": "05/14/1985",
-        "part": "1",
-        "total": "6",
-        "duration": "2:07",
-        "channel": "candyeden"
-    },
-    {
-        "id": "lK9uz2c6W70",
-        "parentid": "P_350ee136",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Capwell sisters in trouble",
-        "date": "05/14/1985",
-        "part": "2",
-        "total": "6",
-        "duration": "03:09",
-        "channel": "candyeden"
-    },
-    {
-        "id": "F3xsQ4AD_Ss",
-        "parentid": "P_350ee136",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Capwell sisters in trouble",
-        "date": "05/14/1985",
-        "part": "3",
-        "total": "6",
-        "duration": "1:03",
-        "channel": "candyeden"
-    },
-    {
-        "id": "deQkLoyFOdU",
-        "parentid": "P_350ee136",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Capwell sisters in trouble",
-        "date": "05/14/1985",
-        "part": "4",
-        "total": "6",
-        "duration": "1:21",
-        "channel": "candyeden"
-    },
-    {
-        "id": "P9tB78HPgvo",
-        "parentid": "P_350ee136",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Capwell sisters in trouble",
-        "date": "05/14/1985",
-        "part": "5",
-        "total": "6",
-        "duration": "2:17",
-        "channel": "candyeden"
-    },
-    {
-        "id": "c3wqEzDXUaU",
-        "parentid": "P_350ee136",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Capwell sisters in trouble",
-        "date": "05/14/1985",
-        "part": "6",
-        "total": "6",
-        "duration": "1:05",
-        "channel": "candyeden"
-    },
-    {
-        "id": "7qrIRrHhwrQ",
-        "parentid": "P_c5c49500",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - business to forget a break up",
-        "date": "06/07/1985",
-        "part": "1",
-        "total": "8",
-        "duration": "2:13",
-        "channel": "candyeden"
-    },
-    {
-        "id": "VgdMH8WUCj4",
-        "parentid": "P_c5c49500",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - business to forget a break up",
-        "date": "06/07/1985",
-        "part": "2",
-        "total": "8",
-        "duration": "03:41",
-        "channel": "candyeden"
-    },
-    {
-        "id": "pq1tcDQbUEs",
-        "parentid": "P_c5c49500",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - business to forget a break up",
-        "date": "06/07/1985",
-        "part": "3",
-        "total": "8",
-        "duration": "02:22",
-        "channel": "candyeden"
-    },
-    {
-        "id": "0YoiukJv75o",
-        "parentid": "P_c5c49500",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - business to forget a break up",
-        "date": "06/07/1985",
-        "part": "4",
-        "total": "8",
-        "duration": "2:42",
-        "channel": "candyeden"
-    },
-    {
-        "id": "2mfT2YjasMM",
-        "parentid": "P_c5c49500",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - business to forget a break up",
-        "date": "06/07/1985",
-        "part": "5",
-        "total": "8",
-        "duration": "01:40",
-        "channel": "candyeden"
-    },
-    {
-        "id": "8TzUjpR785g",
-        "parentid": "P_c5c49500",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - business to forget a break up",
-        "date": "06/07/1985",
-        "part": "6",
-        "total": "8",
-        "duration": "01:45",
-        "channel": "candyeden"
-    },
-    {
-        "id": "mI2sv8ZSM3I",
-        "parentid": "P_c5c49500",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - business to forget a break up",
-        "date": "06/07/1985",
-        "part": "7",
-        "total": "8",
-        "duration": "02:50",
-        "channel": "candyeden"
-    },
-    {
-        "id": "L_MijiRM-dA",
-        "parentid": "P_c5c49500",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - business to forget a break up",
-        "date": "06/07/1985",
-        "part": "8",
-        "total": "8",
-        "duration": "0:28",
-        "channel": "candyeden"
-    },
-    {
-        "id": "gLCDOtDzqKY",
-        "parentid": "P_0b759409",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Eden the procuress",
-        "date": "06/10/1985",
-        "part": "1",
-        "total": "2",
-        "duration": "02:25",
-        "channel": "candyeden"
-    },
-    {
-        "id": "gPk1a0M26hg",
-        "parentid": "P_0b759409",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Eden the procuress",
-        "date": "06/10/1985",
-        "part": "2",
-        "total": "2",
-        "duration": "1:56",
-        "channel": "candyeden"
-    },
-    {
-        "id": "stykcrJr2T0",
-        "parentid": "P_7b6a8f00",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Thief in the Capwell hotel",
-        "date": "06/14/1985",
-        "part": "1",
-        "total": "5",
-        "duration": "2:12",
-        "channel": "candyeden"
-    },
-    {
-        "id": "FWVe2vz5rT4",
-        "parentid": "P_7b6a8f00",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Thief in the Capwell hotel",
-        "date": "06/14/1985",
-        "part": "2",
-        "total": "5",
-        "duration": "01:58",
-        "channel": "candyeden"
-    },
-    {
-        "id": "LXUUQyUmNWU",
-        "parentid": "P_7b6a8f00",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Thief in the Capwell hotel",
-        "date": "06/14/1985",
-        "part": "3",
-        "total": "5",
-        "duration": "02:20",
-        "channel": "candyeden"
-    },
-    {
-        "id": "kzk30_Ysy5A",
-        "parentid": "P_7b6a8f00",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Thief in the Capwell hotel",
-        "date": "06/14/1985",
-        "part": "4",
-        "total": "5",
-        "duration": "01:27",
-        "channel": "candyeden"
-    },
-    {
-        "id": "6hcxnmXFjhQ",
-        "parentid": "P_7b6a8f00",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Thief in the Capwell hotel",
-        "date": "06/14/1985",
-        "part": "5",
-        "total": "5",
-        "duration": "0:57",
-        "channel": "candyeden"
-    },
-    {
-        "id": "qU_54STDrFc",
-        "parentid": "P_56633a4f",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden -  Guess who's missing again",
-        "date": "06/18/1985",
-        "part": "01",
-        "total": "17",
-        "duration": "0:52",
-        "channel": "candyeden"
-    },
-    {
-        "id": "RdCRyQKdS_4",
-        "parentid": "P_56633a4f",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden -  Guess who's missing again",
-        "date": "06/18/1985",
-        "part": "02",
-        "total": "17",
-        "duration": "1:43",
-        "channel": "candyeden"
-    },
-    {
-        "id": "XWRFoUGa494",
-        "parentid": "P_56633a4f",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden -  Guess who's missing again",
-        "date": "06/18/1985",
-        "part": "03",
-        "total": "17",
-        "duration": "0:53",
-        "channel": "candyeden"
-    },
-    {
-        "id": "Sj72RjRUChQ",
-        "parentid": "P_56633a4f",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden -  Guess who's missing again",
-        "date": "06/18/1985",
-        "part": "04",
-        "total": "17",
-        "duration": "0:56",
-        "channel": "candyeden"
-    },
-    {
-        "id": "tOvm_BMGRUU",
-        "parentid": "P_56633a4f",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden -  Guess who's missing again",
-        "date": "06/18/1985",
-        "part": "05",
-        "total": "17",
-        "duration": "0:23",
-        "channel": "candyeden"
-    },
-    {
-        "id": "Jp6ceO4W6VA",
-        "parentid": "P_56633a4f",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden -  Guess who's missing again",
-        "date": "06/18/1985",
-        "part": "06",
-        "total": "17",
-        "duration": "2:25",
-        "channel": "candyeden"
-    },
-    {
-        "id": "1Y0vSweYtMs",
-        "parentid": "P_56633a4f",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden -  Guess who's missing again",
-        "date": "06/18/1985",
-        "part": "07",
-        "total": "17",
-        "duration": "01:39",
-        "channel": "candyeden"
-    },
-    {
-        "id": "15m0gSww8ec",
-        "parentid": "P_56633a4f",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden -  Guess who's missing again",
-        "date": "06/18/1985",
-        "part": "08",
-        "total": "17",
-        "duration": "02:11",
-        "channel": "candyeden"
-    },
-    {
-        "id": "koyeGpf3Smk",
-        "parentid": "P_56633a4f",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden -  Guess who's missing again",
-        "date": "06/18/1985",
-        "part": "09",
-        "total": "17",
-        "duration": "0:55",
-        "channel": "candyeden"
-    },
-    {
-        "id": "5j003_Ej_E8",
-        "parentid": "P_56633a4f",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden -  Guess who's missing again",
-        "date": "06/18/1985",
-        "part": "10",
-        "total": "17",
-        "duration": "0:52",
-        "channel": "candyeden"
-    },
-    {
-        "id": "Ai7Lp6PJyi0",
-        "parentid": "P_56633a4f",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden -  Guess who's missing again",
-        "date": "06/18/1985",
-        "part": "11",
-        "total": "17",
-        "duration": "1:35",
-        "channel": "candyeden"
-    },
-    {
-        "id": "pEGu4dgzYnY",
-        "parentid": "P_56633a4f",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden -  Guess who's missing again",
-        "date": "06/18/1985",
-        "part": "12",
-        "total": "17",
-        "duration": "1:46",
-        "channel": "candyeden"
-    },
-    {
-        "id": "02xpqAQLOgA",
-        "parentid": "P_56633a4f",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden -  Guess who's missing again",
-        "date": "06/18/1985",
-        "part": "13",
-        "total": "17",
-        "duration": "1:55",
-        "channel": "candyeden"
-    },
-    {
-        "id": "dcFqOmPSb40",
-        "parentid": "P_56633a4f",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden -  Guess who's missing again",
-        "date": "06/18/1985",
-        "part": "14",
-        "total": "17",
-        "duration": "1:01",
-        "channel": "candyeden"
-    },
-    {
-        "id": "mfT70P-HjzU",
-        "parentid": "P_56633a4f",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden -  Guess who's missing again",
-        "date": "06/18/1985",
-        "part": "15",
-        "total": "17",
-        "duration": "00:57",
-        "channel": "candyeden"
-    },
-    {
-        "id": "xjszj3jUruU",
-        "parentid": "P_56633a4f",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden -  Guess who's missing again",
-        "date": "06/18/1985",
-        "part": "16",
-        "total": "17",
-        "duration": "1:55",
-        "channel": "candyeden"
-    },
-    {
-        "id": "SAq79sSaJ-Q",
-        "parentid": "P_56633a4f",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden -  Guess who's missing again",
-        "date": "06/18/1985",
-        "part": "17",
-        "total": "17",
-        "duration": "02:02",
-        "channel": "candyeden"
-    },
-    {
-        "id": "lOXcQmVbnpE",
-        "parentid": "P_deafaf5f",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Eden returns to Santa Barabara",
-        "date": "07/01/1985",
-        "part": "1",
-        "total": "2",
-        "duration": "02:27",
-        "channel": "candyeden"
-    },
-    {
-        "id": "oSKh206gc6s",
-        "parentid": "P_deafaf5f",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Eden returns to Santa Barabara",
-        "date": "07/01/1985",
-        "part": "2",
-        "total": "2",
-        "duration": "2:12",
-        "channel": "candyeden"
-    },
-    {
-        "id": "88k9em_jz4Q",
-        "parentid": "P_cbcc6eef",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Bon appetit Steve Basset",
-        "date": "07/18/1985",
-        "part": "1",
-        "total": "3",
-        "duration": "01:43",
-        "channel": "candyeden"
-    },
-    {
-        "id": "OrSw4RCBBwo",
-        "parentid": "P_cbcc6eef",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Bon appetit Steve Basset",
-        "date": "07/18/1985",
-        "part": "2",
-        "total": "3",
-        "duration": "1:54",
-        "channel": "candyeden"
-    },
-    {
-        "id": "QoVE8PevKlc",
-        "parentid": "P_cbcc6eef",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Bon appetit Steve Basset",
-        "date": "07/18/1985",
-        "part": "3",
-        "total": "3",
-        "duration": "01:08",
-        "channel": "candyeden"
-    },
-    {
-        "id": "YyS-NDR7kCQ",
-        "parentid": "",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - A glimmer of hope",
-        "date": "07/19/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "03:12",
-        "channel": "candyeden"
-    },
-    {
-        "id": "d6W-G9h_5Yc",
-        "parentid": "",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - All is on a good way",
-        "date": "08/12/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "01:11",
-        "channel": "candyeden"
-    },
-    {
-        "id": "iinX89brMEU",
-        "parentid": "",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Well done Mason !!!",
-        "date": "08/12/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "06:21",
-        "channel": "candyeden"
-    },
-    {
-        "id": "CzP9TMY55u0",
-        "parentid": "",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Guilty for loving each other forever",
-        "date": "08/13/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "2:10",
-        "channel": "candyeden"
-    },
-    {
-        "id": "2TMbJ6Xyb0s",
-        "parentid": "",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Cruz tries to comfort Eden but she pushes him away...",
-        "date": "09/03/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "02:38",
-        "channel": "candyeden"
-    },
-    {
-        "id": "gVU5D0mlIhY",
-        "parentid": "",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Businesswoman and Cruz's Lover",
-        "date": "09/04/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "01:39",
-        "channel": "candyeden"
-    },
-    {
         "id": "9Eu_sHolDUM",
         "parentid": "",
         "soap": "SB",
@@ -2313,31 +1677,7 @@
         "part": "1",
         "total": "1",
         "duration": "02:39",
-        "channel": "candyeden"
-    },
-    {
-        "id": "OJPvtU3UrVw",
-        "parentid": "",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Let's talk about future in all that mess",
-        "date": "09/16/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "02:01",
-        "channel": "candyeden"
-    },
-    {
-        "id": "4KLbGgTrHmY",
-        "parentid": "",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - We're not spending enough time together",
-        "date": "09/17/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "02:12",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "HqfFftQ2iAw",
@@ -2349,7 +1689,7 @@
         "part": "1",
         "total": "2",
         "duration": "01:42",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "IOky9dOdwpI",
@@ -2361,7 +1701,7 @@
         "part": "2",
         "total": "2",
         "duration": "1:37",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "PeT5zMgQbX0",
@@ -2373,7 +1713,7 @@
         "part": "1",
         "total": "1",
         "duration": "02:10",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "oBoA77hBOt8",
@@ -2385,7 +1725,7 @@
         "part": "1",
         "total": "1",
         "duration": "2:03",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "is9CjPPOcVU",
@@ -2424,6 +1764,42 @@
         "channel": "theystartedonsoaps"
     },
     {
+        "id": "nwRImE3lBvg",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Eden and Cruz meet up in the hospital with Bears",
+        "date": "1/1/1986",
+        "part": "1",
+        "total": "1",
+        "duration": "1:57",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "PdrHjcIpzAY",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Eden and Cruz work on rebuilding Johnny's Place",
+        "date": "1/1/1986",
+        "part": "1",
+        "total": "1",
+        "duration": "1:36",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "SRilL_Air6I",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Mason has a little fun with Eden while she's married to Kirk.",
+        "date": "1/1/1986",
+        "part": "1",
+        "total": "1",
+        "duration": "2:07",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
         "id": "yXwMsRPzQFo",
         "parentid": "",
         "soap": "SB",
@@ -2433,7 +1809,7 @@
         "part": "1",
         "total": "1",
         "duration": "03:14",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "F3_GcJNieJE",
@@ -2445,7 +1821,7 @@
         "part": "1",
         "total": "1",
         "duration": "02:35",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "UyM0mI-FnEI",
@@ -2457,7 +1833,55 @@
         "part": "1",
         "total": "1",
         "duration": "02:31",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
+    },
+    {
+        "id": "k0nrXnNHwaU",
+        "parentid": "P_4bdf3d65",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz recreates his engagement to Eden",
+        "date": "3/20/1986",
+        "part": "1",
+        "total": "4",
+        "duration": "2:56",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "JOp_I3aEU_s",
+        "parentid": "P_4bdf3d65",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz recreates his engagement to Eden",
+        "date": "3/20/1986",
+        "part": "2",
+        "total": "4",
+        "duration": "0:44",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "EbNzlUrwbCo",
+        "parentid": "P_4bdf3d65",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz recreates his engagement to Eden",
+        "date": "3/20/1986",
+        "part": "3",
+        "total": "4",
+        "duration": "3:13",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "pYWwwOb1r0w",
+        "parentid": "P_4bdf3d65",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz recreates his engagement to Eden",
+        "date": "3/20/1986",
+        "part": "4",
+        "total": "4",
+        "duration": "3:43",
+        "channel": "retrosoapsantabarbara"
     },
     {
         "id": "bJuuk7o3pCE",
@@ -2469,7 +1893,7 @@
         "part": "1",
         "total": "1",
         "duration": "06:42",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "PHKHYRZ8oiQ",
@@ -2481,7 +1905,7 @@
         "part": "01",
         "total": "15",
         "duration": "1:46",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "v1X8W_ZGrMI",
@@ -2493,7 +1917,7 @@
         "part": "02",
         "total": "15",
         "duration": "2:57",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "5bKUWZi8qds",
@@ -2505,7 +1929,7 @@
         "part": "03",
         "total": "15",
         "duration": "2:51",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "INXykpTTHNI",
@@ -2517,7 +1941,7 @@
         "part": "04",
         "total": "15",
         "duration": "09:44",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "uDscf4QookE",
@@ -2529,7 +1953,7 @@
         "part": "05",
         "total": "15",
         "duration": "1:21",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "744VWcJhTrw",
@@ -2541,7 +1965,7 @@
         "part": "06",
         "total": "15",
         "duration": "1:37",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "XU8nKX92tA8",
@@ -2553,7 +1977,7 @@
         "part": "07",
         "total": "15",
         "duration": "0:27",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "VIN4abS91XQ",
@@ -2565,7 +1989,7 @@
         "part": "08",
         "total": "15",
         "duration": "0:48",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "mD4AAuN7i44",
@@ -2577,7 +2001,7 @@
         "part": "09",
         "total": "15",
         "duration": "0:56",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "VtBix-GmjBc",
@@ -2589,7 +2013,7 @@
         "part": "10",
         "total": "15",
         "duration": "1:23",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "wu8sjkfjC3k",
@@ -2601,7 +2025,7 @@
         "part": "11",
         "total": "15",
         "duration": "2:49",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "WGYWXQxoh4w",
@@ -2613,7 +2037,7 @@
         "part": "12",
         "total": "15",
         "duration": "2:57",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "1ginB6Frkn0",
@@ -2625,7 +2049,7 @@
         "part": "13",
         "total": "15",
         "duration": "0:48",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "THGQKNevb28",
@@ -2637,7 +2061,7 @@
         "part": "14",
         "total": "15",
         "duration": "4:37",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "PJnqs8URqfU",
@@ -2649,7 +2073,115 @@
         "part": "15",
         "total": "15",
         "duration": "0:45",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
+    },
+    {
+        "id": "YqebQwP8EmY",
+        "parentid": "P_f66f56f2",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Kirk: A whale of a Tale",
+        "date": "6/1/1986",
+        "part": "1",
+        "total": "9",
+        "duration": "5:02",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "-mmMmzBgdZc",
+        "parentid": "P_f66f56f2",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Kirk: A whale of a Tale",
+        "date": "6/1/1986",
+        "part": "2",
+        "total": "9",
+        "duration": "1:58",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "FTAdvCccPk8",
+        "parentid": "P_f66f56f2",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Kirk: A whale of a Tale",
+        "date": "6/1/1986",
+        "part": "3",
+        "total": "9",
+        "duration": "3:11",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "-7oz5CfksAs",
+        "parentid": "P_f66f56f2",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Kirk: A whale of a Tale",
+        "date": "6/1/1986",
+        "part": "4",
+        "total": "9",
+        "duration": "1:41",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "5LButp8zqPc",
+        "parentid": "P_f66f56f2",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Kirk: A whale of a Tale",
+        "date": "6/1/1986",
+        "part": "5",
+        "total": "9",
+        "duration": "1:52",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "AVskJ_XB1Lo",
+        "parentid": "P_f66f56f2",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Kirk: A whale of a Tale",
+        "date": "6/1/1986",
+        "part": "6",
+        "total": "9",
+        "duration": "3:53",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "Kw63zhH6K-0",
+        "parentid": "P_f66f56f2",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Kirk: A whale of a Tale",
+        "date": "6/1/1986",
+        "part": "7",
+        "total": "9",
+        "duration": "3:06",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "dhVdqSw2uAU",
+        "parentid": "P_f66f56f2",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Kirk: A whale of a Tale",
+        "date": "6/1/1986",
+        "part": "8",
+        "total": "9",
+        "duration": "2:07",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "O7n3l70zwZU",
+        "parentid": "P_f66f56f2",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Kirk: A whale of a Tale",
+        "date": "6/1/1986",
+        "part": "9",
+        "total": "9",
+        "duration": "2:49",
+        "channel": "retrosoapsantabarbara"
     },
     {
         "id": "e7zFOE5wVSM",
@@ -2661,7 +2193,7 @@
         "part": "1",
         "total": "4",
         "duration": "0:31",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "aGIwvWHR-r4",
@@ -2673,7 +2205,7 @@
         "part": "2",
         "total": "4",
         "duration": "02:55",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "BeA6-vk1AUw",
@@ -2685,7 +2217,7 @@
         "part": "3",
         "total": "4",
         "duration": "1:36",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "r8QXPV_cQ1g",
@@ -2697,7 +2229,7 @@
         "part": "4",
         "total": "4",
         "duration": "1:25",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "_l1ZAxo0OFA",
@@ -2733,7 +2265,7 @@
         "part": "1",
         "total": "2",
         "duration": "0:52",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "KORoRGFvYHE",
@@ -2745,7 +2277,7 @@
         "part": "2",
         "total": "2",
         "duration": "1:59",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "_2cwVthXQt4",
@@ -2757,7 +2289,7 @@
         "part": "1",
         "total": "2",
         "duration": "0:37",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "DXnEcQ5vmjM",
@@ -2769,7 +2301,103 @@
         "part": "2",
         "total": "2",
         "duration": "2:57",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
+    },
+    {
+        "id": "h2WnoEeCjmA",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Eden gives Cruz a special Christmas Gift 1986",
+        "date": "12/25/1986",
+        "part": "1",
+        "total": "1",
+        "duration": "2:08",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "NSQPK_ijGhs",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "After Eden returns to town Cruz fires Eleanor",
+        "date": "1/1/1987",
+        "part": "1",
+        "total": "1",
+        "duration": "1:17",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "BZFjKiqD8Q8",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz punches a guy and he flies out the balcony",
+        "date": "1/1/1987",
+        "part": "1",
+        "total": "1",
+        "duration": "1:36",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "WPlG2bNvK34",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz returns home to apologize to Eden after a fight.",
+        "date": "1/1/1987",
+        "part": "1",
+        "total": "1",
+        "duration": "1:48",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "ZB8DBDJnCOU",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz tells his sister Carmen about Eden",
+        "date": "1/1/1987",
+        "part": "1",
+        "total": "1",
+        "duration": "3:00",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "R3w3VINKkiY",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz waits for Eden so he can tell her about Tori",
+        "date": "1/1/1987",
+        "part": "1",
+        "total": "1",
+        "duration": "2:19",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "oJxp3c9ThB4",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz, Eden and a cash box",
+        "date": "1/1/1987",
+        "part": "1",
+        "total": "1",
+        "duration": "1:23",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "OxRovEaKk1o",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Eden discuss the opening of Johnny's",
+        "date": "1/12/1987",
+        "part": "1",
+        "total": "1",
+        "duration": "1:49",
+        "channel": "retrosoapsantabarbara"
     },
     {
         "id": "8ukne1ZX5PE",
@@ -2781,7 +2409,7 @@
         "part": "1",
         "total": "1",
         "duration": "1:03",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "-koMSzfhQw8",
@@ -2793,7 +2421,7 @@
         "part": "1",
         "total": "4",
         "duration": "1:54",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "YPiL7sHLr5c",
@@ -2805,7 +2433,7 @@
         "part": "2",
         "total": "4",
         "duration": "1:09",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "RmktMk6j8ag",
@@ -2817,7 +2445,7 @@
         "part": "3",
         "total": "4",
         "duration": "0:41",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "8gmJgBLokcs",
@@ -2829,7 +2457,103 @@
         "part": "4",
         "total": "4",
         "duration": "02:28",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
+    },
+    {
+        "id": "sxLU2DXsp18",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Eden help a couple get back together on the Orient Express",
+        "date": "1/29/1987",
+        "part": "1",
+        "total": "1",
+        "duration": "5:39",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "IH7BFiWAK1s",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Eden on the Orient Express with Pearl",
+        "date": "1/29/1987",
+        "part": "1",
+        "total": "1",
+        "duration": "1:29",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "ZP5tKsYHptU",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz Eden and Pearl have a talk on the Orient Express.",
+        "date": "1/29/1987",
+        "part": "1",
+        "total": "1",
+        "duration": "2:02",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "Hl8PYFw-R6s",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz interviews Pearl and Eleanor",
+        "date": "1/29/1987",
+        "part": "1",
+        "total": "1",
+        "duration": "3:22",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "9eQhVUO_xm0",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz, Eden and Pearl on the Orient Express continued",
+        "date": "1/29/1987",
+        "part": "1",
+        "total": "1",
+        "duration": "3:30",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "FyYI6yOOlpQ",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Finally Eden and Cruz give in to their feelings on the Orient Express",
+        "date": "1/29/1987",
+        "part": "1",
+        "total": "1",
+        "duration": "1:59",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "VAQ5b-5Jbs4",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Pearl gets Cruz and Eden to dance together on the Orient Express",
+        "date": "1/29/1987",
+        "part": "1",
+        "total": "1",
+        "duration": "1:29",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "LQbFU3yOFEA",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Pearl's plan in action to reunite Cruz and Eden on the Orient Express",
+        "date": "1/29/1987",
+        "part": "1",
+        "total": "1",
+        "duration": "2:49",
+        "channel": "retrosoapsantabarbara"
     },
     {
         "id": "phnsv9Hbu7w",
@@ -2841,7 +2565,7 @@
         "part": "1",
         "total": "3",
         "duration": "01:10",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "qHXw5lkIixE",
@@ -2853,7 +2577,7 @@
         "part": "2",
         "total": "3",
         "duration": "1:31",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "nNBlmd-7kmk",
@@ -2865,7 +2589,7 @@
         "part": "3",
         "total": "3",
         "duration": "2:28",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "lGB19qw8Xec",
@@ -2877,7 +2601,7 @@
         "part": "1",
         "total": "2",
         "duration": "0:19",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "hHpildW-oLc",
@@ -2889,7 +2613,7 @@
         "part": "2",
         "total": "2",
         "duration": "2:02",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "lHlsqkBNJ1U",
@@ -2901,7 +2625,7 @@
         "part": "1",
         "total": "2",
         "duration": "00:52",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "A2IpJ5rBN8g",
@@ -2913,7 +2637,43 @@
         "part": "2",
         "total": "2",
         "duration": "2:41",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
+    },
+    {
+        "id": "QeDj8PiXSW4",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Mason talks with Cruz and Eden about the Gus Jackson case.",
+        "date": "3/26/1987",
+        "part": "1",
+        "total": "1",
+        "duration": "1:29",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "AQherQsDXxY",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Eleanor come to blows over Eden",
+        "date": "6/1/1987",
+        "part": "1",
+        "total": "1",
+        "duration": "1:19",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "oyaLUQ-A14A",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Eleanor tries unsuccessfully to seduce Cruz",
+        "date": "6/2/1987",
+        "part": "1",
+        "total": "1",
+        "duration": "2:56",
+        "channel": "retrosoapsantabarbara"
     },
     {
         "id": "51TXV2d4WsM",
@@ -2928,6 +2688,102 @@
         "channel": "kellycapwellrobinwright"
     },
     {
+        "id": "58x4URpCRGU",
+        "parentid": "P_3af7b957",
+        "soap": "SB",
+        "category": "A",
+        "title": "Eden tells Cruz about her medical condition",
+        "date": "7/1/1987",
+        "part": "1",
+        "total": "3",
+        "duration": "1:36",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "yBNUfTTgFTg",
+        "parentid": "P_3af7b957",
+        "soap": "SB",
+        "category": "A",
+        "title": "Eden tells Cruz about her medical condition",
+        "date": "7/1/1987",
+        "part": "2",
+        "total": "3",
+        "duration": "2:43",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "lOj4I5uUIb8",
+        "parentid": "P_d28d301a",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Eden dinner at the beach house after Utah",
+        "date": "8/25/1987",
+        "part": "1",
+        "total": "6",
+        "duration": "3:08",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "O9EYorPKn2s",
+        "parentid": "P_d28d301a",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Eden dinner at the beach house after Utah",
+        "date": "8/25/1987",
+        "part": "2",
+        "total": "6",
+        "duration": "3:22",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "GMyiKLyN8e8",
+        "parentid": "P_d28d301a",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Eden dinner at the beach house after Utah",
+        "date": "8/25/1987",
+        "part": "3",
+        "total": "6",
+        "duration": "3:03",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "Fq280OhWNI0",
+        "parentid": "P_d28d301a",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Eden dinner at the beach house after Utah",
+        "date": "8/25/1987",
+        "part": "4",
+        "total": "6",
+        "duration": "1:05",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "aPqTNcrpiwo",
+        "parentid": "P_d28d301a",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Eden dinner at the beach house after Utah",
+        "date": "8/25/1987",
+        "part": "5",
+        "total": "6",
+        "duration": "3:56",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "vqiBDktw9WA",
+        "parentid": "P_d28d301a",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Eden dinner at the beach house after Utah",
+        "date": "8/25/1987",
+        "part": "6",
+        "total": "6",
+        "duration": "1:50",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
         "id": "OBKMjXSPEJg",
         "parentid": "P_f501aa47",
         "soap": "SB",
@@ -2937,7 +2793,7 @@
         "part": "01",
         "total": "39",
         "duration": "1:40",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "HtOOFYxNjlA",
@@ -2949,7 +2805,7 @@
         "part": "02",
         "total": "39",
         "duration": "02:12",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "OTrf-iHEMTI",
@@ -2961,7 +2817,7 @@
         "part": "03",
         "total": "39",
         "duration": "2:19",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "_o6WKI-go30",
@@ -2973,7 +2829,7 @@
         "part": "04",
         "total": "39",
         "duration": "02:08",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "Pvg0HZvSamI",
@@ -2985,7 +2841,7 @@
         "part": "05",
         "total": "39",
         "duration": "2:33",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "Zo85wkVrqec",
@@ -2997,7 +2853,7 @@
         "part": "06",
         "total": "39",
         "duration": "01:48",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "fwPw__061Nw",
@@ -3009,7 +2865,7 @@
         "part": "07",
         "total": "39",
         "duration": "2:42",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "FMAZZGA0t4A",
@@ -3021,7 +2877,7 @@
         "part": "08",
         "total": "39",
         "duration": "1:07",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "BN-QSij4XqU",
@@ -3033,7 +2889,7 @@
         "part": "09",
         "total": "39",
         "duration": "04:44",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "dHB9tiUn6Ng",
@@ -3045,7 +2901,7 @@
         "part": "10",
         "total": "39",
         "duration": "2:56",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "GnC4gn8qvso",
@@ -3057,7 +2913,7 @@
         "part": "11",
         "total": "39",
         "duration": "3:04",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "1j5cB_VJSgQ",
@@ -3069,7 +2925,7 @@
         "part": "12",
         "total": "39",
         "duration": "1:55",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "UiOj-vcUA1c",
@@ -3081,7 +2937,7 @@
         "part": "13",
         "total": "39",
         "duration": "00:54",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "F8fO9dOChIM",
@@ -3093,7 +2949,7 @@
         "part": "14",
         "total": "39",
         "duration": "1:39",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "_cZ0vtf8UNY",
@@ -3105,7 +2961,7 @@
         "part": "15",
         "total": "39",
         "duration": "01:14",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "8fWhcj-PaZ0",
@@ -3117,7 +2973,7 @@
         "part": "16",
         "total": "39",
         "duration": "03:12",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "1mUrqvSTy_0",
@@ -3129,7 +2985,7 @@
         "part": "17",
         "total": "39",
         "duration": "3:35",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "LnH0tXUPU2w",
@@ -3141,7 +2997,7 @@
         "part": "18",
         "total": "39",
         "duration": "4:05",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "9nRiKCbWdn0",
@@ -3153,7 +3009,7 @@
         "part": "19",
         "total": "39",
         "duration": "2:03",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "fShhsCAcDZw",
@@ -3165,7 +3021,7 @@
         "part": "20",
         "total": "39",
         "duration": "0:59",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "JHnLLkxwVcA",
@@ -3177,7 +3033,7 @@
         "part": "21",
         "total": "39",
         "duration": "00:46",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "cNALQDD70s4",
@@ -3189,7 +3045,7 @@
         "part": "22",
         "total": "39",
         "duration": "01:27",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "Vdmwd2vPGZc",
@@ -3201,7 +3057,7 @@
         "part": "23",
         "total": "39",
         "duration": "0:22",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "dM6j0xVV_DA",
@@ -3213,7 +3069,7 @@
         "part": "24",
         "total": "39",
         "duration": "00:54",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "5jbmzMH_7MU",
@@ -3225,7 +3081,7 @@
         "part": "25",
         "total": "39",
         "duration": "01:28",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "iz8tKlW9rzg",
@@ -3237,7 +3093,7 @@
         "part": "26",
         "total": "39",
         "duration": "2:35",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "bdE57f7au9s",
@@ -3249,7 +3105,7 @@
         "part": "27",
         "total": "39",
         "duration": "01:30",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "V4VgLxu6s1Q",
@@ -3261,7 +3117,7 @@
         "part": "28",
         "total": "39",
         "duration": "01:46",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "F9j7mjjM0NA",
@@ -3273,7 +3129,7 @@
         "part": "29",
         "total": "39",
         "duration": "1:36",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "tMdjXhJjoys",
@@ -3285,7 +3141,7 @@
         "part": "30",
         "total": "39",
         "duration": "01:01",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "zTVF5ZVL04g",
@@ -3297,7 +3153,7 @@
         "part": "31",
         "total": "39",
         "duration": "1:08",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "fWdvWpSWwfk",
@@ -3309,7 +3165,7 @@
         "part": "32",
         "total": "39",
         "duration": "1:21",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "5RpoF6fN8bQ",
@@ -3321,7 +3177,7 @@
         "part": "33",
         "total": "39",
         "duration": "2:00",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "1PmIX9x5zeY",
@@ -3333,7 +3189,7 @@
         "part": "34",
         "total": "39",
         "duration": "01:00",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "CZyTOpZhFac",
@@ -3345,7 +3201,7 @@
         "part": "35",
         "total": "39",
         "duration": "02:21",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "lVFmYdnX2ic",
@@ -3357,7 +3213,7 @@
         "part": "36",
         "total": "39",
         "duration": "1:37",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "KYdg_Gz7-kU",
@@ -3369,7 +3225,7 @@
         "part": "37",
         "total": "39",
         "duration": "01:12",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "5IqAj6Tp8sg",
@@ -3381,7 +3237,7 @@
         "part": "38",
         "total": "39",
         "duration": "01:12",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "m_AUkWckDlA",
@@ -3393,7 +3249,7 @@
         "part": "39",
         "total": "39",
         "duration": "01:53",
-        "channel": "candyeden"
+        "channel": "candyedenlovescruz"
     },
     {
         "id": "Wu_b3KhZjoY",
@@ -3456,6 +3312,234 @@
         "channel": "theystartedonsoaps"
     },
     {
+        "id": "bZwsIRHV1KA",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Eden have a talk about Eden's insecurities",
+        "date": "1/1/1988",
+        "part": "1",
+        "total": "1",
+        "duration": "2:36",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "n_85N6rFqPU",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz stays by Eden's side in the hospital",
+        "date": "1/1/1988",
+        "part": "1",
+        "total": "1",
+        "duration": "0:48",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "kyX6sNIP2FI",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz tells Cain about meeting Eden for the first time.",
+        "date": "1/1/1988",
+        "part": "1",
+        "total": "1",
+        "duration": "1:54",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "3kPQsszRizY",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Mason and Julia at the Church",
+        "date": "1/1/1988",
+        "part": "1",
+        "total": "1",
+        "duration": "2:03",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "CvJqxh-va9g",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Special Cruz and Eden moment while Eden is recovering from the attack.",
+        "date": "1/1/1988",
+        "part": "1",
+        "total": "1",
+        "duration": "1:20",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "83q7Ih2Yonc",
+        "parentid": "P_e68dc7c7",
+        "soap": "SB",
+        "category": "A",
+        "title": "Eden's Coma Cruz stays by her side at the hospital",
+        "date": "1/1/1988",
+        "part": "1",
+        "total": "8",
+        "duration": "4:11",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "PLH3beXPUAg",
+        "parentid": "P_e68dc7c7",
+        "soap": "SB",
+        "category": "A",
+        "title": "Eden's Coma Cruz stays by her side at the hospital",
+        "date": "1/1/1988",
+        "part": "2",
+        "total": "8",
+        "duration": "1:16",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "V3xM6SPFiLY",
+        "parentid": "P_e68dc7c7",
+        "soap": "SB",
+        "category": "A",
+        "title": "Eden's Coma Cruz stays by her side at the hospital",
+        "date": "1/1/1988",
+        "part": "3",
+        "total": "8",
+        "duration": "3:02",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "2G5Oer7qQTA",
+        "parentid": "P_e68dc7c7",
+        "soap": "SB",
+        "category": "A",
+        "title": "Eden's Coma Cruz stays by her side at the hospital",
+        "date": "1/1/1988",
+        "part": "4",
+        "total": "8",
+        "duration": "1:21",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "QjWGESofFgk",
+        "parentid": "P_e68dc7c7",
+        "soap": "SB",
+        "category": "A",
+        "title": "Eden's Coma Cruz stays by her side at the hospital",
+        "date": "1/1/1988",
+        "part": "5",
+        "total": "8",
+        "duration": "1:00",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "owg8ztjq65s",
+        "parentid": "P_e68dc7c7",
+        "soap": "SB",
+        "category": "A",
+        "title": "Eden's Coma Cruz stays by her side at the hospital",
+        "date": "1/1/1988",
+        "part": "6",
+        "total": "8",
+        "duration": "1:02",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "Bilm90-tdIU",
+        "parentid": "P_e68dc7c7",
+        "soap": "SB",
+        "category": "A",
+        "title": "Eden's Coma Cruz stays by her side at the hospital",
+        "date": "1/1/1988",
+        "part": "7",
+        "total": "8",
+        "duration": "1:05",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "6XfEPOBFF3A",
+        "parentid": "P_e68dc7c7",
+        "soap": "SB",
+        "category": "A",
+        "title": "Eden's Coma Cruz stays by her side at the hospital",
+        "date": "1/1/1988",
+        "part": "8",
+        "total": "8",
+        "duration": "1:14",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "tvw8AckYbGc",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Eden confront issues with Tori's pregnancy",
+        "date": "3/11/1988",
+        "part": "1",
+        "total": "1",
+        "duration": "2:26",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "gkNS_3jlOJQ",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Eden arrive at Pebble Creek seperately",
+        "date": "3/24/1988",
+        "part": "1",
+        "total": "1",
+        "duration": "6:24",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "SJQ9fkTun7g",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Eden at Pebble Creek - the night of their reunion",
+        "date": "3/24/1988",
+        "part": "1",
+        "total": "1",
+        "duration": "1:57",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "ln3MFePKunc",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Eden at Pebble Creek Continued",
+        "date": "3/24/1988",
+        "part": "1",
+        "total": "1",
+        "duration": "3:42",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "OpTgbVTDcSs",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Eden celebrate after Pebble Creek",
+        "date": "3/24/1988",
+        "part": "1",
+        "total": "1",
+        "duration": "2:07",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "-NnjngZIffo",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Eden have a reunion at Pebble Creek",
+        "date": "3/24/1988",
+        "part": "1",
+        "total": "1",
+        "duration": "2:57",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
         "id": "iJLKrB-bQZE",
         "parentid": "",
         "soap": "SB",
@@ -3465,6 +3549,30 @@
         "part": "1",
         "total": "1",
         "duration": "2:44",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "Zzp68WRR-x4",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cain and Andrea deliver wedding present to Cruz and Eden",
+        "date": "4/1/1988",
+        "part": "1",
+        "total": "1",
+        "duration": "2:37",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "ijaxhMHudWs",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Eden find the perfect place to get married.",
+        "date": "4/1/1988",
+        "part": "1",
+        "total": "1",
+        "duration": "2:26",
         "channel": "retrosoapsantabarbara"
     },
     {
@@ -3480,6 +3588,30 @@
         "channel": "retrosoapsantabarbara"
     },
     {
+        "id": "lRWIar8Nbh8",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "The second wedding gift from Cain and Andrea arrives at the beach house for Cruz and Eden.",
+        "date": "5/1/1988",
+        "part": "1",
+        "total": "1",
+        "duration": "1:41",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "AOkL_iVYxFY",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "The third and final wedding present arrives at Cruz and Eden's house.",
+        "date": "5/1/1988",
+        "part": "1",
+        "total": "1",
+        "duration": "3:00",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
         "id": "0G0armqxcWU",
         "parentid": "",
         "soap": "SB",
@@ -3489,6 +3621,102 @@
         "part": "1",
         "total": "1",
         "duration": "01:31",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "rXgt_giqI7I",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Eden before the attack on Eden",
+        "date": "9/1/1988",
+        "part": "1",
+        "total": "1",
+        "duration": "2:29",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "YCF_lzbrjOs",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz enters the beach house for the first time since Eden's rape.",
+        "date": "9/20/1988",
+        "part": "1",
+        "total": "1",
+        "duration": "4:42",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "_Dnfu_MZjjY",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz goes after Critter after Eden's rape",
+        "date": "9/20/1988",
+        "part": "1",
+        "total": "1",
+        "duration": "1:34",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "YJw4Vhm9ijk",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Robert Barr or Quinn and Kelly share an intimate moment with grapes!",
+        "date": "9/20/1988",
+        "part": "1",
+        "total": "1",
+        "duration": "1:40",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "KeGOiSq1XT8",
+        "parentid": "P_2bcabaa7",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Eden after her rape",
+        "date": "9/20/1988",
+        "part": "1",
+        "total": "3",
+        "duration": "1:46",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "wBjW1XY7wJw",
+        "parentid": "P_2bcabaa7",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Eden after her rape",
+        "date": "9/20/1988",
+        "part": "2",
+        "total": "3",
+        "duration": "2:26",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "ZNnudpL2f8Y",
+        "parentid": "P_2bcabaa7",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Eden after her rape",
+        "date": "9/20/1988",
+        "part": "3",
+        "total": "3",
+        "duration": "1:07",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "CETx_zxpOIk",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Eden have a heart to heart after telling the family that she's pregnant",
+        "date": "10/1/1988",
+        "part": "1",
+        "total": "1",
+        "duration": "4:07",
         "channel": "retrosoapsantabarbara"
     },
     {
@@ -3502,6 +3730,54 @@
         "total": "1",
         "duration": "2:26",
         "channel": "disabled1955"
+    },
+    {
+        "id": "Va05pPfMg_4",
+        "parentid": "P_7fd53244",
+        "soap": "SB",
+        "category": "A",
+        "title": "Final scenes of Justin Deas as Keith Timmons on Santa Barbara",
+        "date": "11/17/1988",
+        "part": "1",
+        "total": "2",
+        "duration": "3:21",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "_dkCQPHW_bY",
+        "parentid": "P_7fd53244",
+        "soap": "SB",
+        "category": "A",
+        "title": "Final scenes of Justin Deas as Keith Timmons on Santa Barbara",
+        "date": "11/17/1988",
+        "part": "2",
+        "total": "2",
+        "duration": "3:55",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "y-yw01s_JL8",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Eden realizes that she wasn't the one that shot Quinn",
+        "date": "12/1/1988",
+        "part": "1",
+        "total": "1",
+        "duration": "1:22",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "Rk2bk23SYS4",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Eden returns home after she awakens from her coma during the Quinn/Robert murder story",
+        "date": "12/25/1988",
+        "part": "1",
+        "total": "1",
+        "duration": "2:09",
+        "channel": "retrosoapsantabarbara"
     },
     {
         "id": "39gwtSOq1wk",
@@ -3528,6 +3804,66 @@
         "channel": "chucksnitchler"
     },
     {
+        "id": "D62ggZcSEfA",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz walks in on Craig and Eden having a secret conversation",
+        "date": "1/1/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "3:35",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "3mLwsyIWBCE",
+        "parentid": "P_c47510ac",
+        "soap": "SB",
+        "category": "A",
+        "title": "Eden shows up at Cruz' office to take him to dinner",
+        "date": "1/1/1989",
+        "part": "1",
+        "total": "2",
+        "duration": "2:34",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "YaLQm28beLk",
+        "parentid": "P_c47510ac",
+        "soap": "SB",
+        "category": "A",
+        "title": "Eden shows up at Cruz' office to take him to dinner",
+        "date": "1/1/1989",
+        "part": "2",
+        "total": "2",
+        "duration": "2:47",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "eWqgc31dld0",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Eden return home from the dress shop in Paris.",
+        "date": "5/1/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "1:35",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "RGs_xzjokKo",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz takes Eden on a special trip in Paris and gives her a special gift from the day they first met.",
+        "date": "5/1/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "1:49",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
         "id": "mjev1zLFZwc",
         "parentid": "",
         "soap": "SB",
@@ -3537,6 +3873,18 @@
         "part": "1",
         "total": "1",
         "duration": "00:43",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "aGeJHgElRBY",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Eden and Cruz spend some one on one time",
+        "date": "6/1/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "2:15",
         "channel": "retrosoapsantabarbara"
     },
     {
@@ -3586,18 +3934,6 @@
         "total": "1",
         "duration": "3:57",
         "channel": "kellycapwellrobinwright"
-    },
-    {
-        "id": "W9hAud8zMXc",
-        "parentid": "",
-        "soap": "SB",
-        "category": "A",
-        "title": "Cruz and Eden - Nothing will never seperate us...",
-        "date": "08/23/1989",
-        "part": "1",
-        "total": "1",
-        "duration": "03:54",
-        "channel": "candyeden"
     },
     {
         "id": "f1OrZG5ga04",
@@ -3765,6 +4101,30 @@
         "part": "11",
         "total": "13",
         "duration": "4:35",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "rEgt6q6Qh6k",
+        "parentid": "P_d4f4b322",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Eden share a turkey sandwich at Christms",
+        "date": "12/25/1989",
+        "part": "1",
+        "total": "2",
+        "duration": "1:21",
+        "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "oJbWumZDOn8",
+        "parentid": "P_d4f4b322",
+        "soap": "SB",
+        "category": "A",
+        "title": "Cruz and Eden share a turkey sandwich at Christms",
+        "date": "12/25/1989",
+        "part": "2",
+        "total": "2",
+        "duration": "1:06",
         "channel": "retrosoapsantabarbara"
     }
 ]
