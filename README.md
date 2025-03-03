@@ -1,10 +1,12 @@
 # The SoapJack Project
 
-The SoapJack Project is to create a catalog of YouTube classic soap opera video links organized by their original air dates -- as much as possible. Data is provided in JSON and CSV formats. For questions and feedback, email Bruce Hamilton at `hamiltonbernique@icloud.com`. 
+The purpose of the SoapJack Project is to create a catalog of YouTube classic soap opera video links organized by their original air dates. Data is provided in JSON and CSV formats. For questions and feedback, email Bruce Hamilton at `hamiltonbernique@icloud.com`. 
 
-There are currently over 26,000 links in the repository. The repository is organized alphabetically by the soap opera codes (listed with their names in the next section) with JSON and CSV files in each. For large datasets, the files are organized by decade.
+There are currently over 26,000 links in the repository. The repository is organized alphabetically by the soap opera codes as listed in the next section below. Each folder has JSON and CSV files.
+ 
+Such a dataset is indeed malleable and loosely defined. The goal is an inventory of those classic soap operas that aired from the 1950s to the 2010s. This time period essentially spans the time when no content was not saved except by the efforts of the devoted fans who later uploaded their treasures to YouTube. Some soaps are commercially available in their entirety such as Dark Shadows, so those soaps are not included. 
 
-Such a dataset is indeed malleable and loosely defined. The aim is an inventory of those classic soap operas that aired from the 1950s to the 2010s, essentially to capture content where there are no means to view it except by the efforts of the devoted fans who uploaded their treasures to YouTube. Some soaps are available in their entirety such as Dark Shadows, so that soap is not included. The data has the following criteria, but your input in more than welcome:
+The data has the following criteria, but your input in more than welcome:
 
 - Any episode or partial episode, including clips of scenes and clips of storylines over time.
 - Episode opening sequences and closing credits.
