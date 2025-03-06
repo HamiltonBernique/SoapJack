@@ -120,6 +120,10 @@ Download the CSV file and import it into a spreadsheet, such as in a Google shee
 
 ## Contributions and corrections
 
-Soap fans are encouraged to email feedback and corrections, or share an online spreadsheet from a CSV file, to `hamiltonbernique@icloud.com`.
+Soap fans are encouraged to email feedback, and corrections, or share an online spreadsheet with your edits, to:
+Bruce Hamilton
+`bruce@hamiltonbernique.com`.
+
+Always eager to know about new channels with soap opera content.
 
 If you have well formed JSON data to contribute, you're welcome to fork the repository and submit a pull request. The CSV files will be updated to reflect your contributions.
