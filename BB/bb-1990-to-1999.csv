@@ -1,4 +1,4 @@
-id,title,duration,soap,date,category,parentid,part,total,channel
+link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/0jV86Oqjlnc"", ""Link"")",Promo #7,0:19,BB,01/01/1993,B,,1,1,disabled1955
 "=HYPERLINK(""https://youtu.be/pL8w83yfmKw"", ""Link"")",Promo #6,0:17,BB,01/01/1993,B,,1,1,disabled1955
 "=HYPERLINK(""https://youtu.be/y0jKVPJJDiA"", ""Link"")",Promo #3,0:24,BB,01/01/1993,B,,1,1,disabled1955
