@@ -1,4 +1,4 @@
-id,title,duration,soap,date,category,parentid,part,total,channel
+link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/yvtQn1-Q57w"", ""Link"")",Paul Michael Glaser's Debut,01:49,DCTR,12/01/1967,A,,1,1,stybz
 "=HYPERLINK(""https://youtu.be/bOZY_a_4z5c"", ""Link"")",Promo,0:29,DCTR,3/1/1968,B,,1,1,retronewfoundland
 "=HYPERLINK(""https://youtu.be/H6tUw2xqgn0"", ""Link"")",Promo,0:35,DCTR,10/13/1969,B,,1,1,retronewfoundland
