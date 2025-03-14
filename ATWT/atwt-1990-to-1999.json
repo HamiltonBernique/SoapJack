@@ -268,7 +268,7 @@
         "parentid": "",
         "soap": "ATWT",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "10/15/1990",
         "part": "1",
         "total": "1",
@@ -376,7 +376,7 @@
         "parentid": "",
         "soap": "ATWT",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "11/13/1990",
         "part": "1",
         "total": "1",
@@ -556,7 +556,7 @@
         "parentid": "",
         "soap": "ATWT",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "01/07/1991",
         "part": "1",
         "total": "1",
@@ -724,7 +724,7 @@
         "parentid": "",
         "soap": "ATWT",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "02/18/1991",
         "part": "1",
         "total": "1",
@@ -748,7 +748,7 @@
         "parentid": "",
         "soap": "ATWT",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "02/22/1991",
         "part": "1",
         "total": "1",
@@ -772,7 +772,7 @@
         "parentid": "",
         "soap": "ATWT",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "02/26/1991",
         "part": "1",
         "total": "1",
@@ -784,7 +784,7 @@
         "parentid": "",
         "soap": "ATWT",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "02/27/1991",
         "part": "1",
         "total": "1",
@@ -868,7 +868,7 @@
         "parentid": "",
         "soap": "ATWT",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "03/25/1991",
         "part": "1",
         "total": "1",
@@ -892,7 +892,7 @@
         "parentid": "",
         "soap": "ATWT",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "03/27/1991",
         "part": "1",
         "total": "1",
@@ -1017,7 +1017,7 @@
         "part": "1",
         "total": "1",
         "duration": "42:31",
-        "channel": "rhsharp"
+        "channel": "robertsharp"
     },
     {
         "id": "jtzxiyXLJ48",
@@ -1233,7 +1233,7 @@
         "part": "1",
         "total": "1",
         "duration": "41:40:00",
-        "channel": "edynsanchez"
+        "channel": "edwynsanchez"
     },
     {
         "id": "GefmF2gzd1c",
@@ -1473,7 +1473,7 @@
         "part": "1",
         "total": "1",
         "duration": "4:55",
-        "channel": "messylin"
+        "channel": "thedeepscreenanalysis"
     },
     {
         "id": "M19-UBijdwI",
@@ -1540,7 +1540,7 @@
         "parentid": "",
         "soap": "ATWT",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "11/15/1993",
         "part": "1",
         "total": "1",
@@ -1713,7 +1713,7 @@
         "part": "1",
         "total": "1",
         "duration": "41:53:00",
-        "channel": "edynsanchez"
+        "channel": "edwynsanchez"
     },
     {
         "id": "gXLw_Ew8exE",
@@ -1725,7 +1725,7 @@
         "part": "1",
         "total": "1",
         "duration": "41:41:00",
-        "channel": "edynsanchez"
+        "channel": "edwynsanchez"
     },
     {
         "id": "nQOLHbRc70M",
@@ -2025,7 +2025,7 @@
         "part": "1",
         "total": "1",
         "duration": "41:23:00",
-        "channel": "edynsanchez"
+        "channel": "edwynsanchez"
     },
     {
         "id": "v3jqB4S_S7Y",
@@ -2133,7 +2133,7 @@
         "part": "1",
         "total": "1",
         "duration": "40:40:00",
-        "channel": "edynsanchez"
+        "channel": "edwynsanchez"
     },
     {
         "id": "ZLPJMwxa9sg",

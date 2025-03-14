@@ -1,4 +1,4 @@
-id,title,duration,soap,date,category,parentid,part,total,channel
+link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/4ITLiN0_zjM"", ""Link"")",Amanda Seyfried on As The World Turns,2:08,ATWT,6/1/2000,A,,1,1,theystartedonsoaps
 "=HYPERLINK(""https://youtu.be/VjU2txS4z1Q"", ""Link"")",Eplisode,56:04,ATWT,09/06/2000,A,,1,1,edwynsanchez
 "=HYPERLINK(""https://youtu.be/GoqhKTlDvWc"", ""Link"")",Carly helps Molly solve her haunting,08:08,ATWT,10/23/2000,A,,1,1,dragonweaver
@@ -18,10 +18,10 @@ id,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/FlpIkc-RPXc"", ""Link"")",Carly plays nurse,8:28,ATWT,03/29/2001,A,P_e6b0b2e5,1,2,dragonweaver
 "=HYPERLINK(""https://youtu.be/VGvJIfuyqlk"", ""Link"")",Carly plays nurse,09:34,ATWT,03/29/2001,A,P_e6b0b2e5,2,2,dragonweaver
 "=HYPERLINK(""https://youtu.be/Ab2jNV09BgU"", ""Link"")",Craig and Barbaras Wedding,5:43,ATWT,05/17/2001,A,,1,1,dragonweaver
-"=HYPERLINK(""https://youtu.be/EuVbJ_BWYu0"", ""Link"")",Episode,40:08:00,ATWT,06/18/2001,A,,1,1,edynsanchez
-"=HYPERLINK(""https://youtu.be/QKrGoSu0bY0"", ""Link"")",Episode,40:08:00,ATWT,06/18/2001,A,,1,1,edynsanchez
-"=HYPERLINK(""https://youtu.be/YHVSOkhfo2I"", ""Link"")",Episode,39:16:00,ATWT,09/17/2001,A,,1,1,edynsanchez
-"=HYPERLINK(""https://youtu.be/yl5Fnbvh-ZI"", ""Link"")",Episode,39:40:00,ATWT,09/18/2001,A,,1,1,edynsanchez
+"=HYPERLINK(""https://youtu.be/EuVbJ_BWYu0"", ""Link"")",Episode,40:08:00,ATWT,06/18/2001,A,,1,1,edwynsanchez
+"=HYPERLINK(""https://youtu.be/QKrGoSu0bY0"", ""Link"")",Episode,40:08:00,ATWT,06/18/2001,A,,1,1,edwynsanchez
+"=HYPERLINK(""https://youtu.be/YHVSOkhfo2I"", ""Link"")",Episode,39:16:00,ATWT,09/17/2001,A,,1,1,edwynsanchez
+"=HYPERLINK(""https://youtu.be/yl5Fnbvh-ZI"", ""Link"")",Episode,39:40:00,ATWT,09/18/2001,A,,1,1,edwynsanchez
 "=HYPERLINK(""https://youtu.be/qlBM4Lfb2ws"", ""Link"")",Jake and Molly's Wedding,8:41,ATWT,10/01/2001,A,P_7bfd0bcc,01,13,dragonweaver
 "=HYPERLINK(""https://youtu.be/olenVEF8x_k"", ""Link"")",Jake and Molly's Wedding,8:23,ATWT,10/01/2001,A,P_7bfd0bcc,02,13,dragonweaver
 "=HYPERLINK(""https://youtu.be/sY8s80KDlAc"", ""Link"")",Jake and Molly's Wedding,08:47,ATWT,10/01/2001,A,P_7bfd0bcc,03,13,dragonweaver
@@ -60,9 +60,9 @@ id,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/W4z-cOHewBw"", ""Link"")",Julia Has Jack,5:20,ATWT,01/01/2002,A,P_d7abf046,9,9,oakdalehistorian
 "=HYPERLINK(""https://youtu.be/_-RzgVSI2uY"", ""Link"")","James, Rose, Craig Promo",00:48,ATWT,04/01/2002,B,,1,1,dragonweaver
 "=HYPERLINK(""https://youtu.be/FrIHAyX_jbc"", ""Link"")",Episode,00:31:45,ATWT,04/03/2002,A,,1,1,theedgeofnightman
-"=HYPERLINK(""https://youtu.be/5dPc2GyXdCg"", ""Link"")",Episode,11:31,ATWT,05/03/2002,A,,1,1,guidinglightepisodes
-"=HYPERLINK(""https://youtu.be/bAiDfN38z0M"", ""Link"")",Episode,16:10,ATWT,05/29/2002,A,,1,1,guidinglightepisodes
-"=HYPERLINK(""https://youtu.be/Xf3V02FLmio"", ""Link"")",Episode,19:37,ATWT,06/03/2002,A,,1,1,guidinglightepisodes
+"=HYPERLINK(""https://youtu.be/5dPc2GyXdCg"", ""Link"")",Episode content,11:31,ATWT,05/03/2002,A,,1,1,guidinglightepisodes
+"=HYPERLINK(""https://youtu.be/bAiDfN38z0M"", ""Link"")",Episode content,16:10,ATWT,05/29/2002,A,,1,1,guidinglightepisodes
+"=HYPERLINK(""https://youtu.be/Xf3V02FLmio"", ""Link"")",Episode content,19:37,ATWT,06/03/2002,A,,1,1,guidinglightepisodes
 "=HYPERLINK(""https://youtu.be/tEReoV5ZcbY"", ""Link"")",Craig seduces Carly,05:45,ATWT,06/14/2002,A,,1,1,dragonweaver
 "=HYPERLINK(""https://youtu.be/QbpGQQH9WmU"", ""Link"")",Craig and Carly are busted,9:52,ATWT,06/17/2002,A,P_205f8940,1,2,dragonweaver
 "=HYPERLINK(""https://youtu.be/drZNTMcKx0s"", ""Link"")",Craig and Carly are busted,08:59,ATWT,06/17/2002,A,P_205f8940,2,2,dragonweaver

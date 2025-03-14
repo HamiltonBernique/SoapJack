@@ -33,7 +33,7 @@
         "part": "1",
         "total": "1",
         "duration": "27:54:00",
-        "channel": "edynsanchez"
+        "channel": "edwynsanchez"
     },
     {
         "id": "bhKswZGSmNg",
@@ -57,7 +57,7 @@
         "part": "1",
         "total": "1",
         "duration": "28:45",
-        "channel": "thez58"
+        "channel": "charlespearson"
     },
     {
         "id": "1BivKdAIeKo",
@@ -148,7 +148,7 @@
         "parentid": "P_4acb46c4",
         "soap": "ATWT",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "12/01/1962",
         "part": "1",
         "total": "2",
@@ -160,7 +160,7 @@
         "parentid": "P_4acb46c4",
         "soap": "ATWT",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "12/01/1962",
         "part": "2",
         "total": "2",
@@ -172,7 +172,7 @@
         "parentid": "P_bdec65dc",
         "soap": "ATWT",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "01/01/1963",
         "part": "1",
         "total": "2",
@@ -184,7 +184,7 @@
         "parentid": "P_bdec65dc",
         "soap": "ATWT",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "01/01/1963",
         "part": "2",
         "total": "2",
@@ -196,7 +196,7 @@
         "parentid": "",
         "soap": "ATWT",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "11/22/1963",
         "part": "1",
         "total": "1",
@@ -220,7 +220,7 @@
         "parentid": "P_a61d32f9",
         "soap": "ATWT",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "02/22/1966",
         "part": "1",
         "total": "2",
@@ -232,7 +232,7 @@
         "parentid": "P_a61d32f9",
         "soap": "ATWT",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "02/22/1966",
         "part": "2",
         "total": "2",
@@ -357,6 +357,6 @@
         "part": "1",
         "total": "1",
         "duration": "43:26:00",
-        "channel": "edynsanchez"
+        "channel": "edwynsanchez"
     }
 ]
