@@ -1,4 +1,4 @@
-id,title,duration,soap,date,category,parentid,part,total,channel
+link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/tGyWa59g9Qk"", ""Link"")",March 1980,18:18,AW,03/01/1980,A,P_5528a708,1,4,eddiedrueding
 "=HYPERLINK(""https://youtu.be/nErBv7oBi-4"", ""Link"")",March 1980,24:31,AW,03/01/1980,A,P_5528a708,2,4,eddiedrueding
 "=HYPERLINK(""https://youtu.be/t6JcI8n2n8g"", ""Link"")",March 1980,46:34,AW,03/01/1980,A,P_5528a708,3,4,eddiedrueding
@@ -91,7 +91,7 @@ id,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/Pg5b8J1w1NQ"", ""Link"")",Peter Shea and Diana Frame Promo,00:21,AW,01/01/1981,B,,1,1,fyi
 "=HYPERLINK(""https://youtu.be/eBPJabN3Bl0"", ""Link"")",Blaine - Rachel - Cecile,00:21,AW,01/01/1981,B,,1,1,fyi
 "=HYPERLINK(""https://youtu.be/VcVmV762JUk"", ""Link"")",Cecile Cory Sizzles Bay City Promo,0:43,AW,01/01/1981,B,,1,1,fyi
-"=HYPERLINK(""https://youtu.be/QuHiBgNt9wM"", ""Link"")",Closing theme,2:25,AW,01/01/1981,B,,1,1,edynsanchez
+"=HYPERLINK(""https://youtu.be/QuHiBgNt9wM"", ""Link"")",Closing theme,2:25,AW,01/01/1981,B,,1,1,edwynsanchez
 "=HYPERLINK(""https://youtu.be/yHOtQQFQKT4"", ""Link"")",Promo,0:45,AW,1/1/1981,B,,1,1,chucksnitchler
 "=HYPERLINK(""https://youtu.be/tHRbGgglcpc"", ""Link"")",Episode,42:12,AW,2/13/1981,A,,1,1,jimmuneco
 "=HYPERLINK(""https://youtu.be/goJo0bjNM7I"", ""Link"")",Episode,42:29,AW,2/17/1981,A,,1,1,jimmuneco
@@ -228,7 +228,7 @@ id,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/2qETsA_D-3U"", ""Link"")",Episode,43:50,AW,01/06/1983,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/nSeuw1djQk8"", ""Link"")",Episode,44:04,AW,01/13/1983,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/MuYvaqEHSSQ"", ""Link"")",Eplisode,44:34,AW,01/26/1983,A,,1,1,edwynsanchez
-"=HYPERLINK(""https://youtu.be/YiSpDlACL2I"", ""Link"")",Episode,9:58,AW,2/1/1983,A,,1,1,eddiedrueding
+"=HYPERLINK(""https://youtu.be/YiSpDlACL2I"", ""Link"")",Episode content,9:58,AW,2/1/1983,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/eQAl0pBUpLk"", ""Link"")",Episode,43:40:00,AW,2/2/1983,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/ztWEUnBBE38"", ""Link"")",Episode,44:03:00,AW,2/11/1983,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/qx1QU7K3G18"", ""Link"")",Episode,44:11,AW,03/02/1983,A,,1,1,eddiedrueding
@@ -280,7 +280,7 @@ id,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/s08Sc4a8UQA"", ""Link"")",Episode,38:43:00,AW,9/7/1984,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/tQSAuQO9Ols"", ""Link"")",Episode,33:01,AW,09/13/1984,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/wUaYdbvDX8Y"", ""Link"")",Episode,42:40,AW,09/17/1984,A,,1,1,eddiedrueding
-"=HYPERLINK(""https://youtu.be/XSqJt8IKy7Y"", ""Link"")",Episode,17:53,AW,9/21/1984,A,,1,1,eddiedrueding
+"=HYPERLINK(""https://youtu.be/XSqJt8IKy7Y"", ""Link"")",Episode content,17:53,AW,9/21/1984,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/nisXLqH3HEY"", ""Link"")",Late September 1984,17:54,AW,09/30/1984,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/boi-eB70IH8"", ""Link"")",Episode,42:58:00,AW,10/3/1984,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/dTHEXgFKX5E"", ""Link"")","October 12 and 15, 1984 scenes",24:17,AW,10/12/1984,A,,1,1,eddiedrueding
@@ -334,8 +334,8 @@ id,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/1S93sxYVCzo"", ""Link"")",Episode,44:10:00,AW,4/16/1985,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/W7mveArxyOw"", ""Link"")",Episode,39:55:00,AW,4/19/1985,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/VXarQ91ZS5g"", ""Link"")",Episode,40:02:00,AW,4/22/1985,A,,1,1,eddiedrueding
-"=HYPERLINK(""https://youtu.be/BYvBrkPGVMA"", ""Link"")",Episode,6:45,AW,4/25/1985,A,,1,1,eddiedrueding
-"=HYPERLINK(""https://youtu.be/qPMQ8anDA9A"", ""Link"")",Episode,19:56,AW,4/26/1985,A,,1,1,eddiedrueding
+"=HYPERLINK(""https://youtu.be/BYvBrkPGVMA"", ""Link"")",Episode content,6:45,AW,4/25/1985,A,,1,1,eddiedrueding
+"=HYPERLINK(""https://youtu.be/qPMQ8anDA9A"", ""Link"")",Episode content,19:56,AW,4/26/1985,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/3LLnbcuMpSQ"", ""Link"")",Liberace,4:23,AW,05/01/1985,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/v61TtOZKBMs"", ""Link"")",Episode,43:05,AW,05/22/1985,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/FZcLRwebGuc"", ""Link"")",Episode,37:10:00,AW,5/28/1985,A,,1,1,eddiedrueding
@@ -357,7 +357,7 @@ id,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/re_tW6CnEvk"", ""Link"")",Clips,1:08,AW,8/22/1985,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/FSgXzcmm4U0"", ""Link"")",Episode,33:25:00,AW,8/23/1985,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/tNn5q5MOILE"", ""Link"")",Episode,22:36,AW,8/30/1985,A,,1,1,eddiedrueding
-"=HYPERLINK(""https://youtu.be/zcDNU6hXoXw"", ""Link"")",Episode,19:19,AW,9/3/1985,A,,1,1,eddiedrueding
+"=HYPERLINK(""https://youtu.be/zcDNU6hXoXw"", ""Link"")",Episode content,19:19,AW,9/3/1985,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/2eBpWupGluQ"", ""Link"")",Episode,41:06:00,AW,9/4/1985,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/XN_cpjhswJE"", ""Link"")",Eplisode clip,03:13,AW,10/09/1985,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/_saNqbG75fY"", ""Link"")",Episode,43:03,AW,10/14/1985,A,,1,1,eddiedrueding
@@ -382,7 +382,7 @@ id,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/N926vW5oUbQ"", ""Link"")",Patricia Clarkson Plays A Nun,3:25,AW,01/01/1986,A,,1,1,theystartedonsoaps
 "=HYPERLINK(""https://youtu.be/yj3yJolsk3c"", ""Link"")",Another World snippets,25:43,AW,1/1/1986,A,,1,1,chase4everchase
 "=HYPERLINK(""https://youtu.be/eUY8vyA9MDU"", ""Link"")",Episode clips,44:08:00,AW,1/10/1986,A,,1,1,eddiedrueding
-"=HYPERLINK(""https://youtu.be/LgLSEMO59EA"", ""Link"")",Episode,8:41,AW,1/20/1986,A,,1,1,eddiedrueding
+"=HYPERLINK(""https://youtu.be/LgLSEMO59EA"", ""Link"")",Episode content,8:41,AW,1/20/1986,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/B_AWv3n3fLM"", ""Link"")",Eplisode clip,17:01,AW,01/22/1986,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/hpZ24XUxLhU"", ""Link"")",Episode,36:46:00,AW,1/30/1986,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/dldGTK8pwYI"", ""Link"")",Episode,36:35:00,AW,1/31/1986,A,,1,1,eddiedrueding
@@ -547,7 +547,7 @@ id,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/xkJSavnMH4U"", ""Link"")",Clips,4:49,AW,11/27/1986,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/xTYrJBp23qQ"", ""Link"")",Thanksgiving,41:29,AW,11/27/1986,A,,1,1,chase4everchase
 "=HYPERLINK(""https://youtu.be/-DbMGF0eOa0"", ""Link"")",Thanksgiving,8:07,AW,11/27/1986,A,,1,1,veggieburgermeister
-"=HYPERLINK(""https://youtu.be/j86VQfJ3teU"", ""Link"")",Episode,22:04,AW,12/01/1986,A,,1,1,edynsanchez
+"=HYPERLINK(""https://youtu.be/j86VQfJ3teU"", ""Link"")",Episode,22:04,AW,12/01/1986,A,,1,1,edwynsanchez
 "=HYPERLINK(""https://youtu.be/glLqQNZozmg"", ""Link"")",Episode,42:56:00,AW,12/1/1986,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/zTmiU9onzjs"", ""Link"")",Episode,42:47:00,AW,12/2/1986,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/3lj23CzsJTE"", ""Link"")",Clips,11:07,AW,12/3/1986,A,,1,1,eddiedrueding
@@ -670,15 +670,15 @@ id,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/X556Rm_WMpY"", ""Link"")",Episode,42:13:00,AW,5/6/1987,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/Gy7GcGeSBSQ"", ""Link"")",Episode,42:13:00,AW,5/7/1987,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/W7tStBJBJB4"", ""Link"")",Episode,42:16:00,AW,5/8/1987,A,,1,1,eddiedrueding
-"=HYPERLINK(""https://youtu.be/94n8WUqY24k"", ""Link"")",Episode,12:08,AW,5/11/1987,A,,1,1,eddiedrueding
-"=HYPERLINK(""https://youtu.be/AXuLrJWYu5U"", ""Link"")",Episode,15:18,AW,5/12/1987,A,,1,1,eddiedrueding
+"=HYPERLINK(""https://youtu.be/94n8WUqY24k"", ""Link"")",Episode content,12:08,AW,5/11/1987,A,,1,1,eddiedrueding
+"=HYPERLINK(""https://youtu.be/AXuLrJWYu5U"", ""Link"")",Episode content,15:18,AW,5/12/1987,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/Mgk9wlxMnt0"", ""Link"")",Episode,42:51:00,AW,5/13/1987,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/rPlQspIvNCY"", ""Link"")",Episode,42:22:00,AW,5/14/1987,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/NCeGz4TeZ2o"", ""Link"")",Episode,42:02:00,AW,5/15/1987,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/6lqcod2M0gI"", ""Link"")",Episode,42:12:00,AW,5/18/1987,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/eKfqu1jAbhM"", ""Link"")",Episode,42:17:00,AW,5/19/1987,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/1W0uhxxD8EU"", ""Link"")",Episode,37:37:00,AW,5/20/1987,A,,1,1,eddiedrueding
-"=HYPERLINK(""https://youtu.be/SacO5hgMOYc"", ""Link"")",Episode,14:49,AW,5/21/1987,A,,1,1,eddiedrueding
+"=HYPERLINK(""https://youtu.be/SacO5hgMOYc"", ""Link"")",Episode content,14:49,AW,5/21/1987,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/Lb3UPSP5mkU"", ""Link"")",Episode,42:13:00,AW,5/22/1987,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/5iShz2Xp-yo"", ""Link"")",Episode,42:34:00,AW,5/25/1987,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/6nJqhC3eKsc"", ""Link"")",Episode,43:04,AW,05/26/1987,A,,1,1,eddiedrueding
@@ -697,11 +697,11 @@ id,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/bAAA7t2PRno"", ""Link"")",Episode clips,38:02,AW,06/08/1987,A,,1,1,chase4everchase
 "=HYPERLINK(""https://youtu.be/unGiWUkdul0"", ""Link"")",Episode,42:25,AW,06/09/1987,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/NTQEEt3BNIQ"", ""Link"")",Episode,30:48:00,AW,6/12/1987,A,,1,1,eddiedrueding
-"=HYPERLINK(""https://youtu.be/goCgqvJu0i8"", ""Link"")",Episode,12:47,AW,6/15/1987,A,,1,1,eddiedrueding
-"=HYPERLINK(""https://youtu.be/hpK4_SPvyVU"", ""Link"")",Episode,10:34,AW,6/16/1987,A,,1,1,eddiedrueding
+"=HYPERLINK(""https://youtu.be/goCgqvJu0i8"", ""Link"")",Episode content,12:47,AW,6/15/1987,A,,1,1,eddiedrueding
+"=HYPERLINK(""https://youtu.be/hpK4_SPvyVU"", ""Link"")",Episode content,10:34,AW,6/16/1987,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/R8at_apZq0Q"", ""Link"")",Episode,26:42:00,AW,6/17/1987,A,,1,1,eddiedrueding
-"=HYPERLINK(""https://youtu.be/9A41Ia5sH2I"", ""Link"")",Episode,17:59,AW,6/18/1987,A,,1,1,eddiedrueding
-"=HYPERLINK(""https://youtu.be/Qx5bckhtRZI"", ""Link"")",Episode,16:14,AW,6/19/1987,A,,1,1,eddiedrueding
+"=HYPERLINK(""https://youtu.be/9A41Ia5sH2I"", ""Link"")",Episode content,17:59,AW,6/18/1987,A,,1,1,eddiedrueding
+"=HYPERLINK(""https://youtu.be/Qx5bckhtRZI"", ""Link"")",Episode content,16:14,AW,6/19/1987,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/DqlZV27xsgM"", ""Link"")",Episode,42:04,AW,06/22/1987,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/SobrewlRcG4"", ""Link"")",Episode,42:05:00,AW,6/22/1987,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/55uIEvTocbk"", ""Link"")",Episode,42:33,AW,06/23/1987,A,,1,1,eddiedrueding
@@ -833,7 +833,7 @@ id,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/Q1cMvQlW4RE"", ""Link"")",Episode,59:53:00,AW,12/30/1987,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/7R-eHfxovvc"", ""Link"")",Episode,1:00:38,AW,12/31/1987,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/f5T4ZsNKAVs"", ""Link"")",Closing credits,01:10,AW,01/01/1988,B,,1,1,disabled1955
-"=HYPERLINK(""https://youtu.be/ASHNkJ3Y0Ew"", ""Link"")",Episode,1:21,AW,01/01/1988,A,,1,1,disabled1955
+"=HYPERLINK(""https://youtu.be/ASHNkJ3Y0Ew"", ""Link"")",Episode content,1:21,AW,01/01/1988,A,,1,1,disabled1955
 "=HYPERLINK(""https://youtu.be/AkHJkA52ndM"", ""Link"")",Closing credits,1:27,AW,01/01/1988,B,,1,1,disabled1955
 "=HYPERLINK(""https://youtu.be/HPLTWvEW9oI"", ""Link"")",God Bless The USA,2:54,AW,01/01/1988,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/JiPjPPRI3_s"", ""Link"")",You Are My Friend,02:37,AW,01/01/1988,A,,1,1,eddiedrueding

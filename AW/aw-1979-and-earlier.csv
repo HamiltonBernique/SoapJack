@@ -1,13 +1,13 @@
-id,title,duration,soap,date,category,parentid,part,total,channel
+link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/lvIEqqZuxP4"", ""Link"")",Episodes (and November),31:42:00,AW,5/22/1964,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/5dpJC2htVtk"", ""Link"")",Promos,1:45,AW,01/12/1965,B,,1,1,robwargo
 "=HYPERLINK(""https://youtu.be/YCfZjKVQC4M"", ""Link"")",Ann Wedgworth on Another World,16:32,AW,12/22/1967,A,,1,1,annwedgeworthfangroup
 "=HYPERLINK(""https://youtu.be/S_j-rT9i1OU"", ""Link"")",Episode,56:45,AW,07/01/1968,A,,1,1,edwynsanchez
 "=HYPERLINK(""https://youtu.be/s6x-WjX-HhE"", ""Link"")",5 Faces of Alice Matthews Frame - Jacqueline Courtney,17:51,AW,01/01/1973,A,,1,1,fyi
-"=HYPERLINK(""https://youtu.be/vI9Isy4Itmg"", ""Link"")",Closing theme,1:21,AW,01/01/1973,B,,1,1,edynsanchez
+"=HYPERLINK(""https://youtu.be/vI9Isy4Itmg"", ""Link"")",Closing theme,1:21,AW,01/01/1973,B,,1,1,edwynsanchez
 "=HYPERLINK(""https://youtu.be/eDWjIxFmMpg"", ""Link"")",Episode segments,21:03,AW,10/08/1973,A,,1,1,edwynsanchez
 "=HYPERLINK(""https://youtu.be/BZ9asGDjNxk"", ""Link"")",5 Faces of Alice Matthews Frame - Susan Harney,14:17,AW,01/01/1975,A,,1,1,fyi
-"=HYPERLINK(""https://youtu.be/chw5Kv8a-wc"", ""Link"")",Closing theme,1:45,AW,01/01/1975,B,,1,1,edynsanchez
+"=HYPERLINK(""https://youtu.be/chw5Kv8a-wc"", ""Link"")",Closing theme,1:45,AW,01/01/1975,B,,1,1,edwynsanchez
 "=HYPERLINK(""https://youtu.be/tOv4iw0wtoA"", ""Link"")",Jul 22 - Aug 15 - Nov 26 1975,01:28:49,AW,07/22/1975,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/uWI79TsaXLs"", ""Link"")",Episodes,53:11,AW,10/08/1975,A,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/enH2OJOY62A"", ""Link"")",Episodes,1:51:12,AW,5/26/1976,A,,1,1,eddiedrueding
