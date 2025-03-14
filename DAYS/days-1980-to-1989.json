@@ -204,15 +204,51 @@
         "channel": "fyi"
     },
     {
-        "id": "0enOVNxfMlQ",
+        "id": "9P1Fm_LLcLQ",
         "parentid": "",
         "soap": "DAYS",
         "category": "A",
-        "title": "Episode",
-        "date": "03/05/1984",
+        "title": "",
+        "date": "03/06/1984",
         "part": "1",
         "total": "1",
-        "duration": "41:55",
+        "duration": "42:38",
+        "channel": "classicsoapoperas"
+    },
+    {
+        "id": "IQjy9K8FlKs",
+        "parentid": "",
+        "soap": "DAYS",
+        "category": "A",
+        "title": "",
+        "date": "03/07/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:08",
+        "channel": "classicsoapoperas"
+    },
+    {
+        "id": "K4bgOmcypyA",
+        "parentid": "",
+        "soap": "DAYS",
+        "category": "A",
+        "title": "",
+        "date": "03/08/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "43:07",
+        "channel": "classicsoapoperas"
+    },
+    {
+        "id": "gPp9ZC3gqxA",
+        "parentid": "",
+        "soap": "DAYS",
+        "category": "A",
+        "title": "",
+        "date": "03/09/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "44:20",
         "channel": "classicsoapoperas"
     },
     {

@@ -1,4 +1,4 @@
-id,title,duration,soap,date,category,parentid,part,total,channel
+link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/V_4mjbOBB98"", ""Link"")",Episode,22:13,DAYS,11/08/1965,A,,1,1,classicsoapoperas
 "=HYPERLINK(""https://youtu.be/-czRQ16JA_A"", ""Link"")",Episode,21:06,DAYS,11/09/1965,A,,1,1,classicsoapoperas
 "=HYPERLINK(""https://youtu.be/AFywcCz4B_4"", ""Link"")",Promo,0:57,DAYS,01/01/1974,B,,1,1,robwargo
