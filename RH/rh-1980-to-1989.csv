@@ -1,4 +1,8 @@
 link,title,duration,soap,date,category,parentid,part,total,channel
+"=HYPERLINK(""https://youtu.be/WQWOHijhg_w"", ""Link"")",Lance Henriksen,2:45,RH,01/01/1980,A,,1,1,theystartedonsoaps
+"=HYPERLINK(""https://youtu.be/Drb5S3-dgCQ"", ""Link"")",Oscar Winner Joan Fontaine,12:58,RH,01/01/1980,A,,1,1,theystartedonsoaps
+"=HYPERLINK(""https://youtu.be/kSV47eQ5nU0"", ""Link"")",Maxwell Caulfield,3:53,RH,01/01/1980,A,,1,1,theystartedonsoaps
+"=HYPERLINK(""https://youtu.be/bcPbmf7RTIQ"", ""Link"")",Promo - Ryan's Hope Enters The 1980s,0:37,RH,1/1/1980,B,,1,1,fyi
 "=HYPERLINK(""https://youtu.be/GZot9_guJHo"", ""Link"")",Opening,0:31,RH,02/29/1980,B,,1,1,ryanshope
 "=HYPERLINK(""https://youtu.be/N258N1DQlGg"", ""Link"")",Opening,0:31,RH,03/03/1980,B,,1,1,ryanshope
 "=HYPERLINK(""https://youtu.be/9TXjywtkHuo"", ""Link"")",Morgan Freeman,3:12,RH,01/01/1981,A,,1,1,theystartedonsoaps
