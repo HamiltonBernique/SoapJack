@@ -1,7 +1,8 @@
 link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/cJX8pe2rTqU"", ""Link"")",Hawkins Falls,13:55,HFLS,10/21/1950,A,,1,1,classicsoapoperas
-"=HYPERLINK(""https://youtu.be/LiMnsUdyeN8"", ""Link"")",Episode,14:39,HFLS,05/01/1951,A,,1,1,tvdays
-"=HYPERLINK(""https://youtu.be/kfPT-AO1C5k"", ""Link"")",Episode,14:37,HFLS,05/04/1953,A,,1,1,ugabrownmediaarchives
-"=HYPERLINK(""https://youtu.be/9PBcshj3SsI"", ""Link"")",Episode,12:56,HFLS,10/23/1953,A,,1,1,classicsoapoperas
-"=HYPERLINK(""https://youtu.be/wXuN7nSjSr4"", ""Link"")",Episode,12:30,HFLS,03/01/1955,A,,1,1,theatercorner
-"=HYPERLINK(""https://youtu.be/TJIKkHoP_rM"", ""Link"")",Episode,12:31,HFLS,04/04/1955,A,,1,1,tvdays
+"=HYPERLINK(""https://youtu.be/LiMnsUdyeN8"", ""Link"")",Episode content,14:39,HFLS,05/01/1951,A,,1,1,tvdays
+"=HYPERLINK(""https://youtu.be/kfPT-AO1C5k"", ""Link"")",Episode content,14:37,HFLS,05/04/1953,A,,1,1,ugabrownmediaarchives
+"=HYPERLINK(""https://youtu.be/9PBcshj3SsI"", ""Link"")",Episode content,12:56,HFLS,10/23/1953,A,,1,1,classicsoapoperas
+"=HYPERLINK(""https://youtu.be/wXuN7nSjSr4"", ""Link"")",Episode content,12:30,HFLS,03/01/1955,A,,1,1,theatercorner
+"=HYPERLINK(""https://youtu.be/wmPnP-h24VU"", ""Link"")",Episode content,12:32,HFLS,04/01/1955,A,,1,1,classicsoapoperas
+"=HYPERLINK(""https://youtu.be/TJIKkHoP_rM"", ""Link"")",Episode content,12:31,HFLS,04/04/1955,A,,1,1,tvdays
