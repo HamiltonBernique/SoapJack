@@ -1,4 +1,6 @@
 link,title,duration,soap,date,category,parentid,part,total,channel
+"=HYPERLINK(""https://youtu.be/k9OufFIs64E"", ""Link"")",A Daytime to Remember,9:31,AMC,01/01/1980,A,P_b039167a,1,2,donna515
+"=HYPERLINK(""https://youtu.be/10-OdGxoMfI"", ""Link"")",A Daytime to Remember,9:28,AMC,01/01/1980,A,P_b039167a,2,2,donna515
 "=HYPERLINK(""https://youtu.be/37vI7QqNwv8"", ""Link"")",Episode,56:38,AMC,02/15/1980,A,,1,1,erichenwood-greer
 "=HYPERLINK(""https://youtu.be/Z9QfLGyXFMI"", ""Link"")",Episode,55:08,AMC,02/18/1980,A,,1,1,erichenwood-greer
 "=HYPERLINK(""https://youtu.be/I5FEjKlDwxM"", ""Link"")",Episode,45:36,AMC,02/19/1980,A,,1,1,erichenwood-greer

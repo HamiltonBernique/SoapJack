@@ -1,4 +1,19 @@
 link,title,duration,soap,date,category,parentid,part,total,channel
+"=HYPERLINK(""https://youtu.be/W1XVGPRsftI"", ""Link"")",Time and Tide,07:56,AMC,01/01/2010,A,,1,1,amcthroughtheyears
+"=HYPERLINK(""https://youtu.be/DLoXVIBR1oU"", ""Link"")",Annie Grows More Insecure,07:38,AMC,01/01/2010,A,,1,1,jackieo1600
+"=HYPERLINK(""https://youtu.be/GPTed4CqH3w"", ""Link"")",Mona's Funeral,10:28,AMC,01/01/2010,A,P_2c1d0f74,1,6,ackgh73994
+"=HYPERLINK(""https://youtu.be/yx32o9XBjxo"", ""Link"")",Mona's Funeral,07:34,AMC,01/01/2010,A,P_2c1d0f74,2,6,ackgh73994
+"=HYPERLINK(""https://youtu.be/YaVbiahXoAA"", ""Link"")",Mona's Funeral,10:32,AMC,01/01/2010,A,P_2c1d0f74,3,6,ackgh73994
+"=HYPERLINK(""https://youtu.be/tW7-qGByUh4"", ""Link"")",Mona's Funeral,8:16,AMC,01/01/2010,A,P_2c1d0f74,4,6,ackgh73994
+"=HYPERLINK(""https://youtu.be/2QGwuSmHNb8"", ""Link"")",Mona's Funeral,09:50,AMC,01/01/2010,A,P_2c1d0f74,5,6,ackgh73994
+"=HYPERLINK(""https://youtu.be/IGAGeUWyPJA"", ""Link"")",Mona's Funeral,08:03,AMC,01/01/2010,A,P_2c1d0f74,6,6,ackgh73994
+"=HYPERLINK(""https://youtu.be/BuWaYxd5MVI"", ""Link"")",Brooke and Adam - Reunion,21:46,AMC,01/01/2010,A,P_65eae92c,1,6,amcthroughtheyears
+"=HYPERLINK(""https://youtu.be/fXCEmlQdu4Y"", ""Link"")",Brooke and Adam - Reunion,01:02:44,AMC,01/01/2010,A,P_65eae92c,2,6,amcthroughtheyears
+"=HYPERLINK(""https://youtu.be/Cu04iZ7zRBE"", ""Link"")",Brooke and Adam - Reunion,50:08,AMC,01/01/2010,A,P_65eae92c,3,6,amcthroughtheyears
+"=HYPERLINK(""https://youtu.be/siSZAFYRXNg"", ""Link"")",Brooke and Adam - Reunion,56:22,AMC,01/01/2010,A,P_65eae92c,4,6,amcthroughtheyears
+"=HYPERLINK(""https://youtu.be/z7So4HiCN0E"", ""Link"")",Brooke and Adam - Reunion,54:15,AMC,01/01/2010,A,P_65eae92c,5,6,amcthroughtheyears
+"=HYPERLINK(""https://youtu.be/Q2TjryPQptE"", ""Link"")",Brooke and Adam - Reunion,52:10,AMC,01/01/2010,A,P_65eae92c,6,6,amcthroughtheyears
+"=HYPERLINK(""https://youtu.be/okaNvYMuZ_I"", ""Link"")",Brooke and Adam - Reunion,52:10,AMC,01/01/2010,A,P_65eae92c,7,7,amcthroughtheyears
 "=HYPERLINK(""https://youtu.be/JKrnLxbS5nE"", ""Link"")",40th Anniversary,9:47,AMC,01/05/2010,A,P_9cb88c10,1,4,ackgh73994
 "=HYPERLINK(""https://youtu.be/0F5sayS4Peg"", ""Link"")",40th Anniversary,07:56,AMC,01/05/2010,A,P_9cb88c10,2,4,ackgh73994
 "=HYPERLINK(""https://youtu.be/dJXe86Y9BjE"", ""Link"")",40th Anniversary,09:59,AMC,01/05/2010,A,P_9cb88c10,3,4,ackgh73994
