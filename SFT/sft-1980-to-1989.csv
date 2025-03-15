@@ -1,4 +1,7 @@
 link,title,duration,soap,date,category,parentid,part,total,channel
+"=HYPERLINK(""https://youtu.be/Dp-em0WR0b8"", ""Link"")",Opening Theme,00:31,SFT,01/01/1980,B,,1,1,garrett
+"=HYPERLINK(""https://youtu.be/xJAHRZE-5fQ"", ""Link"")",Promo - Travis Searches For Kidnapped Liza,0:20,SFT,1/1/1980,B,,1,1,fyi
+"=HYPERLINK(""https://youtu.be/kLMG6NJMMZE"", ""Link"")",Promo - Stephanie Wyatt,0:21,SFT,1/1/1980,B,,1,1,fyi
 "=HYPERLINK(""https://youtu.be/VdtfqYucw5I"", ""Link"")",Ellen Barkin,00:15,SFT,01/01/1981,A,,1,1,theystartedonsoaps
 "=HYPERLINK(""https://youtu.be/GQyU6N5CkkQ"", ""Link"")",Closing,1:00,SFT,01/01/1981,B,,1,1,chucksnitchler
 "=HYPERLINK(""https://youtu.be/-Cw2K1qQMfs"", ""Link"")",Wayne Tippet (Ted Adamson) Promo,00:22,SFT,01/01/1981,B,,1,1,fyi
