@@ -1,5 +1,77 @@
 [
     {
+        "id": "FPvcFDva6Yo",
+        "parentid": "",
+        "soap": "AW",
+        "category": "A",
+        "title": "Outdoors - The 1980s",
+        "date": "01/01/1980",
+        "part": "1",
+        "total": "1",
+        "duration": "03:57",
+        "channel": "eddiedrueding"
+    },
+    {
+        "id": "_2qeVfnwbnE",
+        "parentid": "",
+        "soap": "AW",
+        "category": "B",
+        "title": "Promos - 1980s and 1990s",
+        "date": "01/01/1980",
+        "part": "1",
+        "total": "1",
+        "duration": "07:20",
+        "channel": "eddiedrueding"
+    },
+    {
+        "id": "FYkzQSn-4oQ",
+        "parentid": "P_31e633c0",
+        "soap": "AW",
+        "category": "A",
+        "title": "January 1980",
+        "date": "01/01/1980",
+        "part": "1",
+        "total": "4",
+        "duration": "13:33",
+        "channel": "eddiedrueding"
+    },
+    {
+        "id": "uOZyDXdCwvw",
+        "parentid": "P_31e633c0",
+        "soap": "AW",
+        "category": "A",
+        "title": "January 1980",
+        "date": "01/01/1980",
+        "part": "2",
+        "total": "4",
+        "duration": "6:30",
+        "channel": "eddiedrueding"
+    },
+    {
+        "id": "vjpGcXf--ag",
+        "parentid": "P_31e633c0",
+        "soap": "AW",
+        "category": "A",
+        "title": "January 1980",
+        "date": "01/01/1980",
+        "part": "3",
+        "total": "4",
+        "duration": "05:02",
+        "channel": "eddiedrueding"
+    },
+    {
+        "id": "-UYt947Tq3k",
+        "parentid": "P_31e633c0",
+        "soap": "AW",
+        "category": "A",
+        "title": "January 1980",
+        "date": "01/01/1980",
+        "part": "4",
+        "total": "4",
+        "duration": "13:17",
+        "channel": "eddiedrueding"
+    },
+    {
         "id": "tGyWa59g9Qk",
         "parentid": "P_5528a708",
         "soap": "AW",

@@ -1,4 +1,10 @@
 link,title,duration,soap,date,category,parentid,part,total,channel
+"=HYPERLINK(""https://youtu.be/FPvcFDva6Yo"", ""Link"")",Outdoors - The 1980s,03:57,AW,01/01/1980,A,,1,1,eddiedrueding
+"=HYPERLINK(""https://youtu.be/_2qeVfnwbnE"", ""Link"")",Promos - 1980s and 1990s,07:20,AW,01/01/1980,B,,1,1,eddiedrueding
+"=HYPERLINK(""https://youtu.be/FYkzQSn-4oQ"", ""Link"")",January 1980,13:33,AW,01/01/1980,A,P_31e633c0,1,4,eddiedrueding
+"=HYPERLINK(""https://youtu.be/uOZyDXdCwvw"", ""Link"")",January 1980,6:30,AW,01/01/1980,A,P_31e633c0,2,4,eddiedrueding
+"=HYPERLINK(""https://youtu.be/vjpGcXf--ag"", ""Link"")",January 1980,05:02,AW,01/01/1980,A,P_31e633c0,3,4,eddiedrueding
+"=HYPERLINK(""https://youtu.be/-UYt947Tq3k"", ""Link"")",January 1980,13:17,AW,01/01/1980,A,P_31e633c0,4,4,eddiedrueding
 "=HYPERLINK(""https://youtu.be/tGyWa59g9Qk"", ""Link"")",March 1980,18:18,AW,03/01/1980,A,P_5528a708,1,4,eddiedrueding
 "=HYPERLINK(""https://youtu.be/nErBv7oBi-4"", ""Link"")",March 1980,24:31,AW,03/01/1980,A,P_5528a708,2,4,eddiedrueding
 "=HYPERLINK(""https://youtu.be/t6JcI8n2n8g"", ""Link"")",March 1980,46:34,AW,03/01/1980,A,P_5528a708,3,4,eddiedrueding
