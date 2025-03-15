@@ -1,4 +1,6 @@
 link,title,duration,soap,date,category,parentid,part,total,channel
+"=HYPERLINK(""https://youtu.be/wwdoWasYYb0"", ""Link"")",Emmy Promo for Julia Barr,00:31,EMMY,01/01/1990,C,,1,1,amcthroughtheyears
+"=HYPERLINK(""https://youtu.be/WZYZ98OYFKM"", ""Link"")",17th Daytime Emmy Awards,15:56,EMMY,01/01/1990,C,,1,1,amcthroughtheyears
 "=HYPERLINK(""https://youtu.be/4ZI2jf8wpWI"", ""Link"")",A Martinez - Santa Barbara Daytime Emmy Reel,31:28,EMMY,6/1/1990,C,,1,1,fyi
 "=HYPERLINK(""https://youtu.be/66DI3gSUhzE"", ""Link"")",Cady McClain Daytime Emmy Reel,25:10,EMMY,06/28/1990,C,,1,1,fyi
 "=HYPERLINK(""https://youtu.be/7Ipvo-VczJg"", ""Link"")",Kim Zimmer Daytime Emmy Reel,26:54,EMMY,06/28/1990,C,,1,1,fyi
