@@ -4,7 +4,7 @@
         "parentid": "",
         "soap": "LL",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "01/01/1953",
         "part": "1",
         "total": "1",
@@ -16,7 +16,7 @@
         "parentid": "",
         "soap": "LL",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "01/01/1953",
         "part": "1",
         "total": "1",
@@ -28,7 +28,7 @@
         "parentid": "",
         "soap": "LL",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "01/01/1953",
         "part": "1",
         "total": "1",
@@ -52,12 +52,24 @@
         "parentid": "",
         "soap": "LL",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "01/15/1953",
         "part": "1",
         "total": "1",
         "duration": "13:52",
         "channel": "disabled1955"
+    },
+    {
+        "id": "eoUTJCJtyoU",
+        "parentid": "",
+        "soap": "LL",
+        "category": "A",
+        "title": "Episode content",
+        "date": "01/15/1953",
+        "part": "1",
+        "total": "1",
+        "duration": "13:52",
+        "channel": "classicsoapoperas"
     },
     {
         "id": "oedw4JKEXU0",
@@ -76,7 +88,7 @@
         "parentid": "",
         "soap": "LL",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "03/20/1953",
         "part": "1",
         "total": "1",
@@ -88,7 +100,7 @@
         "parentid": "",
         "soap": "LL",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "05/20/1953",
         "part": "1",
         "total": "1",
@@ -100,7 +112,7 @@
         "parentid": "",
         "soap": "LL",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "05/22/1953",
         "part": "1",
         "total": "1",
@@ -117,14 +129,14 @@
         "part": "1",
         "total": "1",
         "duration": "4:30",
-        "channel": "thez58"
+        "channel": "charlespearson"
     },
     {
         "id": "jMOYEOunOlI",
         "parentid": "",
         "soap": "LL",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "02/08/1955",
         "part": "1",
         "total": "1",
@@ -136,7 +148,7 @@
         "parentid": "",
         "soap": "LL",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "12/22/1955",
         "part": "1",
         "total": "1",
@@ -172,7 +184,7 @@
         "parentid": "",
         "soap": "LL",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "01/01/1962",
         "part": "1",
         "total": "1",
@@ -189,7 +201,7 @@
         "part": "1",
         "total": "1",
         "duration": "1:45",
-        "channel": "edynsanchez"
+        "channel": "edwynsanchez"
     },
     {
         "id": "1vSHIxq_5XY",
@@ -201,7 +213,7 @@
         "part": "1",
         "total": "1",
         "duration": "20:31",
-        "channel": "thechandlerhh"
+        "channel": "chandlerharben"
     },
     {
         "id": "_jhO0SzJ_mM",
@@ -213,43 +225,43 @@
         "part": "1",
         "total": "1",
         "duration": "30:05",
-        "channel": "thechandlerhh"
+        "channel": "chandlerharben"
     },
     {
         "id": "TVEHk2E3RD8",
         "parentid": "",
         "soap": "LL",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "01/01/1975",
         "part": "1",
         "total": "1",
         "duration": "13:20",
-        "channel": "thechandlerhh"
+        "channel": "chandlerharben"
     },
     {
         "id": "dXwS9wVlm-g",
         "parentid": "",
         "soap": "LL",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "01/01/1975",
         "part": "1",
         "total": "1",
         "duration": "02:10",
-        "channel": "thechandlerhh"
+        "channel": "chandlerharben"
     },
     {
         "id": "eQJdxPM2P1w",
         "parentid": "",
         "soap": "LL",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "01/01/1975",
         "part": "1",
         "total": "1",
         "duration": "02:16",
-        "channel": "thechandlerhh"
+        "channel": "chandlerharben"
     },
     {
         "id": "s2adKP0sdg0",
@@ -297,14 +309,14 @@
         "part": "1",
         "total": "1",
         "duration": "30:14",
-        "channel": "thechandlerhh"
+        "channel": "chandlerharben"
     },
     {
         "id": "OFjwKrzKdtI",
         "parentid": "P_9d43bce0",
         "soap": "LL",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "10/15/1982",
         "part": "2",
         "total": "2",
