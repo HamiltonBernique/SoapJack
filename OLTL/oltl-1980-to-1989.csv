@@ -1,4 +1,5 @@
 link,title,duration,soap,date,category,parentid,part,total,channel
+"=HYPERLINK(""https://youtu.be/FGRZrQiNn4k"", ""Link"")",Ted Clayton Is Tina's Father,43:20,OLTL,01/01/1980,A,,1,1,vickrobcal
 "=HYPERLINK(""https://youtu.be/p0Uiknmeg7g"", ""Link"")",Episode,41:00,OLTL,2/18/1980,A,,1,1,jimmuneco
 "=HYPERLINK(""https://youtu.be/SQdy4lr8xEc"", ""Link"")","Viki, Clint, and Joe",01:00,OLTL,01/01/1981,A,,1,1,ackgh73994
 "=HYPERLINK(""https://youtu.be/BBZks9iNhG8"", ""Link"")",Asa Arrives in Llandview,1:54,OLTL,01/01/1981,A,,1,1,abcsoaptv

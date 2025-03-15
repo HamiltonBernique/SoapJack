@@ -1,4 +1,7 @@
 link,title,duration,soap,date,category,parentid,part,total,channel
+"=HYPERLINK(""https://youtu.be/rYH1aq9dzzI"", ""Link"")",2010: OLTL Closing,1:39,OLTL,01/01/2010,B,,1,1,disabled1955
+"=HYPERLINK(""https://youtu.be/mS3jjRlvzl4"", ""Link"")",Carolyn McCormick on One Life To Live,00:34,OLTL,01/01/2010,A,,1,1,theystartedonsoaps
+"=HYPERLINK(""https://youtu.be/TDMR_PIUWOI"", ""Link"")",Ariana DeBose on One Life To Live,02:20,OLTL,01/01/2010,A,,1,1,theystartedonsoaps
 "=HYPERLINK(""https://youtu.be/IdqzefZBa8A"", ""Link"")",Episode,31:21,OLTL,01/22/2010,A,,1,1,ryanshope
 "=HYPERLINK(""https://youtu.be/4m7eGEu4mfg"", ""Link"")",Episode,36:30:00,OLTL,06/07/2010,A,,1,1,edwynsanchez
 "=HYPERLINK(""https://youtu.be/03S_kBCwMj0"", ""Link"")",Opening Credits-A(Updated),0:31,OLTL,12/06/2010,B,,1,1,carmaker1
