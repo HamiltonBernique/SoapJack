@@ -1,5 +1,4 @@
 link,title,duration,soap,date,category,parentid,part,total,channel
-"=HYPERLINK(""https://youtu.be/G9_QFqGv3W8"", ""Link"")","Mona, Nick, and Erica",00:48,AMC,01/01/1970,A,,1,1,ackgh73994
 "=HYPERLINK(""https://youtu.be/AqQORDkqTGk"", ""Link"")",Promo,00:30,AMC,05/28/1970,B,,1,1,retronewfoundland
 "=HYPERLINK(""https://youtu.be/MHkeMCDR8mg"", ""Link"")",I Love Lucci,07:15,AMC,06/01/1970,A,P_f834ae95,1,3,donna515
 "=HYPERLINK(""https://youtu.be/Yu_Wn-JgNwo"", ""Link"")",I Love Lucci,07:09,AMC,06/01/1970,A,P_f834ae95,2,3,donna515
@@ -16,6 +15,7 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/ljCr3I3-OxU"", ""Link"")",Julie Benz,2:27,AMC,01/01/1976,A,,1,1,theystartedonsoaps
 "=HYPERLINK(""https://youtu.be/Y_HFQw-gUPM"", ""Link"")",Closing theme,2:16,AMC,01/01/1976,B,,1,1,edwynsanchez
 "=HYPERLINK(""https://youtu.be/B61b5nsisdw"", ""Link"")",Constance McCashin On All My Children,00:14,AMC,01/01/1977,A,,1,1,theystartedonsoaps
+"=HYPERLINK(""https://youtu.be/G9_QFqGv3W8"", ""Link"")","Mona, Nick, and Erica",00:48,AMC,01/01/1978,A,,1,1,ackgh73994
 "=HYPERLINK(""https://youtu.be/8jo5MSNJHhI"", ""Link"")",Joe and Tara,00:46,AMC,08/30/1978,A,,1,1,ackgh73994
 "=HYPERLINK(""https://youtu.be/3trPoYzF_ng"", ""Link"")",Erica and Tom's Wedding,09:59,AMC,09/06/1978,A,P_fa34a921,1,5,carmaker1
 "=HYPERLINK(""https://youtu.be/dYapA5AQvZA"", ""Link"")",Erica and Tom's Wedding,10:01,AMC,09/06/1978,A,P_fa34a921,2,5,carmaker1
