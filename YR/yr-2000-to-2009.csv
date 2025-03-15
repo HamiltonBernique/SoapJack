@@ -1,4 +1,4 @@
-id,title,duration,soap,date,category,parentid,part,total,channel
+link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/3PQePXpidlc"", ""Link"")",Promo,0:21,YR,03/01/2000,B,,1,1,guidinglightepisodes
 "=HYPERLINK(""https://youtu.be/1qgjYvEDkZA"", ""Link"")",Victoria slaps Victor,00:57,YR,01/01/2001,A,,1,1,bartko
 "=HYPERLINK(""https://youtu.be/yhkkUqGeGiE"", ""Link"")",Promo,0:21,YR,01/01/2003,B,,1,1,disabled1955
