@@ -1,5 +1,41 @@
 [
     {
+        "id": "torz_CwzaTM",
+        "parentid": "",
+        "soap": "YR",
+        "category": "B",
+        "title": "Opening Theme",
+        "date": "01/01/1980",
+        "part": "1",
+        "total": "1",
+        "duration": "00:33",
+        "channel": "garrett"
+    },
+    {
+        "id": "wqQ_VkU4H_E",
+        "parentid": "",
+        "soap": "YR",
+        "category": "B",
+        "title": "Promo - When Nikki Got Mixed Up w/ Rose DeVille",
+        "date": "1/1/1980",
+        "part": "1",
+        "total": "1",
+        "duration": "0:13",
+        "channel": "fyi"
+    },
+    {
+        "id": "18N9XxQL3tM",
+        "parentid": "",
+        "soap": "YR",
+        "category": "B",
+        "title": "Promo - Lorie refuses to give up custody of Brooks",
+        "date": "1/1/1980",
+        "part": "1",
+        "total": "1",
+        "duration": "0:21",
+        "channel": "fyi"
+    },
+    {
         "id": "rvr9GYNEdLw",
         "parentid": "",
         "soap": "YR",

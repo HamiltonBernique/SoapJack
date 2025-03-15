@@ -1,4 +1,7 @@
 link,title,duration,soap,date,category,parentid,part,total,channel
+"=HYPERLINK(""https://youtu.be/torz_CwzaTM"", ""Link"")",Opening Theme,00:33,YR,01/01/1980,B,,1,1,garrett
+"=HYPERLINK(""https://youtu.be/wqQ_VkU4H_E"", ""Link"")",Promo - When Nikki Got Mixed Up w/ Rose DeVille,0:13,YR,1/1/1980,B,,1,1,fyi
+"=HYPERLINK(""https://youtu.be/18N9XxQL3tM"", ""Link"")",Promo - Lorie refuses to give up custody of Brooks,0:21,YR,1/1/1980,B,,1,1,fyi
 "=HYPERLINK(""https://youtu.be/rvr9GYNEdLw"", ""Link"")",Brenda Dickson Four Promos,01:21,YR,01/01/1984,B,,1,1,fyi
 "=HYPERLINK(""https://youtu.be/WS0M_Nh89Ps"", ""Link"")",Closing credits,1:37,YR,1/1/1984,B,,1,1,fyi
 "=HYPERLINK(""https://youtu.be/FCQwXlJ3vts"", ""Link"")",The Young and The Restless,1:43,YR,04/13/1984,A,,1,1,edwynsanchez
