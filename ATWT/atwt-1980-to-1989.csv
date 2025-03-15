@@ -1,4 +1,8 @@
 link,title,duration,soap,date,category,parentid,part,total,channel
+"=HYPERLINK(""https://youtu.be/x6uZ_oX9f28"", ""Link"")",Mary McDonnell,06:55,ATWT,01/01/1980,A,,1,1,theystartedonsoaps
+"=HYPERLINK(""https://youtu.be/GDDHcN75HnU"", ""Link"")",Opening Theme,3:11,ATWT,01/01/1980,B,,1,1,garrett
+"=HYPERLINK(""https://youtu.be/oWR4qet4hcU"", ""Link"")",Marcie's Fantasy,2:58,ATWT,01/01/1980,A,,1,1,garrett
+"=HYPERLINK(""https://youtu.be/gMyaMt2Rs-g"", ""Link"")",Kevin and Frannie,2:43,ATWT,01/01/1980,A,,1,1,garrett
 "=HYPERLINK(""https://youtu.be/G3I_a0yG1nQ"", ""Link"")",Episode,37:24,ATWT,3/27/1980,A,,1,1,patriciabruderdebrovner
 "=HYPERLINK(""https://youtu.be/v9iI8nOqRW0"", ""Link"")",Episode,57:55,ATWT,03/31/1980,A,,1,1,patriciabruderdebrovner
 "=HYPERLINK(""https://youtu.be/eGLo2XaQ3T4"", ""Link"")",Closing theme,3:11,ATWT,01/01/1981,B,,1,1,edwynsanchez

@@ -1,4 +1,8 @@
 link,title,duration,soap,date,category,parentid,part,total,channel
+"=HYPERLINK(""https://youtu.be/RgenpXQxVN4"", ""Link"")",Nancy Asks Kim to Forgive Bob,01:26,ATWT,01/01/1990,A,,1,1,ackgh73994
+"=HYPERLINK(""https://youtu.be/4Cs_Ho-c7YA"", ""Link"")",Bob - Kim in Therapy,2:18,ATWT,01/01/1990,A,,1,1,ackgh73994
+"=HYPERLINK(""https://youtu.be/Ojfp5HvYFz0"", ""Link"")",Calista Flockhart,01:30,ATWT,01/01/1990,A,,1,1,theystartedonsoaps
+"=HYPERLINK(""https://youtu.be/o33mekSBtus"", ""Link"")",Amy Ryan,1:43,ATWT,01/01/1990,A,,1,1,theystartedonsoaps
 "=HYPERLINK(""https://youtu.be/jF-kWGpfG-Q"", ""Link"")",Margo Pulls Casey's Plug,03:02,ATWT,06/01/1990,A,,1,1,garrett
 "=HYPERLINK(""https://youtu.be/wMRwsGgdvyo"", ""Link"")",Episode,55:53,ATWT,06/25/1990,A,,1,1,dodger2829
 "=HYPERLINK(""https://youtu.be/jqm-T2fjy0s"", ""Link"")",Episode,39:27,ATWT,06/26/1990,A,,1,1,dodger2829

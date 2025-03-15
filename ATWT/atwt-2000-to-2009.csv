@@ -1,4 +1,5 @@
 link,title,duration,soap,date,category,parentid,part,total,channel
+"=HYPERLINK(""https://youtu.be/YcTl9fC241Y"", ""Link"")",Bob and John,1:51,ATWT,01/01/2000,A,,1,1,bartko
 "=HYPERLINK(""https://youtu.be/4ITLiN0_zjM"", ""Link"")",Amanda Seyfried on As The World Turns,2:08,ATWT,6/1/2000,A,,1,1,theystartedonsoaps
 "=HYPERLINK(""https://youtu.be/VjU2txS4z1Q"", ""Link"")",Eplisode,56:04,ATWT,09/06/2000,A,,1,1,edwynsanchez
 "=HYPERLINK(""https://youtu.be/GoqhKTlDvWc"", ""Link"")",Carly helps Molly solve her haunting,08:08,ATWT,10/23/2000,A,,1,1,dragonweaver
