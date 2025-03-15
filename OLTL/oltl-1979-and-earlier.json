@@ -9,7 +9,7 @@
         "part": "1",
         "total": "1",
         "duration": "0:18",
-        "channel": "edynsanchez"
+        "channel": "edwynsanchez"
     },
     {
         "id": "rdiJOSGN9hc",
@@ -45,7 +45,7 @@
         "part": "1",
         "total": "1",
         "duration": "28:14:00",
-        "channel": "edynsanchez"
+        "channel": "edwynsanchez"
     },
     {
         "id": "AVBNOMKbVcg",
@@ -129,7 +129,7 @@
         "part": "1",
         "total": "1",
         "duration": "33:01:00",
-        "channel": "edynsanchez"
+        "channel": "edwynsanchez"
     },
     {
         "id": "1iEPeld4thg",
@@ -141,7 +141,7 @@
         "part": "1",
         "total": "1",
         "duration": "33:49:00",
-        "channel": "edynsanchez"
+        "channel": "edwynsanchez"
     },
     {
         "id": "a4GvY-s8_0k",
@@ -256,7 +256,7 @@
         "parentid": "P_68acaf1d",
         "soap": "OLTL",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "06/01/1979",
         "part": "1",
         "total": "3",
@@ -268,7 +268,7 @@
         "parentid": "P_68acaf1d",
         "soap": "OLTL",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "06/01/1979",
         "part": "2",
         "total": "3",
@@ -280,7 +280,7 @@
         "parentid": "P_68acaf1d",
         "soap": "OLTL",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "06/01/1979",
         "part": "3",
         "total": "3",
