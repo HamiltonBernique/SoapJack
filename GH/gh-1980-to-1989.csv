@@ -1,4 +1,6 @@
 link,title,duration,soap,date,category,parentid,part,total,channel
+"=HYPERLINK(""https://youtu.be/5vXiA6EKrB4"", ""Link"")",1979 - 1980  Year In Review,10:02,GH,01/01/1980,A,P_c551718c,1,2,romabriere
+"=HYPERLINK(""https://youtu.be/RsdTARt727U"", ""Link"")",1979 - 1980  Year In Review,10:26,GH,01/01/1980,A,P_c551718c,2,2,romabriere
 "=HYPERLINK(""https://youtu.be/npsbqjqvAPg"", ""Link"")",Rick/Lesley The Separation,12:28,GH,01/02/1980,A,P_5591af90,1,6,romabriere
 "=HYPERLINK(""https://youtu.be/PZjZITi6iq4"", ""Link"")",Rick/Lesley The Separation,15:04,GH,01/02/1980,A,P_5591af90,2,6,romabriere
 "=HYPERLINK(""https://youtu.be/cuF_jCxd5YU"", ""Link"")",Rick/Lesley The Separation,13:21,GH,01/02/1980,A,P_5591af90,3,6,romabriere

@@ -1,4 +1,5 @@
 link,title,duration,soap,date,category,parentid,part,total,channel
+"=HYPERLINK(""https://youtu.be/nLw8J2S2WBw"", ""Link"")",Casey the alien invades PC,04:57,GH,01/01/1990,A,,1,1,judybeck
 "=HYPERLINK(""https://youtu.be/JZAl7gHfsGQ"", ""Link"")",Tony Geary Returns as Bill Eckert,11:37,GH,01/01/1991,A,,1,1,markanderson
 "=HYPERLINK(""https://youtu.be/jt4h-toR-iM"", ""Link"")",Episode,59:11,GH,1/1/1991,A,,1,1,chucksnitchler
 "=HYPERLINK(""https://youtu.be/6knCOwYkwws"", ""Link"")",Episode,32:34,GH,6/1/1991,A,,1,1,chucksnitchler

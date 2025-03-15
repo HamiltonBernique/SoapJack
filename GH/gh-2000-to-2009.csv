@@ -1,4 +1,7 @@
 link,title,duration,soap,date,category,parentid,part,total,channel
+"=HYPERLINK(""https://youtu.be/RAASJGOuIA4"", ""Link"")",Liz Emily and Juan at the Nurse's Ball,3:33,GH,01/01/2000,A,,1,1,gasux216
+"=HYPERLINK(""https://youtu.be/7-juMcAnujE"", ""Link"")",Liz misses Lucky on Valentine's Day,06:44,GH,01/01/2000,A,,1,1,gasux216
+"=HYPERLINK(""https://youtu.be/f7Rz2ykx6yM"", ""Link"")",Opening Credits Early 2000s,00:49,GH,01/01/2000,B,,1,1,judybeck
 "=HYPERLINK(""https://youtu.be/DzWLi2hIRTs"", ""Link"")",2001: GH Opening,0:45,GH,01/01/2001,B,,1,1,disabled1955
 "=HYPERLINK(""https://youtu.be/iIHqy9As8LI"", ""Link"")",Promo 2001,0:30,GH,01/01/2001,B,,1,1,luckibelle
 "=HYPERLINK(""https://youtu.be/PKmBvOrmXz4"", ""Link"")",Promo 2001,0:28,GH,01/01/2001,B,,1,1,luckibelle
