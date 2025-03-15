@@ -1,4 +1,8 @@
 link,title,duration,soap,date,category,parentid,part,total,channel
+"=HYPERLINK(""https://youtu.be/VPA3irZxJTA"", ""Link"")",Kevin Bacon,3:47,GL,01/01/1980,A,,1,1,theystartedonsoaps
+"=HYPERLINK(""https://youtu.be/JCaUjOunYVY"", ""Link"")",John Wesley Shipp Singing Christmas In New York,2:07,GL,01/01/1980,A,,1,1,theystartedonsoaps
+"=HYPERLINK(""https://youtu.be/U78qIBLKLhg"", ""Link"")",1980 closing,2:02,GL,01/01/1980,B,,1,1,chucksnitchler
+"=HYPERLINK(""https://youtu.be/Xuvhh0CkZfw"", ""Link"")",Opening Theme,00:19,GL,01/01/1980,B,,1,1,garrett
 "=HYPERLINK(""https://youtu.be/0lBEPeFDB2k"", ""Link"")",Episode,44:01,GL,2/1/1980,A,,1,1,jimmuneco
 "=HYPERLINK(""https://youtu.be/nq-Nj7GGE34"", ""Link"")",Eplisode,43:41,GL,02/04/1980,A,,1,1,edwynsanchez
 "=HYPERLINK(""https://youtu.be/WCtEV-hj89E"", ""Link"")",Episode,58:42,GL,3/1/1980,A,,1,1,jimmuneco

@@ -1,4 +1,6 @@
 link,title,duration,soap,date,category,parentid,part,total,channel
+"=HYPERLINK(""https://youtu.be/IOrjkAdnGX0"", ""Link"")",CBS Daytime Millennium New Year's Proo,00:21,GL,01/01/2000,A,,1,1,guidinglightepisodes
+"=HYPERLINK(""https://youtu.be/OILhO5doC_I"", ""Link"")",Brittany Snow and Paul Wesley,04:56,GL,01/01/2000,A,,1,1,theystartedonsoaps
 "=HYPERLINK(""https://youtu.be/SU5vgc8hjow"", ""Link"")",full episode,38:44,GL,01/03/2000,A,,1,1,guidinglightepisodes
 "=HYPERLINK(""https://youtu.be/fmR9_bhU8lc"", ""Link"")",full episode,38:38,GL,01/04/2000,A,,1,1,guidinglightepisodes
 "=HYPERLINK(""https://youtu.be/lY3jeNTnyJM"", ""Link"")",full episode,39:15,GL,01/05/2000,A,,1,1,guidinglightepisodes

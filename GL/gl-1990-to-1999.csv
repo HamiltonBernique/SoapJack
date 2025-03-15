@@ -1,4 +1,5 @@
 link,title,duration,soap,date,category,parentid,part,total,channel
+"=HYPERLINK(""https://youtu.be/j06kK2QQdTE"", ""Link"")",Michelle Forbes and Sherry Stringfield,1:00,GL,01/01/1990,A,,1,1,theystartedonsoaps
 "=HYPERLINK(""https://youtu.be/4-rjE4f5djQ"", ""Link"")",Episode,42:09,GL,7/17/1990,A,,1,1,jimmuneco
 "=HYPERLINK(""https://youtu.be/jGKn1TTuzMs"", ""Link"")",Eplisode,41:33,GL,07/23/1990,A,,1,1,edwynsanchez
 "=HYPERLINK(""https://youtu.be/Va44_7RSyus"", ""Link"")",Episode,41:44,GL,8/13/1990,A,,1,1,jimmuneco
