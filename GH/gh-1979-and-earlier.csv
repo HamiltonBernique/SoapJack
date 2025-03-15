@@ -1,4 +1,4 @@
-id,title,duration,soap,date,category,parentid,part,total,channel
+link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/xWcrEiOAJvE"", ""Link"")",Emergency Hospital Pilot,23:15,GH,01/01/1962,A,,1,1,romabriere
 "=HYPERLINK(""https://youtu.be/FDMMNfyCV44"", ""Link"")",Pilot for General Hospital,23:15,GH,01/01/1962,A,,1,1,judybeck
 "=HYPERLINK(""https://youtu.be/xGoM9CP1p2w"", ""Link"")",Opening,00:18,GH,01/01/1963,B,,1,1,disabled1955
@@ -10,12 +10,12 @@ id,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/5PDT_Pzi35M"", ""Link"")",Promo,1:05,GH,01/01/1969,B,,1,1,judybeck
 "=HYPERLINK(""https://youtu.be/Qjb5EOjJJU8"", ""Link"")",Dead of Night Opening,0:47,GH,08/26/1969,B,,1,1,disabled1955
 "=HYPERLINK(""https://youtu.be/ZRepVXva7zM"", ""Link"")",Episode,22:03,GH,01/01/1975,A,,1,1,moviecraft
-"=HYPERLINK(""https://youtu.be/gpvUlnzJaOY"", ""Link"")",Opening,0:18,GH,1/1/1975,B,,1,1,rhsharp
+"=HYPERLINK(""https://youtu.be/gpvUlnzJaOY"", ""Link"")",Opening,0:18,GH,1/1/1975,B,,1,1,robertsharp
 "=HYPERLINK(""https://youtu.be/GyaSGtBje-s"", ""Link"")",Vintage Full Episode,21:21,GH,05/01/1975,A,,1,1,romabriere
 "=HYPERLINK(""https://youtu.be/YdiQSLeydU8"", ""Link"")",Vintage Full Episode,21:49,GH,05/19/1975,A,,1,1,romabriere
 "=HYPERLINK(""https://youtu.be/e0DuQVX9brw"", ""Link"")",Vintage Full Episode (REDO),20:51,GH,06/01/1975,A,,1,1,romabriere
 "=HYPERLINK(""https://youtu.be/_HJti6HUpn0"", ""Link"")",Opening (no siren),00:20,GH,01/01/1976,B,,1,1,retronewfoundland
-"=HYPERLINK(""https://youtu.be/SGV5wKjkg9k"", ""Link"")",Opening,0:20,GH,1/1/1976,B,,1,1,rhsharp
+"=HYPERLINK(""https://youtu.be/SGV5wKjkg9k"", ""Link"")",Opening,0:20,GH,1/1/1976,B,,1,1,robertsharp
 "=HYPERLINK(""https://youtu.be/mSNK7pZ6psE"", ""Link"")",1977 Vintage Footage,14:50,GH,01/01/1977,A,P_8833a083,01,23,romabriere
 "=HYPERLINK(""https://youtu.be/iiJfiLmZsIs"", ""Link"")",1977 Vintage Footage,15:07,GH,01/01/1977,A,P_8833a083,02,23,romabriere
 "=HYPERLINK(""https://youtu.be/8JXTAbTalb4"", ""Link"")",1977 Vintage Footage,13:19,GH,01/01/1977,A,P_8833a083,03,23,romabriere
@@ -41,14 +41,14 @@ id,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/MMyumtVyCWU"", ""Link"")",1977 Vintage Footage,5:32,GH,01/01/1977,A,P_8833a083,23,23,romabriere
 "=HYPERLINK(""https://youtu.be/5fGK6g4vJj8"", ""Link"")",Meet Luke Spencer,7:10,GH,01/01/1978,A,,1,1,judybeck
 "=HYPERLINK(""https://youtu.be/hYgItzB0Bug"", ""Link"")",Episode #4,13:11,GH,01/01/1978,A,,1,1,romabriere
-"=HYPERLINK(""https://youtu.be/p2lMPeK2Jtg"", ""Link"")",Opening,0:20,GH,1/1/1978,B,,1,1,rhsharp
+"=HYPERLINK(""https://youtu.be/p2lMPeK2Jtg"", ""Link"")",Opening,0:20,GH,1/1/1978,B,,1,1,robertsharp
 "=HYPERLINK(""https://youtu.be/gBi9BXFvLYw"", ""Link"")",Episode #11,14:37,GH,09/01/1978,A,,1,1,romabriere
 "=HYPERLINK(""https://youtu.be/fcX-IcLMa_s"", ""Link"")",Fall 1978 Episode #7,11:59,GH,10/01/1978,A,P_0840f33c,1,3,romabriere
 "=HYPERLINK(""https://youtu.be/Gtf3W8m0xhY"", ""Link"")",Fall 1978 Episode #7,14:25,GH,10/01/1978,A,P_0840f33c,2,3,romabriere
 "=HYPERLINK(""https://youtu.be/lQJrwJFCIZQ"", ""Link"")",Fall 1978 Episode #7,14:54,GH,10/01/1978,A,P_0840f33c,3,3,romabriere
-"=HYPERLINK(""https://youtu.be/LEcLZ3-a-Qk"", ""Link"")",Episode,10:36,GH,10/01/1978,A,P_11211efe,1,3,romabriere
-"=HYPERLINK(""https://youtu.be/igO3RMnLiPY"", ""Link"")",Episode,15:28,GH,10/01/1978,A,P_11211efe,2,3,romabriere
-"=HYPERLINK(""https://youtu.be/7QbomV3uuXA"", ""Link"")",Episode,14:43,GH,10/01/1978,A,P_11211efe,3,3,romabriere
+"=HYPERLINK(""https://youtu.be/LEcLZ3-a-Qk"", ""Link"")",Episode content,10:36,GH,10/01/1978,A,P_11211efe,1,3,romabriere
+"=HYPERLINK(""https://youtu.be/igO3RMnLiPY"", ""Link"")",Episode content,15:28,GH,10/01/1978,A,P_11211efe,2,3,romabriere
+"=HYPERLINK(""https://youtu.be/7QbomV3uuXA"", ""Link"")",Episode content,14:43,GH,10/01/1978,A,P_11211efe,3,3,romabriere
 "=HYPERLINK(""https://youtu.be/tcwkzlsaMOU"", ""Link"")",Fall 1978 Episode #4,14:22,GH,10/01/1978,A,P_4144b709,1,2,romabriere
 "=HYPERLINK(""https://youtu.be/SvKnZga_4ug"", ""Link"")",Fall 1978 Episode #4,15:24,GH,10/01/1978,A,P_4144b709,2,2,romabriere
 "=HYPERLINK(""https://youtu.be/woeblMLBBng"", ""Link"")",Fall 1978 Episode #11,15:27,GH,10/01/1978,A,P_4669f61a,1,2,romabriere
@@ -92,7 +92,7 @@ id,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/uq6jC7Zn694"", ""Link"")",Rick/Lesley 1979 Summer After Scotty and Lauras Wedding,12:39,GH,01/01/1979,A,,1,1,romabriere
 "=HYPERLINK(""https://youtu.be/xc_7roe-3ig"", ""Link"")",Rick/Lesley 1979  Dec - After AJs Birth,06:28,GH,01/01/1979,A,,1,1,romabriere
 "=HYPERLINK(""https://youtu.be/eLbKVuK6bbc"", ""Link"")",Rick/Lesley RARE FIND,21:09,GH,01/01/1979,A,,1,1,romabriere
-"=HYPERLINK(""https://youtu.be/dLYqsPHrpR8"", ""Link"")",ABC Promo,0:31,GH,1/1/1979,B,,1,1,rhsharp
+"=HYPERLINK(""https://youtu.be/dLYqsPHrpR8"", ""Link"")",ABC Promo,0:31,GH,1/1/1979,B,,1,1,robertsharp
 "=HYPERLINK(""https://youtu.be/VDsGieSwYKM"", ""Link"")",Jan 1979,13:32,GH,01/01/1979,A,P_7f6ae4ac,1,8,romabriere
 "=HYPERLINK(""https://youtu.be/fvajD23W_Lc"", ""Link"")",Jan 1979,13:04,GH,01/01/1979,A,P_7f6ae4ac,2,8,romabriere
 "=HYPERLINK(""https://youtu.be/vhZEgvljeAc"", ""Link"")",Jan 1979,15:00,GH,01/01/1979,A,P_7f6ae4ac,3,8,romabriere
@@ -128,12 +128,12 @@ id,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/Ba_Ei1ql1CY"", ""Link"")",Rick/Lesley On the Rocks,11:24,GH,03/26/1979,A,P_941e8b09,11,12,romabriere
 "=HYPERLINK(""https://youtu.be/eulLiEKp4FU"", ""Link"")",Rick/Lesley On the Rocks,12:30,GH,03/26/1979,A,P_941e8b09,12,12,romabriere
 "=HYPERLINK(""https://youtu.be/xgUJPK3pb-g"", ""Link"")",Episode,26:18,GH,03/30/1979,A,P_e3af2844,1,2,romabriere
-"=HYPERLINK(""https://youtu.be/gbBbYXw-PpY"", ""Link"")",Episode,17:35,GH,03/30/1979,A,P_e3af2844,2,2,romabriere
+"=HYPERLINK(""https://youtu.be/gbBbYXw-PpY"", ""Link"")",Episode content,17:35,GH,03/30/1979,A,P_e3af2844,2,2,romabriere
 "=HYPERLINK(""https://youtu.be/69borMFaaQc"", ""Link"")",Rick/Lesley Steve is Jeff's Father,10:23,GH,04/01/1979,A,P_7277ac65,1,3,romabriere
 "=HYPERLINK(""https://youtu.be/sILi3L5_qEk"", ""Link"")",Rick/Lesley Steve is Jeff's Father,14:28,GH,04/01/1979,A,P_7277ac65,2,3,romabriere
 "=HYPERLINK(""https://youtu.be/ByMzmdNcvTA"", ""Link"")",Rick/Lesley Steve is Jeff's Father,14:15,GH,04/01/1979,A,P_7277ac65,3,3,romabriere
 "=HYPERLINK(""https://youtu.be/FwD-OReZfCM"", ""Link"")",Episode,25:51,GH,04/05/1979,A,P_8bf17960,1,2,romabriere
-"=HYPERLINK(""https://youtu.be/jyWzesE8PC0"", ""Link"")",Episode,18:20,GH,04/05/1979,A,P_8bf17960,2,2,romabriere
+"=HYPERLINK(""https://youtu.be/jyWzesE8PC0"", ""Link"")",Episode content,18:20,GH,04/05/1979,A,P_8bf17960,2,2,romabriere
 "=HYPERLINK(""https://youtu.be/mLSg_gEhrVY"", ""Link"")",Rick/Lesley Says Goodbye To Monica,04:55,GH,06/01/1979,A,,1,1,romabriere
 "=HYPERLINK(""https://youtu.be/nYWv0ie2aag"", ""Link"")",After Laura's Car Accident,13:56,GH,06/01/1979,A,,1,1,romabriere
 "=HYPERLINK(""https://youtu.be/idY92P87AzE"", ""Link"")",Rick/Lesley - Before Scotty & Laura's Wedding,10:30,GH,06/01/1979,A,P_eb32355f,1,2,romabriere
@@ -174,7 +174,7 @@ id,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/98T5_P5OOVs"", ""Link"")",Rick/Lesley The Kakorian Lawsuit,10:09,GH,09/24/1979,A,P_f8baf9ca,2,3,romabriere
 "=HYPERLINK(""https://youtu.be/N2aeFFkNiAA"", ""Link"")",Rick/Lesley The Kakorian Lawsuit,7:37,GH,09/24/1979,A,P_f8baf9ca,3,3,romabriere
 "=HYPERLINK(""https://youtu.be/qFZsp6lQPGc"", ""Link"")",Episode,25:49,GH,10/04/1979,A,P_8aae3e3f,1,2,romabriere
-"=HYPERLINK(""https://youtu.be/SuB50NXRlew"", ""Link"")",Episode,18:00,GH,10/04/1979,A,P_8aae3e3f,2,2,romabriere
+"=HYPERLINK(""https://youtu.be/SuB50NXRlew"", ""Link"")",Episode content,18:00,GH,10/04/1979,A,P_8aae3e3f,2,2,romabriere
 "=HYPERLINK(""https://youtu.be/vwXT9y585Bk"", ""Link"")",Rick/Lesley - Montage Kiss,4:03,GH,10/05/1979,A,,1,1,romabriere
 "=HYPERLINK(""https://youtu.be/6KwyqmcElSg"", ""Link"")",Rick/Lesley Laura's Attack,14:21,GH,10/05/1979,A,P_a0d6c540,1,3,romabriere
 "=HYPERLINK(""https://youtu.be/jk661U4ptMY"", ""Link"")",Rick/Lesley Laura's Attack,14:55,GH,10/05/1979,A,P_a0d6c540,2,3,romabriere
@@ -184,13 +184,13 @@ id,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/dydvkNaov9U"", ""Link"")",Rick/Lesley After Laura's attack,14:05,GH,10/07/1979,A,P_88447772,3,3,romabriere
 "=HYPERLINK(""https://youtu.be/5m6IegVsOug"", ""Link"")",Closing,0:19,GH,10/30/1979,B,,1,1,retronewfoundland
 "=HYPERLINK(""https://youtu.be/WyBlTMmcQxo"", ""Link"")",Episode,24:58,GH,11/09/1979,A,P_cc17370a,1,2,romabriere
-"=HYPERLINK(""https://youtu.be/4OAA-Qv79P8"", ""Link"")",Episode,19:15,GH,11/09/1979,A,P_cc17370a,2,2,romabriere
+"=HYPERLINK(""https://youtu.be/4OAA-Qv79P8"", ""Link"")",Episode content,19:15,GH,11/09/1979,A,P_cc17370a,2,2,romabriere
 "=HYPERLINK(""https://youtu.be/sU8pTvUGeAk"", ""Link"")",Episode,24:20,GH,11/12/1979,A,P_97500264,1,2,romabriere
-"=HYPERLINK(""https://youtu.be/wBhrZb3vZOc"", ""Link"")",Episode,19:47,GH,11/12/1979,A,P_97500264,2,2,romabriere
+"=HYPERLINK(""https://youtu.be/wBhrZb3vZOc"", ""Link"")",Episode content,19:47,GH,11/12/1979,A,P_97500264,2,2,romabriere
 "=HYPERLINK(""https://youtu.be/QPwc00n0zws"", ""Link"")",Rick/Lesley Thanksgiving,05:57,GH,11/22/1979,A,,1,1,romabriere
 "=HYPERLINK(""https://youtu.be/6dQPd74BHro"", ""Link"")",Episode,44:12,GH,11/29/1979,A,,1,1,judybeck
 "=HYPERLINK(""https://youtu.be/bTRZV43i6zQ"", ""Link"")",Episode,25:20,GH,11/29/1979,A,P_6afdacb8,1,2,romabriere
-"=HYPERLINK(""https://youtu.be/0BcgujiAvTA"", ""Link"")",Episode,18:53,GH,11/29/1979,A,P_6afdacb8,2,2,romabriere
+"=HYPERLINK(""https://youtu.be/0BcgujiAvTA"", ""Link"")",Episode content,18:53,GH,11/29/1979,A,P_6afdacb8,2,2,romabriere
 "=HYPERLINK(""https://youtu.be/1l_sAlCLscs"", ""Link"")",Rick/Lesley Before Les Tells Rick That She Knows,0:55,GH,12/01/1979,A,,1,1,romabriere
 "=HYPERLINK(""https://youtu.be/cZa1k1A1gVs"", ""Link"")",Rick/Lesley Dec 79 The Night Before Alan Jrs Birth,03:31,GH,12/01/1979,A,,1,1,romabriere
 "=HYPERLINK(""https://youtu.be/mlJov5YSWZg"", ""Link"")",Episode,21:34,GH,12/01/1979,A,P_74a7bf4f,1,2,donna515

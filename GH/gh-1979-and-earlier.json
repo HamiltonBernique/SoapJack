@@ -141,7 +141,7 @@
         "part": "1",
         "total": "1",
         "duration": "0:18",
-        "channel": "rhsharp"
+        "channel": "robertsharp"
     },
     {
         "id": "GyaSGtBje-s",
@@ -201,7 +201,7 @@
         "part": "1",
         "total": "1",
         "duration": "0:20",
-        "channel": "rhsharp"
+        "channel": "robertsharp"
     },
     {
         "id": "mSNK7pZ6psE",
@@ -513,7 +513,7 @@
         "part": "1",
         "total": "1",
         "duration": "0:20",
-        "channel": "rhsharp"
+        "channel": "robertsharp"
     },
     {
         "id": "gBi9BXFvLYw",
@@ -568,7 +568,7 @@
         "parentid": "P_11211efe",
         "soap": "GH",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "10/01/1978",
         "part": "1",
         "total": "3",
@@ -580,7 +580,7 @@
         "parentid": "P_11211efe",
         "soap": "GH",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "10/01/1978",
         "part": "2",
         "total": "3",
@@ -592,7 +592,7 @@
         "parentid": "P_11211efe",
         "soap": "GH",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "10/01/1978",
         "part": "3",
         "total": "3",
@@ -1125,7 +1125,7 @@
         "part": "1",
         "total": "1",
         "duration": "0:31",
-        "channel": "rhsharp"
+        "channel": "robertsharp"
     },
     {
         "id": "VDsGieSwYKM",
@@ -1552,7 +1552,7 @@
         "parentid": "P_e3af2844",
         "soap": "GH",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "03/30/1979",
         "part": "2",
         "total": "2",
@@ -1612,7 +1612,7 @@
         "parentid": "P_8bf17960",
         "soap": "GH",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "04/05/1979",
         "part": "2",
         "total": "2",
@@ -2104,7 +2104,7 @@
         "parentid": "P_8aae3e3f",
         "soap": "GH",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "10/04/1979",
         "part": "2",
         "total": "2",
@@ -2224,7 +2224,7 @@
         "parentid": "P_cc17370a",
         "soap": "GH",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "11/09/1979",
         "part": "2",
         "total": "2",
@@ -2248,7 +2248,7 @@
         "parentid": "P_97500264",
         "soap": "GH",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "11/12/1979",
         "part": "2",
         "total": "2",
@@ -2296,7 +2296,7 @@
         "parentid": "P_6afdacb8",
         "soap": "GH",
         "category": "A",
-        "title": "Episode",
+        "title": "Episode content",
         "date": "11/29/1979",
         "part": "2",
         "total": "2",

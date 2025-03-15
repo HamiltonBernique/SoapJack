@@ -1,4 +1,4 @@
-id,title,duration,soap,date,category,parentid,part,total,channel
+link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/D_6Bm0vBV7w"", ""Link"")",Promo,00:20,GH,01/04/2010,B,,1,1,luckibelle
 "=HYPERLINK(""https://youtu.be/mDjz3r1smEo"", ""Link"")",GH Promo,0:20,GH,01/04/2010,B,,1,1,luckibelle
 "=HYPERLINK(""https://youtu.be/Fm_wijgrjgI"", ""Link"")",Lucky Spencer,7:41,GH,01/04/2010,A,,1,1,luckibelle
