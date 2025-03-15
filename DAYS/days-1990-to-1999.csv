@@ -1,4 +1,5 @@
 link,title,duration,soap,date,category,parentid,part,total,channel
+"=HYPERLINK(""https://youtu.be/I5R-AIgJvEA"", ""Link"")",Julie Williams with Victor Kiriakis Promo,00:21,DAYS,01/01/1990,B,,1,1,fyi
 "=HYPERLINK(""https://youtu.be/SzjDCMyw_hA"", ""Link"")",Jack and Jennifer make love,04:21,DAYS,06/01/1990,A,,1,1,donna515
 "=HYPERLINK(""https://youtu.be/dcT43sGmetQ"", ""Link"")",Isabella Dies,01:25,DAYS,01/01/1992,A,,1,1,doolflashbacks
 "=HYPERLINK(""https://youtu.be/EYI13X-t5Xg"", ""Link"")",Pamela Anderson on Days of Our Lives,0:57,DAYS,6/1/1992,A,,1,1,theystartedonsoaps
