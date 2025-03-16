@@ -95,7 +95,7 @@ This method is the easiest. Copy the ID from the JSON data into the YouTube sear
 
 | Select ID from JSON data |
 | --- |
-| ![Select ID from JSON data](/z-media/z-selectid.png) |
+| ![Select ID from JSON data](/z-media/z-selectid.webp) |
 
 
 ### Construct a YouTube URL
@@ -118,7 +118,7 @@ Download the CSV file and import it into a spreadsheet, such as in a Google shee
 
 | Import a CSV file |
 | --- |
-| ![Import CSV file](/z-media/z-csvfile.png) |
+| ![Import CSV file](/z-media/z-csvfile.webp) |
 
 
 ## Contributions and corrections
