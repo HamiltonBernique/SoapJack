@@ -28,8 +28,8 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/zYGlov2K9Ec"", ""Link"")",Sherry Stringfield and Melina Kanakaredes,09:45,GL,01/01/1992,A,,1,1,theystartedonsoaps
 "=HYPERLINK(""https://youtu.be/DRPhOlZEAiI"", ""Link"")",Mira Sorvino,01:59,GL,01/01/1992,A,,1,1,theystartedonsoaps
 "=HYPERLINK(""https://youtu.be/WBC-CoTzidk"", ""Link"")",Promo - Alexandra Spaulding - Beverlee McKinsey,0:32,GL,1/1/1992,B,,1,1,fyi
-"=HYPERLINK(""https://youtu.be/9DT_ydoTahU"", ""Link"")",Episode,41:41:00,GL,05/25/1992,A,,1,1,edwynsanchez
-"=HYPERLINK(""https://youtu.be/JbFq4va8n2M"", ""Link"")",Episode,40:49:00,GL,11/03/1992,A,,1,1,edwynsanchez
+"=HYPERLINK(""https://youtu.be/9DT_ydoTahU"", ""Link"")",Episode,41:41,GL,05/25/1992,A,,1,1,edwynsanchez
+"=HYPERLINK(""https://youtu.be/JbFq4va8n2M"", ""Link"")",Episode,40:49,GL,11/03/1992,A,,1,1,edwynsanchez
 "=HYPERLINK(""https://youtu.be/eZUmb82WpeQ"", ""Link"")",Episode,41:21,GL,12/24/1992,A,,1,1,bluerose8508
 "=HYPERLINK(""https://youtu.be/__IMfL5_t7k"", ""Link"")",Episode,41:29,GL,12/28/1992,A,,1,1,bluerose8508
 "=HYPERLINK(""https://youtu.be/1ZkX4Hnzqv8"", ""Link"")",1993: GL 'Everyday' Promo,0:30,GL,01/01/1993,B,,1,1,disabled1955
@@ -40,7 +40,7 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/KhUw61iU-Ao"", ""Link"")",Promo: 5-31-93,0:19,GL,05/31/1993,B,,1,1,disabled1955
 "=HYPERLINK(""https://youtu.be/YCI4ysScW2M"", ""Link"")",Emergency Recast In Middle Of Scene!,03:49,GL,06/01/1993,A,,1,1,fyi
 "=HYPERLINK(""https://youtu.be/xJZFUv4dH9E"", ""Link"")",Promo,00:20,GL,07/05/1993,B,,1,1,disabled1955
-"=HYPERLINK(""https://youtu.be/T8SyXZTbMLc"", ""Link"")",Episode,37:28:00,GL,07/14/1993,A,,1,1,edwynsanchez
+"=HYPERLINK(""https://youtu.be/T8SyXZTbMLc"", ""Link"")",Episode,37:28,GL,07/14/1993,A,,1,1,edwynsanchez
 "=HYPERLINK(""https://youtu.be/azV1Pniw3OQ"", ""Link"")",Promo: 9-7-1993,1:45,GL,09/07/1993,B,,1,1,disabled1955
 "=HYPERLINK(""https://youtu.be/BITYxfrqlUY"", ""Link"")",Promo: 9-20-1993,00:21,GL,09/20/1993,B,,1,1,disabled1955
 "=HYPERLINK(""https://youtu.be/87rh0gEas-I"", ""Link"")",Promo: 9-27-1993,00:24,GL,09/27/1993,B,,1,1,disabled1955
@@ -79,8 +79,8 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/hPxEzS7_4QE"", ""Link"")",Leslie Hendrix on Guiding Light,3:02,GL,01/01/1996,A,,1,1,theystartedonsoaps
 "=HYPERLINK(""https://youtu.be/KXdcZxodQp0"", ""Link"")",Opening theme,0:49,GL,01/01/1996,B,,1,1,edwynsanchez
 "=HYPERLINK(""https://youtu.be/M03VV8mOYnE"", ""Link"")","Promos Reva, Josh, Phillip and Dinah",0:52,GL,1/1/1996,B,,1,1,fyi
-"=HYPERLINK(""https://youtu.be/EygZOa6_8nk"", ""Link"")",Episodes,53:26:00,GL,07/12/1996,A,,1,1,edwynsanchez
-"=HYPERLINK(""https://youtu.be/xqns3DNq3r8"", ""Link"")",Episodes,54:48:00,GL,07/13/1996,A,,1,1,edwynsanchez
+"=HYPERLINK(""https://youtu.be/EygZOa6_8nk"", ""Link"")",Episodes,53:26,GL,07/12/1996,A,,1,1,edwynsanchez
+"=HYPERLINK(""https://youtu.be/xqns3DNq3r8"", ""Link"")",Episodes,54:48,GL,07/13/1996,A,,1,1,edwynsanchez
 "=HYPERLINK(""https://youtu.be/nUC-NnSgGgU"", ""Link"")",1997: GL Closing,0:47,GL,01/01/1997,B,,1,1,disabled1955
 "=HYPERLINK(""https://youtu.be/xM1nv2lSeEo"", ""Link"")",1997: GL Promo (3-3),0:17,GL,01/01/1997,B,,1,1,disabled1955
 "=HYPERLINK(""https://youtu.be/AbAnY_bmYjM"", ""Link"")",1997: GL Promo (2-3),0:21,GL,01/01/1997,B,,1,1,disabled1955
