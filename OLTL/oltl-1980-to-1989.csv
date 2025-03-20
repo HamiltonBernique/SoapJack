@@ -78,7 +78,7 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/hYBTcMQS8Vw"", ""Link"")",Steven Hill on One Life To Live,1:21,OLTL,01/01/1984,A,,1,1,theystartedonsoaps
 "=HYPERLINK(""https://youtu.be/_nNxbbzQ3VM"", ""Link"")",Promo,0:11,OLTL,1/1/1984,B,,1,1,retronewfoundland
 "=HYPERLINK(""https://youtu.be/a-uXGoKlwlQ"", ""Link"")",Closing,3:00,OLTL,1/1/1984,B,,1,1,chucksnitchler
-"=HYPERLINK(""https://youtu.be/z1U_RenRL6M"", ""Link"")",Episode,43:03:00,OLTL,01/09/1984,A,,1,1,edwynsanchez
+"=HYPERLINK(""https://youtu.be/z1U_RenRL6M"", ""Link"")",Episode,43:03,OLTL,01/09/1984,A,,1,1,edwynsanchez
 "=HYPERLINK(""https://youtu.be/BlS2rjqH_fA"", ""Link"")",Episode content,09:24,OLTL,01/09/1984,A,P_608bde9c,1,5,hamiltonbernique
 "=HYPERLINK(""https://youtu.be/GRO4MSXtLAY"", ""Link"")",Episode content,9:49,OLTL,01/09/1984,A,P_608bde9c,2,5,hamiltonbernique
 "=HYPERLINK(""https://youtu.be/uxn-uvlZbOA"", ""Link"")",Episode content,09:24,OLTL,01/09/1984,A,P_608bde9c,3,5,hamiltonbernique
@@ -228,7 +228,7 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/tFzkhCzzaWI"", ""Link"")",Episode content,9:09,OLTL,10/24/1985,A,P_59290450,4,5,hamiltonbernique
 "=HYPERLINK(""https://youtu.be/fbczq-_J0wQ"", ""Link"")",Episode content,7:25,OLTL,10/24/1985,A,P_59290450,5,5,hamiltonbernique
 "=HYPERLINK(""https://youtu.be/_gHZKWKBvOk"", ""Link"")",December 1985 One Life to Live Opening Tour of Llanview,0:35,OLTL,12/01/1985,B,,1,1,carmaker1
-"=HYPERLINK(""https://youtu.be/MSn5u8a9DwE"", ""Link"")",Episode,41:45:00,OLTL,12/05/1985,A,,1,1,edwynsanchez
+"=HYPERLINK(""https://youtu.be/MSn5u8a9DwE"", ""Link"")",Episode,41:45,OLTL,12/05/1985,A,,1,1,edwynsanchez
 "=HYPERLINK(""https://youtu.be/81Yw5wdSaLQ"", ""Link"")",Episode content,8:46,OLTL,12/05/1985,A,P_591f1d0f,1,5,hamiltonbernique
 "=HYPERLINK(""https://youtu.be/ScRZLwPexzY"", ""Link"")",Episode content,9:56,OLTL,12/05/1985,A,P_591f1d0f,2,5,hamiltonbernique
 "=HYPERLINK(""https://youtu.be/HheaKI5y5Yc"", ""Link"")",Episode content,9:38,OLTL,12/05/1985,A,P_591f1d0f,3,5,hamiltonbernique
@@ -835,7 +835,7 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/GDLmj9Jf4QI"", ""Link"")",Lord Love The Children,9:55,OLTL,6/1/1989,A,P_a50a6b88,19,20,vickrobcal
 "=HYPERLINK(""https://youtu.be/23wuz0E-F-M"", ""Link"")",Lord Love The Children,9:30,OLTL,6/1/1989,A,P_a50a6b88,20,20,vickrobcal
 "=HYPERLINK(""https://youtu.be/8ThQwqC40Gw"", ""Link"")",Opening,0:36,OLTL,09/06/1989,B,,1,1,ryanshope
-"=HYPERLINK(""https://youtu.be/Q0koDzBfhbc"", ""Link"")",Episode,41:10:00,OLTL,10/05/1989,A,,1,1,edwynsanchez
+"=HYPERLINK(""https://youtu.be/Q0koDzBfhbc"", ""Link"")",Episode,41:10,OLTL,10/05/1989,A,,1,1,edwynsanchez
 "=HYPERLINK(""https://youtu.be/G9oOY89UJvM"", ""Link"")",Gabrielle Sentenced Max and Megan Get Married,29:19,OLTL,11/01/1989,A,P_88edd0ed,1,2,vickrobcal
 "=HYPERLINK(""https://youtu.be/msBZlxmGUhQ"", ""Link"")",Gabrielle Sentenced Max and Megan Get Married,15:47,OLTL,11/01/1989,A,P_88edd0ed,2,2,vickrobcal
 "=HYPERLINK(""https://youtu.be/7SgRBY9zghI"", ""Link"")",DID Viki is Released for Christmas,10:52,OLTL,12/15/1989,A,,1,1,esarchive
