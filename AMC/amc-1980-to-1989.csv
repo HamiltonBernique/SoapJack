@@ -174,7 +174,7 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/QVa-5CWZukw"", ""Link"")",Episode content,09:22,AMC,09/02/1983,A,P_ddf369ea,3,5,hamiltonbernique
 "=HYPERLINK(""https://youtu.be/33S6LLfrVmk"", ""Link"")",Episode content,08:59,AMC,09/02/1983,A,P_ddf369ea,4,5,hamiltonbernique
 "=HYPERLINK(""https://youtu.be/T6C7m58U5dQ"", ""Link"")",Episode content,07:48,AMC,09/02/1983,A,P_ddf369ea,5,5,hamiltonbernique
-"=HYPERLINK(""https://youtu.be/-TdHAKOuO5g"", ""Link"")",Episode,42:10:00,AMC,10/01/1983,A,,1,1,edwynsanchez
+"=HYPERLINK(""https://youtu.be/-TdHAKOuO5g"", ""Link"")",Episode,42:10,AMC,10/01/1983,A,,1,1,edwynsanchez
 "=HYPERLINK(""https://youtu.be/rJ32ccYUvNk"", ""Link"")",Episode content,9:31,AMC,10/25/1983,A,P_7ae5dc24,1,5,hamiltonbernique
 "=HYPERLINK(""https://youtu.be/PIC1EEN5UzY"", ""Link"")",Episode content,9:43,AMC,10/25/1983,A,P_7ae5dc24,2,5,hamiltonbernique
 "=HYPERLINK(""https://youtu.be/sHduFD2WCjA"", ""Link"")",Episode content,09:07,AMC,10/25/1983,A,P_7ae5dc24,3,5,hamiltonbernique
@@ -1012,7 +1012,7 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/DkxNsriAxhA"", ""Link"")",Some scenes,07:01,AMC,06/01/1989,A,,1,1,donna515
 "=HYPERLINK(""https://youtu.be/soNCkpbVjts"", ""Link"")",Mr. Pine Valley,8:27,AMC,06/01/1989,A,P_d48ed82b,1,2,donna515
 "=HYPERLINK(""https://youtu.be/f335VNmTbhg"", ""Link"")",Mr. Pine Valley,5:18,AMC,06/01/1989,A,P_d48ed82b,2,2,donna515
-"=HYPERLINK(""https://youtu.be/lgtbqdD0y-8"", ""Link"")",Episode,42:10:00,AMC,10/06/1989,A,,1,1,edwynsanchez
+"=HYPERLINK(""https://youtu.be/lgtbqdD0y-8"", ""Link"")",Episode,42:10,AMC,10/06/1989,A,,1,1,edwynsanchez
 "=HYPERLINK(""https://youtu.be/h35fk-mWnLc"", ""Link"")",Episode content,04:57,AMC,10/11/1989,A,P_6c9759ee,1,8,snarkweighsin
 "=HYPERLINK(""https://youtu.be/PrinnqSVzKg"", ""Link"")",Episode content,04:42,AMC,10/11/1989,A,P_6c9759ee,2,8,snarkweighsin
 "=HYPERLINK(""https://youtu.be/AvSh2RwF8JU"", ""Link"")",Episode content,07:36,AMC,10/11/1989,A,P_6c9759ee,3,8,snarkweighsin
