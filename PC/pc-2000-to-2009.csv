@@ -16,7 +16,7 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/_tBOiIb2wh8"", ""Link"")",Episode,21:16,PC,01/21/2000,A,,1,1,portcharles
 "=HYPERLINK(""https://youtu.be/sGuh5edjqio"", ""Link"")",Episode,20:55,PC,01/24/2000,A,,1,1,portcharles
 "=HYPERLINK(""https://youtu.be/hoYeJbf-2pc"", ""Link"")",Episode,20:56,PC,01/25/2000,A,,1,1,portcharles
-"=HYPERLINK(""https://youtu.be/hM4_NFQeNUw"", ""Link"")",Episode,20:59,PC,01/26/2000,,,1,1,portcharles
+"=HYPERLINK(""https://youtu.be/hM4_NFQeNUw"", ""Link"")",Episode,20:59,PC,01/26/2000,A,,1,1,portcharles
 "=HYPERLINK(""https://youtu.be/hZGX-lWb0ys"", ""Link"")",Episode,21:17,PC,01/27/2000,A,,1,1,portcharles
 "=HYPERLINK(""https://youtu.be/JiuImoNwVFo"", ""Link"")",Episode,20:56,PC,01/28/2000,A,,1,1,portcharles
 "=HYPERLINK(""https://youtu.be/Eh2D8edv_28"", ""Link"")",Episode,20:55,PC,01/31/2000,A,,1,1,portcharles
@@ -355,7 +355,7 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/mLV48-kw9ns"", ""Link"")",Episode,20:34,PC,05/18/2001,A,,1,1,portcharles
 "=HYPERLINK(""https://youtu.be/mkUhZkKnsNk"", ""Link"")",Episode,20:02,PC,05/21/2001,A,,1,1,portcharles
 "=HYPERLINK(""https://youtu.be/xQEfQsKdwJo"", ""Link"")",Episode,20:57,PC,05/22/2001,A,,1,1,portcharles
-"=HYPERLINK(""https://youtu.be/aeIpgI_RzKU"", ""Link"")",Episode,20:59,PC,05/23/2001,,,1,1,portcharles
+"=HYPERLINK(""https://youtu.be/aeIpgI_RzKU"", ""Link"")",Episode,20:59,PC,05/23/2001,A,,1,1,portcharles
 "=HYPERLINK(""https://youtu.be/vxLYMnuFj-k"", ""Link"")",Episode,20:57,PC,05/24/2001,A,,1,1,portcharles
 "=HYPERLINK(""https://youtu.be/_CBYt39olpE"", ""Link"")",Episode,21:07,PC,05/25/2001,A,,1,1,portcharles
 "=HYPERLINK(""https://youtu.be/Qp0DH7aW014"", ""Link"")",Episode content,19:04,PC,05/28/2001,A,,1,1,portcharles
