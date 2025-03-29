@@ -2220,6 +2220,30 @@
         "channel": "fyi"
     },
     {
+        "id": "9AbkW0HfYlg",
+        "parentid": "",
+        "soap": "AMC",
+        "category": "B",
+        "title": "Opening",
+        "date": "1/1/1991",
+        "part": "1",
+        "total": "1",
+        "duration": "0:52",
+        "channel": "chuckd79"
+    },
+    {
+        "id": "ghf7gXQFLYg",
+        "parentid": "",
+        "soap": "AMC",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1991",
+        "part": "1",
+        "total": "1",
+        "duration": "0:31",
+        "channel": "chuckd79"
+    },
+    {
         "id": "ooVl5iNbSIU",
         "parentid": "P_d1992e44",
         "soap": "AMC",
@@ -8040,6 +8064,18 @@
         "channel": "jackieo1600"
     },
     {
+        "id": "poTYFxmHpbM",
+        "parentid": "",
+        "soap": "AMC",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1994",
+        "part": "1",
+        "total": "1",
+        "duration": "0:31",
+        "channel": "chuckd79"
+    },
+    {
         "id": "ypS8rEoEBq8",
         "parentid": "P_2b50c912",
         "soap": "AMC",
@@ -12418,6 +12454,30 @@
         "total": "1",
         "duration": "1:01",
         "channel": "chucksnitchler"
+    },
+    {
+        "id": "ffdDd-6fCd4",
+        "parentid": "",
+        "soap": "AMC",
+        "category": "B",
+        "title": "Opening",
+        "date": "1/1/1995",
+        "part": "1",
+        "total": "1",
+        "duration": "0:50",
+        "channel": "chuckd79"
+    },
+    {
+        "id": "WXF485oMtPI",
+        "parentid": "",
+        "soap": "AMC",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1995",
+        "part": "1",
+        "total": "1",
+        "duration": "0:31",
+        "channel": "chuckd79"
     },
     {
         "id": "INIfmArmDkw",

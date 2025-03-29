@@ -1,4 +1,5 @@
 link,title,duration,soap,date,category,parentid,part,total,channel
+"=HYPERLINK(""https://youtu.be/P9pbGVlEkz4"", ""Link"")",Promo,0:31,AMC,1/1/1980,B,,1,1,chuckd79
 "=HYPERLINK(""https://youtu.be/k9OufFIs64E"", ""Link"")",A Daytime to Remember,9:31,AMC,01/01/1980,A,P_b039167a,1,2,donna515
 "=HYPERLINK(""https://youtu.be/10-OdGxoMfI"", ""Link"")",A Daytime to Remember,9:28,AMC,01/01/1980,A,P_b039167a,2,2,donna515
 "=HYPERLINK(""https://youtu.be/37vI7QqNwv8"", ""Link"")",Episode,56:38,AMC,02/15/1980,A,,1,1,erichenwood-greer
@@ -7,6 +8,7 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/okrezNBsNDE"", ""Link"")",Episode,45:33,AMC,05/28/1980,A,,1,1,erichenwood-greer
 "=HYPERLINK(""https://youtu.be/J2-bsb7l0ic"", ""Link"")",AMC and GH Promos,06:25,AMC,01/01/1981,B,,1,1,hamiltonbernique
 "=HYPERLINK(""https://youtu.be/EhIMyH0nGfo"", ""Link"")",Cliff and Nina's Wedding,2:16,AMC,01/01/1981,A,,1,1,ackgh73994
+"=HYPERLINK(""https://youtu.be/nGcEfKRBZow"", ""Link"")",Promo,0:31,AMC,1/1/1981,B,,1,1,chuckd79
 "=HYPERLINK(""https://youtu.be/QLGC4GxO9D8"", ""Link"")",Erica is Brandon's New Favorite,1:17,AMC,01/01/1982,A,,1,1,amcrewind
 "=HYPERLINK(""https://youtu.be/d9CPiWTRVFo"", ""Link"")",Sybil is Having Cliff's Baby,01:55,AMC,01/01/1982,A,,1,1,amcrewind
 "=HYPERLINK(""https://youtu.be/fCJCuLLy2Yw"", ""Link"")",A Series of Promos,03:57,AMC,01/01/1982,B,,1,1,amcthroughtheyears
@@ -33,6 +35,7 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/1thTSMN7Kls"", ""Link"")",Promo - Families Of Pine Valley,0:19,AMC,1/1/1983,B,,1,1,fyi
 "=HYPERLINK(""https://youtu.be/yqa3BbcpRjE"", ""Link"")",Promo - Liza makes Jenny hink she's engaged to Greg,1:01,AMC,1/1/1983,B,,1,1,fyi
 "=HYPERLINK(""https://youtu.be/rApUvl4kv6M"", ""Link"")",Promo - Nina's affair w/ Steve Jacobi,1:15,AMC,1/1/1983,B,,1,1,fyi
+"=HYPERLINK(""https://youtu.be/RUA1xVlC8Ic"", ""Link"")",Promo,0:31,AMC,1/1/1983,B,,1,1,chuckd79
 "=HYPERLINK(""https://youtu.be/WTjoy5_tNts"", ""Link"")",Erica Fest,09:46,AMC,01/01/1983,A,P_91a9eca6,01,40,hamiltonbernique
 "=HYPERLINK(""https://youtu.be/KhXguCf6axY"", ""Link"")",Erica Fest,9:40,AMC,01/01/1983,A,P_91a9eca6,02,40,hamiltonbernique
 "=HYPERLINK(""https://youtu.be/h0AZt4W3Qo4"", ""Link"")",Erica Fest,9:50,AMC,01/01/1983,A,P_91a9eca6,03,40,hamiltonbernique
@@ -498,6 +501,7 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/UxUv_-Uv0Kg"", ""Link"")",Mark Dalton,01:36,AMC,01/01/1986,A,,1,1,ackgh73994
 "=HYPERLINK(""https://youtu.be/3PFi7buIHac"", ""Link"")",Christian Slater,15:37,AMC,01/01/1986,A,,1,1,theystartedonsoaps
 "=HYPERLINK(""https://youtu.be/KWoAzDg35po"", ""Link"")",Christmas Eve at Phoebe's,5:03,AMC,01/01/1986,A,,1,1,jackieo1600
+"=HYPERLINK(""https://youtu.be/hx9UjdCFd-o"", ""Link"")",Opening,0:19,AMC,1/1/1986,B,,1,1,chuckd79
 "=HYPERLINK(""https://youtu.be/IELS5zMHmBo"", ""Link"")",5-day span 2 storylines,9:39,AMC,01/01/1986,A,P_3ad81430,1,6,hamiltonbernique
 "=HYPERLINK(""https://youtu.be/IfzElQxc_Rc"", ""Link"")",5-day span 2 storylines,9:49,AMC,01/01/1986,A,P_3ad81430,2,6,hamiltonbernique
 "=HYPERLINK(""https://youtu.be/jVzO_yYwCbs"", ""Link"")",5-day span 2 storylines,09:46,AMC,01/01/1986,A,P_3ad81430,3,6,hamiltonbernique

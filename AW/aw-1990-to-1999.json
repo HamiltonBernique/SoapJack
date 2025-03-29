@@ -156,6 +156,18 @@
         "channel": "chase4everchase"
     },
     {
+        "id": "dBbY-kJIvgY",
+        "parentid": "",
+        "soap": "AW",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1990",
+        "part": "1",
+        "total": "1",
+        "duration": "0:11",
+        "channel": "chuckd79"
+    },
+    {
         "id": "dTeRbLZ25ok",
         "parentid": "P_0af5a0d2",
         "soap": "AW",
@@ -4884,6 +4896,18 @@
         "channel": "chase4everchase"
     },
     {
+        "id": "ZbNHWAmiXgg",
+        "parentid": "",
+        "soap": "AW",
+        "category": "B",
+        "title": "Holiday promo",
+        "date": "12/16/1991",
+        "part": "1",
+        "total": "1",
+        "duration": "0:11",
+        "channel": "chuckd79"
+    },
+    {
         "id": "0PtpybhdFy8",
         "parentid": "",
         "soap": "AW",
@@ -6046,6 +6070,54 @@
         "total": "1",
         "duration": "20:50",
         "channel": "theystartedonsoaps"
+    },
+    {
+        "id": "date",
+        "parentid": "",
+        "soap": "AW",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1993",
+        "part": "1",
+        "total": "1",
+        "duration": "0:31",
+        "channel": "chuckd79"
+    },
+    {
+        "id": "7uF6_y5kdSI",
+        "parentid": "",
+        "soap": "AW",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1993",
+        "part": "1",
+        "total": "1",
+        "duration": "0:31",
+        "channel": "chuckd79"
+    },
+    {
+        "id": "UQ2K6PHutoQ",
+        "parentid": "",
+        "soap": "AW",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1993",
+        "part": "1",
+        "total": "1",
+        "duration": "0:31",
+        "channel": "chuckd79"
+    },
+    {
+        "id": "hdoAihRKoq8",
+        "parentid": "",
+        "soap": "AW",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1993",
+        "part": "1",
+        "total": "1",
+        "duration": "0:21",
+        "channel": "chuckd79"
     },
     {
         "id": "2RgRmqBNELY",
