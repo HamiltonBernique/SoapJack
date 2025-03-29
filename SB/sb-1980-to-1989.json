@@ -1,5 +1,41 @@
 [
     {
+        "id": "nHlFJL8dB3c",
+        "parentid": "",
+        "soap": "SB",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "0:20",
+        "channel": "chuckd79"
+    },
+    {
+        "id": "X8-2kufW0Gc",
+        "parentid": "",
+        "soap": "SB",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "0:21",
+        "channel": "chuckd79"
+    },
+    {
+        "id": "LWJwY2_kFjs",
+        "parentid": "",
+        "soap": "SB",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "0:21",
+        "channel": "chuckd79"
+    },
+    {
         "id": "GO_G-f-Odcw",
         "parentid": "",
         "soap": "SB",
@@ -1476,6 +1512,30 @@
         "channel": "retrosoapsantabarbara"
     },
     {
+        "id": "7oFgt3mF__M",
+        "parentid": "",
+        "soap": "SB",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1985",
+        "part": "1",
+        "total": "1",
+        "duration": "0:11",
+        "channel": "chuckd79"
+    },
+    {
+        "id": "l3TMjO-CwkM",
+        "parentid": "",
+        "soap": "SB",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1985",
+        "part": "1",
+        "total": "1",
+        "duration": "0:21",
+        "channel": "chuckd79"
+    },
+    {
         "id": "gITuy31m9xY",
         "parentid": "P_2fada07c",
         "soap": "SB",
@@ -2388,6 +2448,18 @@
         "channel": "retrosoapsantabarbara"
     },
     {
+        "id": "6dyTW0rEY0c",
+        "parentid": "",
+        "soap": "SB",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1987",
+        "part": "1",
+        "total": "1",
+        "duration": "0:21",
+        "channel": "chuckd79"
+    },
+    {
         "id": "OxRovEaKk1o",
         "parentid": "",
         "soap": "SB",
@@ -2782,6 +2854,18 @@
         "total": "6",
         "duration": "1:50",
         "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "B8tWAwVBlH4",
+        "parentid": "",
+        "soap": "SB",
+        "category": "B",
+        "title": "Holiday promo",
+        "date": "12/14/1987",
+        "part": "1",
+        "total": "1",
+        "duration": "0:21",
+        "channel": "chuckd79"
     },
     {
         "id": "OBKMjXSPEJg",
@@ -3372,6 +3456,18 @@
         "channel": "retrosoapsantabarbara"
     },
     {
+        "id": "L2ZB24ygorU",
+        "parentid": "",
+        "soap": "SB",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1988",
+        "part": "1",
+        "total": "1",
+        "duration": "0:21",
+        "channel": "chuckd79"
+    },
+    {
         "id": "83q7Ih2Yonc",
         "parentid": "P_e68dc7c7",
         "soap": "SB",
@@ -3814,6 +3910,54 @@
         "total": "1",
         "duration": "3:35",
         "channel": "retrosoapsantabarbara"
+    },
+    {
+        "id": "LjjaPah2WmY",
+        "parentid": "",
+        "soap": "SB",
+        "category": "B",
+        "title": "Opening",
+        "date": "1/1/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "0:36",
+        "channel": "chuckd79"
+    },
+    {
+        "id": "E0NZVA652IQ",
+        "parentid": "",
+        "soap": "SB",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "0:31",
+        "channel": "chuckd79"
+    },
+    {
+        "id": "q3Np2I0zvD8",
+        "parentid": "",
+        "soap": "SB",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "0:21",
+        "channel": "chuckd79"
+    },
+    {
+        "id": "33l7_ghBwyg",
+        "parentid": "",
+        "soap": "SB",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "0:11",
+        "channel": "chuckd79"
     },
     {
         "id": "3mLwsyIWBCE",

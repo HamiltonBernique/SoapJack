@@ -36,6 +36,18 @@
         "channel": "fyi"
     },
     {
+        "id": "t4hlf9Kc7ec",
+        "parentid": "",
+        "soap": "SFT",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1980",
+        "part": "1",
+        "total": "1",
+        "duration": "0:20",
+        "channel": "chuckd79"
+    },
+    {
         "id": "VdtfqYucw5I",
         "parentid": "",
         "soap": "SFT",
@@ -70,6 +82,42 @@
         "total": "1",
         "duration": "00:22",
         "channel": "fyi"
+    },
+    {
+        "id": "bE4ghpP7BNs",
+        "parentid": "",
+        "soap": "SFT",
+        "category": "B",
+        "title": "Closing",
+        "date": "1/1/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "0:27",
+        "channel": "chuckd79"
+    },
+    {
+        "id": "lvvj8satp2k",
+        "parentid": "",
+        "soap": "SFT",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "0:30",
+        "channel": "chuckd79"
+    },
+    {
+        "id": "3a9eUGdxJfw",
+        "parentid": "",
+        "soap": "SFT",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "0:20",
+        "channel": "chuckd79"
     },
     {
         "id": "OpVvFc4XND4",
@@ -778,6 +826,18 @@
         "total": "1",
         "duration": "01:11",
         "channel": "theystartedonsoaps"
+    },
+    {
+        "id": "8yhG9K7iDEc",
+        "parentid": "",
+        "soap": "SFT",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "0:11",
+        "channel": "chuckd79"
     },
     {
         "id": "-orPyR83SlY",
