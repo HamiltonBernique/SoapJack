@@ -1,5 +1,29 @@
 [
     {
+        "id": "02rhdHZOJVY",
+        "parentid": "",
+        "soap": "GH",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1980",
+        "part": "1",
+        "total": "1",
+        "duration": "0:31",
+        "channel": "chuckd79"
+    },
+    {
+        "id": "Kyv9QYegeRE",
+        "parentid": "",
+        "soap": "GH",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1980",
+        "part": "1",
+        "total": "1",
+        "duration": "0:31",
+        "channel": "chuckd79"
+    },
+    {
         "id": "5vXiA6EKrB4",
         "parentid": "P_c551718c",
         "soap": "GH",
@@ -634,6 +658,30 @@
         "total": "1",
         "duration": "10:00",
         "channel": "romabriere"
+    },
+    {
+        "id": "1-kdu8UqrgY",
+        "parentid": "",
+        "soap": "GH",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "0:31",
+        "channel": "chuckd79"
+    },
+    {
+        "id": "IHXIEsak23M",
+        "parentid": "",
+        "soap": "GH",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "0:30",
+        "channel": "chuckd79"
     },
     {
         "id": "SNQBAeaH-RU",
@@ -9648,6 +9696,18 @@
         "channel": "romabriere"
     },
     {
+        "id": "gAAH8vkrm58",
+        "parentid": "",
+        "soap": "GH",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "0:31",
+        "channel": "chuckd79"
+    },
+    {
         "id": "WyoOjRmKRrk",
         "parentid": "P_7dbabf11",
         "soap": "GH",
@@ -11592,6 +11652,18 @@
         "channel": "theystartedonsoaps"
     },
     {
+        "id": "Evj0vIbTS4U",
+        "parentid": "",
+        "soap": "GH",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1986",
+        "part": "1",
+        "total": "1",
+        "duration": "0:31",
+        "channel": "chuckd79"
+    },
+    {
         "id": "-sudyRTaHnY",
         "parentid": "",
         "soap": "GH",
@@ -11602,6 +11674,18 @@
         "total": "1",
         "duration": "00:26",
         "channel": "disabled1955"
+    },
+    {
+        "id": "j1v95V4888w",
+        "parentid": "",
+        "soap": "GH",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1988",
+        "part": "1",
+        "total": "1",
+        "duration": "0:31",
+        "channel": "chuckd79"
     },
     {
         "id": "Mag8JXH8QWg",

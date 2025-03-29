@@ -1,4 +1,6 @@
 link,title,duration,soap,date,category,parentid,part,total,channel
+"=HYPERLINK(""https://youtu.be/02rhdHZOJVY"", ""Link"")",Promo,0:31,GH,1/1/1980,B,,1,1,chuckd79
+"=HYPERLINK(""https://youtu.be/Kyv9QYegeRE"", ""Link"")",Promo,0:31,GH,1/1/1980,B,,1,1,chuckd79
 "=HYPERLINK(""https://youtu.be/5vXiA6EKrB4"", ""Link"")",1979 - 1980  Year In Review,10:02,GH,01/01/1980,A,P_c551718c,1,2,romabriere
 "=HYPERLINK(""https://youtu.be/RsdTARt727U"", ""Link"")",1979 - 1980  Year In Review,10:26,GH,01/01/1980,A,P_c551718c,2,2,romabriere
 "=HYPERLINK(""https://youtu.be/npsbqjqvAPg"", ""Link"")",Rick/Lesley The Separation,12:28,GH,01/02/1980,A,P_5591af90,1,6,romabriere
@@ -52,6 +54,8 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/URewIQUMYZA"", ""Link"")","Rick/Lesley B Im Real, Real Glad Youre Here",6:20,GH,01/01/1981,A,,1,1,romabriere
 "=HYPERLINK(""https://youtu.be/DAjkhKaWgUk"", ""Link"")",Rick/Lesley Feb 1981 Rick Meets Robert Scorpio,4:06,GH,01/01/1981,A,,1,1,romabriere
 "=HYPERLINK(""https://youtu.be/TrYwf3tTH2A"", ""Link"")",Rick/Lesley Feb 1981 RandL Discuss Robert Scorpio,10:00,GH,01/01/1981,A,,1,1,romabriere
+"=HYPERLINK(""https://youtu.be/1-kdu8UqrgY"", ""Link"")",Promo,0:31,GH,1/1/1981,B,,1,1,chuckd79
+"=HYPERLINK(""https://youtu.be/IHXIEsak23M"", ""Link"")",Promo,0:30,GH,1/1/1981,B,,1,1,chuckd79
 "=HYPERLINK(""https://youtu.be/SNQBAeaH-RU"", ""Link"")",Before Diana's Murder,15:30,GH,02/12/1981,A,P_624abfa5,1,6,romabriere
 "=HYPERLINK(""https://youtu.be/7n6CAfswQzs"", ""Link"")",Before Diana's Murder,14:24,GH,02/12/1981,A,P_624abfa5,2,6,romabriere
 "=HYPERLINK(""https://youtu.be/pYAOPGSd-SM"", ""Link"")",Before Diana's Murder,14:20,GH,02/12/1981,A,P_624abfa5,3,6,romabriere
@@ -803,6 +807,7 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/D5v9WQ9T3Qw"", ""Link"")",Rick/Lesley - Webber Back To Beecher's Corners,8:47,GH,12/27/1983,A,,1,1,romabriere
 "=HYPERLINK(""https://youtu.be/8i6uZaXmD-A"", ""Link"")",CATFIGHT - Ginny vs Bobbie,3:35,GH,01/01/1984,A,,1,1,fyi
 "=HYPERLINK(""https://youtu.be/VsqiADtpg-s"", ""Link"")",Tribute to Lesley Webber 1973 - 1984,04:11,GH,01/01/1984,A,,1,1,romabriere
+"=HYPERLINK(""https://youtu.be/gAAH8vkrm58"", ""Link"")",Promo,0:31,GH,1/1/1984,B,,1,1,chuckd79
 "=HYPERLINK(""https://youtu.be/WyoOjRmKRrk"", ""Link"")",Blackie and the Riff Raff,06:12,GH,01/01/1984,A,P_7dbabf11,1,2,donna515
 "=HYPERLINK(""https://youtu.be/_yCiOCpPnbw"", ""Link"")",Blackie and the Riff Raff,05:44,GH,01/01/1984,A,P_7dbabf11,2,2,donna515
 "=HYPERLINK(""https://youtu.be/IrMvTLCvFCc"", ""Link"")",Episode,23:41,GH,01/02/1984,A,P_77a744d2,1,2,romabriere
@@ -965,7 +970,9 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/uIvR55Sn6GA"", ""Link"")",Bobbie Spencer Tears Up Hubby's Photo Album In A Rage,2:40,GH,01/01/1985,A,,1,1,fyi
 "=HYPERLINK(""https://youtu.be/Q4qK9qeKxMA"", ""Link"")",Episode,41:40,GH,4/22/1985,A,,1,1,jimmuneco
 "=HYPERLINK(""https://youtu.be/tgILTDCjY6g"", ""Link"")",Penny Johnson Jerald,05:20,GH,01/01/1986,A,,1,1,theystartedonsoaps
+"=HYPERLINK(""https://youtu.be/Evj0vIbTS4U"", ""Link"")",Promo,0:31,GH,1/1/1986,B,,1,1,chuckd79
 "=HYPERLINK(""https://youtu.be/-sudyRTaHnY"", ""Link"")",Promo,00:26,GH,04/01/1987,B,,1,1,disabled1955
+"=HYPERLINK(""https://youtu.be/j1v95V4888w"", ""Link"")",Promo,0:31,GH,1/1/1988,B,,1,1,chuckd79
 "=HYPERLINK(""https://youtu.be/Mag8JXH8QWg"", ""Link"")",Episode,20:57,GH,08/06/1988,A,,1,1,donna515
 "=HYPERLINK(""https://youtu.be/wv1wAYqrAiY"", ""Link"")",Tracy Meets Robert,0:47,GH,01/01/1989,A,,1,1,ackgh73994
 "=HYPERLINK(""https://youtu.be/iKX8AzWhOAw"", ""Link"")",Tracy Quartermaine Returns 1989,8:57,GH,01/01/1989,A,,1,1,ackgh73994

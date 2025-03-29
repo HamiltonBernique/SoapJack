@@ -48,6 +48,18 @@
         "channel": "garrett"
     },
     {
+        "id": "C-7McDBW_9E",
+        "parentid": "",
+        "soap": "GL",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1980",
+        "part": "1",
+        "total": "1",
+        "duration": "0:32",
+        "channel": "chuckd79"
+    },
+    {
         "id": "0lBEPeFDB2k",
         "parentid": "",
         "soap": "GL",
@@ -490,6 +502,18 @@
         "total": "1",
         "duration": "1:57",
         "channel": "chucksnitchler"
+    },
+    {
+        "id": "-v-T2QTu7M8",
+        "parentid": "",
+        "soap": "GL",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "0:21",
+        "channel": "chuckd79"
     },
     {
         "id": "03L1O2H8k2E",
@@ -1870,6 +1894,30 @@
         "total": "1",
         "duration": "2:49",
         "channel": "chucksnitchler"
+    },
+    {
+        "id": "0vhvNG7fzmY",
+        "parentid": "",
+        "soap": "GL",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "0:21",
+        "channel": "chuckd79"
+    },
+    {
+        "id": "BE6UY8I5Ets",
+        "parentid": "",
+        "soap": "GL",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "0:21",
+        "channel": "chuckd79"
     },
     {
         "id": "BiJBN6RQR9U",
@@ -6276,6 +6324,18 @@
         "channel": "fyi"
     },
     {
+        "id": "3BkdZAKS8Qg",
+        "parentid": "",
+        "soap": "GL",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1988",
+        "part": "1",
+        "total": "1",
+        "duration": "0:24",
+        "channel": "chuckd79"
+    },
+    {
         "id": "0wt1qIUcLgI",
         "parentid": "",
         "soap": "GL",
@@ -6706,6 +6766,18 @@
         "total": "1",
         "duration": "1:00:38",
         "channel": "chucksnitchler"
+    },
+    {
+        "id": "V6vpzOFSNF0",
+        "parentid": "",
+        "soap": "GL",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "0:21",
+        "channel": "chuckd79"
     },
     {
         "id": "DzR2puMcDfs",

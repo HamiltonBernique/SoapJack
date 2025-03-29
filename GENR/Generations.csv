@@ -15,6 +15,7 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/yMTsMMv9fc8"", ""Link"")",Episdoe content,11:52,GENR,01/01/1990,A,,1,1,steverutherford
 "=HYPERLINK(""https://youtu.be/ZfUS2xAqZqQ"", ""Link"")",Episode,30:53,GENR,01/01/1990,A,,1,1,steverutherford
 "=HYPERLINK(""https://youtu.be/Cj0RjlrJM_g"", ""Link"")",Kyle And Sam (Rich Rubin),28:08,GENR,01/01/1990,A,,1,1,steverutherford
+"=HYPERLINK(""https://youtu.be/bbb0lkarZfk"", ""Link"")",Promo,0:21,GENR,1/1/1990,B,,1,1,chuckd79
 "=HYPERLINK(""https://youtu.be/OQmF0FqcQ-Y"", ""Link"")",Episode content,15:00,GENR,01/01/1990,A,P_48b6a23c,1,2,steverutherford
 "=HYPERLINK(""https://youtu.be/9Du10AcPA2o"", ""Link"")",Episode content,7:13,GENR,01/01/1990,A,P_48b6a23c,2,2,steverutherford
 "=HYPERLINK(""https://youtu.be/z_AGpJGBo3k"", ""Link"")",Kyle And Sam,29:54,GENR,01/01/1990,A,P_7d1d9eaa,1,3,steverutherford
