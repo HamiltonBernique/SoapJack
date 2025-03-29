@@ -12,6 +12,18 @@
         "channel": "vickrobcal"
     },
     {
+        "id": "iGkyuEjqrGA",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1980",
+        "part": "1",
+        "total": "1",
+        "duration": "0:31",
+        "channel": "chuckd79"
+    },
+    {
         "id": "p0Uiknmeg7g",
         "parentid": "",
         "soap": "OLTL",
@@ -946,6 +958,18 @@
         "total": "1",
         "duration": "3:00",
         "channel": "chucksnitchler"
+    },
+    {
+        "id": "pAR6uU2yti8",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "0:31",
+        "channel": "chuckd79"
     },
     {
         "id": "z1U_RenRL6M",
@@ -2206,6 +2230,18 @@
         "total": "1",
         "duration": "0:50",
         "channel": "fyi"
+    },
+    {
+        "id": "F4jFLwvACkI",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1985",
+        "part": "1",
+        "total": "1",
+        "duration": "0:17",
+        "channel": "chuckd79"
     },
     {
         "id": "KP-E26v5jJE",
@@ -4932,6 +4968,18 @@
         "channel": "fyi"
     },
     {
+        "id": "NGccbrZeecE",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1987",
+        "part": "1",
+        "total": "1",
+        "duration": "0:31",
+        "channel": "chuckd79"
+    },
+    {
         "id": "g2T7ETWZ0w0",
         "parentid": "P_02192f67",
         "soap": "OLTL",
@@ -6358,6 +6406,18 @@
         "total": "1",
         "duration": "1:03",
         "channel": "fyi"
+    },
+    {
+        "id": "EMViTG3zUso",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1988",
+        "part": "1",
+        "total": "1",
+        "duration": "0:31",
+        "channel": "chuckd79"
     },
     {
         "id": "qnOOClQ0Epk",
@@ -8674,6 +8734,30 @@
         "total": "1",
         "duration": "0:36",
         "channel": "fyi"
+    },
+    {
+        "id": "BKUPy_kX22I",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "0:31",
+        "channel": "chuckd79"
+    },
+    {
+        "id": "C_M0jXdCMzI",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "0:21",
+        "channel": "chuckd79"
     },
     {
         "id": "kwuDYEnH4go",

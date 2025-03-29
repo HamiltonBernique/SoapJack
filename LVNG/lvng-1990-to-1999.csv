@@ -1,5 +1,6 @@
 link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/oUgxSWt74yk"", ""Link"")",Calista Flockhart,01:12,LVNG,01/01/1990,A,,1,1,theystartedonsoaps
+"=HYPERLINK(""https://youtu.be/Lje6K1xysRA"", ""Link"")",Promo,0:38,LVNG,1/1/1990,B,,1,1,chuckd79
 "=HYPERLINK(""https://youtu.be/GIPfjAe47Zs"", ""Link"")",Episode,21:45,LVNG,1/2/1990,A,,1,1,jimmuneco
 "=HYPERLINK(""https://youtu.be/FpFsCxBFu7M"", ""Link"")",Episode,21:16,LVNG,1/3/1990,A,,1,1,jimmuneco
 "=HYPERLINK(""https://youtu.be/E5Zrc1WdaTM"", ""Link"")",Episode,21:15,LVNG,1/4/1990,A,,1,1,jimmuneco
@@ -32,6 +33,7 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/L7Ggg1InFtU"", ""Link"")",Elizabeth Mitchell,1:23,LVNG,01/01/1994,A,,1,1,theystartedonsoaps
 "=HYPERLINK(""https://youtu.be/1AGCPjsGnlY"", ""Link"")",Elise Neal,02:35,LVNG,01/01/1994,A,,1,1,theystartedonsoaps
 "=HYPERLINK(""https://youtu.be/yn-YDwkPnIo"", ""Link"")",Episode,30:13,LVNG,1/1/1994,A,,1,1,chucksnitchler
+"=HYPERLINK(""https://youtu.be/w1jl588W2HQ"", ""Link"")",Promo,0:32,LVNG,1/1/1994,B,,1,1,chuckd79
 "=HYPERLINK(""https://youtu.be/7KyUE_fLLFs"", ""Link"")",Episode,21:51,LVNG,5/5/1994,A,,1,1,jimmuneco
 "=HYPERLINK(""https://youtu.be/ga0-O1PfP0c"", ""Link"")",Promo 14 years today,00:16,LVNG,10/28/1994,B,,1,1,carmaker1
 "=HYPERLINK(""https://youtu.be/4Eooun2Hv3U"", ""Link"")",Episode,20:03,LVNG,11/4/1994,A,,1,1,jimmuneco
