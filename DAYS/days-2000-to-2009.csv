@@ -1,4 +1,6 @@
 link,title,duration,soap,date,category,parentid,part,total,channel
+"=HYPERLINK(""https://youtu.be/XBC3nXseT3w"", ""Link"")",Promo,0:41,DAYS,1/1/2000,B,,1,1,chuckd79
+"=HYPERLINK(""https://youtu.be/GhAnLpM9noo"", ""Link"")",Promo,0:21,DAYS,1/1/2002,B,,1,1,chuckd79
 "=HYPERLINK(""https://youtu.be/__qQG-qaXSw"", ""Link"")",Jill tries to stop wedding,1:11,DAYS,01/01/2003,A,,1,1,bartko
 "=HYPERLINK(""https://youtu.be/WnOYaWiVFjs"", ""Link"")",Retro Promo: Adam Sandler Mondays,0:21,DAYS,06/01/2003,B,,1,1,disabled1955
 "=HYPERLINK(""https://youtu.be/j6zVo9xImVA"", ""Link"")",Opening,0:17,DAYS,6/1/2009,B,,1,1,ryanshope

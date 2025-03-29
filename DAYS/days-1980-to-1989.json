@@ -48,6 +48,18 @@
         "channel": "fyi"
     },
     {
+        "id": "qL1S-e89ezc",
+        "parentid": "",
+        "soap": "DAYS",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "0:21",
+        "channel": "chuckd79"
+    },
+    {
         "id": "ITR-vwApfl4",
         "parentid": "",
         "soap": "DAYS",
@@ -168,6 +180,18 @@
         "channel": "fyi"
     },
     {
+        "id": "uK7VMfsgUHE",
+        "parentid": "",
+        "soap": "DAYS",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "0:11",
+        "channel": "chuckd79"
+    },
+    {
         "id": "3MukYdQN33A",
         "parentid": "",
         "soap": "DAYS",
@@ -202,6 +226,42 @@
         "total": "1",
         "duration": "1:55",
         "channel": "fyi"
+    },
+    {
+        "id": "p_MXK4osAqo",
+        "parentid": "",
+        "soap": "DAYS",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "0:21",
+        "channel": "chuckd79"
+    },
+    {
+        "id": "c7E1ngPIVVE",
+        "parentid": "",
+        "soap": "DAYS",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "0:21",
+        "channel": "chuckd79"
+    },
+    {
+        "id": "0GsO1of8fus",
+        "parentid": "",
+        "soap": "DAYS",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "0:21",
+        "channel": "chuckd79"
     },
     {
         "id": "9P1Fm_LLcLQ",
@@ -262,6 +322,18 @@
         "total": "1",
         "duration": "1:26",
         "channel": "doolflashbacks"
+    },
+    {
+        "id": "nTtk1kzv6-4",
+        "parentid": "",
+        "soap": "DAYS",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1985",
+        "part": "1",
+        "total": "1",
+        "duration": "0:21",
+        "channel": "chuckd79"
     },
     {
         "id": "D42kL9OiQC8",
@@ -336,6 +408,42 @@
         "channel": "fyi"
     },
     {
+        "id": "j3SZ6h5dSVI",
+        "parentid": "",
+        "soap": "DAYS",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1987",
+        "part": "1",
+        "total": "1",
+        "duration": "0:21",
+        "channel": "chuckd79"
+    },
+    {
+        "id": "-mbWiZnhM_Y",
+        "parentid": "",
+        "soap": "DAYS",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1987",
+        "part": "1",
+        "total": "1",
+        "duration": "0:31",
+        "channel": "chuckd79"
+    },
+    {
+        "id": "XG-olt5XsSA",
+        "parentid": "",
+        "soap": "DAYS",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1987",
+        "part": "1",
+        "total": "1",
+        "duration": "0:31",
+        "channel": "chuckd79"
+    },
+    {
         "id": "bqyjUT9LEtc",
         "parentid": "",
         "soap": "DAYS",
@@ -348,6 +456,30 @@
         "channel": "fyi"
     },
     {
+        "id": "Ivuvo8TJQMs",
+        "parentid": "",
+        "soap": "DAYS",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1988",
+        "part": "1",
+        "total": "1",
+        "duration": "0:21",
+        "channel": "chuckd79"
+    },
+    {
+        "id": "bbGCx8w1WpU",
+        "parentid": "",
+        "soap": "DAYS",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1988",
+        "part": "1",
+        "total": "1",
+        "duration": "0:31",
+        "channel": "chuckd79"
+    },
+    {
         "id": "ieh1r831ytQ",
         "parentid": "",
         "soap": "DAYS",
@@ -358,5 +490,29 @@
         "total": "1",
         "duration": "00:21",
         "channel": "theystartedonsoaps"
+    },
+    {
+        "id": "pY5oQuFvvd4",
+        "parentid": "",
+        "soap": "DAYS",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "0:21",
+        "channel": "chuckd79"
+    },
+    {
+        "id": "Dt6AO5gHq4A",
+        "parentid": "",
+        "soap": "DAYS",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "0:30",
+        "channel": "chuckd79"
     }
 ]
