@@ -8,6 +8,7 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/xFRK02RiGt8"", ""Link"")",Kim Hunter On Edge Of Night,28:54,EDGE,01/01/1980,A,,1,1,theystartedonsoaps
 "=HYPERLINK(""https://youtu.be/8-jwmPIJoWs"", ""Link"")",Closing,1:17,EDGE,1/1/1980,B,,1,1,chucksnitchler
 "=HYPERLINK(""https://youtu.be/vMKyPaHYvDU"", ""Link"")",Cliff Nelson Shirtless,0:42,EDGE,1/1/1980,A,,1,1,fyi
+"=HYPERLINK(""https://youtu.be/O7JdjrhCtik"", ""Link"")",Closing,1:32,EDGE,1/1/1980,B,,1,1,chuckd79
 "=HYPERLINK(""https://youtu.be/PEIMjq0Srl0"", ""Link"")",Closing,2:20,EDGE,6/16/1980,B,,1,1,chucksnitchler
 "=HYPERLINK(""https://youtu.be/oHlgRHDzTws"", ""Link"")",Opening,0:47,EDGE,6/16/1980,B,,1,1,chucksnitchler
 "=HYPERLINK(""https://youtu.be/c12xhXdMPSU"", ""Link"")",Closing,1:19,EDGE,6/24/1980,B,,1,1,chucksnitchler
@@ -190,6 +191,9 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/WPS5krPU6qU"", ""Link"")",Episode,00:21:37,EDGE,12/31/1981,A,,1,1,theedgeofnightman
 "=HYPERLINK(""https://youtu.be/NbqetFwrB7k"", ""Link"")",Episode content,00:18:21,EDGE,01/01/1982,A,,1,1,theedgeofnightman
 "=HYPERLINK(""https://youtu.be/eyAMKR9gOHE"", ""Link"")",Promos,00:04:15,EDGE,01/01/1982,B,,1,1,theedgeofnightman
+"=HYPERLINK(""https://youtu.be/OkpORcuTQgM"", ""Link"")",Closing,1:36,EDGE,1/1/1982,B,,1,1,chuckd79
+"=HYPERLINK(""https://youtu.be/MuDskSJ4Q-w"", ""Link"")",Opening,0:36,EDGE,1/1/1982,B,,1,1,chuckd79
+"=HYPERLINK(""https://youtu.be/F3CemdjjFAc"", ""Link"")",Closing,1:43,EDGE,1/1/1982,B,,1,1,chuckd79
 "=HYPERLINK(""https://youtu.be/vJN9PV5pcCE"", ""Link"")",Episode content,00:09:20,EDGE,01/04/1982,A,,1,1,theedgeofnightman
 "=HYPERLINK(""https://youtu.be/xLH_x4tGvo8"", ""Link"")",Episode,00:21:50,EDGE,01/05/1982,A,,1,1,theedgeofnightman
 "=HYPERLINK(""https://youtu.be/BEFMSp_Ltwc"", ""Link"")",Episode,00:21:36,EDGE,01/06/1982,A,,1,1,theedgeofnightman

@@ -1,9 +1,11 @@
 link,title,duration,soap,date,category,parentid,part,total,channel
+"=HYPERLINK(""https://youtu.be/DiPJwqkSlQI"", ""Link"")",Promo,0:21,EMMY,1/1/2000,B,,1,1,chuckd79
 "=HYPERLINK(""https://youtu.be/3A9uP6BfPts"", ""Link"")",Sarah Brown Daytime Emmy Reel,9:34,EMMY,05/19/2000,C,,1,1,fyi
 "=HYPERLINK(""https://youtu.be/abFrVpEMp5g"", ""Link"")",Emmys General Hospital Montage,01:01,EMMY,05/19/2000,C,,1,1,luckibelle
 "=HYPERLINK(""https://youtu.be/ezp7_PetQms"", ""Link"")",2000 Daytime Emmy Awards,3:28,EMMY,05/19/2000,C,,1,1,eddiedrueding
 "=HYPERLINK(""https://youtu.be/olCg33bnbgo"", ""Link"")",2000 Daytime Emmy Awards,1:26:32,EMMY,05/19/2000,C,,1,1,edwynsanchez
 "=HYPERLINK(""https://youtu.be/ZW4jbvJ0xTY"", ""Link"")",Outstanding Lead Actress in a Drama Series,3:54,EMMY,05/19/2000,C,,1,1,edwynsanchez
+"=HYPERLINK(""https://youtu.be/cs45lhPGD5M"", ""Link"")",Promo,0:16,EMMY,1/1/2001,B,,1,1,chuckd79
 "=HYPERLINK(""https://youtu.be/2CccF2oUPXM"", ""Link"")",Martha Byrne Daytime Emmy Reel,39:17,EMMY,05/18/2001,C,,1,1,fyi
 "=HYPERLINK(""https://youtu.be/x951lqhCsTs"", ""Link"")",Lesli Kay Daytime Emmy Reel,29:36,EMMY,05/18/2001,C,,1,1,fyi
 "=HYPERLINK(""https://youtu.be/ID6hmrwjuGA"", ""Link"")",Crystal Chappell Daytime Emmy Reel,20:09,EMMY,05/17/2002,C,,1,1,fyi

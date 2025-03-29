@@ -156,6 +156,30 @@
         "channel": "theystartedonsoaps"
     },
     {
+        "id": "9SPlH_rCzTQ",
+        "parentid": "",
+        "soap": "DCTR",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1979",
+        "part": "1",
+        "total": "1",
+        "duration": "0:21",
+        "channel": "chuckd79"
+    },
+    {
+        "id": "DfiOAQWRq0g",
+        "parentid": "",
+        "soap": "DCTR",
+        "category": "B",
+        "title": "Opening",
+        "date": "1/1/1979",
+        "part": "1",
+        "total": "1",
+        "duration": "0:25",
+        "channel": "chuckd79"
+    },
+    {
         "id": "sIgAWQrsE3s",
         "parentid": "",
         "soap": "DCTR",
@@ -226,6 +250,18 @@
         "total": "1",
         "duration": "0:21",
         "channel": "fyi"
+    },
+    {
+        "id": "yTtbk-3JCS8",
+        "parentid": "",
+        "soap": "DCTR",
+        "category": "B",
+        "title": "Opening",
+        "date": "1/1/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "0:27",
+        "channel": "chuckd79"
     },
     {
         "id": "V26fzZfqhTQ",

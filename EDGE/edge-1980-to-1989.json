@@ -108,6 +108,18 @@
         "channel": "fyi"
     },
     {
+        "id": "O7JdjrhCtik",
+        "parentid": "",
+        "soap": "EDGE",
+        "category": "B",
+        "title": "Closing",
+        "date": "1/1/1980",
+        "part": "1",
+        "total": "1",
+        "duration": "1:32",
+        "channel": "chuckd79"
+    },
+    {
         "id": "PEIMjq0Srl0",
         "parentid": "",
         "soap": "EDGE",
@@ -2290,6 +2302,42 @@
         "total": "1",
         "duration": "00:04:15",
         "channel": "theedgeofnightman"
+    },
+    {
+        "id": "OkpORcuTQgM",
+        "parentid": "",
+        "soap": "EDGE",
+        "category": "B",
+        "title": "Closing",
+        "date": "1/1/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "1:36",
+        "channel": "chuckd79"
+    },
+    {
+        "id": "MuDskSJ4Q-w",
+        "parentid": "",
+        "soap": "EDGE",
+        "category": "B",
+        "title": "Opening",
+        "date": "1/1/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "0:36",
+        "channel": "chuckd79"
+    },
+    {
+        "id": "F3CemdjjFAc",
+        "parentid": "",
+        "soap": "EDGE",
+        "category": "B",
+        "title": "Closing",
+        "date": "1/1/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "1:43",
+        "channel": "chuckd79"
     },
     {
         "id": "vJN9PV5pcCE",
