@@ -1,5 +1,17 @@
 [
     {
+        "id": "RQHx98WAa7c",
+        "parentid": "",
+        "soap": "CPTL",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1980",
+        "part": "1",
+        "total": "1",
+        "duration": "0:31",
+        "channel": "chuckd79"
+    },
+    {
         "id": "Irlsfw2oUDY",
         "parentid": "",
         "soap": "CPTL",
@@ -24,6 +36,54 @@
         "channel": "fyi"
     },
     {
+        "id": "lDVRx8LzeW0",
+        "parentid": "",
+        "soap": "CPTL",
+        "category": "B",
+        "title": "Opening",
+        "date": "1/1/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "0:31",
+        "channel": "chuckd79"
+    },
+    {
+        "id": "6tYtz2I0t7w",
+        "parentid": "",
+        "soap": "CPTL",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "0:23",
+        "channel": "chuckd79"
+    },
+    {
+        "id": "I-l58jpFMyU",
+        "parentid": "",
+        "soap": "CPTL",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "0:21",
+        "channel": "chuckd79"
+    },
+    {
+        "id": "tVzKz2S0EIw",
+        "parentid": "",
+        "soap": "CPTL",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "0:21",
+        "channel": "chuckd79"
+    },
+    {
         "id": "fVs_U3uDMbs",
         "parentid": "",
         "soap": "CPTL",
@@ -34,6 +94,18 @@
         "total": "1",
         "duration": "21:40",
         "channel": "jimmuneco"
+    },
+    {
+        "id": "DWji_ijf6qk",
+        "parentid": "",
+        "soap": "CPTL",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "0:21",
+        "channel": "chuckd79"
     },
     {
         "id": "Jw6YEFXvac0",
@@ -694,6 +766,18 @@
         "total": "1",
         "duration": "21:16",
         "channel": "jimmuneco"
+    },
+    {
+        "id": "CGPxA24V-os",
+        "parentid": "",
+        "soap": "CPTL",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1986",
+        "part": "1",
+        "total": "1",
+        "duration": "0:21",
+        "channel": "chuckd79"
     },
     {
         "id": "MhKzH_cMBmY",

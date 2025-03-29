@@ -1,5 +1,8 @@
 link,title,duration,soap,date,category,parentid,part,total,channel
+"=HYPERLINK(""https://youtu.be/tx0ziaNjzjM"", ""Link"")",Promo,0:21,BB,1/1/1987,B,,1,1,chuckd79
+"=HYPERLINK(""https://youtu.be/TdP-UHCwxh4"", ""Link"")",Promo,0:24,BB,1/1/1988,B,,1,1,chuckd79
 "=HYPERLINK(""https://youtu.be/98QosPvWrCI"", ""Link"")",Jeff Conaway The Bold and The Beautiful,00:21,BB,01/01/1989,B,,1,1,theystartedonsoaps
+"=HYPERLINK(""https://youtu.be/tdjbmFRAZpc"", ""Link"")",Promo,0:31,BB,1/1/1989,B,,1,1,chuckd79
 "=HYPERLINK(""https://youtu.be/aNqK7ZzrVW0"", ""Link"")",Episode content,0:32,BB,8/10/1989,A,,1,1,snarkweighsin
 "=HYPERLINK(""https://youtu.be/0Mn2QIlVyX0"", ""Link"")",Episode content,5:35,BB,8/10/1989,A,,1,1,snarkweighsin
 "=HYPERLINK(""https://youtu.be/w7bp8N2DMSY"", ""Link"")",Episode content,4:12,BB,8/10/1989,A,,1,1,snarkweighsin

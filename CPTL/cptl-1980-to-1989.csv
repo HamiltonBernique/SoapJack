@@ -1,7 +1,13 @@
 link,title,duration,soap,date,category,parentid,part,total,channel
+"=HYPERLINK(""https://youtu.be/RQHx98WAa7c"", ""Link"")",Promo,0:31,CPTL,1/1/1980,B,,1,1,chuckd79
 "=HYPERLINK(""https://youtu.be/Irlsfw2oUDY"", ""Link"")",Kelly Preston,1:17,CPTL,01/01/1982,A,,1,1,theystartedonsoaps
 "=HYPERLINK(""https://youtu.be/XgBxfWq1fls"", ""Link"")",Promo,00:21,CPTL,01/01/1982,B,,1,1,fyi
+"=HYPERLINK(""https://youtu.be/lDVRx8LzeW0"", ""Link"")",Opening,0:31,CPTL,1/1/1982,B,,1,1,chuckd79
+"=HYPERLINK(""https://youtu.be/6tYtz2I0t7w"", ""Link"")",Promo,0:23,CPTL,1/1/1983,B,,1,1,chuckd79
+"=HYPERLINK(""https://youtu.be/I-l58jpFMyU"", ""Link"")",Promo,0:21,CPTL,1/1/1983,B,,1,1,chuckd79
+"=HYPERLINK(""https://youtu.be/tVzKz2S0EIw"", ""Link"")",Promo,0:21,CPTL,1/1/1983,B,,1,1,chuckd79
 "=HYPERLINK(""https://youtu.be/fVs_U3uDMbs"", ""Link"")",Episode,21:40,CPTL,11/11/1983,A,,1,1,jimmuneco
+"=HYPERLINK(""https://youtu.be/DWji_ijf6qk"", ""Link"")",Promo,0:21,CPTL,1/1/1984,B,,1,1,chuckd79
 "=HYPERLINK(""https://youtu.be/Jw6YEFXvac0"", ""Link"")",Episode content,00:10:37,CPTL,01/17/1984,A,,1,1,pannoni
 "=HYPERLINK(""https://youtu.be/2Ouz2MT99IY"", ""Link"")",Episode,21:34,CPTL,5/10/1985,A,,1,1,jimmuneco
 "=HYPERLINK(""https://youtu.be/KA-TVNAS0b4"", ""Link"")",Episode,21:46,CPTL,5/13/1985,A,,1,1,jimmuneco
@@ -57,6 +63,7 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/8TvKi0ilats"", ""Link"")",Episode content,14:47,CPTL,12/16/1985,A,,1,1,jimmuneco
 "=HYPERLINK(""https://youtu.be/CKrH0wkWnJE"", ""Link"")",Episode,21:38,CPTL,12/20/1985,A,,1,1,jimmuneco
 "=HYPERLINK(""https://youtu.be/2u3exznA2Qo"", ""Link"")",Episode,21:16,CPTL,12/24/1985,A,,1,1,jimmuneco
+"=HYPERLINK(""https://youtu.be/CGPxA24V-os"", ""Link"")",Promo,0:21,CPTL,1/1/1986,B,,1,1,chuckd79
 "=HYPERLINK(""https://youtu.be/MhKzH_cMBmY"", ""Link"")",Episode,21:23,CPTL,1/6/1986,A,,1,1,jimmuneco
 "=HYPERLINK(""https://youtu.be/txh7bSfjInY"", ""Link"")",Episode,20:02,CPTL,1/29/1986,A,,1,1,jimmuneco
 "=HYPERLINK(""https://youtu.be/a8VET2Ot_lw"", ""Link"")",Episode,21:21,CPTL,1/30/1986,A,,1,1,jimmuneco
