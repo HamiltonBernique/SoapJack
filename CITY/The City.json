@@ -12,6 +12,18 @@
         "channel": "abcsoaptv"
     },
     {
+        "id": "dG6fol3UevY",
+        "parentid": "",
+        "soap": "CITY",
+        "category": "B",
+        "title": "Opening",
+        "date": "1/1/1995",
+        "part": "1",
+        "total": "1",
+        "duration": "0:32",
+        "channel": "chuckd79"
+    },
+    {
         "id": "hLE_PZY7iIo",
         "parentid": "",
         "soap": "CITY",
@@ -82,6 +94,18 @@
         "total": "1",
         "duration": "22:22",
         "channel": "jimmuneco"
+    },
+    {
+        "id": "ZSI-9eTaTRY",
+        "parentid": "",
+        "soap": "CITY",
+        "category": "B",
+        "title": "Promo",
+        "date": "1/1/1996",
+        "part": "1",
+        "total": "1",
+        "duration": "0:31",
+        "channel": "chuckd79"
     },
     {
         "id": "NubHvwZGnXc",
