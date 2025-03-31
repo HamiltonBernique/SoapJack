@@ -1,10 +1,10 @@
 link,title,duration,soap,date,category,parentid,part,total,channel
-"=HYPERLINK(""https://youtu.be/nLw8J2S2WBw"", ""Link"")",Casey the alien invades PC,04:57,GH,01/01/1990,A,,1,1,judybeck
-"=HYPERLINK(""https://youtu.be/JZAl7gHfsGQ"", ""Link"")",Tony Geary Returns as Bill Eckert,11:37,GH,01/01/1991,A,,1,1,markanderson
-"=HYPERLINK(""https://youtu.be/jt4h-toR-iM"", ""Link"")",Episode,59:11,GH,1/1/1991,A,,1,1,chucksnitchler
+"=HYPERLINK(""https://youtu.be/nLw8J2S2WBw"", ""Link"")",Casey the alien invades PC,04:57,GH,01/01/1990,A,,1,1,generalhospitalexposed
+"=HYPERLINK(""https://youtu.be/JZAl7gHfsGQ"", ""Link"")",Tony Geary Returns as Bill Eckert,11:37,GH,01/01/1991,A,,1,1,soonermark1
+"=HYPERLINK(""https://youtu.be/jt4h-toR-iM"", ""Link"")",Episode,59:11,GH,1/1/1991,A,,1,1,cfs89
 "=HYPERLINK(""https://youtu.be/uRp9MlQu0Fo"", ""Link"")",Promo,0:31,GH,1/1/1991,B,,1,1,chuckd79
-"=HYPERLINK(""https://youtu.be/6knCOwYkwws"", ""Link"")",Episode,32:34,GH,6/1/1991,A,,1,1,chucksnitchler
-"=HYPERLINK(""https://youtu.be/W1g3ZNYVK8w"", ""Link"")",Episode,58:24,GH,11/1/1991,A,,1,1,chucksnitchler
+"=HYPERLINK(""https://youtu.be/6knCOwYkwws"", ""Link"")",Episode,32:34,GH,6/1/1991,A,,1,1,cfs89
+"=HYPERLINK(""https://youtu.be/W1g3ZNYVK8w"", ""Link"")",Episode,58:24,GH,11/1/1991,A,,1,1,cfs89
 "=HYPERLINK(""https://youtu.be/GT-IT0n2mrM"", ""Link"")",Tobey Maguire On General Hospital,02:04,GH,01/01/1992,A,,1,1,theystartedonsoaps
 "=HYPERLINK(""https://youtu.be/PH8l5n3MDFM"", ""Link"")",Jeremy Davies on General Hospital,2:29,GH,6/1/1992,A,,1,1,theystartedonsoaps
 "=HYPERLINK(""https://youtu.be/RFHaD08qgTk"", ""Link"")",'New' Opening-1993,00:43,GH,01/01/1993,B,,1,1,disabled1955
@@ -19,14 +19,14 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/WVxGBVIeezU"", ""Link"")",Sonny and Brenda First Meet 1993,1:44,GH,09/01/1993,A,,1,1,luckibelle
 "=HYPERLINK(""https://youtu.be/Kq9nnSiL2WM"", ""Link"")",Sonny and Brenda,04:11,GH,10/01/1993,A,,1,1,luckibelle
 "=HYPERLINK(""https://youtu.be/nIOH95g8KDw"", ""Link"")",Sonny and Brenda,9:57,GH,10/11/1993,A,,1,1,luckibelle
-"=HYPERLINK(""https://youtu.be/XWpU7aX1OuU"", ""Link"")",Lucky meets Sly,20:44,GH,11/01/1993,A,,1,1,markanderson
+"=HYPERLINK(""https://youtu.be/XWpU7aX1OuU"", ""Link"")",Lucky meets Sly,20:44,GH,11/01/1993,A,,1,1,soonermark1
 "=HYPERLINK(""https://youtu.be/yAhrJ4aVNFU"", ""Link"")",Sonny and Brenda,07:09,GH,12/01/1993,A,,1,1,luckibelle
 "=HYPERLINK(""https://youtu.be/_P60rOhS7K0"", ""Link"")",Gail Learns Monica Has Cancer,03:00,GH,01/01/1994,A,,1,1,ackgh73994
 "=HYPERLINK(""https://youtu.be/H5npbYao1BY"", ""Link"")",Sonny and Brenda,00:59,GH,01/01/1994,A,,1,1,ackgh73994
 "=HYPERLINK(""https://youtu.be/fpU7fQkR_2w"", ""Link"")",Episode,28:14,GH,01/01/1994,A,,1,1,steverutherford
 "=HYPERLINK(""https://youtu.be/FWzKRtXi6Qc"", ""Link"")",Closing,00:57,GH,03/31/1994,B,,1,1,retronewfoundland
 "=HYPERLINK(""https://youtu.be/hceY2zg1Opc"", ""Link"")",Excerpt,05:38,GH,03/31/1994,A,,1,1,retronewfoundland
-"=HYPERLINK(""https://youtu.be/4kstN2PQw6Y"", ""Link"")",Episode clip - school bus crash,13:28,GH,05/16/1994,A,,1,1,judybeck
+"=HYPERLINK(""https://youtu.be/4kstN2PQw6Y"", ""Link"")",Episode clip - school bus crash,13:28,GH,05/16/1994,A,,1,1,generalhospitalexposed
 "=HYPERLINK(""https://youtu.be/PvPfdkWTlIM"", ""Link"")",Episode content,3:52,GH,11/24/1994,A,P_9e4270a7,1,8,snarkweighsin
 "=HYPERLINK(""https://youtu.be/JoY6nE8eVBU"", ""Link"")",Episode content,05:08,GH,11/24/1994,A,P_9e4270a7,2,8,snarkweighsin
 "=HYPERLINK(""https://youtu.be/BEAL8YIvbxU"", ""Link"")",Episode content,04:10,GH,11/24/1994,A,P_9e4270a7,3,8,snarkweighsin
@@ -38,7 +38,7 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/hGLUMr_6moE"", ""Link"")",Holiday promo,0:16,GH,12/12/1994,B,,1,1,chuckd79
 "=HYPERLINK(""https://youtu.be/ulrXFpSG6Qo"", ""Link"")",Mac and Robin,3:05,GH,01/01/1995,A,,1,1,ackgh73994
 "=HYPERLINK(""https://youtu.be/RyWT5SYaHlA"", ""Link"")",Eddie Maine Performs,02:31,GH,01/01/1995,A,,1,1,ackgh73994
-"=HYPERLINK(""https://youtu.be/PKX_bJDZNLE"", ""Link"")",Stone Cates death,10:52,GH,1/1/1995,A,,1,1,judybeck
+"=HYPERLINK(""https://youtu.be/PKX_bJDZNLE"", ""Link"")",Stone Cates death,10:52,GH,1/1/1995,A,,1,1,generalhospitalexposed
 "=HYPERLINK(""https://youtu.be/Xb67wNj72ys"", ""Link"")",Promo,0:16,GH,1/1/1995,B,,1,1,chuckd79
 "=HYPERLINK(""https://youtu.be/rN8DddPVZqo"", ""Link"")",Opening Credits,00:45,GH,04/01/1995,B,,1,1,carmaker1
 "=HYPERLINK(""https://youtu.be/hX0maTRGopc"", ""Link"")",Episode content,07:29,GH,11/27/1995,A,,1,1,carmaker1
@@ -301,6 +301,6 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/Zd89WvA6hY4"", ""Link"")",Nikolas and Elizabeth dance at Kelly',08:49,GH,08/05/1999,A,,1,1,jonobeckyll2
 "=HYPERLINK(""https://youtu.be/_Q7Sedck_G0"", ""Link"")",Liz misses Lucky and decide to rebel 8/26/1999,4:09,GH,08/26/1999,A,,1,1,gasux216
 "=HYPERLINK(""https://youtu.be/WwRxqf7qJuE"", ""Link"")",Liz misses Luck,5:57,GH,08/26/1999,A,,1,1,jonobeckyll2
-"=HYPERLINK(""https://youtu.be/qHk-3RwtE0I"", ""Link"")",Bobbie Spencer Scenes,5:53,GH,10/29/1999,A,,1,1,ryanshope
+"=HYPERLINK(""https://youtu.be/qHk-3RwtE0I"", ""Link"")",Bobbie Spencer Scenes,5:53,GH,10/29/1999,A,,1,1,ryanshope3316
 "=HYPERLINK(""https://youtu.be/krMf3pNHcUY"", ""Link"")",Elizabeth's 18th Birthda,11:09,GH,11/01/1999,A,,1,1,jonobeckyll2
 "=HYPERLINK(""https://youtu.be/UudxgAuit0I"", ""Link"")",Christmas,03:12,GH,12/24/1999,A,,1,1,ackgh73994

@@ -223,7 +223,7 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/QOhiSt9XdCA"", ""Link"")",Demi Moore and Bryan Cranston,02:01,GH,01/01/1982,A,,1,1,theystartedonsoaps
 "=HYPERLINK(""https://youtu.be/D0xU6e8VKUU"", ""Link"")",Rick/Lesley New Years Breakfast,08:51,GH,01/01/1982,A,,1,1,romabriere
 "=HYPERLINK(""https://youtu.be/ecHcRIjWDSY"", ""Link"")",Rick/Lesley Romantic Minutes ....,07:10,GH,01/01/1982,A,,1,1,romabriere
-"=HYPERLINK(""https://youtu.be/nDEAbVyWjNs"", ""Link"")",Blackie Mourns Luke,13:20,GH,1/1/1982,A,,1,1,judybeck
+"=HYPERLINK(""https://youtu.be/nDEAbVyWjNs"", ""Link"")",Blackie Mourns Luke,13:20,GH,1/1/1982,A,,1,1,generalhospitalexposed
 "=HYPERLINK(""https://youtu.be/9gUH8_5-fcM"", ""Link"")",New Year's Day Episode,21:47,GH,01/01/1982,A,P_893b3cff,1,2,romabriere
 "=HYPERLINK(""https://youtu.be/0sk1OWCdcX0"", ""Link"")",New Year's Day Episode,20:25,GH,01/01/1982,A,P_893b3cff,2,2,romabriere
 "=HYPERLINK(""https://youtu.be/4MnOZ4IgvfQ"", ""Link"")",Rick/Lesley Laura Presumed Dead,14:51,GH,01/01/1982,A,P_b00e9e54,1,3,romabriere
@@ -331,7 +331,7 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/fT2VlYwCqjY"", ""Link"")",Sammy Davis Jr. - General Hospital Promos,0:37,GH,6/1/1982,B,,1,1,theystartedonsoaps
 "=HYPERLINK(""https://youtu.be/PJ4znd5RHe8"", ""Link"")",Shelley Morrison on General Hospital,1:25,GH,6/1/1982,A,,1,1,theystartedonsoaps
 "=HYPERLINK(""https://youtu.be/didOAdA1LG4"", ""Link"")",Brian Robbins on General Hospital,0:55,GH,6/1/1982,A,,1,1,theystartedonsoaps
-"=HYPERLINK(""https://youtu.be/e2E0gwFPZZA"", ""Link"")",Lucille Wall Returns as Lucy March Weeks,2:26,GH,6/1/1982,A,,1,1,robertsharp
+"=HYPERLINK(""https://youtu.be/e2E0gwFPZZA"", ""Link"")",Lucille Wall Returns as Lucy March Weeks,2:26,GH,6/1/1982,A,,1,1,rhsharp
 "=HYPERLINK(""https://youtu.be/Hg6rnyapiUA"", ""Link"")",Episode,23:39,GH,06/02/1982,A,,1,2,romabriere
 "=HYPERLINK(""https://youtu.be/0eZBRUIya7o"", ""Link"")",Episode content,18:15,GH,06/02/1982,A,,2,2,romabriere
 "=HYPERLINK(""https://youtu.be/ZRsozO1k_A0"", ""Link"")",Rick/Lesley - Les Gets a Temporary Housekeeper,14:32,GH,06/02/1982,A,P_cb1179e8,2,3,romabriere
@@ -630,9 +630,9 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/8v2DZXoReQ8"", ""Link"")",Rick/Lesley Charlie,09:39,GH,05/25/1983,A,,1,1,romabriere
 "=HYPERLINK(""https://youtu.be/qZCNMeKXq18"", ""Link"")",Rick/Lesley Lesley and Rose Play Cupid,11:57,GH,06/01/1983,A,,1,1,romabriere
 "=HYPERLINK(""https://youtu.be/pW_Ol8EA3dU"", ""Link"")",John Stamos Shirtless on General Hospital,3:51,GH,6/1/1983,A,,1,1,theystartedonsoaps
-"=HYPERLINK(""https://youtu.be/DsP9AqCI5p0"", ""Link"")",Bobbie Spencer Scenes,9:51,GH,06/01/1983,A,,1,1,ryanshope
+"=HYPERLINK(""https://youtu.be/DsP9AqCI5p0"", ""Link"")",Bobbie Spencer Scenes,9:51,GH,06/01/1983,A,,1,1,ryanshope3316
 "=HYPERLINK(""https://youtu.be/XlkE-RKS9bk"", ""Link"")",Rick/Lesley Webber  06-16-83 Webber Excerpts from GH Hostage Crisis,7:42,GH,06/16/1983,A,,1,1,romabriere
-"=HYPERLINK(""https://youtu.be/Hw3EBJnluew"", ""Link"")",Bobbie Spencer Scenes,8:35,GH,06/29/1983,A,,1,1,ryanshope
+"=HYPERLINK(""https://youtu.be/Hw3EBJnluew"", ""Link"")",Bobbie Spencer Scenes,8:35,GH,06/29/1983,A,,1,1,ryanshope3316
 "=HYPERLINK(""https://youtu.be/6l-WONWXOMU"", ""Link"")",Rick/Lesley Ricks Hear't Tumor,07:52,GH,06/30/1983,A,P_3bc4e9ad,01,12,romabriere
 "=HYPERLINK(""https://youtu.be/g4_h4KHuZT8"", ""Link"")",Rick/Lesley Ricks Hear't Tumor,12:08,GH,06/30/1983,A,P_3bc4e9ad,02,12,romabriere
 "=HYPERLINK(""https://youtu.be/L3-DDgfZs0o"", ""Link"")",Rick/Lesley Ricks Hear't Tumor,4:44,GH,06/30/1983,A,P_3bc4e9ad,03,12,romabriere
@@ -805,7 +805,7 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/o896InEZZEI"", ""Link"")",Rick and Rose - Kelly's Under Fire,08:22,GH,12/20/1983,A,P_eb086b41,3,3,romabriere
 "=HYPERLINK(""https://youtu.be/EPTkPtqKXL4"", ""Link"")",Rick/Lesley Lauras Birthday,12:23,GH,12/23/1983,A,,1,1,romabriere
 "=HYPERLINK(""https://youtu.be/D5v9WQ9T3Qw"", ""Link"")",Rick/Lesley - Webber Back To Beecher's Corners,8:47,GH,12/27/1983,A,,1,1,romabriere
-"=HYPERLINK(""https://youtu.be/8i6uZaXmD-A"", ""Link"")",CATFIGHT - Ginny vs Bobbie,3:35,GH,01/01/1984,A,,1,1,fyi
+"=HYPERLINK(""https://youtu.be/8i6uZaXmD-A"", ""Link"")",CATFIGHT - Ginny vs Bobbie,3:35,GH,01/01/1984,A,,1,1,fyi9476
 "=HYPERLINK(""https://youtu.be/VsqiADtpg-s"", ""Link"")",Tribute to Lesley Webber 1973 - 1984,04:11,GH,01/01/1984,A,,1,1,romabriere
 "=HYPERLINK(""https://youtu.be/gAAH8vkrm58"", ""Link"")",Promo,0:31,GH,1/1/1984,B,,1,1,chuckd79
 "=HYPERLINK(""https://youtu.be/WyoOjRmKRrk"", ""Link"")",Blackie and the Riff Raff,06:12,GH,01/01/1984,A,P_7dbabf11,1,2,donna515
@@ -967,8 +967,8 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/wei-9A_iZ4Y"", ""Link"")",Episode,26:12,GH,04/30/1984,A,P_f0c1b4c4,1,2,romabriere
 "=HYPERLINK(""https://youtu.be/NAue-UiDp6g"", ""Link"")",Episode content,17:25,GH,04/30/1984,A,P_f0c1b4c4,2,2,romabriere
 "=HYPERLINK(""https://youtu.be/0annV18Q-_A"", ""Link"")",Promos,7:01,GH,01/01/1985,B,,1,1,hamiltonbernique
-"=HYPERLINK(""https://youtu.be/uIvR55Sn6GA"", ""Link"")",Bobbie Spencer Tears Up Hubby's Photo Album In A Rage,2:40,GH,01/01/1985,A,,1,1,fyi
-"=HYPERLINK(""https://youtu.be/Q4qK9qeKxMA"", ""Link"")",Episode,41:40,GH,4/22/1985,A,,1,1,jimmuneco
+"=HYPERLINK(""https://youtu.be/uIvR55Sn6GA"", ""Link"")",Bobbie Spencer Tears Up Hubby's Photo Album In A Rage,2:40,GH,01/01/1985,A,,1,1,fyi9476
+"=HYPERLINK(""https://youtu.be/Q4qK9qeKxMA"", ""Link"")",Episode,41:40,GH,4/22/1985,A,,1,1,jimmuneco1877
 "=HYPERLINK(""https://youtu.be/tgILTDCjY6g"", ""Link"")",Penny Johnson Jerald,05:20,GH,01/01/1986,A,,1,1,theystartedonsoaps
 "=HYPERLINK(""https://youtu.be/Evj0vIbTS4U"", ""Link"")",Promo,0:31,GH,1/1/1986,B,,1,1,chuckd79
 "=HYPERLINK(""https://youtu.be/-sudyRTaHnY"", ""Link"")",Promo,00:26,GH,04/01/1987,B,,1,1,disabled1955
@@ -977,9 +977,9 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/wv1wAYqrAiY"", ""Link"")",Tracy Meets Robert,0:47,GH,01/01/1989,A,,1,1,ackgh73994
 "=HYPERLINK(""https://youtu.be/iKX8AzWhOAw"", ""Link"")",Tracy Quartermaine Returns 1989,8:57,GH,01/01/1989,A,,1,1,ackgh73994
 "=HYPERLINK(""https://youtu.be/PxRny4uSDkQ"", ""Link"")",Tracy and Larry,05:56,GH,01/01/1989,A,,1,1,ackgh73994
-"=HYPERLINK(""https://youtu.be/SfB_D0ZWTv8"", ""Link"")",Bobbie Spencer Scenes,5:37,GH,01/27/1989,A,,1,1,ryanshope
-"=HYPERLINK(""https://youtu.be/KDN7BQCcUx0"", ""Link"")",Bobbie Spencer Scene,9:42,GH,08/08/1989,A,,1,1,ryanshope
-"=HYPERLINK(""https://youtu.be/TmbK_f0fh7o"", ""Link"")",Bobbie Spencer Scenes,2:29,GH,10/06/1989,A,,1,1,ryanshope
+"=HYPERLINK(""https://youtu.be/SfB_D0ZWTv8"", ""Link"")",Bobbie Spencer Scenes,5:37,GH,01/27/1989,A,,1,1,ryanshope3316
+"=HYPERLINK(""https://youtu.be/KDN7BQCcUx0"", ""Link"")",Bobbie Spencer Scene,9:42,GH,08/08/1989,A,,1,1,ryanshope3316
+"=HYPERLINK(""https://youtu.be/TmbK_f0fh7o"", ""Link"")",Bobbie Spencer Scenes,2:29,GH,10/06/1989,A,,1,1,ryanshope3316
 "=HYPERLINK(""https://youtu.be/9KwbqKfS0Rg"", ""Link"")",Episode content,4:19,GH,10/11/1989,A,P_63449140,1,8,snarkweighsin
 "=HYPERLINK(""https://youtu.be/VsP8corD9lc"", ""Link"")",Episode content,05:37,GH,10/11/1989,A,P_63449140,2,8,snarkweighsin
 "=HYPERLINK(""https://youtu.be/oQAt5aw6ak0"", ""Link"")",Episode content,07:25,GH,10/11/1989,A,P_63449140,3,8,snarkweighsin
