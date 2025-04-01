@@ -1,5 +1,17 @@
 [
     {
+        "id": "iclo-cZ31-E",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Daytime to Remember - Pat and Tony - Viki and Joe",
+        "date": "1/1/1967",
+        "part": "1",
+        "total": "1",
+        "duration": "28:23",
+        "channel": "foryourviewingpleasure966"
+    },
+    {
         "id": "BfWfldgvpPM",
         "parentid": "",
         "soap": "OLTL",
@@ -3156,6 +3168,18 @@
         "channel": "edwynnsanchez"
     },
     {
+        "id": "4-vTa9HFCrs",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Daytime to Remember - Karen Wolek on the stand during Vicki's trial",
+        "date": "6/1/1979",
+        "part": "1",
+        "total": "1",
+        "duration": "53:19",
+        "channel": "foryourviewingpleasure966"
+    },
+    {
         "id": "NDcC2iBxPOA",
         "parentid": "P_68acaf1d",
         "soap": "OLTL",
@@ -3190,5 +3214,17 @@
         "total": "3",
         "duration": "04:57",
         "channel": "donna515"
+    },
+    {
+        "id": "V2eDyS4kn7M",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Daytime to Remember - Karen and Marco switch babies",
+        "date": "6/2/1979",
+        "part": "1",
+        "total": "1",
+        "duration": "28:23",
+        "channel": "foryourviewingpleasure966"
     }
 ]
