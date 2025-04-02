@@ -12,6 +12,30 @@
         "channel": "chuckd79"
     },
     {
+        "id": "9s5ojBMJYho",
+        "parentid": "",
+        "soap": "DAYS",
+        "category": "B",
+        "title": "\"Jennifer's Return\" Promo",
+        "date": "10/1/2000",
+        "part": "1",
+        "total": "1",
+        "duration": "0:11",
+        "channel": "hazeleyes8965"
+    },
+    {
+        "id": "Rq1XQU3Mzgc",
+        "parentid": "",
+        "soap": "DAYS",
+        "category": "B",
+        "title": "Jack/Jennifer/Greta Promo #1",
+        "date": "1/1/2001",
+        "part": "1",
+        "total": "1",
+        "duration": "0:21",
+        "channel": "hazeleyes8965"
+    },
+    {
         "id": "GhAnLpM9noo",
         "parentid": "",
         "soap": "DAYS",
@@ -22,6 +46,30 @@
         "total": "1",
         "duration": "0:21",
         "channel": "chuckd79"
+    },
+    {
+        "id": "H1oJTc655rY",
+        "parentid": "",
+        "soap": "DAYS",
+        "category": "B",
+        "title": "Days Jack/Jennifer/Greta Promo #2",
+        "date": "01/1/2002",
+        "part": "1",
+        "total": "1",
+        "duration": "0:21",
+        "channel": "hazeleyes8965"
+    },
+    {
+        "id": "XWGTVPQRb5w",
+        "parentid": "",
+        "soap": "DAYS",
+        "category": "B",
+        "title": "Jack/Jennifer/Billie promo",
+        "date": "08/1/2002",
+        "part": "1",
+        "total": "1",
+        "duration": "0:20",
+        "channel": "hazeleyes8965"
     },
     {
         "id": "__qQG-qaXSw",
@@ -46,6 +94,18 @@
         "total": "1",
         "duration": "0:21",
         "channel": "disabled1955"
+    },
+    {
+        "id": "xhSHjLWSqFA",
+        "parentid": "",
+        "soap": "DAYS",
+        "category": "B",
+        "title": "Jack and Jennifer Soapnet Promos",
+        "date": "01/1/2004",
+        "part": "1",
+        "total": "1",
+        "duration": "1:32",
+        "channel": "hazeleyes8965"
     },
     {
         "id": "j6zVo9xImVA",

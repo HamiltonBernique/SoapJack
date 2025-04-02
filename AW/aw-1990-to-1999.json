@@ -5040,6 +5040,18 @@
         "channel": "chase4everchase"
     },
     {
+        "id": "_CQ_0yPWuys",
+        "parentid": "",
+        "soap": "AW",
+        "category": "B",
+        "title": "Jake and Paulina Promo",
+        "date": "05/1/1992",
+        "part": "1",
+        "total": "1",
+        "duration": "0:22",
+        "channel": "hazeleyes8965"
+    },
+    {
         "id": "kTN7wr7l0Jg",
         "parentid": "",
         "soap": "AW",
@@ -5544,6 +5556,18 @@
         "channel": "veggieburgermeister"
     },
     {
+        "id": "Bhp1I72f434",
+        "parentid": "",
+        "soap": "AW",
+        "category": "B",
+        "title": "Grant/Vicky/Ryan Promo #1",
+        "date": "06/1/1992",
+        "part": "1",
+        "total": "1",
+        "duration": "0:20",
+        "channel": "hazeleyes8965"
+    },
+    {
         "id": "6bhTgFlBcFQ",
         "parentid": "P_5aca8165",
         "soap": "AW",
@@ -5712,6 +5736,42 @@
         "channel": "chase4everchase"
     },
     {
+        "id": "x8bstGGiCdc",
+        "parentid": "",
+        "soap": "AW",
+        "category": "B",
+        "title": "\"A Killer Among Them\" Promo #1",
+        "date": "07/1/1992",
+        "part": "1",
+        "total": "1",
+        "duration": "0:14",
+        "channel": "hazeleyes8965"
+    },
+    {
+        "id": "d5ZN2e4P2RU",
+        "parentid": "",
+        "soap": "AW",
+        "category": "B",
+        "title": "Ryan/Grant Part Promo",
+        "date": "07/1/1992",
+        "part": "1",
+        "total": "1",
+        "duration": "0:08",
+        "channel": "hazeleyes8965"
+    },
+    {
+        "id": "wCxL_PcyCBk",
+        "parentid": "",
+        "soap": "AW",
+        "category": "B",
+        "title": "\"A Killer Among Them\" Promo #2",
+        "date": "08/1/1992",
+        "part": "1",
+        "total": "1",
+        "duration": "0:23",
+        "channel": "hazeleyes8965"
+    },
+    {
         "id": "rruD2reYOjQ",
         "parentid": "",
         "soap": "AW",
@@ -5734,6 +5794,54 @@
         "total": "1",
         "duration": "49:17",
         "channel": "chase4everchase"
+    },
+    {
+        "id": "jzc4vFaaYrU",
+        "parentid": "",
+        "soap": "AW",
+        "category": "B",
+        "title": "Dennis and Marley Promo",
+        "date": "09/1/1992",
+        "part": "1",
+        "total": "1",
+        "duration": "0:20",
+        "channel": "hazeleyes8965"
+    },
+    {
+        "id": "j6FeO0kuuaU",
+        "parentid": "",
+        "soap": "AW",
+        "category": "B",
+        "title": "Jamie/Kelsey Promo",
+        "date": "10/1/1992",
+        "part": "1",
+        "total": "1",
+        "duration": "0:22",
+        "channel": "hazeleyes8965"
+    },
+    {
+        "id": "kZ87QkND3UA",
+        "parentid": "",
+        "soap": "AW",
+        "category": "B",
+        "title": "Kevin and Lorna Promo #1",
+        "date": "10/1/1992",
+        "part": "1",
+        "total": "1",
+        "duration": "0:23",
+        "channel": "hazeleyes8965"
+    },
+    {
+        "id": "wsR_-XJ-494",
+        "parentid": "",
+        "soap": "AW",
+        "category": "B",
+        "title": "Kevin and Lorna Promo #2",
+        "date": "10/1/1992",
+        "part": "1",
+        "total": "1",
+        "duration": "0:23",
+        "channel": "hazeleyes8965"
     },
     {
         "id": "j-f-bjgokWo",
@@ -5818,6 +5926,42 @@
         "total": "1",
         "duration": "42:45",
         "channel": "pimlicocalico"
+    },
+    {
+        "id": "vOBslTU9oDw",
+        "parentid": "",
+        "soap": "AW",
+        "category": "B",
+        "title": "\"Catch a Killer\" Promo",
+        "date": "11/1/1992",
+        "part": "1",
+        "total": "1",
+        "duration": "0:21",
+        "channel": "hazeleyes8965"
+    },
+    {
+        "id": "fBPlPI-YXEc",
+        "parentid": "",
+        "soap": "AW",
+        "category": "B",
+        "title": "Grant/Vicky/Ryan Promo #2",
+        "date": "11/1/1992",
+        "part": "1",
+        "total": "1",
+        "duration": "0:22",
+        "channel": "hazeleyes8965"
+    },
+    {
+        "id": "ay6ViYPlOx0",
+        "parentid": "",
+        "soap": "AW",
+        "category": "B",
+        "title": "Kevin/Jake/Sally Promo",
+        "date": "11/1/1992",
+        "part": "1",
+        "total": "1",
+        "duration": "0:20",
+        "channel": "hazeleyes8965"
     },
     {
         "id": "DpYUdFfF6vM",
