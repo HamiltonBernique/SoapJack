@@ -44,45 +44,45 @@ A = Episodes and clips
 
 B = Promos, open/closings
 
-C = Awards
-
-| Soap Opera | Stats |
+| Soap Opera | Stats
 | --- | --- |
-| **All My Children** (AMC)<br>![AMC](/z-media/AMC.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/AMC) | May 1970 to January 2017<br>Total: 5,333<br>Episodes and clips: 5,073 (95%)<br>Open/Close, promos: 258 (5%) |
-| **As The World Turns** (ATWT)<br>![ATWT](/z-media/ATWT.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/ATWT) | April 1957 to September 2010<br>Total: 644<br>Episodes and clips: 573 (89%)<br>Open/Close, promos: 71 (11%) |
-| **Another World** (AW)<br>![AW](/z-media/AW.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/AW) | May 1964 to July 2002<br>Total: 3,888<br>Episodes and clips: 3,808 (98%)<br>Open/Close, promos: 80 (2%) |
-| **Bold And The Beautiful** (BB)<br>![BB](/z-media/BB.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/BB) | January 1989 to September 2010<br>Total: 56<br>Episodes and clips: 17 (30%)<br>Open/Close, promos: 39 (70%) |
+| **All My Children** (AMC)<br>![AMC](/z-media/AMC.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/AMC) | May 1970 to January 2017<br>Total: 5,345<br>Episodes and clips: 5,077 (95%)<br>Open/Close, promos: 268 (5%) |
+| **As The World Turns** (ATWT)<br>![ATWT](/z-media/ATWT.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/ATWT) | April 1957 to September 2010<br>Total: 658<br>Episodes and clips: 573 (87%)<br>Open/Close, promos: 85 (13%) |
+| **Another World** (AW)<br>![AW](/z-media/AW.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/AW) | May 1964 to July 2002<br>Total: 3,983<br>Episodes and clips: 3,850 (97%)<br>Open/Close, promos: 133 (3%) |
+| **Bold And The Beautiful** (BB)<br>![BB](/z-media/BB.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/BB) | January 1987 to September 2010<br>Total: 63<br>Episodes and clips: 17 (27%)<br>Open/Close, promos: 46 (73%) |
 | **The Brighter Day** (BDAY)<br>![BDAY](/z-media/BDAY.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/BDAY) | January 1955 to January 1960<br>Total: 4<br>Episodes and clips: 4 (100%)<br>Open/Close, promos: 0 (0%) |
-| **The City** (CITY)<br>![CITY](/z-media/CITY.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/CITY) | January 1991 to February 1997<br>Total: 28<br>Episodes and clips: 27 (96%)<br>Open/Close, promos: 1 (4%) |
-| **Capitol** (CPTL)<br>![CPTL](/z-media/CPTL.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/CPTL) | January 1982 to March 1987<br>Total: 124<br>Episodes and clips: 121 (98%)<br>Open/Close, promos: 3 (2%) |
-| **Days Of Our Lives** (DAYS)<br>![DAYS](/z-media/DAYS.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/DAYS) | November 1965 to September 2009<br>Total: 71<br>Episodes and clips: 26 (37%)<br>Open/Close, promos: 45 (63%) |
-| **The Doctors** (DCTR)<br>![DCTR](/z-media/DCTR.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/DCTR) | December 1967 to January 1982<br>Total: 21<br>Episodes and clips: 15 (71%)<br>Open/Close, promos: 6 (29%) |
-| **The Edge Of Night** (EDGE)<br>![EDGE](/z-media/EDGE.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/EDGE) | January 1955 to December 1984<br>Total: 504<br>Episodes and clips: 485 (96%)<br>Open/Close, promos: 19 (4%) |
+| **The City** (CITY)<br>![CITY](/z-media/CITY.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/CITY) | January 1991 to February 1997<br>Total: 30<br>Episodes and clips: 27 (90%)<br>Open/Close, promos: 3 (10%) |
+| **Capitol** (CPTL)<br>![CPTL](/z-media/CPTL.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/CPTL) | January 1980 to March 1987<br>Total: 131<br>Episodes and clips: 121 (92%)<br>Open/Close, promos: 10 (8%) |
+| **Days Of Our Lives** (DAYS)<br>![DAYS](/z-media/DAYS.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/DAYS) | November 1965 to September 2009<br>Total: 141<br>Episodes and clips: 26 (18%)<br>Open/Close, promos: 115 (82%) |
+| **The Doctors** (DCTR)<br>![DCTR](/z-media/DCTR.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/DCTR) | December 1967 to January 1982<br>Total: 24<br>Episodes and clips: 15 (62%)<br>Open/Close, promos: 9 (38%) |
+| **The Edge Of Night** (EDGE)<br>![EDGE](/z-media/EDGE.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/EDGE) | January 1955 to December 1984<br>Total: 509<br>Episodes and clips: 485 (95%)<br>Open/Close, promos: 24 (5%) |
 | **The Egg and I** (EGG)<br>![EGG](/z-media/EGG.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/EGG) | January 1951 to March 1952<br>Total: 2<br>Episodes and clips: 2 (100%)<br>Open/Close, promos: 0 (0%) |
 | **Emergency Ward 10** (EW10)<br>![EW10](/z-media/EW10.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/EW10) | August 1958 to August 1959<br>Total: 3<br>Episodes and clips: 3 (100%)<br>Open/Close, promos: 0 (0%) |
-| **Daytime Emmy Awards** (EMMY)<br>![EMMY](/z-media/EMMY.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/EMMY) | June 1980 to June 2012<br>Total: 128<br>Episodes and clips: 0 (0%)<br>Open/Close, promos: 0 (0%) |
+| **Daytime Emmy Awards** (EMMY)<br>![EMMY](/z-media/EMMY.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/EMMY) | January 1978 to June 2012<br>Total: 131<br>Episodes and clips: 0 (0%)<br>Open/Close, promos: 3 (2%) |
 | **The First Hundred Years** (FHY)<br>![FHY](/z-media/FHY.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/FHY) | January 1952 to January 1952<br>Total: 2<br>Episodes and clips: 2 (100%)<br>Open/Close, promos: 0 (0%) |
-| **General Hospital** (GH)<br>![GH](/z-media/GH.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/GH) | January 1962 to October 2016<br>Total: 7,770<br>Episodes and clips: 7,493 (96%)<br>Open/Close, promos: 275 (4%) |
-| **Generations** (GENR)<br>![GENR](/z-media/GENR.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/GENR) | January 1989 to January 1991<br>Total: 28<br>Episodes and clips: 28 (100%)<br>Open/Close, promos: 0 (0%) |
-| **Guiding Light** (GL)<br>![GL](/z-media/GL.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/GL) | July 1952 to September 2009<br>Total: 972<br>Episodes and clips: 892 (92%)<br>Open/Close, promos: 79 (8%) |
+| **General Hospital** (GH)<br>![GH](/z-media/GH.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/GH) | January 1962 to October 2016<br>Total: 7,782<br>Episodes and clips: 7,494 (96%)<br>Open/Close, promos: 286 (4%) |
+| **Generations** (GENR)<br>![GENR](/z-media/GENR.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/GENR) | January 1989 to January 1991<br>Total: 29<br>Episodes and clips: 28 (97%)<br>Open/Close, promos: 1 (3%) |
+| **Guiding Light** (GL)<br>![GL](/z-media/GL.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/GL) | July 1952 to September 2009<br>Total: 983<br>Episodes and clips: 893 (91%)<br>Open/Close, promos: 90 (9%) |
 | **Hawkins Falls** (HFLS)<br>![HFLS](/z-media/HFLS.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/HFLS) | October 1950 to April 1955<br>Total: 7<br>Episodes and clips: 7 (100%)<br>Open/Close, promos: 0 (0%) |
-| **Love of Life** (LL)<br>![LL](/z-media/LL.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/LL) | January 1953 to October 1982<br>Total: 27<br>Episodes and clips: 26 (96%)<br>Open/Close, promos: 1 (4%) |
+| **Love of Life** (LL)<br>![LL](/z-media/LL.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/LL) | January 1953 to October 1982<br>Total: 28<br>Episodes and clips: 26 (93%)<br>Open/Close, promos: 2 (7%) |
 | **Love is a Many Splendored Thing** (LMST)<br>![LMST](/z-media/LMST.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/LMST) | December 1967 to March 1973<br>Total: 5<br>Episodes and clips: 5 (100%)<br>Open/Close, promos: 0 (0%) |
-| **Loving** (LVNG)<br>![LVNG](/z-media/LVNG.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/LVNG) | January 1983 to May 2009<br>Total: 102<br>Episodes and clips: 85 (83%)<br>Open/Close, promos: 17 (17%) |
+| **Loving** (LVNG)<br>![LVNG](/z-media/LVNG.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/LVNG) | January 1983 to May 2009<br>Total: 106<br>Episodes and clips: 85 (80%)<br>Open/Close, promos: 21 (20%) |
 | **Morning Star** (MSTR)<br>![MSTR](/z-media/MSTR.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/MSTR) | March 1966 to June 1966<br>Total: 5<br>Episodes and clips: 5 (100%)<br>Open/Close, promos: 0 (0%) |
-| **One Life To Live** (OLTL)<br>![OLTL](/z-media/OLTL.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/OLTL) | January 1968 to January 2017<br>Total: 2,754<br>Episodes and clips: 2,375 (86%)<br>Open/Close, promos: 369 (13%) |
+| **One Life To Live** (OLTL)<br>![OLTL](/z-media/OLTL.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/OLTL) | January 1967 to January 2017<br>Total: 3,016<br>Episodes and clips: 2,634 (87%)<br>Open/Close, promos: 382 (13%) |
 | **Peyton Place** (PP)<br>![PP](/z-media/PP.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/PP) | September 1964 to June 1969<br>Total: 957<br>Episodes and clips: 956 (100%)<br>Open/Close, promos: 1 (0%) |
-| **Port Charles** (PC)<br>![PC](/z-media/PC.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/PC) | January 1997 to October 2003<br>Total: 1,627<br>Episodes and clips: 1,622 (100%)<br>Open/Close, promos: 3 (0%) |
+| **Port Charles** (PC)<br>![PC](/z-media/PC.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/PC) | January 1997 to October 2003<br>Total: 1,627<br>Episodes and clips: 1,624 (100%)<br>Open/Close, promos: 3 (0%) |
 | **Rare Treasures** (RARE)<br>![RARE](/z-media/RARE.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/RARE) | September 1953 to June 1971<br>Total: 9<br>Episodes and clips: 9 (100%)<br>Open/Close, promos: 0 (0%) |
-| **Ryan's Hope** (RH)<br>![RH](/z-media/RH.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/RH) | January 1975 to October 1989<br>Total: 210<br>Episodes and clips: 135 (64%)<br>Open/Close, promos: 75 (36%) |
-| **Santa Barbara** (SB)<br>![SB](/z-media/SB.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/SB) | June 1984 to January 1993<br>Total: 385<br>Episodes and clips: 380 (99%)<br>Open/Close, promos: 5 (1%) |
-| **Search For Tomorrow** (SFT)<br>![SFT](/z-media/SFT.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/SFT) | September 1951 to December 1986<br>Total: 245<br>Episodes and clips: 223 (91%)<br>Open/Close, promos: 21 (9%) |
+| **Ryan's Hope** (RH)<br>![RH](/z-media/RH.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/RH) | January 1975 to October 1989<br>Total: 216<br>Episodes and clips: 135 (62%)<br>Open/Close, promos: 81 (38%) |
+| **Santa Barbara** (SB)<br>![SB](/z-media/SB.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/SB) | January 1984 to January 1993<br>Total: 439<br>Episodes and clips: 380 (87%)<br>Open/Close, promos: 59 (13%) |
+| **Search For Tomorrow** (SFT)<br>![SFT](/z-media/SFT.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/SFT) | September 1951 to December 1986<br>Total: 251<br>Episodes and clips: 223 (89%)<br>Open/Close, promos: 27 (11%) |
 | **Secret Storm** (SS)<br>![SS](/z-media/SS.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/SS) | January 1955 to April 1973<br>Total: 19<br>Episodes and clips: 16 (84%)<br>Open/Close, promos: 3 (16%) |
 | **Sunset Beach** (SSB)<br>![SSB](/z-media/SSB.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/SSB) | January 1997 to December 1998<br>Total: 30<br>Episodes and clips: 6 (20%)<br>Open/Close, promos: 24 (80%) |
 | **Summerset** (SSET)<br>![SSET](/z-media/SSET.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/SSET) | November 1972 to January 1973<br>Total: 2<br>Episodes and clips: 1 (50%)<br>Open/Close, promos: 1 (50%) |
 | **Texas** (TX)<br>![TX](/z-media/TX.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/TX) | January 1980 to January 1992<br>Total: 471<br>Episodes and clips: 416 (88%)<br>Open/Close, promos: 55 (12%) |
 | **Valient Lady** (VALL)<br>![VALL](/z-media/VALL.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/VALL) | November 1953 to January 1955<br>Total: 5<br>Episodes and clips: 5 (100%)<br>Open/Close, promos: 0 (0%) |
-| **Young And The Restless** (YR)<br>![YR](/z-media/YR.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/YR) | January 1973 to January 2016<br>Total: 54<br>Episodes and clips: 19 (35%)<br>Open/Close, promos: 35 (65%) |
+| **Young And The Restless** (YR)<br>![YR](/z-media/YR.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/YR) | January 1973 to January 2016<br>Total: 81<br>Episodes and clips: 20 (25%)<br>Open/Close, promos: 61 (75%) |
+
+
 
 
 ## How to watch videos
