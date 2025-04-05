@@ -72,7 +72,7 @@ B = Promos, open/closings
 | **Peyton Place** (PP)<br>![PP](/z-media/PP.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/PP) | September 1964 to June 1969<br>Total: 957<br>Episodes and clips: 956 (100%)<br>Open/Close, promos: 1 (0%) |
 | **Port Charles** (PC)<br>![PC](/z-media/PC.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/PC) | January 1997 to October 2003<br>Total: 1,627<br>Episodes and clips: 1,624 (100%)<br>Open/Close, promos: 3 (0%) |
 | **Rare Treasures** (RARE)<br>![RARE](/z-media/RARE.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/RARE) | September 1953 to June 1971<br>Total: 9<br>Episodes and clips: 9 (100%)<br>Open/Close, promos: 0 (0%) |
-| **Ryan's Hope** (RH)<br>![RH](/z-media/RH.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/RH) | January 1975 to October 1989<br>Total: 216<br>Episodes and clips: 135 (62%)<br>Open/Close, promos: 81 (38%) |
+| **Ryan's Hope** (RH)<br>![RH](/z-media/RH.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/RH) | January 1975 to October 1989<br>Total: 690<br>Episodes and clips: 609 (88%)<br>Open/Close, promos: 81 (12%) |
 | **Santa Barbara** (SB)<br>![SB](/z-media/SB.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/SB) | January 1984 to January 1993<br>Total: 439<br>Episodes and clips: 380 (87%)<br>Open/Close, promos: 59 (13%) |
 | **Search For Tomorrow** (SFT)<br>![SFT](/z-media/SFT.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/SFT) | September 1951 to December 1986<br>Total: 251<br>Episodes and clips: 223 (89%)<br>Open/Close, promos: 27 (11%) |
 | **Secret Storm** (SS)<br>![SS](/z-media/SS.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/SS) | January 1955 to April 1973<br>Total: 19<br>Episodes and clips: 16 (84%)<br>Open/Close, promos: 3 (16%) |
@@ -81,9 +81,6 @@ B = Promos, open/closings
 | **Texas** (TX)<br>![TX](/z-media/TX.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/TX) | January 1980 to January 1992<br>Total: 471<br>Episodes and clips: 416 (88%)<br>Open/Close, promos: 55 (12%) |
 | **Valient Lady** (VALL)<br>![VALL](/z-media/VALL.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/VALL) | November 1953 to January 1955<br>Total: 5<br>Episodes and clips: 5 (100%)<br>Open/Close, promos: 0 (0%) |
 | **Young And The Restless** (YR)<br>![YR](/z-media/YR.webp)<br>[GitHub files](https://github.com/HamiltonBernique/SoapJack/tree/main/YR) | January 1973 to January 2016<br>Total: 81<br>Episodes and clips: 20 (25%)<br>Open/Close, promos: 61 (75%) |
-
-
-
 
 ## How to watch videos
 
