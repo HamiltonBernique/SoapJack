@@ -1,5 +1,41 @@
 [
     {
+        "id": "aik2doJ1qEk",
+        "parentid": "",
+        "soap": "AMC",
+        "category": "A",
+        "title": "Episode",
+        "date": "02/04/1970",
+        "part": "1",
+        "total": "1",
+        "duration": "22:26",
+        "channel": "iheartallmychildren"
+    },
+    {
+        "id": "Bo6ifUpcxhU",
+        "parentid": "",
+        "soap": "AMC",
+        "category": "A",
+        "title": "Episode",
+        "date": "02/27/1970",
+        "part": "1",
+        "total": "1",
+        "duration": "22:23",
+        "channel": "iheartallmychildren"
+    },
+    {
+        "id": "Ac2t4YZuOmM",
+        "parentid": "",
+        "soap": "AMC",
+        "category": "A",
+        "title": "Episode",
+        "date": "04/20/1970",
+        "part": "1",
+        "total": "1",
+        "duration": "21:58",
+        "channel": "iheartallmychildren"
+    },
+    {
         "id": "AqQORDkqTGk",
         "parentid": "",
         "soap": "AMC",
@@ -70,6 +106,18 @@
         "total": "2",
         "duration": "09:45",
         "channel": "donna515"
+    },
+    {
+        "id": "CDbEtLVijEo",
+        "parentid": "",
+        "soap": "AMC",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/12/1970",
+        "part": "1",
+        "total": "1",
+        "duration": "16:39",
+        "channel": "iheartallmychildren"
     },
     {
         "id": "G9_QFqGv3W8",
@@ -204,6 +252,18 @@
         "channel": "theystartedonsoaps"
     },
     {
+        "id": "ekKABhuma4E",
+        "parentid": "",
+        "soap": "AMC",
+        "category": "A",
+        "title": "Episode (audio only)",
+        "date": "8/1/1978",
+        "part": "1",
+        "total": "1",
+        "duration": "20:46",
+        "channel": "iheartallmychildren"
+    },
+    {
         "id": "lqsIcide5gI",
         "parentid": "",
         "soap": "AMC",
@@ -226,6 +286,18 @@
         "total": "1",
         "duration": "00:46",
         "channel": "ackgh73994"
+    },
+    {
+        "id": "LMvpMnsoZ2E",
+        "parentid": "",
+        "soap": "AMC",
+        "category": "A",
+        "title": "Episode",
+        "date": "09/06/1978",
+        "part": "1",
+        "total": "1",
+        "duration": "44:01",
+        "channel": "iheartallmychildren"
     },
     {
         "id": "3trPoYzF_ng",
@@ -382,5 +454,17 @@
         "total": "2",
         "duration": "09:26",
         "channel": "donna515"
+    },
+    {
+        "id": "QkurLPa6xic",
+        "parentid": "",
+        "soap": "AMC",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/27/1979",
+        "part": "1",
+        "total": "1",
+        "duration": "40:13",
+        "channel": "iheartallmychildren"
     }
 ]

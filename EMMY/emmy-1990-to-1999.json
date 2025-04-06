@@ -552,6 +552,30 @@
         "channel": "celebratingthesoaps"
     },
     {
+        "id": "YjGpL5qhcms",
+        "parentid": "",
+        "soap": "EMMY",
+        "category": "C",
+        "title": "1997 Daytime Emmy Awards",
+        "date": "06/01/1997",
+        "part": "1",
+        "total": "1",
+        "duration": "3:21",
+        "channel": "longlivethebluths"
+    },
+    {
+        "id": "r_V7QbZXVOs",
+        "parentid": "",
+        "soap": "EMMY",
+        "category": "C",
+        "title": "1997 Daytime Emmy Awards Best Writing",
+        "date": "06/01/1997",
+        "part": "1",
+        "total": "1",
+        "duration": "4:11",
+        "channel": "longlivethebluths"
+    },
+    {
         "id": "zQgCLgIBT8c",
         "parentid": "",
         "soap": "EMMY",
@@ -634,6 +658,54 @@
         "total": "1",
         "duration": "1:30:36",
         "channel": "edwynnsanchez"
+    },
+    {
+        "id": "fLMq0nT2614",
+        "parentid": "",
+        "soap": "EMMY",
+        "category": "C",
+        "title": "1998 Daytime Emmy Awards",
+        "date": "05/31/1998",
+        "part": "1",
+        "total": "1",
+        "duration": "3:17",
+        "channel": "longlivethebluths"
+    },
+    {
+        "id": "Pd2HQOYdepc",
+        "parentid": "",
+        "soap": "EMMY",
+        "category": "C",
+        "title": "1998 Daytime Emmy Awards",
+        "date": "05/31/1998",
+        "part": "1",
+        "total": "1",
+        "duration": "4:19",
+        "channel": "longlivethebluths"
+    },
+    {
+        "id": "JOfZfrljNw8",
+        "parentid": "",
+        "soap": "EMMY",
+        "category": "C",
+        "title": "1998 Daytime Emmy Awards",
+        "date": "05/31/1998",
+        "part": "1",
+        "total": "1",
+        "duration": "1:58",
+        "channel": "longlivethebluths"
+    },
+    {
+        "id": "amzQIst7D98",
+        "parentid": "",
+        "soap": "EMMY",
+        "category": "C",
+        "title": "1998 Daytime Emmy Awards",
+        "date": "05/31/1998",
+        "part": "1",
+        "total": "1",
+        "duration": "2:23",
+        "channel": "longlivethebluths"
     },
     {
         "id": "1adM8OfjVug",
