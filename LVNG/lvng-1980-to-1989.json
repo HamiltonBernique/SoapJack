@@ -164,7 +164,7 @@
         "date": "12/01/1984",
         "part": "1",
         "total": "1",
-        "duration": "00:00:20",
+        "duration": "00:20",
         "channel": "theedgeofnightman"
     },
     {
@@ -344,7 +344,7 @@
         "date": "11/10/1987",
         "part": "1",
         "total": "1",
-        "duration": "00:21:50",
+        "duration": "21:50",
         "channel": "pannoni"
     },
     {
@@ -392,7 +392,7 @@
         "date": "05/13/1988",
         "part": "1",
         "total": "1",
-        "duration": "00:22:17",
+        "duration": "22:17",
         "channel": "pannoni"
     },
     {
