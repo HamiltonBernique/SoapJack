@@ -237,10 +237,10 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/SNpEMNizz48"", ""Link"")",Penelope Ann Miller,01:23,GL,01/01/1984,A,,1,1,theystartedonsoaps
 "=HYPERLINK(""https://youtu.be/PgOHiQNBD2E"", ""Link"")",Jimmy Smits,1:14,GL,01/01/1984,A,,1,1,theystartedonsoaps
 "=HYPERLINK(""https://youtu.be/bXur1cJsxDk"", ""Link"")",Episode,43:26,GL,2/1/1984,A,,1,1,jimmuneco1877
-"=HYPERLINK(""https://youtu.be/s_Ghk5s0jPM"", ""Link"")",Masquerade Ball,00:10:26,GL,02/01/1984,A,P_bd5a03fe,1,4,theedgeofnightman
-"=HYPERLINK(""https://youtu.be/OsEZFWg2Pps"", ""Link"")",Masquerade Ball,00:10:26,GL,02/01/1984,A,P_bd5a03fe,2,4,theedgeofnightman
-"=HYPERLINK(""https://youtu.be/-smzLWnQVoE"", ""Link"")",Masquerade Ball,00:10:26,GL,02/01/1984,A,P_bd5a03fe,3,4,theedgeofnightman
-"=HYPERLINK(""https://youtu.be/IfDeJaERoEo"", ""Link"")",Masquerade Ball,00:10:26,GL,02/01/1984,A,P_bd5a03fe,4,4,theedgeofnightman
+"=HYPERLINK(""https://youtu.be/s_Ghk5s0jPM"", ""Link"")",Masquerade Ball,10:26,GL,02/01/1984,A,P_bd5a03fe,1,4,theedgeofnightman
+"=HYPERLINK(""https://youtu.be/OsEZFWg2Pps"", ""Link"")",Masquerade Ball,10:26,GL,02/01/1984,A,P_bd5a03fe,2,4,theedgeofnightman
+"=HYPERLINK(""https://youtu.be/-smzLWnQVoE"", ""Link"")",Masquerade Ball,10:26,GL,02/01/1984,A,P_bd5a03fe,3,4,theedgeofnightman
+"=HYPERLINK(""https://youtu.be/IfDeJaERoEo"", ""Link"")",Masquerade Ball,10:26,GL,02/01/1984,A,P_bd5a03fe,4,4,theedgeofnightman
 "=HYPERLINK(""https://youtu.be/UD1s0bkkrcI"", ""Link"")",Episode,40:47,GL,2/2/1984,A,,1,1,jimmuneco1877
 "=HYPERLINK(""https://youtu.be/wfU5JEs1QtU"", ""Link"")",Episode content,13:42,GL,02/17/1984,A,P_76bd9452,1,3,soapsnthings4182
 "=HYPERLINK(""https://youtu.be/SLFDgpQi4DY"", ""Link"")",Episode content,14:44,GL,02/17/1984,A,P_76bd9452,2,3,soapsnthings4182
@@ -368,7 +368,7 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/oGztWT63Y-E"", ""Link"")",Episode content,12:43,GL,11/28/1984,A,,1,1,jimmuneco1877
 "=HYPERLINK(""https://youtu.be/tNdAYELc0GQ"", ""Link"")",Episode,42:04,GL,11/29/1984,A,,1,1,jimmuneco1877
 "=HYPERLINK(""https://youtu.be/s9uaZ-kS8Jg"", ""Link"")",Episode,41:16,GL,12/4/1984,A,,1,1,jimmuneco1877
-"=HYPERLINK(""https://youtu.be/JCH6wK2csK4"", ""Link"")",Episode,00:56:07,GL,12/06/1984,A,,1,1,pannoni
+"=HYPERLINK(""https://youtu.be/JCH6wK2csK4"", ""Link"")",Episode,56:07,GL,12/06/1984,A,,1,1,pannoni
 "=HYPERLINK(""https://youtu.be/lOPZ4YJzQH4"", ""Link"")",Episode,42:22,GL,12/7/1984,A,,1,1,jimmuneco1877
 "=HYPERLINK(""https://youtu.be/z_tUrfv_owo"", ""Link"")",Episode,42:20,GL,12/12/1984,A,,1,1,jimmuneco1877
 "=HYPERLINK(""https://youtu.be/RixJXlhKl3M"", ""Link"")",Episode,42:41,GL,12/24/1984,A,,1,1,jimmuneco1877
@@ -424,7 +424,7 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/zEBObv-fr6w"", ""Link"")",Episode,42:18,GL,11/12/1985,A,,1,1,jimmuneco1877
 "=HYPERLINK(""https://youtu.be/J3i1qHTWzUU"", ""Link"")",Episode,42:04,GL,11/13/1985,A,,1,1,jimmuneco1877
 "=HYPERLINK(""https://youtu.be/tAh0iqrGfOo"", ""Link"")",Episode,42:15,GL,11/14/1985,A,,1,1,jimmuneco1877
-"=HYPERLINK(""https://youtu.be/lN4NVaRBHmQ"", ""Link"")",Episode,00:23:15,GL,11/15/1985,A,,1,1,pannoni
+"=HYPERLINK(""https://youtu.be/lN4NVaRBHmQ"", ""Link"")",Episode,23:15,GL,11/15/1985,A,,1,1,pannoni
 "=HYPERLINK(""https://youtu.be/BusDsZRlrpE"", ""Link"")",Episode,41:52,GL,11/15/1985,A,,1,1,jimmuneco1877
 "=HYPERLINK(""https://youtu.be/ih0jJvtcvJA"", ""Link"")",Episode,42:08,GL,11/18/1985,A,,1,1,jimmuneco1877
 "=HYPERLINK(""https://youtu.be/1arCVPnU77s"", ""Link"")",Episode,42:20,GL,11/19/1985,A,,1,1,jimmuneco1877
@@ -508,7 +508,7 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/vQFmoRRH27o"", ""Link"")",Episode,35:10,GL,3/3/1987,A,,1,1,jimmuneco1877
 "=HYPERLINK(""https://youtu.be/nUnPGNuB71s"", ""Link"")",Episode,35:10,GL,3/3/1987,A,,1,1,jimmuneco1877
 "=HYPERLINK(""https://youtu.be/Uf3KsOZKcr8"", ""Link"")",Episode,41:59,GL,3/9/1987,A,,1,1,jimmuneco1877
-"=HYPERLINK(""https://youtu.be/SkNtm1PKTi0"", ""Link"")",Episode,00:39:42,GL,04/22/1987,A,,1,1,pannoni
+"=HYPERLINK(""https://youtu.be/SkNtm1PKTi0"", ""Link"")",Episode,39:42,GL,04/22/1987,A,,1,1,pannoni
 "=HYPERLINK(""https://youtu.be/X30kHqjg97o"", ""Link"")",Episode,41:14,GL,6/15/1987,A,,1,1,jimmuneco1877
 "=HYPERLINK(""https://youtu.be/iljkdGiPFJ0"", ""Link"")",Episode,42:04,GL,6/24/1987,A,,1,1,jimmuneco1877
 "=HYPERLINK(""https://youtu.be/V1jz48VnQBU"", ""Link"")",Episode,42:04,GL,6/26/1987,A,,1,1,jimmuneco1877
@@ -516,7 +516,7 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/6IVD2IgaR2Y"", ""Link"")",Episode,42:12,GL,7/1/1987,A,,1,1,jimmuneco1877
 "=HYPERLINK(""https://youtu.be/AaXqKp8J08E"", ""Link"")",Episode,43:28,GL,7/2/1987,A,,1,1,jimmuneco1877
 "=HYPERLINK(""https://youtu.be/5yb6jqhNE0Q"", ""Link"")",Episode,42:04,GL,7/3/1987,A,,1,1,jimmuneco1877
-"=HYPERLINK(""https://youtu.be/GFOUwtSxsAI"", ""Link"")",Episode,00:27:04,GL,11/05/1987,A,,1,1,pannoni
+"=HYPERLINK(""https://youtu.be/GFOUwtSxsAI"", ""Link"")",Episode,27:04,GL,11/05/1987,A,,1,1,pannoni
 "=HYPERLINK(""https://youtu.be/JzsrPnfxHWc"", ""Link"")",Episode,20:20,GL,11/6/1987,A,,1,1,jimmuneco1877
 "=HYPERLINK(""https://youtu.be/up2OAIUe7_Q"", ""Link"")",Episode,58:08,GL,12/21/1987,A,,1,1,bluerose8508
 "=HYPERLINK(""https://youtu.be/O01mrNURTgM"", ""Link"")",Episode,59:06,GL,12/22/1987,A,,1,1,bluerose8508
@@ -564,7 +564,7 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/zM2Bhj0R8gg"", ""Link"")",Episode,1:05:35,GL,1/1/1989,A,,1,1,cfs89
 "=HYPERLINK(""https://youtu.be/GdqW6-HoYrQ"", ""Link"")",Episode,1:00:38,GL,1/1/1989,A,,1,1,cfs89
 "=HYPERLINK(""https://youtu.be/V6vpzOFSNF0"", ""Link"")",Promo,0:21,GL,1/1/1989,B,,1,1,chuckd79
-"=HYPERLINK(""https://youtu.be/DzR2puMcDfs"", ""Link"")",Episode,00:59:56,GL,04/28/1989,A,,1,1,pannoni
+"=HYPERLINK(""https://youtu.be/DzR2puMcDfs"", ""Link"")",Episode,59:56,GL,04/28/1989,A,,1,1,pannoni
 "=HYPERLINK(""https://youtu.be/45l_fPa1l00"", ""Link"")",Episode,57:35,GL,06/28/1989,A,,1,1,bluerose8508
 "=HYPERLINK(""https://youtu.be/6-iMPV1-QFs"", ""Link"")",Episode,57:22,GL,06/29/1989,A,,1,1,bluerose8508
 "=HYPERLINK(""https://youtu.be/eAy8q2U5lCs"", ""Link"")",Episode,57:35,GL,06/30/1989,A,,1,1,bluerose8508
