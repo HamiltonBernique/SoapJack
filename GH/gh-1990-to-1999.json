@@ -204,42 +204,6 @@
         "channel": "carmaker1"
     },
     {
-        "id": "WVxGBVIeezU",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Sonny and Brenda First Meet 1993",
-        "date": "09/01/1993",
-        "part": "1",
-        "total": "1",
-        "duration": "1:44",
-        "channel": "luckibelle"
-    },
-    {
-        "id": "Kq9nnSiL2WM",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Sonny and Brenda",
-        "date": "10/01/1993",
-        "part": "1",
-        "total": "1",
-        "duration": "04:11",
-        "channel": "luckibelle"
-    },
-    {
-        "id": "nIOH95g8KDw",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Sonny and Brenda",
-        "date": "10/11/1993",
-        "part": "1",
-        "total": "1",
-        "duration": "9:57",
-        "channel": "luckibelle"
-    },
-    {
         "id": "XWpU7aX1OuU",
         "parentid": "",
         "soap": "GH",
@@ -250,18 +214,6 @@
         "total": "1",
         "duration": "20:44",
         "channel": "soonermark1"
-    },
-    {
-        "id": "yAhrJ4aVNFU",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Sonny and Brenda",
-        "date": "12/01/1993",
-        "part": "1",
-        "total": "1",
-        "duration": "07:09",
-        "channel": "luckibelle"
     },
     {
         "id": "_P60rOhS7K0",
@@ -528,18 +480,6 @@
         "channel": "carmaker1"
     },
     {
-        "id": "0Mv77wGSbh4",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Montage",
-        "date": "12/23/1995",
-        "part": "1",
-        "total": "1",
-        "duration": "02:34",
-        "channel": "luckibelle"
-    },
-    {
         "id": "qoux7JWm3uo",
         "parentid": "",
         "soap": "GH",
@@ -562,18 +502,6 @@
         "total": "1",
         "duration": "10:59",
         "channel": "jonobeckyll2"
-    },
-    {
-        "id": "yE4T4ZxXw0k",
-        "parentid": "",
-        "soap": "GH",
-        "category": "B",
-        "title": "Opening 1996",
-        "date": "01/01/1996",
-        "part": "1",
-        "total": "1",
-        "duration": "00:44",
-        "channel": "luckibelle"
     },
     {
         "id": "6eoMMzV8-y0",
@@ -612,54 +540,6 @@
         "channel": "jonobeckyll2"
     },
     {
-        "id": "BAC-ntNErZU",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Sonny Corinthos",
-        "date": "03/07/1996",
-        "part": "1",
-        "total": "1",
-        "duration": "5:53",
-        "channel": "luckibelle"
-    },
-    {
-        "id": "JwPDdlj9qCU",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Jasper Jacks",
-        "date": "03/07/1996",
-        "part": "1",
-        "total": "1",
-        "duration": "07:18",
-        "channel": "luckibelle"
-    },
-    {
-        "id": "_ndm87le0Bs",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Alan and Monica",
-        "date": "03/07/1996",
-        "part": "1",
-        "total": "1",
-        "duration": "10:45",
-        "channel": "luckibelle"
-    },
-    {
-        "id": "nV-JN8t2Yoc",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Jason Morgan",
-        "date": "03/07/1996",
-        "part": "1",
-        "total": "1",
-        "duration": "12:05",
-        "channel": "luckibelle"
-    },
-    {
         "id": "WSqtOdD6JHg",
         "parentid": "",
         "soap": "GH",
@@ -694,78 +574,6 @@
         "total": "1",
         "duration": "10:24",
         "channel": "jonobeckyll2"
-    },
-    {
-        "id": "ZZ9rqROXkOg",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Robin Scorpio",
-        "date": "05/27/1996",
-        "part": "1",
-        "total": "1",
-        "duration": "13:40",
-        "channel": "luckibelle"
-    },
-    {
-        "id": "KjUVJxqxU2w",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Jason Morgan",
-        "date": "05/27/1996",
-        "part": "1",
-        "total": "1",
-        "duration": "09:53",
-        "channel": "luckibelle"
-    },
-    {
-        "id": "XGLj3LzaNpI",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Sonny and Brenda",
-        "date": "05/27/1996",
-        "part": "1",
-        "total": "1",
-        "duration": "21:06",
-        "channel": "luckibelle"
-    },
-    {
-        "id": "seVCXdqvskk",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Luke and Laura",
-        "date": "05/28/1996",
-        "part": "1",
-        "total": "1",
-        "duration": "10:59",
-        "channel": "luckibelle"
-    },
-    {
-        "id": "jLB6ygIKHss",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Jason Morgan",
-        "date": "05/28/1996",
-        "part": "1",
-        "total": "1",
-        "duration": "12:40",
-        "channel": "luckibelle"
-    },
-    {
-        "id": "x2CLgAfdYCY",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Robin Scorpio",
-        "date": "05/28/1996",
-        "part": "1",
-        "total": "1",
-        "duration": "03:45",
-        "channel": "luckibelle"
     },
     {
         "id": "D-xQm4WOMlU",
@@ -886,18 +694,6 @@
         "total": "1",
         "duration": "8:14",
         "channel": "carmaker1"
-    },
-    {
-        "id": "w9zAwXVOXIo",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Montage",
-        "date": "12/24/1996",
-        "part": "1",
-        "total": "1",
-        "duration": "02:55",
-        "channel": "luckibelle"
     },
     {
         "id": "XV97qAnOcHY",
@@ -1164,18 +960,6 @@
         "channel": "gasux216"
     },
     {
-        "id": "3meZu5UyB-A",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Montage",
-        "date": "12/31/1997",
-        "part": "1",
-        "total": "1",
-        "duration": "2:36",
-        "channel": "luckibelle"
-    },
-    {
         "id": "kegwQFV2ZlE",
         "parentid": "",
         "soap": "GH",
@@ -1186,30 +970,6 @@
         "total": "1",
         "duration": "0:45",
         "channel": "carmaker1"
-    },
-    {
-        "id": "ha5YVzYjEWA",
-        "parentid": "",
-        "soap": "GH",
-        "category": "B",
-        "title": "Promo 1998",
-        "date": "01/01/1998",
-        "part": "1",
-        "total": "1",
-        "duration": "0:13",
-        "channel": "luckibelle"
-    },
-    {
-        "id": "n_HZ9CF3Z8k",
-        "parentid": "",
-        "soap": "GH",
-        "category": "B",
-        "title": "Promo 1998",
-        "date": "01/01/1998",
-        "part": "1",
-        "total": "1",
-        "duration": "00:20",
-        "channel": "luckibelle"
     },
     {
         "id": "vLnYfkx0NiE",
@@ -1776,42 +1536,6 @@
         "channel": "carmaker1"
     },
     {
-        "id": "UBmyiiOCdQY",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Lucky Spencer",
-        "date": "03/06/1998",
-        "part": "1",
-        "total": "1",
-        "duration": "10:57",
-        "channel": "luckibelle"
-    },
-    {
-        "id": "7kCwkmsYE6o",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Lucky Spencer",
-        "date": "03/09/1998",
-        "part": "1",
-        "total": "1",
-        "duration": "06:20",
-        "channel": "luckibelle"
-    },
-    {
-        "id": "MOeSPHR5f-E",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Lucky Spencer",
-        "date": "03/10/1998",
-        "part": "1",
-        "total": "1",
-        "duration": "10:57",
-        "channel": "luckibelle"
-    },
-    {
         "id": "yurTbvzKcw4",
         "parentid": "",
         "soap": "GH",
@@ -1930,18 +1654,6 @@
         "total": "2",
         "duration": "2:01",
         "channel": "gasux216"
-    },
-    {
-        "id": "QBcq385B6Bk",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Montage",
-        "date": "06/26/1998",
-        "part": "1",
-        "total": "1",
-        "duration": "02:13",
-        "channel": "luckibelle"
     },
     {
         "id": "l_bQ60RTk2E",
@@ -2590,42 +2302,6 @@
         "total": "1",
         "duration": "08:53",
         "channel": "jonobeckyll2"
-    },
-    {
-        "id": "KTNtFrfO4UI",
-        "parentid": "",
-        "soap": "GH",
-        "category": "A",
-        "title": "Montage",
-        "date": "01/01/1999",
-        "part": "1",
-        "total": "1",
-        "duration": "1:41",
-        "channel": "luckibelle"
-    },
-    {
-        "id": "MHzxxUE0d7s",
-        "parentid": "",
-        "soap": "GH",
-        "category": "B",
-        "title": "Promo 1999",
-        "date": "01/01/1999",
-        "part": "1",
-        "total": "1",
-        "duration": "00:20",
-        "channel": "luckibelle"
-    },
-    {
-        "id": "wdfqF_iYkV4",
-        "parentid": "",
-        "soap": "GH",
-        "category": "B",
-        "title": "Promo 1998",
-        "date": "01/01/1999",
-        "part": "1",
-        "total": "1",
-        "duration": "0:20",
-        "channel": "luckibelle"
     },
     {
         "id": "XVqmJ8t91xE",
