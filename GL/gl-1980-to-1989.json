@@ -60,6 +60,78 @@
         "channel": "chuckd79"
     },
     {
+        "id": "jAP5gTlYtTs",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "1/1/1980",
+        "part": "1",
+        "total": "1",
+        "duration": "42:42",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "2FQrlOE5ggg",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "1/1/1980",
+        "part": "1",
+        "total": "1",
+        "duration": "42:54",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "6nNMWdFZMyE",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "1/1/1980",
+        "part": "1",
+        "total": "1",
+        "duration": "42:50",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "CoBOZgppunI",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "1/1/1980",
+        "part": "1",
+        "total": "1",
+        "duration": "42:36",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "eqTvFN8l_eA",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "1/1/1980",
+        "part": "1",
+        "total": "1",
+        "duration": "42:38",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "h5ArW5BFkyI",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "1/1/1980",
+        "part": "1",
+        "total": "1",
+        "duration": "43:26",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "0lBEPeFDB2k",
         "parentid": "",
         "soap": "GL",
@@ -84,6 +156,30 @@
         "channel": "edwynnsanchez"
     },
     {
+        "id": "PhwGlHoi3XA",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "02/04/1980",
+        "part": "1",
+        "total": "1",
+        "duration": "44:20",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "wh96p9HfE2U",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "02/05/1980",
+        "part": "1",
+        "total": "1",
+        "duration": "2:04:31",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "WCtEV-hj89E",
         "parentid": "",
         "soap": "GL",
@@ -96,6 +192,18 @@
         "channel": "jimmuneco1877"
     },
     {
+        "id": "wjvFtQzROqs",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "03/19/1980",
+        "part": "1",
+        "total": "1",
+        "duration": "42:55",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "6ndZfsCYNlk",
         "parentid": "",
         "soap": "GL",
@@ -106,6 +214,18 @@
         "total": "1",
         "duration": "43:11",
         "channel": "jimmuneco1877"
+    },
+    {
+        "id": "U5rR5zg9lLw",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "04/01/1980",
+        "part": "1",
+        "total": "1",
+        "duration": "43:10",
+        "channel": "spauldingfield"
     },
     {
         "id": "2jTvCcV5i-8",
@@ -142,6 +262,18 @@
         "total": "1",
         "duration": "12:59",
         "channel": "jimmuneco1877"
+    },
+    {
+        "id": "dI_Et7RiYBw",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/18/1980",
+        "part": "1",
+        "total": "1",
+        "duration": "42:54",
+        "channel": "spauldingfield"
     },
     {
         "id": "Nq5eWJFfVh0",
@@ -516,6 +648,18 @@
         "channel": "chuckd79"
     },
     {
+        "id": "vgOls35UADU",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "1/1/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "42:29",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "03L1O2H8k2E",
         "parentid": "",
         "soap": "GL",
@@ -526,6 +670,18 @@
         "total": "1",
         "duration": "41:38",
         "channel": "jimmuneco1877"
+    },
+    {
+        "id": "chE9PBbNCUQ",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/09/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "41:30",
+        "channel": "spauldingfield"
     },
     {
         "id": "RqRYb_Fn7H0",
@@ -540,6 +696,18 @@
         "channel": "jimmuneco1877"
     },
     {
+        "id": "mYx5EJmrzKw",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/12/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "41:42",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "OWokOK1o2uU",
         "parentid": "",
         "soap": "GL",
@@ -550,6 +718,18 @@
         "total": "1",
         "duration": "41:32",
         "channel": "jimmuneco1877"
+    },
+    {
+        "id": "ONia59MEoOg",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/13/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "41:40",
+        "channel": "spauldingfield"
     },
     {
         "id": "IeXc94Dw5zw",
@@ -564,6 +744,18 @@
         "channel": "jimmuneco1877"
     },
     {
+        "id": "_FCWhVER_kE",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/14/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "41:28",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "GyTmoq1Q8FA",
         "parentid": "",
         "soap": "GL",
@@ -576,6 +768,18 @@
         "channel": "jimmuneco1877"
     },
     {
+        "id": "OPjVGTzXVSM",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/15/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "41:34",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "m6429B4oE28",
         "parentid": "",
         "soap": "GL",
@@ -586,6 +790,18 @@
         "total": "1",
         "duration": "41:35",
         "channel": "jimmuneco1877"
+    },
+    {
+        "id": "P5QXjBUJ1tI",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/19/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "41:51",
+        "channel": "spauldingfield"
     },
     {
         "id": "a3CQ3D_-_ZY",
@@ -624,6 +840,18 @@
         "channel": "jimmuneco1877"
     },
     {
+        "id": "GZRwWstripc",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/20/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "42:05",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "A8KwZEwL_54",
         "parentid": "",
         "soap": "GL",
@@ -634,6 +862,18 @@
         "total": "1",
         "duration": "41:33",
         "channel": "jimmuneco1877"
+    },
+    {
+        "id": "lDIohlA2CbQ",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/21/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "1:40",
+        "channel": "spauldingfield"
     },
     {
         "id": "IXWsCE9kRUA",
@@ -648,6 +888,18 @@
         "channel": "jimmuneco1877"
     },
     {
+        "id": "Dtttlo8OuY0",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/22/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "7:05",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "2GOzumeGrQk",
         "parentid": "",
         "soap": "GL",
@@ -658,6 +910,18 @@
         "total": "1",
         "duration": "41:36",
         "channel": "jimmuneco1877"
+    },
+    {
+        "id": "328Z4-uVE3Y",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/23/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "41:42",
+        "channel": "spauldingfield"
     },
     {
         "id": "EUzHhraTrk0",
@@ -694,6 +958,42 @@
         "total": "1",
         "duration": "42:28",
         "channel": "jimmuneco1877"
+    },
+    {
+        "id": "F_FtUu-mr2M",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "05/19/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "41:11",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "d_vE3M64-FA",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/27/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "41:40",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "3RvO8meGRiE",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/10/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "44:33",
+        "channel": "spauldingfield"
     },
     {
         "id": "4mN5z8ZxCTY",
@@ -790,6 +1090,30 @@
         "total": "1",
         "duration": "43:01",
         "channel": "jimmuneco1877"
+    },
+    {
+        "id": "DwupyEb2f04",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/21/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "53:26",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "o-wmHkVqwlw",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/24/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "40:04",
+        "channel": "spauldingfield"
     },
     {
         "id": "pRZXTLPN-xw",
@@ -1150,6 +1474,18 @@
         "total": "3",
         "duration": "08:37",
         "channel": "soapsnthings4182"
+    },
+    {
+        "id": "8MzzefSKthU",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "09/25/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "41:48",
+        "channel": "spauldingfield"
     },
     {
         "id": "Br2n03hUlzg",
@@ -1560,6 +1896,102 @@
         "channel": "fyi9476"
     },
     {
+        "id": "ZHPXwcyoowM",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "1/1/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "55:58",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "EdLnlcJ7s9k",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "1/1/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "55:31",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "6QmxjWYZB_I",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "1/1/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "57:27",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "oapq5RpT-Zs",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "1/1/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "56:08",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "y5JCn4OGI9E",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "1/1/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "41:41",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "ndw4d0OzGkA",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "1/1/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "41:04",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "rkpCeliS8cg",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "1/1/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "41:58",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "gUifQCfdf3w",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "1/1/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "41:42",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "Hk53vhFCM78",
         "parentid": "",
         "soap": "GL",
@@ -1860,6 +2292,138 @@
         "channel": "jimmuneco1877"
     },
     {
+        "id": "5uD6SSD-BSM",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/30/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "40:11",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "sIy1KGRwXvk",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "09/16/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "40:30",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "nCU6yILKJX8",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "10/11/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "41:33",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "Hum-t5ceRNg",
+        "parentid": "P_341140e3",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "10/12/1982",
+        "part": "1",
+        "total": "3",
+        "duration": "2:27",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "3h2FzEI6L-U",
+        "parentid": "P_341140e3",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "10/12/1982",
+        "part": "2",
+        "total": "3",
+        "duration": "4:31",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "yshLp7uCT6U",
+        "parentid": "P_341140e3",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "10/12/1982",
+        "part": "3",
+        "total": "3",
+        "duration": "35:15",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "bj9DoxDzmog",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/25/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "39:57",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "aJt5a5a_MZc",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "12/01/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "41:34",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "gI_AI47lZik",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "12/02/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "38:01",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "Xg2pCm0YHAo",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "12/23/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "41:58",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "zcBJI5Z8aY4",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "12/24/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "41:57",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "53R35149S9c",
         "parentid": "",
         "soap": "GL",
@@ -1920,6 +2484,90 @@
         "channel": "chuckd79"
     },
     {
+        "id": "_rqGrqIs4hU",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "1/1/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "31:58",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "rYQ2hNw6X88",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "1/1/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "21:21",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "gOzjZenetz4",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "1/1/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "41:31",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "g-uS7D2qoQI",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "1/1/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "41:46",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "ewKXklXPFQ8",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "1/1/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "41:41",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "hMhvyIIIcgg",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "1/1/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "29:00",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "Beyj6HHxZPU",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "1/1/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "41:06",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "BiJBN6RQR9U",
         "parentid": "P_bd84663d",
         "soap": "GL",
@@ -1966,6 +2614,42 @@
         "total": "4",
         "duration": "7:28",
         "channel": "oakdalehistorian"
+    },
+    {
+        "id": "EGXtX5BL9IE",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/12/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "41:31",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "6unxtb2cD28",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "2/1/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "41:00",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "WYqPCdspyd0",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "02/22/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "41:57",
+        "channel": "spauldingfield"
     },
     {
         "id": "Joc8E8AohAs",
@@ -2040,6 +2724,18 @@
         "channel": "soapsnthings4182"
     },
     {
+        "id": "LvTzoBJNPII",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "03/28/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "33:57",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "rc_6MlEsFF8",
         "parentid": "P_2333142b",
         "soap": "GL",
@@ -2074,6 +2770,18 @@
         "total": "3",
         "duration": "09:27",
         "channel": "soapsnthings4182"
+    },
+    {
+        "id": "1XOSgtO29zM",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "03/29/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "44:41",
+        "channel": "spauldingfield"
     },
     {
         "id": "9_XtpN-YSTA",
@@ -2112,6 +2820,18 @@
         "channel": "soapsnthings4182"
     },
     {
+        "id": "GV81mvgtX1U",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "04/08/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "37:45",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "Ok5c-fCGWVc",
         "parentid": "P_5eba2195",
         "soap": "GL",
@@ -2146,6 +2866,18 @@
         "total": "3",
         "duration": "9:58",
         "channel": "soapsnthings4182"
+    },
+    {
+        "id": "mZO1vOskotU",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "04/29/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "31:10",
+        "channel": "spauldingfield"
     },
     {
         "id": "Id5uXha3t5Q",
@@ -2184,6 +2916,18 @@
         "channel": "soapsnthings4182"
     },
     {
+        "id": "xqSt-fmI9HE",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "05/02/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "42:08",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "HFbcPVuRoco",
         "parentid": "P_d8b2be6d",
         "soap": "GL",
@@ -2218,6 +2962,42 @@
         "total": "3",
         "duration": "13:05",
         "channel": "soapsnthings4182"
+    },
+    {
+        "id": "GAG3huaxMfk",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "05/06/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "40:19",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "JChbUHDjE7M",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "05/13/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "38:25",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "aRT8_PoJqpo",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "05/16/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "59:00",
+        "channel": "spauldingfield"
     },
     {
         "id": "XKzxsaxfgoo",
@@ -2304,6 +3084,90 @@
         "channel": "soapsnthings4182"
     },
     {
+        "id": "M0PoUkZ2TFI",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "05/23/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "47:24",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "dxqLhS8E1nA",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "05/24/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "35:33",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "ZbukP76fqZE",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "05/27/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "46:21",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "2bbdi8t2Mis",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "05/30/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "44:20",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "ka-v9IIarng",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "06/06/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "58:20",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "1oOgD72YAFU",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "06/07/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "58:03",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "A9ADAgpahgE",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "06/08/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "41:55",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "wHRmXjbRZYs",
         "parentid": "P_9e1c18d0",
         "soap": "GL",
@@ -2388,6 +3252,30 @@
         "channel": "jimmuneco1877"
     },
     {
+        "id": "hFfO3IfwzKs",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "06/24/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "41:41",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "y1hshoAAvbA",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "06/27/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "41:20",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "znAdQAudijo",
         "parentid": "P_723ff671",
         "soap": "GL",
@@ -2422,6 +3310,18 @@
         "total": "1",
         "duration": "41:41",
         "channel": "jimmuneco1877"
+    },
+    {
+        "id": "8NGwYkK6w04",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/21/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "57:41",
+        "channel": "spauldingfield"
     },
     {
         "id": "k_CIwtpMWHI",
@@ -2496,6 +3396,18 @@
         "channel": "soapsnthings4182"
     },
     {
+        "id": "-hrVX_6iT5c",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/05/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "40:57",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "BnUkwMXa884",
         "parentid": "P_618c9322",
         "soap": "GL",
@@ -2520,6 +3432,54 @@
         "channel": "soapsnthings4182"
     },
     {
+        "id": "JYmdQttaNvI",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/29/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "41:41",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "lRZPESzq9ow",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "09/16/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "41:45",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "dWUYunkB6Q4",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "10/28/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "31:32",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "ONjBAf5G8Gc",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/02/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "41:31",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "lWrvOlszFxY",
         "parentid": "",
         "soap": "GL",
@@ -2530,6 +3490,18 @@
         "total": "1",
         "duration": "15:27",
         "channel": "bluerose8508"
+    },
+    {
+        "id": "_DGyQuN-WY0",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/07/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "41:11",
+        "channel": "spauldingfield"
     },
     {
         "id": "-WyrXBnOzgs",
@@ -2544,6 +3516,18 @@
         "channel": "bluerose8508"
     },
     {
+        "id": "IJLphr3JZ0E",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/08/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "57:28",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "nTQ_ltPyeFg",
         "parentid": "",
         "soap": "GL",
@@ -2554,6 +3538,18 @@
         "total": "1",
         "duration": "41:42",
         "channel": "bluerose8508"
+    },
+    {
+        "id": "7afp_l4eyU0",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/09/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "41:41",
+        "channel": "spauldingfield"
     },
     {
         "id": "FNAm6F0aQ0c",
@@ -2568,6 +3564,18 @@
         "channel": "bluerose8508"
     },
     {
+        "id": "bMf1lsFvsZk",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/10/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "41:55",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "WFH55cSKGFQ",
         "parentid": "",
         "soap": "GL",
@@ -2578,6 +3586,18 @@
         "total": "1",
         "duration": "41:35",
         "channel": "bluerose8508"
+    },
+    {
+        "id": "BTyMrLTrUO8",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/11/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "41:41",
+        "channel": "spauldingfield"
     },
     {
         "id": "bDW9gWNoKTY",
@@ -2628,6 +3648,54 @@
         "channel": "bluerose8508"
     },
     {
+        "id": "3_OiP74AUNE",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/14/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "41:52",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "9SOXIJzPypg",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/15/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "41:57",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "WrYQChnJwug",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/16/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "45:25",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "Keqgf630cl0",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/17/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "41:28",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "H-ThRW9yClc",
         "parentid": "P_4ee1c4f7",
         "soap": "GL",
@@ -2662,6 +3730,30 @@
         "total": "3",
         "duration": "12:34",
         "channel": "soapsnthings4182"
+    },
+    {
+        "id": "QpQeVjO4dtI",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/18/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "41:40",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "EkUMB_89wpQ",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/21/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "41:58",
+        "channel": "spauldingfield"
     },
     {
         "id": "rml_WzqxrNU",
@@ -2736,6 +3828,18 @@
         "channel": "soapsnthings4182"
     },
     {
+        "id": "IQgRqVjkCK8",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/23/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "41:33",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "2UVP3dkhGmI",
         "parentid": "P_9629ac89",
         "soap": "GL",
@@ -2770,6 +3874,30 @@
         "total": "3",
         "duration": "13:18",
         "channel": "soapsnthings4182"
+    },
+    {
+        "id": "gNRFRlcDtnM",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/28/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "41:46",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "5WVZRSoHT7o",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/29/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "41:52",
+        "channel": "spauldingfield"
     },
     {
         "id": "n0ICAI6zGpE",
@@ -2820,6 +3948,30 @@
         "channel": "jimmuneco1877"
     },
     {
+        "id": "RhYWSOCMxQE",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "12/19/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "41:28",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "QABBy-c-SqQ",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "12/23/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "41:32",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "SNpEMNizz48",
         "parentid": "",
         "soap": "GL",
@@ -2842,6 +3994,162 @@
         "total": "1",
         "duration": "1:14",
         "channel": "theystartedonsoaps"
+    },
+    {
+        "id": "zSlZ95U7UWE",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Love Story of Josh and Reva",
+        "date": "1/1/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "23:09",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "uZbArnZdTAE",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/03/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "42:10",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "4rx9QbXl8mE",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/04/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "42:16",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "475KxhCKtu0",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/05/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "42:20",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "Z9TiCd9rzsM",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/06/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:27",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "6lqPItMjx68",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/09/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "42:13",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "chbihTt928o",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/10/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "43:28",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "KwgkeNgZrL8",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/11/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "57:09",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "58RJLc4gKLU",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/12/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "57:14",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "3b5bV0Vll00",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/13/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:24",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "YeAAMTubM3A",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/16/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "57:07",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "YzlwZbYpNAE",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/17/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "53:54",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "mEEY7O8tXkI",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/18/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "57:34",
+        "channel": "spauldingfield"
     },
     {
         "id": "bXur1cJsxDk",
@@ -2916,6 +4224,18 @@
         "channel": "jimmuneco1877"
     },
     {
+        "id": "hgdydwsDpL0",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "02/17/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "42:24",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "wfU5JEs1QtU",
         "parentid": "P_76bd9452",
         "soap": "GL",
@@ -2950,6 +4270,18 @@
         "total": "3",
         "duration": "13:21",
         "channel": "soapsnthings4182"
+    },
+    {
+        "id": "bcq9gw_nfv0",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "02/20/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "40:39",
+        "channel": "spauldingfield"
     },
     {
         "id": "nR4yR8FRjtw",
@@ -2988,6 +4320,18 @@
         "channel": "soapsnthings4182"
     },
     {
+        "id": "Yf1e7395CNM",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "02/21/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "39:26",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "ArN0R1JUPbg",
         "parentid": "P_011d17f5",
         "soap": "GL",
@@ -3022,6 +4366,18 @@
         "total": "3",
         "duration": "13:40",
         "channel": "soapsnthings4182"
+    },
+    {
+        "id": "GEuBOBcwqqA",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "02/22/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:50",
+        "channel": "spauldingfield"
     },
     {
         "id": "O3HzNck9pLs",
@@ -3060,6 +4416,18 @@
         "channel": "soapsnthings4182"
     },
     {
+        "id": "8JXfCR1uoSw",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "02/23/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "40:51",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "7nr8S9BTzbE",
         "parentid": "",
         "soap": "GL",
@@ -3070,6 +4438,18 @@
         "total": "1",
         "duration": "42:18",
         "channel": "bluerose8508"
+    },
+    {
+        "id": "8e8du_2kE5Y",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "03/01/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "42:16",
+        "channel": "spauldingfield"
     },
     {
         "id": "CJ9FQCQPl8o",
@@ -3120,6 +4500,18 @@
         "channel": "bluerose8508"
     },
     {
+        "id": "iJEB5XKkWiI",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "03/02/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:55",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "zdeZT83Ukhw",
         "parentid": "P_05c1d01f",
         "soap": "GL",
@@ -3154,6 +4546,18 @@
         "total": "1",
         "duration": "41:49",
         "channel": "bluerose8508"
+    },
+    {
+        "id": "rKZWPOvP1tE",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "03/05/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:47",
+        "channel": "spauldingfield"
     },
     {
         "id": "Tvx9F05VmIo",
@@ -3204,6 +4608,18 @@
         "channel": "bluerose8508"
     },
     {
+        "id": "5_lRx6ciBJo",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "03/06/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:52",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "N_xwBwwVARg",
         "parentid": "P_8e4bc8a8",
         "soap": "GL",
@@ -3252,6 +4668,18 @@
         "channel": "bluerose8508"
     },
     {
+        "id": "WuJdVOiRbt8",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "03/13/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "46:05",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "lI22i09t9WU",
         "parentid": "",
         "soap": "GL",
@@ -3262,6 +4690,18 @@
         "total": "1",
         "duration": "17:35",
         "channel": "jimmuneco1877"
+    },
+    {
+        "id": "SHUD4M9XOnY",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "03/23/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:18",
+        "channel": "spauldingfield"
     },
     {
         "id": "wvemWV0nlh4",
@@ -3312,6 +4752,18 @@
         "channel": "jimmuneco1877"
     },
     {
+        "id": "ui6NDPGverk",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "04/13/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:42",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "BUvPpqiiQU0",
         "parentid": "",
         "soap": "GL",
@@ -3360,6 +4812,18 @@
         "channel": "bluerose8508"
     },
     {
+        "id": "D1s7Sa9v-UU",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "05/04/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "42:13",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "QpKV6CoK-M0",
         "parentid": "",
         "soap": "GL",
@@ -3372,6 +4836,18 @@
         "channel": "bluerose8508"
     },
     {
+        "id": "h4DOxXLtvkc",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "05/07/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "42:01",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "0yqYEGsyaJM",
         "parentid": "",
         "soap": "GL",
@@ -3382,6 +4858,42 @@
         "total": "1",
         "duration": "36:51",
         "channel": "bluerose8508"
+    },
+    {
+        "id": "5OVmJlUeGEE",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "05/08/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "37:56",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "qSqdV6wRMBM",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "05/09/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "42:10",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "mz3jQbo0EhQ",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "05/10/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "42:05",
+        "channel": "spauldingfield"
     },
     {
         "id": "AiHIsrDyTWA",
@@ -3408,6 +4920,18 @@
         "channel": "jimmuneco1877"
     },
     {
+        "id": "Xi1PD3UY47E",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "05/14/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:46",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "6Nq3Lu6QMhY",
         "parentid": "",
         "soap": "GL",
@@ -3432,6 +4956,30 @@
         "channel": "jimmuneco1877"
     },
     {
+        "id": "QvLhS3l4Dyo",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "05/15/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:27",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "8p_g6fIA3Tk",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "05/16/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "42:20",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "bJnuDZzcXhk",
         "parentid": "",
         "soap": "GL",
@@ -3442,6 +4990,18 @@
         "total": "1",
         "duration": "42:07",
         "channel": "jimmuneco1877"
+    },
+    {
+        "id": "mlP5Rjv9c5I",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "05/17/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "42:36",
+        "channel": "spauldingfield"
     },
     {
         "id": "t2nlTSnaDF0",
@@ -3456,6 +5016,18 @@
         "channel": "jimmuneco1877"
     },
     {
+        "id": "YXxgRPupqMY",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "05/18/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "42:13",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "XZt4JJ3Gg74",
         "parentid": "",
         "soap": "GL",
@@ -3466,6 +5038,42 @@
         "total": "1",
         "duration": "40:45",
         "channel": "jimmuneco1877"
+    },
+    {
+        "id": "nCsj66uHpNc",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "05/24/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:17",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "98CvGQVPlpU",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "05/25/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:17",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "7sFTWGAHw58",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "05/28/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "33:38",
+        "channel": "spauldingfield"
     },
     {
         "id": "tH1mF7TJttA",
@@ -3552,6 +5160,18 @@
         "channel": "bluerose8508"
     },
     {
+        "id": "p8jWSDCxb7k",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "06/14/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:00",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "qkI-lNmaVTI",
         "parentid": "",
         "soap": "GL",
@@ -3562,6 +5182,18 @@
         "total": "1",
         "duration": "40:53",
         "channel": "bluerose8508"
+    },
+    {
+        "id": "i2cyVMW-F7w",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "06/15/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "40:52",
+        "channel": "spauldingfield"
     },
     {
         "id": "Tj68RWAPb2M",
@@ -3576,6 +5208,30 @@
         "channel": "bluerose8508"
     },
     {
+        "id": "LiPHon1gE8o",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "06/18/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "25:18",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "4uHTM3XeLZ8",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "06/18/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "1:05:54",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "af22F7NJOKA",
         "parentid": "",
         "soap": "GL",
@@ -3586,6 +5242,18 @@
         "total": "1",
         "duration": "40:44",
         "channel": "bluerose8508"
+    },
+    {
+        "id": "7RC2mqE2Ces",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "06/19/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "40:33",
+        "channel": "spauldingfield"
     },
     {
         "id": "HCxM5zIMYNM",
@@ -3600,6 +5268,18 @@
         "channel": "bluerose8508"
     },
     {
+        "id": "UQU8xJ2WalI",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "06/20/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "40:55",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "5lUx2RVd2Hk",
         "parentid": "",
         "soap": "GL",
@@ -3612,6 +5292,18 @@
         "channel": "bluerose8508"
     },
     {
+        "id": "VVTX5gjVcRI",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "06/21/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "40:49",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "hfM6SJ5bWNs",
         "parentid": "",
         "soap": "GL",
@@ -3622,6 +5314,18 @@
         "total": "1",
         "duration": "40:59",
         "channel": "bluerose8508"
+    },
+    {
+        "id": "ghtluldbxcc",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "06/22/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "40:58",
+        "channel": "spauldingfield"
     },
     {
         "id": "BZEYdn8F3fA",
@@ -3648,6 +5352,18 @@
         "channel": "edwynnsanchez"
     },
     {
+        "id": "ssdNscJT238",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "06/27/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:33",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "hpwKVdJlQvc",
         "parentid": "",
         "soap": "GL",
@@ -3658,6 +5374,30 @@
         "total": "1",
         "duration": "41:26",
         "channel": "bluerose8508"
+    },
+    {
+        "id": "g9iGv_akLe0",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "06/28/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:24",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "VIZy6rYiVm4",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "06/29/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:08",
+        "channel": "spauldingfield"
     },
     {
         "id": "zYGiptfsyio",
@@ -3672,6 +5412,30 @@
         "channel": "fyi9476"
     },
     {
+        "id": "NyeZDKJVMbo",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/02/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "40:47",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "aZn4HYp6zpo",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/03/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:30",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "4VowNPlVTek",
         "parentid": "",
         "soap": "GL",
@@ -3682,6 +5446,18 @@
         "total": "1",
         "duration": "40:36",
         "channel": "jimmuneco1877"
+    },
+    {
+        "id": "O4SRi9jt7G8",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/04/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "40:15",
+        "channel": "spauldingfield"
     },
     {
         "id": "mPzRrF20TrM",
@@ -3696,6 +5472,18 @@
         "channel": "jimmuneco1877"
     },
     {
+        "id": "AK884tl4_gE",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/05/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:33",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "gDy5cu1fXvE",
         "parentid": "",
         "soap": "GL",
@@ -3706,6 +5494,18 @@
         "total": "1",
         "duration": "42:00",
         "channel": "jimmuneco1877"
+    },
+    {
+        "id": "dTDXnDV8JyA",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/06/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:24",
+        "channel": "spauldingfield"
     },
     {
         "id": "mc4IyBoiCPk",
@@ -3720,6 +5520,18 @@
         "channel": "bluerose8508"
     },
     {
+        "id": "7LwWEn40tBE",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/09/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:24",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "o7m1fkXB2NY",
         "parentid": "",
         "soap": "GL",
@@ -3730,6 +5542,18 @@
         "total": "1",
         "duration": "41:36",
         "channel": "bluerose8508"
+    },
+    {
+        "id": "MDwTCUNOxqg",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/10/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:34",
+        "channel": "spauldingfield"
     },
     {
         "id": "_D4HuhWT5uU",
@@ -3744,6 +5568,18 @@
         "channel": "bluerose8508"
     },
     {
+        "id": "o8Rb6cWXn_k",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/11/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "40:28",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "mFjAsgtsb74",
         "parentid": "",
         "soap": "GL",
@@ -3754,6 +5590,18 @@
         "total": "1",
         "duration": "41:19",
         "channel": "bluerose8508"
+    },
+    {
+        "id": "k_szvZKtfwU",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/12/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:16",
+        "channel": "spauldingfield"
     },
     {
         "id": "MH_KcM52fiw",
@@ -3768,6 +5616,18 @@
         "channel": "bluerose8508"
     },
     {
+        "id": "PjcNu1JLhN4",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/13/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:53",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "8QxkWC-rGmg",
         "parentid": "",
         "soap": "GL",
@@ -3778,6 +5638,18 @@
         "total": "1",
         "duration": "41:52",
         "channel": "bluerose8508"
+    },
+    {
+        "id": "hmwAYh5Txx0",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/16/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:49",
+        "channel": "spauldingfield"
     },
     {
         "id": "x_1_P6l1AUs",
@@ -3792,6 +5664,18 @@
         "channel": "bluerose8508"
     },
     {
+        "id": "KpeknkanyAs",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/18/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:33",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "JYwJph7auXU",
         "parentid": "",
         "soap": "GL",
@@ -3802,6 +5686,18 @@
         "total": "1",
         "duration": "41:47",
         "channel": "bluerose8508"
+    },
+    {
+        "id": "WrxdXIzri6U",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/19/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:44",
+        "channel": "spauldingfield"
     },
     {
         "id": "UKWXUvzF6GI",
@@ -3816,6 +5712,18 @@
         "channel": "bluerose8508"
     },
     {
+        "id": "LJQV2aWJCrk",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/20/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "44:01",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "uxMgN-Gtk5s",
         "parentid": "",
         "soap": "GL",
@@ -3826,6 +5734,18 @@
         "total": "1",
         "duration": "41:49",
         "channel": "bluerose8508"
+    },
+    {
+        "id": "_LpaPnrvIoo",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/23/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:46",
+        "channel": "spauldingfield"
     },
     {
         "id": "eLFA0qnmJf4",
@@ -3840,6 +5760,18 @@
         "channel": "bluerose8508"
     },
     {
+        "id": "dxY02Tv-8n8",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/25/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "42:04",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "gF_aLdHfhcg",
         "parentid": "",
         "soap": "GL",
@@ -3850,6 +5782,18 @@
         "total": "1",
         "duration": "41:49",
         "channel": "bluerose8508"
+    },
+    {
+        "id": "4_6MtALlZ9E",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/26/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:46",
+        "channel": "spauldingfield"
     },
     {
         "id": "8Ly0yGdQznM",
@@ -3864,6 +5808,18 @@
         "channel": "bluerose8508"
     },
     {
+        "id": "GQFtn3A-_M0",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/27/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:49",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "B12OqmhkcWQ",
         "parentid": "",
         "soap": "GL",
@@ -3876,6 +5832,18 @@
         "channel": "jimmuneco1877"
     },
     {
+        "id": "-H1IdwoOAXg",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/30/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:41",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "c-VkbqrItUE",
         "parentid": "",
         "soap": "GL",
@@ -3886,6 +5854,18 @@
         "total": "1",
         "duration": "41:27",
         "channel": "jimmuneco1877"
+    },
+    {
+        "id": "-1yCNCtdyAs",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/31/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:56",
+        "channel": "spauldingfield"
     },
     {
         "id": "vHTC7FLB36c",
@@ -3996,6 +5976,18 @@
         "channel": "bluerose8508"
     },
     {
+        "id": "mkQgmaqWifI",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/03/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:24",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "zxR6bKe-2kE",
         "parentid": "",
         "soap": "GL",
@@ -4006,6 +5998,18 @@
         "total": "1",
         "duration": "39:43",
         "channel": "bluerose8508"
+    },
+    {
+        "id": "tExOG10lobU",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/06/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "39:42",
+        "channel": "spauldingfield"
     },
     {
         "id": "M8ffWE7ITy4",
@@ -4020,6 +6024,18 @@
         "channel": "bluerose8508"
     },
     {
+        "id": "joblf-W9zz8",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/07/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "35:06",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "YE89VLrWF9Q",
         "parentid": "",
         "soap": "GL",
@@ -4030,6 +6046,18 @@
         "total": "1",
         "duration": "36:39",
         "channel": "bluerose8508"
+    },
+    {
+        "id": "nIHty9YQRsE",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/08/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "36:37",
+        "channel": "spauldingfield"
     },
     {
         "id": "HnBiwKhRd0Y",
@@ -4044,6 +6072,18 @@
         "channel": "bluerose8508"
     },
     {
+        "id": "X1UxC_35UyY",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/09/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:33",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "Zo5JLLHLFhY",
         "parentid": "",
         "soap": "GL",
@@ -4054,6 +6094,18 @@
         "total": "1",
         "duration": "41:51",
         "channel": "bluerose8508"
+    },
+    {
+        "id": "shIdVQx0OrA",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/10/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:48",
+        "channel": "spauldingfield"
     },
     {
         "id": "BI6YYqdhok8",
@@ -4068,6 +6120,18 @@
         "channel": "bluerose8508"
     },
     {
+        "id": "K6BJsFYnVKY",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/13/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:49",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "iPhZ0XXVgko",
         "parentid": "",
         "soap": "GL",
@@ -4078,6 +6142,18 @@
         "total": "1",
         "duration": "41:46",
         "channel": "bluerose8508"
+    },
+    {
+        "id": "ljJQCBifhv4",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/14/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "40:02",
+        "channel": "spauldingfield"
     },
     {
         "id": "Z6Esmijjakg",
@@ -4092,6 +6168,18 @@
         "channel": "bluerose8508"
     },
     {
+        "id": "vTtIWDM5348",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/15/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:22",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "_5u254qGgu4",
         "parentid": "",
         "soap": "GL",
@@ -4102,6 +6190,18 @@
         "total": "1",
         "duration": "36:02",
         "channel": "bluerose8508"
+    },
+    {
+        "id": "-FlnPVLD2Hk",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/16/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "36:01",
+        "channel": "spauldingfield"
     },
     {
         "id": "BxbeGVutPh4",
@@ -4188,6 +6288,18 @@
         "channel": "bluerose8508"
     },
     {
+        "id": "p5keTf6Emlg",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/27/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:46",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "wWalpnoA_MY",
         "parentid": "",
         "soap": "GL",
@@ -4198,6 +6310,18 @@
         "total": "1",
         "duration": "41:47",
         "channel": "bluerose8508"
+    },
+    {
+        "id": "1X29Qmef6hQ",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/28/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:45",
+        "channel": "spauldingfield"
     },
     {
         "id": "NadOKCysRu8",
@@ -4212,6 +6336,18 @@
         "channel": "bluerose8508"
     },
     {
+        "id": "2yUfHuyQwbA",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/29/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:49",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "zhIjyTolp4U",
         "parentid": "",
         "soap": "GL",
@@ -4222,6 +6358,18 @@
         "total": "1",
         "duration": "35:28",
         "channel": "bluerose8508"
+    },
+    {
+        "id": "MDHY-9BqVjw",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/30/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "35:25",
+        "channel": "spauldingfield"
     },
     {
         "id": "TbSE7LjQzjs",
@@ -4236,6 +6384,18 @@
         "channel": "bluerose8508"
     },
     {
+        "id": "mhNB4EkVdZU",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/31/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:41",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "egs4-gab5CU",
         "parentid": "",
         "soap": "GL",
@@ -4246,6 +6406,30 @@
         "total": "1",
         "duration": "41:49",
         "channel": "bluerose8508"
+    },
+    {
+        "id": "a8y4BMCALLY",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "09/04/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:46",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "w5osk7BJJSw",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "09/13/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:17",
+        "channel": "spauldingfield"
     },
     {
         "id": "C9f3fopjJ7A",
@@ -4260,6 +6444,18 @@
         "channel": "jimmuneco1877"
     },
     {
+        "id": "PAdKBf9E-GU",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "09/24/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "40:02",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "w2JYBu21wi8",
         "parentid": "",
         "soap": "GL",
@@ -4270,6 +6466,66 @@
         "total": "1",
         "duration": "42:27",
         "channel": "jimmuneco1877"
+    },
+    {
+        "id": "yWlvFY2A1to",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "09/26/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "1:16:37",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "OOCLP7GEuBs",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "10/05/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:25",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "rg1VXepjpiY",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "10/08/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:31",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "29UnLI03VK8",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "10/12/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:30",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "nQRsT-gQfCY",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "10/14/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:14",
+        "channel": "spauldingfield"
     },
     {
         "id": "uuSMLCsiyRo",
@@ -4320,6 +6576,30 @@
         "channel": "jimmuneco1877"
     },
     {
+        "id": "RTSog9BxGXY",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "10/26/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:34",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "TgQRzaF6M5s",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "10/29/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:24",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "iW-LzVxHGrA",
         "parentid": "",
         "soap": "GL",
@@ -4330,6 +6610,18 @@
         "total": "1",
         "duration": "14:06",
         "channel": "jimmuneco1877"
+    },
+    {
+        "id": "_qwK6gmuHDk",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/01/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "37:37",
+        "channel": "spauldingfield"
     },
     {
         "id": "j_3EJ4Qw3A0",
@@ -4344,6 +6636,18 @@
         "channel": "jimmuneco1877"
     },
     {
+        "id": "ocVm-h39JKc",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/15/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "21:15",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "IxgzpmplK6c",
         "parentid": "",
         "soap": "GL",
@@ -4354,6 +6658,18 @@
         "total": "1",
         "duration": "41:32",
         "channel": "jimmuneco1877"
+    },
+    {
+        "id": "-lpTrX2vMIk",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/16/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:39",
+        "channel": "spauldingfield"
     },
     {
         "id": "MxalDKTGBmo",
@@ -4368,6 +6684,18 @@
         "channel": "jimmuneco1877"
     },
     {
+        "id": "K_QdvD2TdJ8",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/19/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "34:35",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "pPMDtL4_5yY",
         "parentid": "",
         "soap": "GL",
@@ -4378,6 +6706,18 @@
         "total": "1",
         "duration": "18:41",
         "channel": "jimmuneco1877"
+    },
+    {
+        "id": "bA_qP5yhpuo",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/20/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:19",
+        "channel": "spauldingfield"
     },
     {
         "id": "V5EBnW-Bsl8",
@@ -4392,6 +6732,54 @@
         "channel": "jimmuneco1877"
     },
     {
+        "id": "GpxuBSMZ6o0",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/23/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "41:23",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "WuUN3uZZZJ4",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/26/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "40:43",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "gN81nWc2V2c",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/26/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "56:20",
+        "channel": "spauldingfield"
+    },
+    {
+        "id": "lsSMKiwlTnk",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/27/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "28:35",
+        "channel": "spauldingfield"
+    },
+    {
         "id": "oGztWT63Y-E",
         "parentid": "",
         "soap": "GL",
@@ -4402,6 +6790,18 @@
         "total": "1",
         "duration": "12:43",
         "channel": "jimmuneco1877"
+    },
+    {
+        "id": "koweP_9vrks",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/28/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "38:12",
+        "channel": "spauldingfield"
     },
     {
         "id": "tNdAYELc0GQ",
@@ -4462,6 +6862,18 @@
         "total": "1",
         "duration": "42:20",
         "channel": "jimmuneco1877"
+    },
+    {
+        "id": "9EOAiu7FWgo",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "12/13/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "58:50",
+        "channel": "spauldingfield"
     },
     {
         "id": "RixJXlhKl3M",
@@ -6780,6 +9192,210 @@
         "channel": "chuckd79"
     },
     {
+        "id": "w4xnP4lSn8Y",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/18/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:26",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "39MDhJ12kVk",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "02/03/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:12",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "ndAdssRWaHs",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "02/06/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "40:50",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "cKcC6ASV2cQ",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "02/07/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:15",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "Xs7etES8EC0",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "02/09/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:20",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "Aez5KEhEXbg",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "02/13/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "22:36",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "fGKfRLMLNx0",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "02/14/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "13:10",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "u7SGff2tUbg",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "02/21/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "39:22",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "4npHBX3G3E0",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "02/22/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "42:02",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "Eg1Ad4DEm-I",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "03/08/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "40:25",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "6wEPzOs8zro",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "03/13/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "11:45",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "ifNRH6KcX3Q",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "03/27/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "42:17",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "KsTMfjj5BDw",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "03/28/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:56",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "Vh4hwF_Nl_8",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "04/10/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "39:37",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "oP6H4nTw6IE",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "04/11/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "42:18",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "RkO-SEDi-FE",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "04/14/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:39",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "njdFCkpGGYU",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "04/17/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:40",
+        "channel": "blakemarler"
+    },
+    {
         "id": "DzR2puMcDfs",
         "parentid": "",
         "soap": "GL",
@@ -6790,6 +9406,138 @@
         "total": "1",
         "duration": "59:56",
         "channel": "pannoni"
+    },
+    {
+        "id": "IxQ3untQyP4",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "05/15/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "34:51",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "l40l57_YyHU",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "05/16/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "42:08",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "dC-xqUW8Th0",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "05/26/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "40:01",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "0J-W5ELeB5Q",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "05/30/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:56",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "etHHaJwQKlE",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "05/31/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "42:01",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "P0Nuq2NI6Uo",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "06/01/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "38:27",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "maqukTTamow",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "06/02/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "37:01",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "bFkpU2C66kk",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "06/02/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "37:01",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "0GVQGqh9Zlg",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "06/05/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "35:26",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "UzaCE77yzFw",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "06/06/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "20:15",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "QoDZty4mtyQ",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "06/21/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:43",
+        "channel": "blakemarler"
     },
     {
         "id": "45l_fPa1l00",
@@ -6804,6 +9552,30 @@
         "channel": "bluerose8508"
     },
     {
+        "id": "8qTjZZWflIg",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "06/28/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "42:07",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "RZCKXruk5B4",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "06/28/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "42:07",
+        "channel": "blakemarler"
+    },
+    {
         "id": "6-iMPV1-QFs",
         "parentid": "",
         "soap": "GL",
@@ -6816,6 +9588,30 @@
         "channel": "bluerose8508"
     },
     {
+        "id": "d5HR9giMhlk",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "06/29/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:55",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "wuzdORqMMME",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "06/29/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:58",
+        "channel": "blakemarler"
+    },
+    {
         "id": "eAy8q2U5lCs",
         "parentid": "",
         "soap": "GL",
@@ -6826,6 +9622,18 @@
         "total": "1",
         "duration": "57:35",
         "channel": "bluerose8508"
+    },
+    {
+        "id": "f6hvUk5Nn7U",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "06/30/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:30",
+        "channel": "blakemarler"
     },
     {
         "id": "fgj3I4nVQSo",
@@ -6852,6 +9660,18 @@
         "channel": "bluerose8508"
     },
     {
+        "id": "EO6sk-yDEu8",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/04/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:59",
+        "channel": "blakemarler"
+    },
+    {
         "id": "eJgDPEK_f7Y",
         "parentid": "",
         "soap": "GL",
@@ -6876,6 +9696,18 @@
         "channel": "bluerose8508"
     },
     {
+        "id": "APNTmwBiG6c",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/06/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "42:04",
+        "channel": "blakemarler"
+    },
+    {
         "id": "2Y1DJMGCVew",
         "parentid": "",
         "soap": "GL",
@@ -6886,6 +9718,90 @@
         "total": "1",
         "duration": "57:41",
         "channel": "bluerose8508"
+    },
+    {
+        "id": "Gjnl9TMJAto",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/11/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:55",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "XBTmH0yov84",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/12/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "42:03",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "Uzu8wgJGs8w",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/13/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:56",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "TVpi6aWQYg8",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/14/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:40",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "82yGj9l8H7I",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Jeva Wedding",
+        "date": "07/17/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:24",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "OIGWqB5zRqY",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/18/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:45",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "in2S6Leiw5o",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/19/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:27",
+        "channel": "blakemarler"
     },
     {
         "id": "8PQvvQ48ccA",
@@ -6900,6 +9816,78 @@
         "channel": "jimmuneco1877"
     },
     {
+        "id": "eEy5P-RXYew",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/21/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:20",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "lDmKcXmkYt8",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/24/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:50",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "riZMUpUbFMA",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/25/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:50",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "ik09hMAqVZY",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/26/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "42:01",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "ESOMM2RT0S4",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/27/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:55",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "idYZuY_3ItM",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/28/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:39",
+        "channel": "blakemarler"
+    },
+    {
         "id": "Uc6NLEeFP1s",
         "parentid": "",
         "soap": "GL",
@@ -6910,6 +9898,66 @@
         "total": "1",
         "duration": "41:45",
         "channel": "jimmuneco1877"
+    },
+    {
+        "id": "kq0FCheKEOg",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/14/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:39",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "Igrt2q5uguQ",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/15/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:49",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "-Ge5wVQVZIQ",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/16/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:58",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "sHpluPv-jJM",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/23/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:24",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "-cZWb8Mg7so",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/28/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:48",
+        "channel": "blakemarler"
     },
     {
         "id": "7r_U-xH-z9o",
@@ -6924,6 +9972,42 @@
         "channel": "jimmuneco1877"
     },
     {
+        "id": "nlkS6YKRzRw",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/29/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "38:37",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "dx0PBE0PPbU",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/30/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:44",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "QniUSjK8bto",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/31/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:34",
+        "channel": "blakemarler"
+    },
+    {
         "id": "s-OT3iaVLnQ",
         "parentid": "",
         "soap": "GL",
@@ -6936,6 +10020,18 @@
         "channel": "jimmuneco1877"
     },
     {
+        "id": "PmGa450sO5E",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "09/01/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:41",
+        "channel": "blakemarler"
+    },
+    {
         "id": "W9z_YbTjrKs",
         "parentid": "",
         "soap": "GL",
@@ -6946,6 +10042,222 @@
         "total": "1",
         "duration": "42:03",
         "channel": "jimmuneco1877"
+    },
+    {
+        "id": "0L_khnO1j9g",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "09/06/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:59",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "NGR4JJUEnAI",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "09/07/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:44",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "444BtnEgkGM",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "09/08/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:44",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "7TydpfqoLPQ",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "09/11/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:48",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "oky27MObk7g",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "09/12/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "42:00",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "dEVJ-c3afdk",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "09/13/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "42:19",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "Rv99lZTYdbU",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "09/14/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:37",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "XIvLx_ZY5Y8",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "09/15/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:39",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "ptvrBJygcqs",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "09/18/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "42:19",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "jpcv-3dTgJY",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "09/19/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:26",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "LNtkkHAQluM",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "09/21/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "19:59",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "iHXVovrC9TM",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "09/22/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "42:14",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "36Z3z_toZ6g",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "09/25/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:43",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "FoUh3EO4MGc",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "09/26/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:48",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "Y8Jo62W6eiE",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "09/27/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "42:09",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "CHxWjwXkhMw",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "09/28/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:39",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "tHx-mn2vbLQ",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "09/29/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:43",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "S36JllLMRHw",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "10/06/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:11",
+        "channel": "blakemarler"
     },
     {
         "id": "0_Ph7BmEDtQ",
@@ -7044,6 +10356,102 @@
         "channel": "snarkweighsin"
     },
     {
+        "id": "WcVRk2m_H8w",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "10/20/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "33:21",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "w7mgJ8VZz28",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "10/23/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "40:39",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "0FXDjIZ0HU4",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "10/24/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "40:22",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "vs9HYVtheXs",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "10/25/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "42:10",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "yeH9ZQr3Afc",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "10/26/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "42:07",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "et8eVllqCLQ",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "10/27/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:36",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "o1fOe__RsLE",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "10/30/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:54",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "fD9rQ6be6a0",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/06/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:21",
+        "channel": "blakemarler"
+    },
+    {
         "id": "6VzTGXZ97gM",
         "parentid": "",
         "soap": "GL",
@@ -7054,6 +10462,18 @@
         "total": "1",
         "duration": "57:42",
         "channel": "bluerose8508"
+    },
+    {
+        "id": "7TofQpqaUmQ",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/07/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:12",
+        "channel": "blakemarler"
     },
     {
         "id": "Gz7QT7DaArU",
@@ -7068,6 +10488,18 @@
         "channel": "bluerose8508"
     },
     {
+        "id": "91_t4E9cG3g",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/08/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "39:44",
+        "channel": "blakemarler"
+    },
+    {
         "id": "W7cRNYyf5SE",
         "parentid": "",
         "soap": "GL",
@@ -7078,6 +10510,18 @@
         "total": "1",
         "duration": "57:39",
         "channel": "bluerose8508"
+    },
+    {
+        "id": "ZHTrnKHK5Nk",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/09/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:43",
+        "channel": "blakemarler"
     },
     {
         "id": "yjfD6atf_Pw",
@@ -7092,6 +10536,246 @@
         "channel": "bluerose8508"
     },
     {
+        "id": "2xi8ChJcZ4g",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/10/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:18",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "FfvinYL5VCM",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/14/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:41",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "SKtvIqbm9GY",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/14/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "42:04",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "ktqMzNH36gw",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/15/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:46",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "bpOQIAtbvaw",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/16/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "40:21",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "LrNM-4WTzMA",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/17/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:16",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "FBZH07XURbE",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/20/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:57",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "5X4iXqD4rvY",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/23/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "13:28",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "FS00986fhrI",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/24/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "10:00",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "otVKzsMjVXE",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Clips",
+        "date": "11/27/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "8:00",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "qnn1itu-_DI",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/28/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "43:09",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "3q8m6e8IOIo",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/29/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:28",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "Qq0fFdcYdxk",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/30/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "42:12",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "1zZ5Bta3Ga4",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "12/01/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "25:15",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "ihl8kmJORuY",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Clips",
+        "date": "12/04/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "10:12",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "fDJrr241AV4",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Clips",
+        "date": "12/05/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "3:53",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "ZsQCIj4kMPQ",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "12/06/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "42:21",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "O2WAaHctC1c",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Clips",
+        "date": "12/15/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "25:07",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "Bkr8Vj8EcvI",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Clips",
+        "date": "12/15/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "7:11",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "CGNqfP5OEjs",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "12/18/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:42",
+        "channel": "blakemarler"
+    },
+    {
         "id": "055lP8IP5U0",
         "parentid": "",
         "soap": "GL",
@@ -7102,6 +10786,18 @@
         "total": "1",
         "duration": "56:58",
         "channel": "bluerose8508"
+    },
+    {
+        "id": "WDngbVvv_PQ",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "12/19/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:20",
+        "channel": "blakemarler"
     },
     {
         "id": "U7b1afSIlqM",
@@ -7116,6 +10812,18 @@
         "channel": "bluerose8508"
     },
     {
+        "id": "bRCi0-HEBDk",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "12/20/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:52",
+        "channel": "blakemarler"
+    },
+    {
         "id": "LGGAF3ZfxU8",
         "parentid": "",
         "soap": "GL",
@@ -7128,6 +10836,18 @@
         "channel": "bluerose8508"
     },
     {
+        "id": "B5f0uPQNZUU",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "12/21/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "16:16",
+        "channel": "blakemarler"
+    },
+    {
         "id": "D-_fMPXP8vA",
         "parentid": "",
         "soap": "GL",
@@ -7138,5 +10858,29 @@
         "total": "1",
         "duration": "49:14",
         "channel": "bluerose8508"
+    },
+    {
+        "id": "dLURMIvWnIU",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "12/22/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "34:35",
+        "channel": "blakemarler"
+    },
+    {
+        "id": "H9bBna3h_uA",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode",
+        "date": "12/28/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "28:36",
+        "channel": "blakemarler"
     }
 ]
