@@ -1,5 +1,41 @@
 [
     {
+        "id": "ROfgit-q828",
+        "parentid": "",
+        "soap": "BB",
+        "category": "A",
+        "title": "Episode content",
+        "date": "1/1/2000",
+        "part": "1",
+        "total": "1",
+        "duration": "7:21",
+        "channel": "bnedceo"
+    },
+    {
+        "id": "vrpTbIc2RO0",
+        "parentid": "",
+        "soap": "BB",
+        "category": "A",
+        "title": "The Bold & The Beautiful",
+        "date": "1/1/2001",
+        "part": "1",
+        "total": "1",
+        "duration": "0:55",
+        "channel": "bnedceo"
+    },
+    {
+        "id": "2AN5bvof4kI",
+        "parentid": "",
+        "soap": "BB",
+        "category": "A",
+        "title": "The Bold & The Beautiful",
+        "date": "1/1/2001",
+        "part": "1",
+        "total": "1",
+        "duration": "1:28",
+        "channel": "bnedceo"
+    },
+    {
         "id": "kHvn3fmALP8",
         "parentid": "",
         "soap": "BB",
@@ -334,6 +370,18 @@
         "total": "1",
         "duration": "31:24",
         "channel": "steverutherford"
+    },
+    {
+        "id": "sAnbj5-uhFo",
+        "parentid": "",
+        "soap": "BB",
+        "category": "A",
+        "title": "The Bold & The Beautiful 2005",
+        "date": "10/24/2005",
+        "part": "1",
+        "total": "1",
+        "duration": "3:45",
+        "channel": "bnedceo"
     },
     {
         "id": "tj_RhgmS5DA",

@@ -6984,6 +6984,78 @@
         "channel": "disabled1955"
     },
     {
+        "id": "cEMtxVuBPi0",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode content",
+        "date": "1/1/2002",
+        "part": "1",
+        "total": "1",
+        "duration": "10:57",
+        "channel": "bnedceo"
+    },
+    {
+        "id": "aXObBR0t0Uw",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode content",
+        "date": "1/1/2002",
+        "part": "1",
+        "total": "1",
+        "duration": "7:52",
+        "channel": "bnedceo"
+    },
+    {
+        "id": "azEC9PM4kso",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode content",
+        "date": "1/1/2002",
+        "part": "1",
+        "total": "1",
+        "duration": "6:00",
+        "channel": "bnedceo"
+    },
+    {
+        "id": "ZdWiTwlPhY8",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode content",
+        "date": "1/1/2002",
+        "part": "1",
+        "total": "1",
+        "duration": "6:38",
+        "channel": "bnedceo"
+    },
+    {
+        "id": "j3I8uvVuWuA",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode content",
+        "date": "1/1/2002",
+        "part": "1",
+        "total": "1",
+        "duration": "4:28",
+        "channel": "bnedceo"
+    },
+    {
+        "id": "38qvDKsyiVs",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode content",
+        "date": "1/1/2002",
+        "part": "1",
+        "total": "1",
+        "duration": "5:32",
+        "channel": "bnedceo"
+    },
+    {
         "id": "DJA8UQ7b6DU",
         "parentid": "",
         "soap": "GL",
@@ -9216,6 +9288,18 @@
         "channel": "blakemarler"
     },
     {
+        "id": "VGFdWQ61dk4",
+        "parentid": "",
+        "soap": "GL",
+        "category": "B",
+        "title": "Joan Collins promo",
+        "date": "9/23/2002",
+        "part": "1",
+        "total": "1",
+        "duration": "0:23",
+        "channel": "bnedceo"
+    },
+    {
         "id": "GLNxdHCzFt8",
         "parentid": "",
         "soap": "GL",
@@ -9298,6 +9382,30 @@
         "total": "1",
         "duration": "37:44",
         "channel": "blakemarler"
+    },
+    {
+        "id": "lsjgA2h9lRk",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Alexandra (Joan Collins) calls Phillip",
+        "date": "10/1/2002",
+        "part": "1",
+        "total": "1",
+        "duration": "1:39",
+        "channel": "bnedceo"
+    },
+    {
+        "id": "hdNwcBPERd8",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Alexandra Spaulding",
+        "date": "10/1/2002",
+        "part": "1",
+        "total": "1",
+        "duration": "1:31",
+        "channel": "bnedceo"
     },
     {
         "id": "pN0ZueMFvOE",
@@ -10234,6 +10342,42 @@
         "total": "1",
         "duration": "00:17",
         "channel": "theystartedonsoaps"
+    },
+    {
+        "id": "n3LyEA8FZ1c",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode content",
+        "date": "1/1/2003",
+        "part": "1",
+        "total": "1",
+        "duration": "8:17",
+        "channel": "bnedceo"
+    },
+    {
+        "id": "G-JY8ablLWE",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode content",
+        "date": "1/1/2003",
+        "part": "1",
+        "total": "1",
+        "duration": "5:15",
+        "channel": "bnedceo"
+    },
+    {
+        "id": "3KMBI2QObPc",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode content",
+        "date": "1/1/2003",
+        "part": "1",
+        "total": "1",
+        "duration": "5:16",
+        "channel": "bnedceo"
     },
     {
         "id": "jnQWKftMOl8",
@@ -13354,6 +13498,18 @@
         "total": "1",
         "duration": "36:56",
         "channel": "blakemarler"
+    },
+    {
+        "id": "gDdvIzeoMUU",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode content",
+        "date": "1/1/2004",
+        "part": "1",
+        "total": "1",
+        "duration": "1:41",
+        "channel": "bnedceo"
     },
     {
         "id": "qkD0p1dfyy0",

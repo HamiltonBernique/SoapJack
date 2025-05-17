@@ -1,4 +1,7 @@
 link,title,duration,soap,date,category,parentid,part,total,channel
+"=HYPERLINK(""https://youtu.be/ROfgit-q828"", ""Link"")",Episode content,7:21,BB,1/1/2000,A,,1,1,bnedceo
+"=HYPERLINK(""https://youtu.be/vrpTbIc2RO0"", ""Link"")",The Bold & The Beautiful,0:55,BB,1/1/2001,A,,1,1,bnedceo
+"=HYPERLINK(""https://youtu.be/2AN5bvof4kI"", ""Link"")",The Bold & The Beautiful,1:28,BB,1/1/2001,A,,1,1,bnedceo
 "=HYPERLINK(""https://youtu.be/kHvn3fmALP8"", ""Link"")",Promo #16,0:21,BB,01/01/2002,B,,1,1,disabled1955
 "=HYPERLINK(""https://youtu.be/jxQOwNMqy34"", ""Link"")",Promo #15,00:21,BB,01/01/2002,B,,1,1,disabled1955
 "=HYPERLINK(""https://youtu.be/AJI9hsHIgBo"", ""Link"")",Promo #14,0:21,BB,01/01/2002,B,,1,1,disabled1955
@@ -27,5 +30,6 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/p0sTcnBkl6w"", ""Link"")",Episode,30:54,BB,02/01/2004,A,,1,1,steverutherford
 "=HYPERLINK(""https://youtu.be/-_CBVm11Mlc"", ""Link"")",Episode,31:21,BB,01/01/2005,A,,1,1,steverutherford
 "=HYPERLINK(""https://youtu.be/3tJiiUvhfMM"", ""Link"")",Episode,31:24,BB,01/01/2005,A,,1,1,steverutherford
+"=HYPERLINK(""https://youtu.be/sAnbj5-uhFo"", ""Link"")",The Bold & The Beautiful 2005,3:45,BB,10/24/2005,A,,1,1,bnedceo
 "=HYPERLINK(""https://youtu.be/tj_RhgmS5DA"", ""Link"")",Promo,0:20,BB,08/01/2007,B,,1,1,oakdalehistorian
 "=HYPERLINK(""https://youtu.be/kutbfncGcFM"", ""Link"")",Promo,0:20,BB,04/13/2009,B,,1,1,disabled1955

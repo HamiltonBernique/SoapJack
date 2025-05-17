@@ -924,6 +924,30 @@
         "channel": "edwynnsanchez"
     },
     {
+        "id": "2SvHYTEUPhs",
+        "parentid": "",
+        "soap": "GL",
+        "category": "B",
+        "title": "Opening",
+        "date": "2/1/1977",
+        "part": "1",
+        "total": "1",
+        "duration": "0:45",
+        "channel": "bnedceo"
+    },
+    {
+        "id": "94UAeJEHh-o",
+        "parentid": "",
+        "soap": "GL",
+        "category": "B",
+        "title": "Opening",
+        "date": "3/1/1977",
+        "part": "1",
+        "total": "1",
+        "duration": "0:44",
+        "channel": "bnedceo"
+    },
+    {
         "id": "-stEquFpPxk",
         "parentid": "",
         "soap": "GL",
@@ -1030,6 +1054,42 @@
         "total": "1",
         "duration": "40:53",
         "channel": "spauldingfield"
+    },
+    {
+        "id": "fw7lzto-tds",
+        "parentid": "P_7b6fa645",
+        "soap": "GL",
+        "category": "A",
+        "title": "Roger & Amanda scheme",
+        "date": "1/1/1979",
+        "part": "1",
+        "total": "3",
+        "duration": "2:32",
+        "channel": "bnedceo"
+    },
+    {
+        "id": "tUv9nngZatM",
+        "parentid": "P_7b6fa645",
+        "soap": "GL",
+        "category": "A",
+        "title": "Roger & Amanda scheme pt.2",
+        "date": "1/1/1979",
+        "part": "2",
+        "total": "3",
+        "duration": "2:29",
+        "channel": "bnedceo"
+    },
+    {
+        "id": "OpYDfzaF_48",
+        "parentid": "P_7b6fa645",
+        "soap": "GL",
+        "category": "A",
+        "title": "Roger & Amanda scheme pt.3",
+        "date": "1/1/1979",
+        "part": "3",
+        "total": "3",
+        "duration": "1:57",
+        "channel": "bnedceo"
     },
     {
         "id": "QWrdVUxfrbY",
