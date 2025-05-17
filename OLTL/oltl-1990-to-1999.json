@@ -14316,6 +14316,18 @@
         "channel": "fyi9476"
     },
     {
+        "id": "10u4D8EMJvU",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode content",
+        "date": "1/1/1998",
+        "part": "1",
+        "total": "1",
+        "duration": "4:04",
+        "channel": "bnedceo"
+    },
+    {
         "id": "BW28ORBV0Gw",
         "parentid": "",
         "soap": "OLTL",
@@ -14760,6 +14772,18 @@
         "channel": "carmaker1"
     },
     {
+        "id": "ZK4NRkUKPuM",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "David Renaldi (Michael Zaslow) communicates via laptop",
+        "date": "5/1/1998",
+        "part": "1",
+        "total": "1",
+        "duration": "7:08",
+        "channel": "bnedceo"
+    },
+    {
         "id": "txlkzDCR0zY",
         "parentid": "",
         "soap": "OLTL",
@@ -15046,6 +15070,18 @@
         "total": "1",
         "duration": "00:32",
         "channel": "carmaker1"
+    },
+    {
+        "id": "UmQoXu6gIjA",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode content",
+        "date": "10/1/1998",
+        "part": "1",
+        "total": "1",
+        "duration": "1:59",
+        "channel": "bnedceo"
     },
     {
         "id": "ccuAaU-34l4",
