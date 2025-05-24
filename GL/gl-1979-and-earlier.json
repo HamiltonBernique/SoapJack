@@ -1,29 +1,5 @@
 [
     {
-        "id": "Qwnrk-7nKRc",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "11/5/0198",
-        "part": "1",
-        "total": "1",
-        "duration": "39:13",
-        "channel": "blakemarler"
-    },
-    {
-        "id": "hjUPKtQ0qrw",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "05/06/0998",
-        "part": "1",
-        "total": "1",
-        "duration": "39:10",
-        "channel": "blakemarler"
-    },
-    {
         "id": "O4Xb17kSttY",
         "parentid": "",
         "soap": "GL",
