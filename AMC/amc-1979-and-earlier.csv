@@ -1,7 +1,9 @@
 link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/aik2doJ1qEk"", ""Link"")",Episode,22:26,AMC,02/04/1970,A,,1,1,iheartallmychildren
 "=HYPERLINK(""https://youtu.be/Bo6ifUpcxhU"", ""Link"")",Episode,22:23,AMC,02/27/1970,A,,1,1,iheartallmychildren
+"=HYPERLINK(""https://youtu.be/WalfGVR1_sQ"", ""Link"")",Episode - Erica Is A Force To Be Reckoned With,30:06,AMC,03/15/1970,A,,1,1,ilovesoaps
 "=HYPERLINK(""https://youtu.be/Ac2t4YZuOmM"", ""Link"")",Episode,21:58,AMC,04/20/1970,A,,1,1,iheartallmychildren
+"=HYPERLINK(""https://youtu.be/XI3rnkABaNg"", ""Link"")",Episode - Erica Plans To Be Famous!,30:00,AMC,04/20/1970,A,,1,1,ilovesoaps
 "=HYPERLINK(""https://youtu.be/AqQORDkqTGk"", ""Link"")",Promo,00:30,AMC,05/28/1970,B,,1,1,retronewfoundland
 "=HYPERLINK(""https://youtu.be/MHkeMCDR8mg"", ""Link"")",I Love Lucci,07:15,AMC,06/01/1970,A,P_f834ae95,1,3,donna515
 "=HYPERLINK(""https://youtu.be/Yu_Wn-JgNwo"", ""Link"")",I Love Lucci,07:09,AMC,06/01/1970,A,P_f834ae95,2,3,donna515
@@ -38,3 +40,4 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/icq-iTpfBTc"", ""Link"")",A Daytime to Remember,09:29,AMC,06/01/1979,A,P_1e4cbd5a,1,2,donna515
 "=HYPERLINK(""https://youtu.be/4hXLCqdzEmY"", ""Link"")",A Daytime to Remember,09:26,AMC,06/01/1979,A,P_1e4cbd5a,2,2,donna515
 "=HYPERLINK(""https://youtu.be/QkurLPa6xic"", ""Link"")",Episode,40:13,AMC,11/27/1979,A,,1,1,iheartallmychildren
+"=HYPERLINK(""https://youtu.be/irqUDA5gm4E"", ""Link"")",Episode - Erica Confronted For Taking Birth Control,59:53,AMC,11/27/1979,A,,1,1,ilovesoaps

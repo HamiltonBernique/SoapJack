@@ -120,6 +120,18 @@
         "channel": "donna515"
     },
     {
+        "id": "0w5joGYuojg",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Viki Gives Birth To Kevin",
+        "date": "11/12/1976",
+        "part": "1",
+        "total": "1",
+        "duration": "21:41",
+        "channel": "ilovesoaps"
+    },
+    {
         "id": "gtGtOLeFJpM",
         "parentid": "",
         "soap": "OLTL",
@@ -2700,6 +2712,18 @@
         "channel": "artax84z"
     },
     {
+        "id": "Wcu1HCCsbNY",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Andrea Evans Arrives as Tina Lord",
+        "date": "7/2/1978",
+        "part": "1",
+        "total": "1",
+        "duration": "20:41",
+        "channel": "ilovesoaps"
+    },
+    {
         "id": "2RA0dfbHIlM",
         "parentid": "P_d46eeab0",
         "soap": "OLTL",
@@ -2926,6 +2950,18 @@
         "total": "1",
         "duration": "01:18",
         "channel": "artax84z"
+    },
+    {
+        "id": "2iT7wHbssWE",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Tina Does The Right Thing",
+        "date": "11/02/1978",
+        "part": "1",
+        "total": "1",
+        "duration": "37:59",
+        "channel": "ilovesoaps"
     },
     {
         "id": "G9jRuQtWBpY",
@@ -3156,6 +3192,18 @@
         "channel": "artax84z"
     },
     {
+        "id": "Ay5hTNDepn8",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Tina Goes To Work For Greg",
+        "date": "02/26/1979",
+        "part": "1",
+        "total": "1",
+        "duration": "48:50",
+        "channel": "ilovesoaps"
+    },
+    {
         "id": "DgWCV9ZchGY",
         "parentid": "",
         "soap": "OLTL",
@@ -3166,6 +3214,30 @@
         "total": "1",
         "duration": "36:20",
         "channel": "edwynnsanchez"
+    },
+    {
+        "id": "GryPDAE3J8M",
+        "parentid": "P_55bd05ea",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Karen\u2019s Courtroom Confession",
+        "date": "3/6/1979",
+        "part": "1",
+        "total": "2",
+        "duration": "21:22",
+        "channel": "ilovesoaps"
+    },
+    {
+        "id": "kVQMWo8rUZg",
+        "parentid": "P_55bd05ea",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Karen\u2019s Courtroom Confession",
+        "date": "3/6/1979",
+        "part": "2",
+        "total": "2",
+        "duration": "21:11",
+        "channel": "ilovesoaps"
     },
     {
         "id": "4-vTa9HFCrs",
@@ -3226,5 +3298,17 @@
         "total": "1",
         "duration": "28:23",
         "channel": "foryourviewingpleasure966"
+    },
+    {
+        "id": "-yWL95BM_1Y",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Karen and Marco switch Jenny and Katrina's babies",
+        "date": "11/1/1979",
+        "part": "1",
+        "total": "1",
+        "duration": "21:20",
+        "channel": "ilovesoaps"
     }
 ]

@@ -984,6 +984,30 @@
         "channel": "romabriere"
     },
     {
+        "id": "AyBfyraWGMk",
+        "parentid": "",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode - Bobbie Lies About Laura and Calls Her Brother, Luke!",
+        "date": "11/17/1978",
+        "part": "1",
+        "total": "1",
+        "duration": "42:35",
+        "channel": "ilovesoaps"
+    },
+    {
+        "id": "W8TGzJqjCig",
+        "parentid": "",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode - Luke 1st Episode",
+        "date": "11/20/1978",
+        "part": "1",
+        "total": "1",
+        "duration": "44:36",
+        "channel": "ilovesoaps"
+    },
+    {
         "id": "TT9q-CCBAPU",
         "parentid": "P_5a9cc618",
         "soap": "GH",
@@ -1546,6 +1570,18 @@
         "total": "12",
         "duration": "12:30",
         "channel": "romabriere"
+    },
+    {
+        "id": "tfolvP95E-o",
+        "parentid": "",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode - Luke and Laura Meet AKA Bobbies Plan",
+        "date": "03/30/1979",
+        "part": "1",
+        "total": "1",
+        "duration": "44:41",
+        "channel": "ilovesoaps"
     },
     {
         "id": "xgUJPK3pb-g",
@@ -2244,6 +2280,18 @@
         "channel": "romabriere"
     },
     {
+        "id": "exZDSaC5ueY",
+        "parentid": "",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode - The Hit and Roy Dies",
+        "date": "11/12/1979",
+        "part": "1",
+        "total": "1",
+        "duration": "44:38",
+        "channel": "ilovesoaps"
+    },
+    {
         "id": "sU8pTvUGeAk",
         "parentid": "P_97500264",
         "soap": "GH",
@@ -2290,6 +2338,18 @@
         "total": "1",
         "duration": "44:12",
         "channel": "generalhospitalexposed"
+    },
+    {
+        "id": "pCe_XA36ULY",
+        "parentid": "",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode - Bobbie Figures Out Who Raped Laura",
+        "date": "11/29/1979",
+        "part": "1",
+        "total": "1",
+        "duration": "44:50",
+        "channel": "ilovesoaps"
     },
     {
         "id": "bTRZV43i6zQ",

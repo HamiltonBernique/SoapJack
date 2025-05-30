@@ -60,6 +60,18 @@
         "channel": "cfs89"
     },
     {
+        "id": "iDFHnXWoKc4",
+        "parentid": "",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode - Bobbie and Tony Re-Connect",
+        "date": "06/24/1991",
+        "part": "1",
+        "total": "1",
+        "duration": "42:25",
+        "channel": "ilovesoaps"
+    },
+    {
         "id": "W1g3ZNYVK8w",
         "parentid": "",
         "soap": "GH",
@@ -276,6 +288,18 @@
         "channel": "retronewfoundland"
     },
     {
+        "id": "PP63-s7mJhk",
+        "parentid": "",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode - BJ's Bus Accident and Death",
+        "date": "05/13/1994",
+        "part": "1",
+        "total": "1",
+        "duration": "1:30:44",
+        "channel": "ilovesoaps"
+    },
+    {
         "id": "4kstN2PQw6Y",
         "parentid": "",
         "soap": "GH",
@@ -286,6 +310,54 @@
         "total": "1",
         "duration": "13:28",
         "channel": "generalhospitalexposed"
+    },
+    {
+        "id": "GZUTLzuL45A",
+        "parentid": "",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode - BJ's Heart",
+        "date": "05/17/1994",
+        "part": "1",
+        "total": "1",
+        "duration": "1:24:19",
+        "channel": "ilovesoaps"
+    },
+    {
+        "id": "qQS0OPO5BsY",
+        "parentid": "",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode - Bobbie and Tony Have A Huge Fight",
+        "date": "05/19/1994",
+        "part": "1",
+        "total": "1",
+        "duration": "1:24:50",
+        "channel": "ilovesoaps"
+    },
+    {
+        "id": "T_7VJ9miJb0",
+        "parentid": "",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode - Bobbie Pulls A Gun On Damien",
+        "date": "06/06/1994",
+        "part": "1",
+        "total": "1",
+        "duration": "41:22",
+        "channel": "ilovesoaps"
+    },
+    {
+        "id": "M31q_YtC-uY",
+        "parentid": "",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode - Monica Tells Bobbie She Has Cancer",
+        "date": "08/18/1994",
+        "part": "1",
+        "total": "1",
+        "duration": "45:12",
+        "channel": "ilovesoaps"
     },
     {
         "id": "PvPfdkWTlIM",
@@ -576,6 +648,18 @@
         "channel": "jonobeckyll2"
     },
     {
+        "id": "0c27japAQMA",
+        "parentid": "",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode - Bobbie Wants To Find Her Daughter",
+        "date": "04/05/1996",
+        "part": "1",
+        "total": "1",
+        "duration": "44:51",
+        "channel": "ilovesoaps"
+    },
+    {
         "id": "D-xQm4WOMlU",
         "parentid": "",
         "soap": "GH",
@@ -598,6 +682,18 @@
         "total": "1",
         "duration": "00:53",
         "channel": "carmaker1"
+    },
+    {
+        "id": "eOSHNQCoBKw",
+        "parentid": "",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode - Bobbie Catches Carly looking through her things",
+        "date": "06/27/1996",
+        "part": "1",
+        "total": "1",
+        "duration": "45:21",
+        "channel": "ilovesoaps"
     },
     {
         "id": "MivbkPtEFoI",
@@ -648,6 +744,18 @@
         "channel": "ackgh73994"
     },
     {
+        "id": "VkC3hYjyVZo",
+        "parentid": "",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode -  Bobbies Surprise Birthday Party",
+        "date": "08/01/1996",
+        "part": "1",
+        "total": "1",
+        "duration": "1:17:28",
+        "channel": "ilovesoaps"
+    },
+    {
         "id": "InqO_HkDf_w",
         "parentid": "",
         "soap": "GH",
@@ -684,6 +792,18 @@
         "channel": "carmaker1"
     },
     {
+        "id": "AdX_q6XFT3s",
+        "parentid": "",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode - Bobbie Catches Tony and Carly In Bed",
+        "date": "10/14/1996",
+        "part": "1",
+        "total": "1",
+        "duration": "1:21:12",
+        "channel": "ilovesoaps"
+    },
+    {
         "id": "HEX1ztWxoO8",
         "parentid": "",
         "soap": "GH",
@@ -694,6 +814,30 @@
         "total": "1",
         "duration": "8:14",
         "channel": "carmaker1"
+    },
+    {
+        "id": "F7qo7qoFFPY",
+        "parentid": "",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode - Bobbie and  Stefan Cassadine Get Married",
+        "date": "12/05/1996",
+        "part": "1",
+        "total": "1",
+        "duration": "45:37",
+        "channel": "ilovesoaps"
+    },
+    {
+        "id": "2wjcxWkd99Y",
+        "parentid": "",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode - Twist of Fate",
+        "date": "12/14/1996",
+        "part": "1",
+        "total": "1",
+        "duration": "45:21",
+        "channel": "ilovesoaps"
     },
     {
         "id": "XV97qAnOcHY",
@@ -946,6 +1090,18 @@
         "total": "5",
         "duration": "10:07",
         "channel": "carmaker1"
+    },
+    {
+        "id": "TMXp6FVdO4Q",
+        "parentid": "",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode - Bobbie Finds Out Carly Is Pregnant",
+        "date": "07/28/1997",
+        "part": "1",
+        "total": "1",
+        "duration": "42:57",
+        "channel": "ilovesoaps"
     },
     {
         "id": "0y32t5EULlM",
@@ -1438,6 +1594,18 @@
         "total": "3",
         "duration": "05:51",
         "channel": "gasux216"
+    },
+    {
+        "id": "zoGmvlGGQGg",
+        "parentid": "",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode - Carly Tells Bobbie She Is Her Daughter",
+        "date": "02/03/1998",
+        "part": "1",
+        "total": "1",
+        "duration": "3:10:51",
+        "channel": "ilovesoaps"
     },
     {
         "id": "Cr48TijeOF4",

@@ -1152,6 +1152,18 @@
         "channel": "edwynnsanchez"
     },
     {
+        "id": "lZtYFd6Pm7Q",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Tina and Cord Last Wedding and Final Episode",
+        "date": "11/15/2000",
+        "part": "1",
+        "total": "1",
+        "duration": "37:27",
+        "channel": "ilovesoaps"
+    },
+    {
         "id": "fWwG02wpDtU",
         "parentid": "",
         "soap": "OLTL",
@@ -7932,6 +7944,18 @@
         "channel": "ackgh73994"
     },
     {
+        "id": "LbHFYTU96yk",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "6/13/2007",
+        "part": "1",
+        "total": "1",
+        "duration": "37:01",
+        "channel": "ilovesoaps"
+    },
+    {
         "id": "7T_L7VZoaSg",
         "parentid": "",
         "soap": "OLTL",
@@ -7942,6 +7966,66 @@
         "total": "1",
         "duration": "00:33",
         "channel": "carmaker1"
+    },
+    {
+        "id": "9lkxaLuTv1Y",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "6/14/2007",
+        "part": "1",
+        "total": "1",
+        "duration": "37:22",
+        "channel": "ilovesoaps"
+    },
+    {
+        "id": "rLR_4lYlZPk",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "6/15/2007",
+        "part": "1",
+        "total": "1",
+        "duration": "37:19",
+        "channel": "ilovesoaps"
+    },
+    {
+        "id": "oKEkJL9MZpI",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "6/18/2007",
+        "part": "1",
+        "total": "1",
+        "duration": "37:36",
+        "channel": "ilovesoaps"
+    },
+    {
+        "id": "K7hpNgLkFF8",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "6/19/2007",
+        "part": "1",
+        "total": "1",
+        "duration": "37:23",
+        "channel": "ilovesoaps"
+    },
+    {
+        "id": "X8qFG6uvz3w",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "6/20/2007",
+        "part": "1",
+        "total": "1",
+        "duration": "40:27",
+        "channel": "ilovesoaps"
     },
     {
         "id": "N2xIhur3HZU",
@@ -8292,6 +8376,18 @@
         "channel": "edwynnsanchez"
     },
     {
+        "id": "Pz2L08fn8QY",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Andrea Evans Returns After 18 Years",
+        "date": "06/12/2008",
+        "part": "1",
+        "total": "1",
+        "duration": "36:01",
+        "channel": "ilovesoaps"
+    },
+    {
         "id": "rb2fisinnEA",
         "parentid": "",
         "soap": "OLTL",
@@ -8302,6 +8398,18 @@
         "total": "1",
         "duration": "36:59",
         "channel": "edwynnsanchez"
+    },
+    {
+        "id": "okT-PIDxhuo",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episodes - and 7/22/2008",
+        "date": "07/21/2008",
+        "part": "1",
+        "total": "1",
+        "duration": "1:13:14",
+        "channel": "ilovesoaps"
     },
     {
         "id": "T6vuprdg_sg",
@@ -8340,6 +8448,18 @@
         "channel": "ackgh73994"
     },
     {
+        "id": "OVzP3gX7X1c",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Disappearing Axe",
+        "date": "08/04/2008",
+        "part": "1",
+        "total": "1",
+        "duration": "36:39",
+        "channel": "ilovesoaps"
+    },
+    {
         "id": "yDRVMmZuxgQ",
         "parentid": "",
         "soap": "OLTL",
@@ -8376,6 +8496,42 @@
         "channel": "ackgh73994"
     },
     {
+        "id": "HBdfJe1r68g",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Tina and Cord see each other At Llanfair",
+        "date": "08/12/2008",
+        "part": "1",
+        "total": "1",
+        "duration": "36:43",
+        "channel": "ilovesoaps"
+    },
+    {
+        "id": "GF2FmzpxHnY",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Tina and Roxy Meet",
+        "date": "09/02/2008",
+        "part": "1",
+        "total": "1",
+        "duration": "37:35",
+        "channel": "ilovesoaps"
+    },
+    {
+        "id": "sE-ImAiC9G4",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Tina Locked In The Secret Room",
+        "date": "09/08/2008",
+        "part": "1",
+        "total": "1",
+        "duration": "40:00",
+        "channel": "ilovesoaps"
+    },
+    {
         "id": "rOYNVu3etxg",
         "parentid": "",
         "soap": "OLTL",
@@ -8400,6 +8556,18 @@
         "channel": "ackgh73994"
     },
     {
+        "id": "eHgGSkumQ5k",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Tina Surprises Viki and Tess",
+        "date": "10/14/2008",
+        "part": "1",
+        "total": "1",
+        "duration": "37:21",
+        "channel": "ilovesoaps"
+    },
+    {
         "id": "HRJRuoosS7Q",
         "parentid": "",
         "soap": "OLTL",
@@ -8410,6 +8578,18 @@
         "total": "1",
         "duration": "02:59",
         "channel": "ackgh73994"
+    },
+    {
+        "id": "2pI5M092AvA",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - The Jig Is Up and So Is The Bomb",
+        "date": "11/07/2008",
+        "part": "1",
+        "total": "1",
+        "duration": "38:42",
+        "channel": "ilovesoaps"
     },
     {
         "id": "ZVItLuH4doo",

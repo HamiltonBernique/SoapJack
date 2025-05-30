@@ -36,6 +36,30 @@
         "channel": "jimmuneco1877"
     },
     {
+        "id": "mMqVXbWbwJY",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Asa\u2019s Party for Sam and Mimi",
+        "date": "6/1/1980",
+        "part": "1",
+        "total": "1",
+        "duration": "43:07",
+        "channel": "ilovesoaps"
+    },
+    {
+        "id": "91pF7i_ryzM",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Bo and Alex (Sept - Dec 1990)",
+        "date": "9/1/1980",
+        "part": "1",
+        "total": "1",
+        "duration": "4:10:49",
+        "channel": "ilovesoaps"
+    },
+    {
         "id": "Q52YNpm9Rrc",
         "parentid": "",
         "soap": "OLTL",
@@ -430,6 +454,18 @@
         "total": "1",
         "duration": "21:38",
         "channel": "vickrobcal"
+    },
+    {
+        "id": "cygIeSjX8ts",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Jenny Gives Mary Back To Katrina",
+        "date": "9/2/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "21:27",
+        "channel": "ilovesoaps"
     },
     {
         "id": "mLoKixUbAaQ",
@@ -2412,6 +2448,30 @@
         "channel": "ryanshope3316"
     },
     {
+        "id": "k-cbqB653Eo",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Tina Tells Viki She\u2019s Her Sister",
+        "date": "03/22/1985",
+        "part": "1",
+        "total": "1",
+        "duration": "42:59",
+        "channel": "ilovesoaps"
+    },
+    {
+        "id": "-tLk1eq8D4g",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Viki Slaps Tina at The Banquet",
+        "date": "05/03/1985",
+        "part": "1",
+        "total": "1",
+        "duration": "37:48",
+        "channel": "ilovesoaps"
+    },
+    {
         "id": "IE7eJyS9j6c",
         "parentid": "",
         "soap": "OLTL",
@@ -2830,6 +2890,18 @@
         "total": "5",
         "duration": "7:25",
         "channel": "hamiltonbernique"
+    },
+    {
+        "id": "uncizI85pwc",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Tina Gets Into Bed With Clint",
+        "date": "11/08/1985",
+        "part": "1",
+        "total": "1",
+        "duration": "34:27",
+        "channel": "ilovesoaps"
     },
     {
         "id": "_gHZKWKBvOk",
@@ -3852,6 +3924,18 @@
         "channel": "jimmuneco1877"
     },
     {
+        "id": "2wz2wF5fqMI",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Clint and Viki's 2nd Wedding",
+        "date": "4/17/1986",
+        "part": "1",
+        "total": "1",
+        "duration": "22:10",
+        "channel": "ilovesoaps"
+    },
+    {
         "id": "Lh2CoupAoeQ",
         "parentid": "",
         "soap": "OLTL",
@@ -3874,6 +3958,30 @@
         "total": "1",
         "duration": "0:36",
         "channel": "ryanshope3316"
+    },
+    {
+        "id": "KZLw0Rz-yVw",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Tina and Cord Meet For The 1st Time",
+        "date": "05/16/1986",
+        "part": "1",
+        "total": "1",
+        "duration": "36:42",
+        "channel": "ilovesoaps"
+    },
+    {
+        "id": "CvfS5L5u2t0",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Cord Asks Tina Out",
+        "date": "05/19/1986",
+        "part": "1",
+        "total": "1",
+        "duration": "40:11",
+        "channel": "ilovesoaps"
     },
     {
         "id": "kB7koAeX5O8",
@@ -4332,6 +4440,42 @@
         "channel": "esarchive"
     },
     {
+        "id": "o9HXwiTockc",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Tina Chooses Cord Over Richard Abbott",
+        "date": "07/25/1986",
+        "part": "1",
+        "total": "1",
+        "duration": "42:43",
+        "channel": "ilovesoaps"
+    },
+    {
+        "id": "fbQg0ExuEUc",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Cord Proposes To Tina",
+        "date": "07/28/1986",
+        "part": "1",
+        "total": "1",
+        "duration": "44:58",
+        "channel": "ilovesoaps"
+    },
+    {
+        "id": "JJYXgmMqUsM",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Tina and Cord 1st Wedding",
+        "date": "08/05/1986",
+        "part": "1",
+        "total": "1",
+        "duration": "45:32",
+        "channel": "ilovesoaps"
+    },
+    {
         "id": "y3fwUXCzqww",
         "parentid": "P_2f24a950",
         "soap": "OLTL",
@@ -4462,6 +4606,30 @@
         "total": "1",
         "duration": "00:36",
         "channel": "ryanshope3316"
+    },
+    {
+        "id": "13LmlYYXL3E",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Cord Ends It with Tina",
+        "date": "11/26/1986",
+        "part": "1",
+        "total": "1",
+        "duration": "44:44",
+        "channel": "ilovesoaps"
+    },
+    {
+        "id": "wjTSi2gjFaw",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Cord Saves Tina From Devils Claw",
+        "date": "11/26/1986",
+        "part": "1",
+        "total": "1",
+        "duration": "43:41",
+        "channel": "ilovesoaps"
     },
     {
         "id": "H2fauCZFHhU",
@@ -5472,6 +5640,54 @@
         "channel": "hamiltonbernique"
     },
     {
+        "id": "5OMY6ifpTyo",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - ArgenTINA Arrival",
+        "date": "02/13/1987",
+        "part": "1",
+        "total": "1",
+        "duration": "39:45",
+        "channel": "ilovesoaps"
+    },
+    {
+        "id": "EspA_1Jmd94",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Tina and Max on The Ranch in Argentina",
+        "date": "02/16/1987",
+        "part": "1",
+        "total": "1",
+        "duration": "42:02",
+        "channel": "ilovesoaps"
+    },
+    {
+        "id": "GyCofyxkV1E",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Tina Returns From The Dead",
+        "date": "2/17/1987",
+        "part": "1",
+        "total": "1",
+        "duration": "21:42",
+        "channel": "ilovesoaps"
+    },
+    {
+        "id": "-SjD4HJk7IQ",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Cord Goes After Tina",
+        "date": "02/18/1987",
+        "part": "1",
+        "total": "1",
+        "duration": "41:38",
+        "channel": "ilovesoaps"
+    },
+    {
         "id": "6mZM4cUBe9M",
         "parentid": "",
         "soap": "OLTL",
@@ -5508,6 +5724,30 @@
         "channel": "edwynnsanchez"
     },
     {
+        "id": "WP-fg9EW1ME",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Viki Reunites with Joe in Heaven",
+        "date": "3/9/1987",
+        "part": "1",
+        "total": "1",
+        "duration": "21:40",
+        "channel": "ilovesoaps"
+    },
+    {
+        "id": "-IpjfE5G2tA",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Tina Goes Over Iguazu Falls",
+        "date": "03/09/1987",
+        "part": "1",
+        "total": "1",
+        "duration": "36:18",
+        "channel": "ilovesoaps"
+    },
+    {
         "id": "1oGw5ASXpK4",
         "parentid": "",
         "soap": "OLTL",
@@ -5518,6 +5758,30 @@
         "total": "1",
         "duration": "00:36",
         "channel": "ryanshope3316"
+    },
+    {
+        "id": "OGIj7jutqJo",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Tina Delivers Gabrielles Baby",
+        "date": "05/04/1987",
+        "part": "1",
+        "total": "1",
+        "duration": "40:41",
+        "channel": "ilovesoaps"
+    },
+    {
+        "id": "60k-ODsQu8I",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Tina Returns To Llanview with Gabrielle's baby",
+        "date": "05/18/1987",
+        "part": "1",
+        "total": "1",
+        "duration": "41:29",
+        "channel": "ilovesoaps"
     },
     {
         "id": "xcCEFdd4E1o",
@@ -5952,6 +6216,18 @@
         "channel": "ryanshope3316"
     },
     {
+        "id": "L8A_vbVPQlg",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Deadly Vial of Poison",
+        "date": "08/24/1987",
+        "part": "1",
+        "total": "1",
+        "duration": "43:31",
+        "channel": "ilovesoaps"
+    },
+    {
         "id": "Eg25XED8t10",
         "parentid": "",
         "soap": "OLTL",
@@ -5962,6 +6238,30 @@
         "total": "1",
         "duration": "0:36",
         "channel": "ryanshope3316"
+    },
+    {
+        "id": "ZZHOjzZXKMg",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Tinas Courtroom Confession",
+        "date": "09/24/1987",
+        "part": "1",
+        "total": "1",
+        "duration": "42:28",
+        "channel": "ilovesoaps"
+    },
+    {
+        "id": "1-rs0JQls6g",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Tina and  Irene Manning",
+        "date": "09/28/1987",
+        "part": "1",
+        "total": "1",
+        "duration": "38:44",
+        "channel": "ilovesoaps"
     },
     {
         "id": "iMJZDzBSE5Y",
@@ -6852,6 +7152,18 @@
         "channel": "jimmuneco1877"
     },
     {
+        "id": "MC1FsZ4slLk",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Max and Tina\u2019s Wedding",
+        "date": "03/11/1988",
+        "part": "1",
+        "total": "1",
+        "duration": "42:40",
+        "channel": "ilovesoaps"
+    },
+    {
         "id": "0iWECF3zIjU",
         "parentid": "",
         "soap": "OLTL",
@@ -6874,6 +7186,30 @@
         "total": "1",
         "duration": "0:15",
         "channel": "vickrobcal"
+    },
+    {
+        "id": "ZifJhZh5lig",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Dream Bed Love Couple",
+        "date": "04/01/1988",
+        "part": "1",
+        "total": "1",
+        "duration": "43:35",
+        "channel": "ilovesoaps"
+    },
+    {
+        "id": "ZWpxqDjfzmg",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Cord Roberts Art Show",
+        "date": "04/27/1988",
+        "part": "1",
+        "total": "1",
+        "duration": "42:12",
+        "channel": "ilovesoaps"
     },
     {
         "id": "A37HepbljqA",
@@ -7860,6 +8196,30 @@
         "channel": "ryanshope3316"
     },
     {
+        "id": "JOVdgZ13L9g",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Rescued From The Lighthouse",
+        "date": "09/12/1988",
+        "part": "1",
+        "total": "1",
+        "duration": "40:39",
+        "channel": "ilovesoaps"
+    },
+    {
+        "id": "AcKYNubpExA",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Tina Wants To Make Amends with Viki, Cord and Natalie",
+        "date": "10/07/1988",
+        "part": "1",
+        "total": "1",
+        "duration": "40:34",
+        "channel": "ilovesoaps"
+    },
+    {
         "id": "5aPQOzwLPXY",
         "parentid": "P_e4ec9467",
         "soap": "OLTL",
@@ -7954,6 +8314,18 @@
         "total": "8",
         "duration": "7:43",
         "channel": "vickrobcal"
+    },
+    {
+        "id": "_vMAQOZMrZU",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Tina and Cord Double Wedding with Asa and Renee",
+        "date": "11/23/1988",
+        "part": "1",
+        "total": "1",
+        "duration": "41:43",
+        "channel": "ilovesoaps"
     },
     {
         "id": "L2C3B1kLdgY",
@@ -9672,6 +10044,18 @@
         "channel": "cfs89"
     },
     {
+        "id": "7-XkMiwsnlw",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Trapped In Eterna",
+        "date": "02/06/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "43:12",
+        "channel": "ilovesoaps"
+    },
+    {
         "id": "VvIeCI3W9us",
         "parentid": "",
         "soap": "OLTL",
@@ -10164,6 +10548,42 @@
         "channel": "vickrobcal"
     },
     {
+        "id": "UJMjfVqDcFU",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Crown Jewels of Mendorra",
+        "date": "07/21/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "42:29",
+        "channel": "ilovesoaps"
+    },
+    {
+        "id": "3w7s-JgqYgQ",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - The Electric Chair",
+        "date": "08/17/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "41:05",
+        "channel": "ilovesoaps"
+    },
+    {
+        "id": "Zg0alSPOhdI",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Queen Tina of Mendorra",
+        "date": "08/23/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "43:10",
+        "channel": "ilovesoaps"
+    },
+    {
         "id": "8ThQwqC40Gw",
         "parentid": "",
         "soap": "OLTL",
@@ -10186,6 +10606,18 @@
         "total": "1",
         "duration": "41:10",
         "channel": "edwynnsanchez"
+    },
+    {
+        "id": "z04mviG_C1E",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Tina and Gabrielle Become Roommates",
+        "date": "11/01/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "42:56",
+        "channel": "ilovesoaps"
     },
     {
         "id": "G9oOY89UJvM",
@@ -10246,5 +10678,17 @@
         "total": "1",
         "duration": "08:58",
         "channel": "vickrobcal"
+    },
+    {
+        "id": "RyzFtRZeTAM",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Tina Is A Hero",
+        "date": "12/28/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "42:15",
+        "channel": "ilovesoaps"
     }
 ]

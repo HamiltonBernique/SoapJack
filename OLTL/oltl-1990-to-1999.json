@@ -2184,6 +2184,18 @@
         "channel": "abcsoaptv"
     },
     {
+        "id": "LcIJrts6Jtk",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Andrea Evans Takes Tina and Goes To California",
+        "date": "01/18/1990",
+        "part": "1",
+        "total": "1",
+        "duration": "41:26",
+        "channel": "ilovesoaps"
+    },
+    {
         "id": "Jwr32h_uhUM",
         "parentid": "",
         "soap": "OLTL",
@@ -2566,6 +2578,18 @@
         "total": "1",
         "duration": "0:36",
         "channel": "ryanshope3316"
+    },
+    {
+        "id": "6SGME92_9k8",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Alex Arrives (Aug-Sept 1990)",
+        "date": "8/1/1990",
+        "part": "1",
+        "total": "1",
+        "duration": "3:50:43",
+        "channel": "ilovesoaps"
     },
     {
         "id": "UDnauLRHh9A",
@@ -3420,6 +3444,18 @@
         "channel": "ryanshope3316"
     },
     {
+        "id": "hxnIzGAnIgg",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Bo and Alex; Cassie Arrives (March-May 1991)",
+        "date": "3/1/1991",
+        "part": "1",
+        "total": "1",
+        "duration": "3:54:48",
+        "channel": "ilovesoaps"
+    },
+    {
         "id": "AwMHxz607nY",
         "parentid": "",
         "soap": "OLTL",
@@ -3430,6 +3466,18 @@
         "total": "1",
         "duration": "0:36",
         "channel": "ryanshope3316"
+    },
+    {
+        "id": "bYyK1LSdMz4",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Bo, Cassie and Alex Love Triangle (May June 1991)",
+        "date": "5/1/1991",
+        "part": "1",
+        "total": "1",
+        "duration": "4:09:13",
+        "channel": "ilovesoaps"
     },
     {
         "id": "7T2IPiAIRVs",
@@ -3490,6 +3538,18 @@
         "total": "1",
         "duration": "10:59",
         "channel": "vickrobcal"
+    },
+    {
+        "id": "bb2oHOlLKlY",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Bo Cassie and Alex Triangle (June-July 1991)",
+        "date": "6/1/1991",
+        "part": "1",
+        "total": "1",
+        "duration": "4:02:44",
+        "channel": "ilovesoaps"
     },
     {
         "id": "-8xHNALgHeU",
@@ -3574,6 +3634,18 @@
         "total": "2",
         "duration": "05:30",
         "channel": "esarchive"
+    },
+    {
+        "id": "pA4q3YxPvSY",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "7/1/1991",
+        "part": "1",
+        "total": "1",
+        "duration": "4:08:19",
+        "channel": "ilovesoaps"
     },
     {
         "id": "9mN9CxR4HZQ",
@@ -5434,6 +5506,30 @@
         "total": "1",
         "duration": "42:01",
         "channel": "edwynnsanchez"
+    },
+    {
+        "id": "441Ou1ymUJE",
+        "parentid": "P_5d6d3dae",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Megan Dies",
+        "date": "2/7/1992",
+        "part": "1",
+        "total": "2",
+        "duration": "21:21",
+        "channel": "ilovesoaps"
+    },
+    {
+        "id": "3iEjGf9myIk",
+        "parentid": "P_5d6d3dae",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Megan Dies",
+        "date": "2/7/1992",
+        "part": "2",
+        "total": "2",
+        "duration": "21:17",
+        "channel": "ilovesoaps"
     },
     {
         "id": "kWDJH2nlPgY",
@@ -11244,6 +11340,66 @@
         "channel": "esarchive"
     },
     {
+        "id": "wDtV2DJAf9Y",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episodes (and 8/4/1995)",
+        "date": "8/3/1995",
+        "part": "1",
+        "total": "1",
+        "duration": "1:22:57",
+        "channel": "ilovesoaps"
+    },
+    {
+        "id": "Gb4ok917Pik",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "8/15/1995",
+        "part": "1",
+        "total": "1",
+        "duration": "44:33",
+        "channel": "ilovesoaps"
+    },
+    {
+        "id": "Hv59srIWZbs",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "8/18/1995",
+        "part": "1",
+        "total": "1",
+        "duration": "41:14",
+        "channel": "ilovesoaps"
+    },
+    {
+        "id": "sprGy0U8-eo",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "9/25/1995",
+        "part": "1",
+        "total": "1",
+        "duration": "43:11",
+        "channel": "ilovesoaps"
+    },
+    {
+        "id": "6HLgQZitQkM",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "10/16/1995",
+        "part": "1",
+        "total": "1",
+        "duration": "35:15",
+        "channel": "ilovesoaps"
+    },
+    {
         "id": "dvw8pmTcvx0",
         "parentid": "",
         "soap": "OLTL",
@@ -12900,6 +13056,18 @@
         "channel": "carmaker1"
     },
     {
+        "id": "9qWCJ3LE4LI",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "2/14/1996",
+        "part": "1",
+        "total": "1",
+        "duration": "41:23",
+        "channel": "ilovesoaps"
+    },
+    {
         "id": "iGXHjMv2xwA",
         "parentid": "",
         "soap": "OLTL",
@@ -13042,6 +13210,42 @@
         "total": "1",
         "duration": "00:45",
         "channel": "carmaker1"
+    },
+    {
+        "id": "e3c2PdFILo0",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "6/19/1996",
+        "part": "1",
+        "total": "1",
+        "duration": "41:46",
+        "channel": "ilovesoaps"
+    },
+    {
+        "id": "y979DASwMYM",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "6/20/1996",
+        "part": "1",
+        "total": "1",
+        "duration": "40:42",
+        "channel": "ilovesoaps"
+    },
+    {
+        "id": "bzYlHGq36b0",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "6/21/1996",
+        "part": "1",
+        "total": "1",
+        "duration": "41:23",
+        "channel": "ilovesoaps"
     },
     {
         "id": "RAWmvFeSJls",
@@ -13258,6 +13462,18 @@
         "total": "1",
         "duration": "00:45",
         "channel": "carmaker1"
+    },
+    {
+        "id": "1MdR4NMB_-I",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode - Halloween Ghost",
+        "date": "10/31/1996",
+        "part": "1",
+        "total": "1",
+        "duration": "39:40",
+        "channel": "ilovesoaps"
     },
     {
         "id": "R_DoXreH2zY",
@@ -13668,6 +13884,18 @@
         "channel": "edwynnsanchez"
     },
     {
+        "id": "gnzFQrIxP24",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "3/13/1997",
+        "part": "1",
+        "total": "1",
+        "duration": "38:53",
+        "channel": "ilovesoaps"
+    },
+    {
         "id": "xDbPSD8sDck",
         "parentid": "",
         "soap": "OLTL",
@@ -13848,6 +14076,18 @@
         "channel": "carmaker1"
     },
     {
+        "id": "mKjn6LuEYww",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "6/19/1997",
+        "part": "1",
+        "total": "1",
+        "duration": "38:42",
+        "channel": "ilovesoaps"
+    },
+    {
         "id": "ZsFKwJzvAfw",
         "parentid": "",
         "soap": "OLTL",
@@ -14026,6 +14266,18 @@
         "total": "2",
         "duration": "08:58",
         "channel": "carmaker1"
+    },
+    {
+        "id": "_UAobUotTyk",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "8/3/1997",
+        "part": "1",
+        "total": "1",
+        "duration": "39:17",
+        "channel": "ilovesoaps"
     },
     {
         "id": "1sFp7DMP_9A",

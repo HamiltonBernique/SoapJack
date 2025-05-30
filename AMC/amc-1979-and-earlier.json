@@ -24,6 +24,18 @@
         "channel": "iheartallmychildren"
     },
     {
+        "id": "WalfGVR1_sQ",
+        "parentid": "",
+        "soap": "AMC",
+        "category": "A",
+        "title": "Episode - Erica Is A Force To Be Reckoned With",
+        "date": "03/15/1970",
+        "part": "1",
+        "total": "1",
+        "duration": "30:06",
+        "channel": "ilovesoaps"
+    },
+    {
         "id": "Ac2t4YZuOmM",
         "parentid": "",
         "soap": "AMC",
@@ -34,6 +46,18 @@
         "total": "1",
         "duration": "21:58",
         "channel": "iheartallmychildren"
+    },
+    {
+        "id": "XI3rnkABaNg",
+        "parentid": "",
+        "soap": "AMC",
+        "category": "A",
+        "title": "Episode - Erica Plans To Be Famous!",
+        "date": "04/20/1970",
+        "part": "1",
+        "total": "1",
+        "duration": "30:00",
+        "channel": "ilovesoaps"
     },
     {
         "id": "AqQORDkqTGk",
@@ -466,5 +490,17 @@
         "total": "1",
         "duration": "40:13",
         "channel": "iheartallmychildren"
+    },
+    {
+        "id": "irqUDA5gm4E",
+        "parentid": "",
+        "soap": "AMC",
+        "category": "A",
+        "title": "Episode - Erica Confronted For Taking Birth Control",
+        "date": "11/27/1979",
+        "part": "1",
+        "total": "1",
+        "duration": "59:53",
+        "channel": "ilovesoaps"
     }
 ]
