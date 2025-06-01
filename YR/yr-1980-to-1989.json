@@ -84,6 +84,42 @@
         "channel": "chuckd79"
     },
     {
+        "id": "Abom2elmYbw",
+        "parentid": "",
+        "soap": "YR",
+        "category": "A",
+        "title": "Chris Vs Sally",
+        "date": "01/01/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "5:04",
+        "channel": "novelasdomundo"
+    },
+    {
+        "id": "spnXkH7-2aY",
+        "parentid": "",
+        "soap": "YR",
+        "category": "A",
+        "title": "Katherine's Revenge Dinner Party",
+        "date": "01/01/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "11:31",
+        "channel": "novelasdomundo"
+    },
+    {
+        "id": "6BujNqjuLo4",
+        "parentid": "",
+        "soap": "YR",
+        "category": "A",
+        "title": "Leslie Brooks Leaves Genoa City",
+        "date": "01/01/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "2:12",
+        "channel": "novelasdomundo"
+    },
+    {
         "id": "MJ_og2aiw5o",
         "parentid": "",
         "soap": "YR",
@@ -154,6 +190,18 @@
         "total": "1",
         "duration": "0:21",
         "channel": "chuckd79"
+    },
+    {
+        "id": "6whjb6rs318",
+        "parentid": "",
+        "soap": "YR",
+        "category": "A",
+        "title": "Dorothy McGuire",
+        "date": "01/01/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "4:38",
+        "channel": "novelasdomundo"
     },
     {
         "id": "FCQwXlJ3vts",

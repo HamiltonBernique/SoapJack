@@ -96,6 +96,30 @@
         "channel": "theystartedonsoaps"
     },
     {
+        "id": "t7nbwushNQ0",
+        "parentid": "",
+        "soap": "DCTR",
+        "category": "A",
+        "title": "Althea Falls Through A Window",
+        "date": "03/9/1976",
+        "part": "1",
+        "total": "1",
+        "duration": "5:06",
+        "channel": "novelasdomundo"
+    },
+    {
+        "id": "B7E9MjPurHA",
+        "parentid": "",
+        "soap": "DCTR",
+        "category": "A",
+        "title": "First Appearance of Nola Dancy",
+        "date": "07/2/1976",
+        "part": "1",
+        "total": "1",
+        "duration": "5:14",
+        "channel": "novelasdomundo"
+    },
+    {
         "id": "EMarktOaOQc",
         "parentid": "",
         "soap": "DCTR",
@@ -178,6 +202,18 @@
         "total": "1",
         "duration": "0:25",
         "channel": "chuckd79"
+    },
+    {
+        "id": "RBcOc1RUlME",
+        "parentid": "",
+        "soap": "DCTR",
+        "category": "A",
+        "title": "Carolee Confronts Nola About her Lies",
+        "date": "03/22/1979",
+        "part": "1",
+        "total": "1",
+        "duration": "6:21",
+        "channel": "novelasdomundo"
     },
     {
         "id": "sIgAWQrsE3s",
