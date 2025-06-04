@@ -24,6 +24,18 @@
         "channel": "chuckd79"
     },
     {
+        "id": "6FjsJ-oGnQY",
+        "parentid": "",
+        "soap": "CITY",
+        "category": "B",
+        "title": "Promo - Nick Rivers",
+        "date": "1/1/1995",
+        "part": "1",
+        "total": "1",
+        "duration": "0:11",
+        "channel": "soapfoxkirby"
+    },
+    {
         "id": "hLE_PZY7iIo",
         "parentid": "",
         "soap": "CITY",
@@ -96,6 +108,42 @@
         "channel": "jimmuneco1877"
     },
     {
+        "id": "HImjluQt2-w",
+        "parentid": "",
+        "soap": "CITY",
+        "category": "A",
+        "title": "Episode",
+        "date": "12/01/1995",
+        "part": "1",
+        "total": "1",
+        "duration": "22:20",
+        "channel": "soapfoxkirby"
+    },
+    {
+        "id": "sXV9bAskJmo",
+        "parentid": "",
+        "soap": "CITY",
+        "category": "A",
+        "title": "Episode",
+        "date": "12/02/1995",
+        "part": "1",
+        "total": "1",
+        "duration": "22:16",
+        "channel": "soapfoxkirby"
+    },
+    {
+        "id": "vUwiysqF0ng",
+        "parentid": "",
+        "soap": "CITY",
+        "category": "A",
+        "title": "Episode",
+        "date": "12/03/1995",
+        "part": "1",
+        "total": "1",
+        "duration": "21:49",
+        "channel": "soapfoxkirby"
+    },
+    {
         "id": "ZSI-9eTaTRY",
         "parentid": "",
         "soap": "CITY",
@@ -106,6 +154,42 @@
         "total": "1",
         "duration": "0:31",
         "channel": "chuckd79"
+    },
+    {
+        "id": "7Nw2JTjMKFc",
+        "parentid": "",
+        "soap": "CITY",
+        "category": "A",
+        "title": "Episode content",
+        "date": "01/01/1996",
+        "part": "1",
+        "total": "1",
+        "duration": "4:33",
+        "channel": "soapfoxkirby"
+    },
+    {
+        "id": "W1fYd9gimXk",
+        "parentid": "",
+        "soap": "CITY",
+        "category": "A",
+        "title": "Episode content",
+        "date": "01/01/1996",
+        "part": "1",
+        "total": "1",
+        "duration": "7:27",
+        "channel": "soapfoxkirby"
+    },
+    {
+        "id": "LToTtjrdTnk",
+        "parentid": "",
+        "soap": "CITY",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/01/1996",
+        "part": "1",
+        "total": "1",
+        "duration": "16:52",
+        "channel": "soapfoxkirby"
     },
     {
         "id": "NubHvwZGnXc",

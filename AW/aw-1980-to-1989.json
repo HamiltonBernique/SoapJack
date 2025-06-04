@@ -14016,6 +14016,18 @@
         "channel": "pimlicocalico"
     },
     {
+        "id": "8tQjJl95h3w",
+        "parentid": "",
+        "soap": "AW",
+        "category": "A",
+        "title": "Episode - Iris returns to Bay City",
+        "date": "10/27/1988",
+        "part": "1",
+        "total": "1",
+        "duration": "39:09",
+        "channel": "soapfoxkirby"
+    },
+    {
         "id": "otyp0smkK8s",
         "parentid": "",
         "soap": "AW",
@@ -20472,6 +20484,30 @@
         "channel": "chase4everchase"
     },
     {
+        "id": "Kepk2H70ldU",
+        "parentid": "P_89bcacb1",
+        "soap": "AW",
+        "category": "A",
+        "title": "Scenes from the 25th anniversary celebration",
+        "date": "5/19/1989",
+        "part": "1",
+        "total": "2",
+        "duration": "23:35",
+        "channel": "soapfoxkirby"
+    },
+    {
+        "id": "3nCuw6kNT4g",
+        "parentid": "P_89bcacb1",
+        "soap": "AW",
+        "category": "A",
+        "title": "Scenes from the 25th anniversary celebration",
+        "date": "5/19/1989",
+        "part": "2",
+        "total": "2",
+        "duration": "12:13",
+        "channel": "soapfoxkirby"
+    },
+    {
         "id": "jC2YC0bEdgI",
         "parentid": "",
         "soap": "AW",
@@ -20482,6 +20518,18 @@
         "total": "1",
         "duration": "42:29",
         "channel": "pimlicocalico"
+    },
+    {
+        "id": "zF_JiTS8tUc",
+        "parentid": "",
+        "soap": "AW",
+        "category": "A",
+        "title": "Anna Stuart reprises the role of Donna",
+        "date": "5/22/1989",
+        "part": "1",
+        "total": "1",
+        "duration": "5:13",
+        "channel": "soapfoxkirby"
     },
     {
         "id": "Ehr9WIPWbU8",

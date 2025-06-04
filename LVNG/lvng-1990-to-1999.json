@@ -480,6 +480,18 @@
         "channel": "theystartedonsoaps"
     },
     {
+        "id": "7C1JiDI6Q98",
+        "parentid": "",
+        "soap": "LVNG",
+        "category": "A",
+        "title": "Paul Anthony Stewart as Casey",
+        "date": "04/10/1995",
+        "part": "1",
+        "total": "1",
+        "duration": "5:04",
+        "channel": "soapfoxkirby"
+    },
+    {
         "id": "SHWxam9IxuQ",
         "parentid": "",
         "soap": "LVNG",
@@ -538,6 +550,18 @@
         "total": "1",
         "duration": "29:01",
         "channel": "cfs89"
+    },
+    {
+        "id": "jXWsf1VGrxI",
+        "parentid": "",
+        "soap": "LVNG",
+        "category": "A",
+        "title": "Episode",
+        "date": "10/27/1995",
+        "part": "1",
+        "total": "1",
+        "duration": "22:22",
+        "channel": "soapfoxkirby"
     },
     {
         "id": "uQ-x9HxR-Uc",

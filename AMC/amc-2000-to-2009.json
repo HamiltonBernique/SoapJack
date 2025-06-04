@@ -3564,6 +3564,18 @@
         "channel": "retrobinxmontgomery"
     },
     {
+        "id": "YIm85Ql8aHQ",
+        "parentid": "",
+        "soap": "AMC",
+        "category": "A",
+        "title": "Episode",
+        "date": "04/16/2002",
+        "part": "1",
+        "total": "1",
+        "duration": "39:32",
+        "channel": "soapfoxkirby"
+    },
+    {
         "id": "IslgD6eMAVk",
         "parentid": "",
         "soap": "AMC",
@@ -5724,6 +5736,18 @@
         "channel": "retrobinxmontgomery"
     },
     {
+        "id": "3Djh1W5yhFY",
+        "parentid": "",
+        "soap": "AMC",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/9/2003",
+        "part": "1",
+        "total": "1",
+        "duration": "39:04",
+        "channel": "soapfoxkirby"
+    },
+    {
         "id": "tqW7zLjmB40",
         "parentid": "",
         "soap": "AMC",
@@ -5986,6 +6010,18 @@
         "total": "1",
         "duration": "58:53",
         "channel": "iheartallmychildren"
+    },
+    {
+        "id": "LXA-bNXefpY",
+        "parentid": "",
+        "soap": "AMC",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/11/2003",
+        "part": "1",
+        "total": "1",
+        "duration": "37:49",
+        "channel": "soapfoxkirby"
     },
     {
         "id": "lahvZ6PNWLE",
@@ -6922,6 +6958,30 @@
         "total": "1",
         "duration": "01:40",
         "channel": "ackgh73994"
+    },
+    {
+        "id": "8fv9E9xoCMY",
+        "parentid": "",
+        "soap": "AMC",
+        "category": "A",
+        "title": "Episode content",
+        "date": "03/01/2005",
+        "part": "1",
+        "total": "1",
+        "duration": "21:09",
+        "channel": "soapfoxkirby"
+    },
+    {
+        "id": "9v0-92zN2F4",
+        "parentid": "",
+        "soap": "AMC",
+        "category": "B",
+        "title": "Promo - Bianca's assault",
+        "date": "3/9/2005",
+        "part": "1",
+        "total": "1",
+        "duration": "0:21",
+        "channel": "soapfoxkirby"
     },
     {
         "id": "KovFvcpxOko",

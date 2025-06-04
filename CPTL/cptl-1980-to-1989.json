@@ -48,6 +48,30 @@
         "channel": "chuckd79"
     },
     {
+        "id": "Be36J7gKyV8",
+        "parentid": "",
+        "soap": "CPTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "12/01/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "28:43",
+        "channel": "soapfoxkirby"
+    },
+    {
+        "id": "xgeS5a-mPtw",
+        "parentid": "",
+        "soap": "CPTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "12/01/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "28:30",
+        "channel": "soapfoxkirby"
+    },
+    {
         "id": "6tYtz2I0t7w",
         "parentid": "",
         "soap": "CPTL",
@@ -84,6 +108,30 @@
         "channel": "chuckd79"
     },
     {
+        "id": "sKDPHC38z_g",
+        "parentid": "",
+        "soap": "CPTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "06/01/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "23:36",
+        "channel": "soapfoxkirby"
+    },
+    {
+        "id": "Q0RDd4aFs_A",
+        "parentid": "",
+        "soap": "CPTL",
+        "category": "A",
+        "title": "Episode content",
+        "date": "08/8/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "8:51",
+        "channel": "soapfoxkirby"
+    },
+    {
         "id": "fVs_U3uDMbs",
         "parentid": "",
         "soap": "CPTL",
@@ -94,6 +142,30 @@
         "total": "1",
         "duration": "21:40",
         "channel": "jimmuneco1877"
+    },
+    {
+        "id": "3oAjUyOXLkg",
+        "parentid": "",
+        "soap": "CPTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "12/7/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "28:39",
+        "channel": "soapfoxkirby"
+    },
+    {
+        "id": "ea1RqO9t6co",
+        "parentid": "",
+        "soap": "CPTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "12/12/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "28:36",
+        "channel": "soapfoxkirby"
     },
     {
         "id": "DWji_ijf6qk",
@@ -118,6 +190,18 @@
         "total": "1",
         "duration": "10:37",
         "channel": "pannoni"
+    },
+    {
+        "id": "DMd0_JXl1C4",
+        "parentid": "",
+        "soap": "CPTL",
+        "category": "A",
+        "title": "Sloane and Trey's wedding at the Jefferson Memorial",
+        "date": "6/1/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "16:21",
+        "channel": "soapfoxkirby"
     },
     {
         "id": "2Ouz2MT99IY",
@@ -238,6 +322,18 @@
         "total": "1",
         "duration": "21:28",
         "channel": "jimmuneco1877"
+    },
+    {
+        "id": "nfvfWPeog7o",
+        "parentid": "",
+        "soap": "CPTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/01/1985",
+        "part": "1",
+        "total": "1",
+        "duration": "27:51",
+        "channel": "soapfoxkirby"
     },
     {
         "id": "29mJBonauz8",
@@ -502,6 +598,18 @@
         "total": "1",
         "duration": "21:03",
         "channel": "jimmuneco1877"
+    },
+    {
+        "id": "WdkF92QSYR8",
+        "parentid": "",
+        "soap": "CPTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "10/31/1985",
+        "part": "1",
+        "total": "1",
+        "duration": "28:30",
+        "channel": "soapfoxkirby"
     },
     {
         "id": "iJzgmcpKaCY",
@@ -778,6 +886,18 @@
         "total": "1",
         "duration": "0:21",
         "channel": "chuckd79"
+    },
+    {
+        "id": "mw3iWmHDIe0",
+        "parentid": "",
+        "soap": "CPTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/01/1986",
+        "part": "1",
+        "total": "1",
+        "duration": "28:46",
+        "channel": "soapfoxkirby"
     },
     {
         "id": "MhKzH_cMBmY",
@@ -1308,6 +1428,18 @@
         "channel": "jimmuneco1877"
     },
     {
+        "id": "DjdgplQL7ug",
+        "parentid": "",
+        "soap": "CPTL",
+        "category": "A",
+        "title": "Episdoe",
+        "date": "07/4/1986",
+        "part": "1",
+        "total": "1",
+        "duration": "28:39",
+        "channel": "soapfoxkirby"
+    },
+    {
         "id": "rImr61x0qew",
         "parentid": "",
         "soap": "CPTL",
@@ -1366,6 +1498,30 @@
         "total": "1",
         "duration": "21:46",
         "channel": "jimmuneco1877"
+    },
+    {
+        "id": "XVd3doUtH_c",
+        "parentid": "",
+        "soap": "CPTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "10/6/1986",
+        "part": "1",
+        "total": "1",
+        "duration": "29:13",
+        "channel": "soapfoxkirby"
+    },
+    {
+        "id": "Clo8q7bz8pw",
+        "parentid": "",
+        "soap": "CPTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "10/6/1986",
+        "part": "1",
+        "total": "1",
+        "duration": "29:13",
+        "channel": "soapfoxkirby"
     },
     {
         "id": "6RRQ7RxcApg",
@@ -1476,6 +1632,30 @@
         "channel": "pannoni"
     },
     {
+        "id": "myslfjLFgEE",
+        "parentid": "",
+        "soap": "CPTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "12/17/1986",
+        "part": "1",
+        "total": "1",
+        "duration": "28:37",
+        "channel": "soapfoxkirby"
+    },
+    {
+        "id": "R5He3WPucCs",
+        "parentid": "",
+        "soap": "CPTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "12/23/1986",
+        "part": "1",
+        "total": "1",
+        "duration": "28:54",
+        "channel": "soapfoxkirby"
+    },
+    {
         "id": "tQWjQQ576gk",
         "parentid": "",
         "soap": "CPTL",
@@ -1548,6 +1728,18 @@
         "channel": "jimmuneco1877"
     },
     {
+        "id": "9R4NVlXJT10",
+        "parentid": "",
+        "soap": "CPTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "03/01/1987",
+        "part": "1",
+        "total": "1",
+        "duration": "20:56",
+        "channel": "soapfoxkirby"
+    },
+    {
         "id": "G-r3UwCCYaY",
         "parentid": "",
         "soap": "CPTL",
@@ -1570,5 +1762,17 @@
         "total": "1",
         "duration": "21:52",
         "channel": "jimmuneco1877"
+    },
+    {
+        "id": "Ykt7ZSRjn2I",
+        "parentid": "",
+        "soap": "CPTL",
+        "category": "A",
+        "title": "Last episode",
+        "date": "03/20/1987",
+        "part": "1",
+        "total": "1",
+        "duration": "28:21",
+        "channel": "soapfoxkirby"
     }
 ]

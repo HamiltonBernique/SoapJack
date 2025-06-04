@@ -1167,6 +1167,7 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/ABHZmDr3ixM"", ""Link"")",Episode,42:40,AW,10/25/1988,A,,1,1,pimlicocalico
 "=HYPERLINK(""https://youtu.be/ul-dCl3PAUQ"", ""Link"")",Episode,42:58,AW,10/26/1988,A,,1,1,pimlicocalico
 "=HYPERLINK(""https://youtu.be/RbuvweVvsbI"", ""Link"")",Episode,43:26,AW,10/27/1988,A,,1,1,pimlicocalico
+"=HYPERLINK(""https://youtu.be/8tQjJl95h3w"", ""Link"")",Episode - Iris returns to Bay City,39:09,AW,10/27/1988,A,,1,1,soapfoxkirby
 "=HYPERLINK(""https://youtu.be/otyp0smkK8s"", ""Link"")",Episode,43:19,AW,10/28/1988,A,,1,1,pimlicocalico
 "=HYPERLINK(""https://youtu.be/UX5XDkK7tJg"", ""Link"")",Episode,43:13,AW,10/31/1988,A,,1,1,pimlicocalico
 "=HYPERLINK(""https://youtu.be/6Gdj26BmrFY"", ""Link"")",Episode,41:55,AW,11/1/1988,A,,1,1,pimlicocalico
@@ -1705,7 +1706,10 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/1xW4_d8SYJ4"", ""Link"")",Episode,42:16,AW,05/18/1989,A,,1,1,pimlicocalico
 "=HYPERLINK(""https://youtu.be/tMnI_8KH8aw"", ""Link"")",Episode,42:53,AW,05/19/1989,A,,1,1,pimlicocalico
 "=HYPERLINK(""https://youtu.be/tFLsE5E-6Z0"", ""Link"")",25th Anniversary Episodes,2:05:51,AW,5/19/1989,A,,1,1,chase4everchase
+"=HYPERLINK(""https://youtu.be/Kepk2H70ldU"", ""Link"")",Scenes from the 25th anniversary celebration,23:35,AW,5/19/1989,A,P_89bcacb1,1,2,soapfoxkirby
+"=HYPERLINK(""https://youtu.be/3nCuw6kNT4g"", ""Link"")",Scenes from the 25th anniversary celebration,12:13,AW,5/19/1989,A,P_89bcacb1,2,2,soapfoxkirby
 "=HYPERLINK(""https://youtu.be/jC2YC0bEdgI"", ""Link"")",Episode,42:29,AW,5/22/1989,A,,1,1,pimlicocalico
+"=HYPERLINK(""https://youtu.be/zF_JiTS8tUc"", ""Link"")",Anna Stuart reprises the role of Donna,5:13,AW,5/22/1989,A,,1,1,soapfoxkirby
 "=HYPERLINK(""https://youtu.be/Ehr9WIPWbU8"", ""Link"")",Episode,42:32,AW,5/23/1989,A,,1,1,pimlicocalico
 "=HYPERLINK(""https://youtu.be/xOlWeoTvz64"", ""Link"")",Episode,1:01:02,AW,5/24/1989,A,,1,1,pimlicocalico
 "=HYPERLINK(""https://youtu.be/LKod5p1PD5A"", ""Link"")",Episode,42:54,AW,5/25/1989,A,,1,1,pimlicocalico

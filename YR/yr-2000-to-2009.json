@@ -156,6 +156,18 @@
         "channel": "bnedceo"
     },
     {
+        "id": "DlmlDlDVYoI",
+        "parentid": "",
+        "soap": "YR",
+        "category": "A",
+        "title": "Joan van Ark's first scene as Gloria",
+        "date": "6/9/2004",
+        "part": "1",
+        "total": "1",
+        "duration": "1:35",
+        "channel": "soapfoxkirby"
+    },
+    {
         "id": "y0yLcZVV-2U",
         "parentid": "",
         "soap": "YR",
@@ -264,6 +276,18 @@
         "channel": "oakdalehistorian"
     },
     {
+        "id": "uVO4bMJ_xmk",
+        "parentid": "",
+        "soap": "YR",
+        "category": "A",
+        "title": "Jill and Cane",
+        "date": "3/6/2007",
+        "part": "1",
+        "total": "1",
+        "duration": "2:26",
+        "channel": "taytaythejetplane1"
+    },
+    {
         "id": "ec14_ApfEMw",
         "parentid": "",
         "soap": "YR",
@@ -274,6 +298,42 @@
         "total": "1",
         "duration": "00:22",
         "channel": "oakdalehistorian"
+    },
+    {
+        "id": "0PLtjq46oYY",
+        "parentid": "",
+        "soap": "YR",
+        "category": "A",
+        "title": "Jill and Cane",
+        "date": "8/23/2007",
+        "part": "1",
+        "total": "1",
+        "duration": "3:41",
+        "channel": "taytaythejetplane1"
+    },
+    {
+        "id": "CcPVD7cIvVM",
+        "parentid": "P_46b8ca61",
+        "soap": "YR",
+        "category": "A",
+        "title": "Cane and Katherine",
+        "date": "8/23/2007",
+        "part": "1",
+        "total": "2",
+        "duration": "0:43",
+        "channel": "taytaythejetplane1"
+    },
+    {
+        "id": "Ge6gFlzNMh0",
+        "parentid": "P_46b8ca61",
+        "soap": "YR",
+        "category": "A",
+        "title": "Cane and Katherine",
+        "date": "8/23/2007",
+        "part": "2",
+        "total": "2",
+        "duration": "1:03",
+        "channel": "taytaythejetplane1"
     },
     {
         "id": "gc1nKW0ijJE",

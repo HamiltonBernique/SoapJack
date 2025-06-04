@@ -2748,6 +2748,18 @@
         "channel": "generalhospitalexposed"
     },
     {
+        "id": "mbVsncr9UsI",
+        "parentid": "",
+        "soap": "GH",
+        "category": "A",
+        "title": "Episode content",
+        "date": "01/01/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "3:55",
+        "channel": "soapfoxkirby"
+    },
+    {
         "id": "9gUH8_5-fcM",
         "parentid": "P_893b3cff",
         "soap": "GH",

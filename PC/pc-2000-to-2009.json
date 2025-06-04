@@ -7020,6 +7020,18 @@
         "channel": "portcharles2013"
     },
     {
+        "id": "rlt2yq1RY_4",
+        "parentid": "",
+        "soap": "PC",
+        "category": "A",
+        "title": "Episode",
+        "date": "04/16/2002",
+        "part": "1",
+        "total": "1",
+        "duration": "21:22",
+        "channel": "soapfoxkirby"
+    },
+    {
         "id": "giIRgV2kyuE",
         "parentid": "",
         "soap": "PC",
@@ -10822,6 +10834,18 @@
         "total": "1",
         "duration": "20:52",
         "channel": "portcharles2013"
+    },
+    {
+        "id": "3KgDv3VE2P8",
+        "parentid": "",
+        "soap": "PC",
+        "category": "A",
+        "title": "The Gift",
+        "date": "07/9/2003",
+        "part": "1",
+        "total": "1",
+        "duration": "21:22",
+        "channel": "soapfoxkirby"
     },
     {
         "id": "uJh5BHJipIQ",

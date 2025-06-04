@@ -48,6 +48,42 @@
         "channel": "ryanshope3316"
     },
     {
+        "id": "v9QYzRO74Fs",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Gina Tognoni as Kelly Cramer",
+        "date": "2/12/2010",
+        "part": "1",
+        "total": "1",
+        "duration": "5:47",
+        "channel": "yodaluver28"
+    },
+    {
+        "id": "aUcMlmhpp8Y",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Gina Tognoni as Kelly Cramer",
+        "date": "2/15/2010",
+        "part": "1",
+        "total": "1",
+        "duration": "7:02",
+        "channel": "yodaluver28"
+    },
+    {
+        "id": "16OhzLiH8gg",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode content",
+        "date": "05/13/2010",
+        "part": "1",
+        "total": "1",
+        "duration": "4:03",
+        "channel": "soapfoxkirby"
+    },
+    {
         "id": "WW7m3nwc3dU",
         "parentid": "",
         "soap": "OLTL",
@@ -106,6 +142,30 @@
         "total": "1",
         "duration": "36:30",
         "channel": "edwynnsanchez"
+    },
+    {
+        "id": "ulpJKBJlQjM",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "B",
+        "title": "Kim Zimmer's re-debut as Echo DiSavoy",
+        "date": "10/01/2010",
+        "part": "1",
+        "total": "1",
+        "duration": "0:36",
+        "channel": "yodaluver28"
+    },
+    {
+        "id": "oxkpRKBbO4M",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Kim Zimmer as Echo DiSavoy",
+        "date": "10/04/2010",
+        "part": "1",
+        "total": "1",
+        "duration": "6:42",
+        "channel": "yodaluver28"
     },
     {
         "id": "03S_kBCwMj0",
@@ -492,6 +552,42 @@
         "channel": "edwynnsanchez"
     },
     {
+        "id": "zBEMjauCdps",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/9/2012",
+        "part": "1",
+        "total": "1",
+        "duration": "35:42",
+        "channel": "yodaluver28"
+    },
+    {
+        "id": "R0mwGRHLpBU",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/10/2012",
+        "part": "1",
+        "total": "1",
+        "duration": "35:41",
+        "channel": "yodaluver28"
+    },
+    {
+        "id": "B4T9NOX-C74",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/11/2012",
+        "part": "1",
+        "total": "1",
+        "duration": "35:40",
+        "channel": "yodaluver28"
+    },
+    {
         "id": "LWkFqZDKvzM",
         "parentid": "",
         "soap": "OLTL",
@@ -502,6 +598,30 @@
         "total": "1",
         "duration": "04:28",
         "channel": "disabled1955"
+    },
+    {
+        "id": "X0PhjCLUBV0",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/12/2012",
+        "part": "1",
+        "total": "1",
+        "duration": "35:40",
+        "channel": "yodaluver28"
+    },
+    {
+        "id": "mf5KNTdUCzw",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "The Full Final Episode",
+        "date": "01/13/2012",
+        "part": "1",
+        "total": "1",
+        "duration": "35:41",
+        "channel": "yodaluver28"
     },
     {
         "id": "oDEi9BV1e4c",

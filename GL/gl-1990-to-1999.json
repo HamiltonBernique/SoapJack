@@ -9192,6 +9192,54 @@
         "channel": "blakemarler"
     },
     {
+        "id": "kXuGhwI2DF0",
+        "parentid": "P_2d3ee6a9",
+        "soap": "GL",
+        "category": "A",
+        "title": "Roger and Holly",
+        "date": "07/16/1993",
+        "part": "1",
+        "total": "2",
+        "duration": "5:42",
+        "channel": "yodaluver28"
+    },
+    {
+        "id": "CILdRMuWPOY",
+        "parentid": "P_2d3ee6a9",
+        "soap": "GL",
+        "category": "A",
+        "title": "Roger and Holly",
+        "date": "07/16/1993",
+        "part": "2",
+        "total": "2",
+        "duration": "5:12",
+        "channel": "yodaluver28"
+    },
+    {
+        "id": "OBW3UX4q0PY",
+        "parentid": "P_5a95c3f0",
+        "soap": "GL",
+        "category": "A",
+        "title": "Buzz and Jenna",
+        "date": "07/16/1993",
+        "part": "1",
+        "total": "2",
+        "duration": "6:16",
+        "channel": "yodaluver28"
+    },
+    {
+        "id": "EbjiZnJlFsA",
+        "parentid": "P_5a95c3f0",
+        "soap": "GL",
+        "category": "A",
+        "title": "Buzz and Jenna",
+        "date": "07/16/1993",
+        "part": "2",
+        "total": "2",
+        "duration": "4:45",
+        "channel": "yodaluver28"
+    },
+    {
         "id": "dzKUsjT_d0E",
         "parentid": "",
         "soap": "GL",
@@ -16320,6 +16368,258 @@
         "channel": "blakemarler"
     },
     {
+        "id": "vu_cSyy6fXI",
+        "parentid": "P_890519a8",
+        "soap": "GL",
+        "category": "A",
+        "title": "Reva's Return",
+        "date": "10/10/1995",
+        "part": "1",
+        "total": "23",
+        "duration": "19:00",
+        "channel": "tennbelle9"
+    },
+    {
+        "id": "rdhrlv9C9pA",
+        "parentid": "P_890519a8",
+        "soap": "GL",
+        "category": "A",
+        "title": "Reva's Return",
+        "date": "10/10/1995",
+        "part": "11",
+        "total": "23",
+        "duration": "14:58",
+        "channel": "tennbelle9"
+    },
+    {
+        "id": "bv-RvS-ly_Q",
+        "parentid": "P_890519a8",
+        "soap": "GL",
+        "category": "A",
+        "title": "Reva's Return",
+        "date": "10/10/1995",
+        "part": "12",
+        "total": "23",
+        "duration": "18:34",
+        "channel": "tennbelle9"
+    },
+    {
+        "id": "50RViYP-5xU",
+        "parentid": "P_890519a8",
+        "soap": "GL",
+        "category": "A",
+        "title": "Reva's Return",
+        "date": "10/10/1995",
+        "part": "13",
+        "total": "23",
+        "duration": "30:53",
+        "channel": "tennbelle9"
+    },
+    {
+        "id": "Dr42L9Lf93I",
+        "parentid": "P_890519a8",
+        "soap": "GL",
+        "category": "A",
+        "title": "Reva's Return",
+        "date": "10/10/1995",
+        "part": "14",
+        "total": "23",
+        "duration": "22:09",
+        "channel": "tennbelle9"
+    },
+    {
+        "id": "-zNulXDAmIk",
+        "parentid": "P_890519a8",
+        "soap": "GL",
+        "category": "A",
+        "title": "Reva's Return",
+        "date": "10/10/1995",
+        "part": "15",
+        "total": "23",
+        "duration": "19:58",
+        "channel": "tennbelle9"
+    },
+    {
+        "id": "G0v0YrAX-IE",
+        "parentid": "P_890519a8",
+        "soap": "GL",
+        "category": "A",
+        "title": "Reva's Return",
+        "date": "10/10/1995",
+        "part": "16",
+        "total": "23",
+        "duration": "16:27",
+        "channel": "tennbelle9"
+    },
+    {
+        "id": "VN00-8V0oDI",
+        "parentid": "P_890519a8",
+        "soap": "GL",
+        "category": "A",
+        "title": "Reva's Return",
+        "date": "10/10/1995",
+        "part": "17",
+        "total": "23",
+        "duration": "15:16",
+        "channel": "tennbelle9"
+    },
+    {
+        "id": "WQCVzB_z02s",
+        "parentid": "P_890519a8",
+        "soap": "GL",
+        "category": "A",
+        "title": "Reva's Return",
+        "date": "10/10/1995",
+        "part": "18",
+        "total": "23",
+        "duration": "9:32",
+        "channel": "tennbelle9"
+    },
+    {
+        "id": "Kz63XWu6FZQ",
+        "parentid": "P_890519a8",
+        "soap": "GL",
+        "category": "A",
+        "title": "Reva's Return",
+        "date": "10/10/1995",
+        "part": "19",
+        "total": "23",
+        "duration": "13:10",
+        "channel": "tennbelle9"
+    },
+    {
+        "id": "aBsM13pFzm4",
+        "parentid": "P_890519a8",
+        "soap": "GL",
+        "category": "A",
+        "title": "Reva's Return",
+        "date": "10/10/1995",
+        "part": "2",
+        "total": "23",
+        "duration": "21:34",
+        "channel": "tennbelle9"
+    },
+    {
+        "id": "cSxMzrNV9T0",
+        "parentid": "P_890519a8",
+        "soap": "GL",
+        "category": "A",
+        "title": "Reva's Return",
+        "date": "10/10/1995",
+        "part": "20",
+        "total": "23",
+        "duration": "20:08",
+        "channel": "tennbelle9"
+    },
+    {
+        "id": "0uwgMgVRJRw",
+        "parentid": "P_890519a8",
+        "soap": "GL",
+        "category": "A",
+        "title": "Reva's Return",
+        "date": "10/10/1995",
+        "part": "21",
+        "total": "23",
+        "duration": "22:49",
+        "channel": "tennbelle9"
+    },
+    {
+        "id": "ETuRfexpXGI",
+        "parentid": "P_890519a8",
+        "soap": "GL",
+        "category": "A",
+        "title": "Reva's Return",
+        "date": "10/10/1995",
+        "part": "22",
+        "total": "23",
+        "duration": "17:05",
+        "channel": "tennbelle9"
+    },
+    {
+        "id": "eDeozVwa75Q",
+        "parentid": "P_890519a8",
+        "soap": "GL",
+        "category": "A",
+        "title": "Reva's Return",
+        "date": "10/10/1995",
+        "part": "23",
+        "total": "23",
+        "duration": "19:10",
+        "channel": "tennbelle9"
+    },
+    {
+        "id": "MuKesNxt8fk",
+        "parentid": "P_890519a8",
+        "soap": "GL",
+        "category": "A",
+        "title": "Reva's Return",
+        "date": "10/10/1995",
+        "part": "3",
+        "total": "23",
+        "duration": "17:12",
+        "channel": "tennbelle9"
+    },
+    {
+        "id": "t9lLYR2jOjg",
+        "parentid": "P_890519a8",
+        "soap": "GL",
+        "category": "A",
+        "title": "Reva's Return",
+        "date": "10/10/1995",
+        "part": "4",
+        "total": "23",
+        "duration": "13:30",
+        "channel": "tennbelle9"
+    },
+    {
+        "id": "ENz7q2P_Vww",
+        "parentid": "P_890519a8",
+        "soap": "GL",
+        "category": "A",
+        "title": "Reva's Return",
+        "date": "10/10/1995",
+        "part": "5",
+        "total": "23",
+        "duration": "14:18",
+        "channel": "tennbelle9"
+    },
+    {
+        "id": "no00OfHg9M8",
+        "parentid": "P_890519a8",
+        "soap": "GL",
+        "category": "A",
+        "title": "Reva's Return",
+        "date": "10/10/1995",
+        "part": "6",
+        "total": "23",
+        "duration": "15:51",
+        "channel": "tennbelle9"
+    },
+    {
+        "id": "-84v1LUlyJU",
+        "parentid": "P_890519a8",
+        "soap": "GL",
+        "category": "A",
+        "title": "Reva's Return",
+        "date": "10/10/1995",
+        "part": "7",
+        "total": "23",
+        "duration": "16:23",
+        "channel": "tennbelle9"
+    },
+    {
+        "id": "qHwuLhOAqXo",
+        "parentid": "P_890519a8",
+        "soap": "GL",
+        "category": "A",
+        "title": "Reva's Return",
+        "date": "10/10/1995",
+        "part": "8",
+        "total": "23",
+        "duration": "15:36",
+        "channel": "tennbelle9"
+    },
+    {
         "id": "Az0TVghQg_4",
         "parentid": "",
         "soap": "GL",
@@ -16414,6 +16714,18 @@
         "total": "1",
         "duration": "40:57",
         "channel": "blakemarler"
+    },
+    {
+        "id": "5IOMkqfCWpA",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Episode - Alan's court hearing",
+        "date": "10/20/1995",
+        "part": "1",
+        "total": "1",
+        "duration": "38:34",
+        "channel": "soapfoxkirby"
     },
     {
         "id": "jsbwHmAi4vk",
@@ -17554,6 +17866,18 @@
         "total": "1",
         "duration": "32:39",
         "channel": "blakemarler"
+    },
+    {
+        "id": "f-lP151izMU",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Josh and Reva at Cross Creek",
+        "date": "02/01/1996",
+        "part": "1",
+        "total": "1",
+        "duration": "22:57",
+        "channel": "tennbelle9"
     },
     {
         "id": "pKalArvRqSU",
@@ -21036,6 +21360,18 @@
         "channel": "blakemarler"
     },
     {
+        "id": "TeDbnHyuNFQ",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Josh and Reva scenes - Cross Creek",
+        "date": "12/10/1996",
+        "part": "1",
+        "total": "1",
+        "duration": "7:41",
+        "channel": "tennbelle9"
+    },
+    {
         "id": "k1AgEzmsCqU",
         "parentid": "",
         "soap": "GL",
@@ -21046,6 +21382,30 @@
         "total": "1",
         "duration": "25:44",
         "channel": "blakemarler"
+    },
+    {
+        "id": "nGB6qjdpTV0",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Josh and Reva - Cross Creek",
+        "date": "12/11/1996",
+        "part": "1",
+        "total": "1",
+        "duration": "33:24",
+        "channel": "tennbelle9"
+    },
+    {
+        "id": "5bCLwFGGX3I",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Josh and Reva scenes - Cross Creek",
+        "date": "12/11/1996",
+        "part": "1",
+        "total": "1",
+        "duration": "29:40",
+        "channel": "tennbelle9"
     },
     {
         "id": "QX06p4MonDc",
@@ -21108,6 +21468,30 @@
         "channel": "blakemarler"
     },
     {
+        "id": "x-nW_kLesyw",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Josh and Reva - After Cross Creek",
+        "date": "12/19/1996",
+        "part": "1",
+        "total": "1",
+        "duration": "18:34",
+        "channel": "tennbelle9"
+    },
+    {
+        "id": "CWrmI9WcyTU",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Josh and Reva scnes - After Cross Creek",
+        "date": "12/19/1996",
+        "part": "1",
+        "total": "1",
+        "duration": "14:39",
+        "channel": "tennbelle9"
+    },
+    {
         "id": "eZnVPGujv9A",
         "parentid": "",
         "soap": "GL",
@@ -21120,6 +21504,18 @@
         "channel": "blakemarler"
     },
     {
+        "id": "vpfzitvSbHc",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Josh and Reva - After Cross Creek",
+        "date": "12/20/1996",
+        "part": "1",
+        "total": "1",
+        "duration": "15:02",
+        "channel": "tennbelle9"
+    },
+    {
         "id": "fUbGJztlQlg",
         "parentid": "",
         "soap": "GL",
@@ -21130,6 +21526,18 @@
         "total": "1",
         "duration": "18:11",
         "channel": "blakemarler"
+    },
+    {
+        "id": "6rs8dmCEcq0",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Josh and Reva - Josh Asks Reva To Laurel Falls",
+        "date": "12/23/1996",
+        "part": "1",
+        "total": "1",
+        "duration": "22:15",
+        "channel": "tennbelle9"
     },
     {
         "id": "3wgVg4_RajE",
@@ -21154,6 +21562,42 @@
         "total": "1",
         "duration": "10:36",
         "channel": "blakemarler"
+    },
+    {
+        "id": "kROvIyyV1Pk",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Cast and Crew Christmas Waves",
+        "date": "12/24/1996",
+        "part": "1",
+        "total": "1",
+        "duration": "2:33",
+        "channel": "tennbelle9"
+    },
+    {
+        "id": "NHlXiMoD1jY",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Josh and Reva - At Laurel Falls",
+        "date": "12/24/1996",
+        "part": "1",
+        "total": "1",
+        "duration": "20:42",
+        "channel": "tennbelle9"
+    },
+    {
+        "id": "S2NoVlJ5JJw",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Josh and Reva scenes - Laurel Falls",
+        "date": "12/24/1996",
+        "part": "1",
+        "total": "1",
+        "duration": "15:18",
+        "channel": "tennbelle9"
     },
     {
         "id": "X0r95N7DCeM",
@@ -22582,6 +23026,18 @@
         "total": "1",
         "duration": "40:15",
         "channel": "blakemarler"
+    },
+    {
+        "id": "cD9pLotBOzc",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Josh and Reva scenes - Search for Reva's siater",
+        "date": "04/30/1997",
+        "part": "1",
+        "total": "1",
+        "duration": "20:31",
+        "channel": "tennbelle9"
     },
     {
         "id": "21a3iJuDtMw",
@@ -26388,6 +26844,18 @@
         "channel": "blakemarler"
     },
     {
+        "id": "c_Ikr2GzAjI",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Harley and Phillip's wedding in New York",
+        "date": "7/17/1998",
+        "part": "1",
+        "total": "1",
+        "duration": "23:40",
+        "channel": "soapfoxkirby"
+    },
+    {
         "id": "9-_KTV-sDHo",
         "parentid": "",
         "soap": "GL",
@@ -28092,6 +28560,18 @@
         "channel": "blakemarler"
     },
     {
+        "id": "WjJj6LuPhQY",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Dinah begs Vanessa for help",
+        "date": "02/1/1999",
+        "part": "1",
+        "total": "1",
+        "duration": "6:05",
+        "channel": "yodaluver28"
+    },
+    {
         "id": "-_zYEWglBmE",
         "parentid": "",
         "soap": "GL",
@@ -28126,6 +28606,18 @@
         "total": "1",
         "duration": "38:55",
         "channel": "blakemarler"
+    },
+    {
+        "id": "G8N4y9ICeNE",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Vanessa helps Dinah run away",
+        "date": "02/4/1999",
+        "part": "1",
+        "total": "1",
+        "duration": "7:18",
+        "channel": "yodaluver28"
     },
     {
         "id": "Plqm5qRz_VA",

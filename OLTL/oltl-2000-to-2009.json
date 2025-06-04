@@ -2832,6 +2832,18 @@
         "channel": "carmaker1"
     },
     {
+        "id": "dTn31jKIIqc",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "04/16/2002",
+        "part": "1",
+        "total": "1",
+        "duration": "39:29",
+        "channel": "soapfoxkirby"
+    },
+    {
         "id": "vIZzH5yYEto",
         "parentid": "",
         "soap": "OLTL",
@@ -5700,6 +5712,18 @@
         "channel": "krissyishere"
     },
     {
+        "id": "VzlNAeixrRQ",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/9/2003",
+        "part": "1",
+        "total": "1",
+        "duration": "24:46",
+        "channel": "soapfoxkirby"
+    },
+    {
         "id": "CfSRrl2NQVs",
         "parentid": "",
         "soap": "OLTL",
@@ -6070,6 +6094,18 @@
         "total": "2",
         "duration": "10:14",
         "channel": "krissyishere"
+    },
+    {
+        "id": "BTcBfLRb8c4",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "B",
+        "title": "Promo - Al and Jen's wedding",
+        "date": "8/21/2003",
+        "part": "1",
+        "total": "1",
+        "duration": "0:21",
+        "channel": "soapfoxkirby"
     },
     {
         "id": "IVeDsbQ26-8",
@@ -6792,6 +6828,18 @@
         "channel": "krissyishere"
     },
     {
+        "id": "DM2rKYSwr4c",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/11/2003",
+        "part": "1",
+        "total": "1",
+        "duration": "37:49",
+        "channel": "soapfoxkirby"
+    },
+    {
         "id": "-cBuhxwTGrA",
         "parentid": "",
         "soap": "OLTL",
@@ -6946,6 +6994,30 @@
         "total": "1",
         "duration": "0:31",
         "channel": "carmaker1"
+    },
+    {
+        "id": "MHvEP2CRC94",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Baby switch crossover: Erica Kane takes the stand",
+        "date": "3/19/2004",
+        "part": "1",
+        "total": "1",
+        "duration": "8:14",
+        "channel": "soapfoxkirby"
+    },
+    {
+        "id": "tWLd_7J5q7U",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Viki and Dorian caved in",
+        "date": "4/1/2004",
+        "part": "1",
+        "total": "1",
+        "duration": "11:18",
+        "channel": "soapfoxkirby"
     },
     {
         "id": "Z1aqni1xMFI",
