@@ -17521,7 +17521,7 @@
     },
     {
         "id": "wIl7DR1GYyQ",
-        "parentid": "P_75096cd5",
+        "parentid": "P_93c560ba",
         "soap": "GL",
         "category": "A",
         "title": "Phillip and Alan gloat to Ross over Roger's death",
@@ -31297,13 +31297,13 @@
     },
     {
         "id": "gWBd3Ql4xXY",
-        "parentid": "P_6adaf840",
+        "parentid": "",
         "soap": "GL",
         "category": "A",
         "title": "Olivia and Natalia",
         "date": "6/11/2009",
-        "part": "2",
-        "total": "2",
+        "part": "1",
+        "total": "1",
         "duration": "6:10",
         "channel": "yodaluver28"
     },
@@ -32124,6 +32124,18 @@
         "channel": "yodaluver28"
     },
     {
+        "id": "6D4PkbXrfjU",
+        "parentid": "P_2e8f0d5d",
+        "soap": "GL",
+        "category": "A",
+        "title": "Cyrus Buzz and Mel",
+        "date": "7/29/2009",
+        "part": "1",
+        "total": "2",
+        "duration": "9:32",
+        "channel": "yodaluver28"
+    },
+    {
         "id": "WdwLwTD5aCM",
         "parentid": "P_2e8f0d5d",
         "soap": "GL",
@@ -32133,18 +32145,6 @@
         "part": "2",
         "total": "2",
         "duration": "5:30",
-        "channel": "yodaluver28"
-    },
-    {
-        "id": "6D4PkbXrfjU",
-        "parentid": "P_a232bf3b",
-        "soap": "GL",
-        "category": "A",
-        "title": "Cyrus Buzz and Mel",
-        "date": "7/29/2009",
-        "part": "1",
-        "total": "2",
-        "duration": "9:32",
         "channel": "yodaluver28"
     },
     {
@@ -33327,7 +33327,7 @@
         "id": "jjcgegeFIOE",
         "parentid": "P_19aea2a0",
         "soap": "GL",
-        "category": "",
+        "category": "A",
         "title": "Episode",
         "date": "9/14/2009",
         "part": "1",
@@ -33339,7 +33339,7 @@
         "id": "2wSR8SZ23eI",
         "parentid": "P_19aea2a0",
         "soap": "GL",
-        "category": "",
+        "category": "A",
         "title": "Episode",
         "date": "9/14/2009",
         "part": "2",
@@ -33351,7 +33351,7 @@
         "id": "iD-olEVzgUE",
         "parentid": "P_19aea2a0",
         "soap": "GL",
-        "category": "",
+        "category": "A",
         "title": "Episode",
         "date": "9/14/2009",
         "part": "3",
@@ -33367,7 +33367,7 @@
         "title": "Episode",
         "date": "9/14/2009",
         "part": "4",
-        "total": "4",
+        "total": "6",
         "duration": "3:50",
         "channel": "yodaluver28"
     },
