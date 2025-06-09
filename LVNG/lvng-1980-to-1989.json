@@ -180,102 +180,6 @@
         "channel": "fyi9476"
     },
     {
-        "id": "NcIbTHvpUUg",
-        "parentid": "",
-        "soap": "LVNG",
-        "category": "A",
-        "title": "Episode",
-        "date": "5/24/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "22:19",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "w9sZ_WxpXQo",
-        "parentid": "",
-        "soap": "LVNG",
-        "category": "A",
-        "title": "Episode",
-        "date": "5/28/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "22:09",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "wPWzlh1J130",
-        "parentid": "",
-        "soap": "LVNG",
-        "category": "A",
-        "title": "Episode content",
-        "date": "5/29/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "18:11",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "l08ugXMtpPU",
-        "parentid": "",
-        "soap": "LVNG",
-        "category": "A",
-        "title": "Episode",
-        "date": "6/17/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "22:22",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "IIEq71v52dU",
-        "parentid": "",
-        "soap": "LVNG",
-        "category": "A",
-        "title": "Episode content",
-        "date": "6/18/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "19:22",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "zQKewdmjlpo",
-        "parentid": "",
-        "soap": "LVNG",
-        "category": "A",
-        "title": "Episode",
-        "date": "6/20/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "21:30",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "7dXLxDP03_0",
-        "parentid": "",
-        "soap": "LVNG",
-        "category": "A",
-        "title": "Episode",
-        "date": "6/25/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "21:43",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "lY1pexMAMNQ",
-        "parentid": "",
-        "soap": "LVNG",
-        "category": "A",
-        "title": "Episode",
-        "date": "2/26/1986",
-        "part": "1",
-        "total": "1",
-        "duration": "21:30",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "7T6DCNsZOpc",
         "parentid": "",
         "soap": "LVNG",
@@ -322,18 +226,6 @@
         "total": "1",
         "duration": "3:00",
         "channel": "theystartedonsoaps"
-    },
-    {
-        "id": "_BcFb6gmiwU",
-        "parentid": "",
-        "soap": "LVNG",
-        "category": "A",
-        "title": "Episode content",
-        "date": "11/6/1987",
-        "part": "1",
-        "total": "1",
-        "duration": "7:24",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "Z_yGu_k7Tis",
@@ -406,18 +298,6 @@
         "total": "1",
         "duration": "1:16",
         "channel": "disabled1955"
-    },
-    {
-        "id": "SMpSs_2KBiU",
-        "parentid": "",
-        "soap": "LVNG",
-        "category": "A",
-        "title": "Episode",
-        "date": "12/29/1988",
-        "part": "1",
-        "total": "1",
-        "duration": "21:40",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "76vxpNDY1Oo",
@@ -516,18 +396,6 @@
         "channel": "disabled1955"
     },
     {
-        "id": "45_B52Bx2Xo",
-        "parentid": "",
-        "soap": "LVNG",
-        "category": "A",
-        "title": "Episode",
-        "date": "7/7/1989",
-        "part": "1",
-        "total": "1",
-        "duration": "20:31",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "SMVh9IuSRMk",
         "parentid": "",
         "soap": "LVNG",
@@ -598,41 +466,5 @@
         "total": "5",
         "duration": "00:32",
         "channel": "snarkweighsin"
-    },
-    {
-        "id": "pi4GrhqjS7A",
-        "parentid": "",
-        "soap": "LVNG",
-        "category": "A",
-        "title": "Episode",
-        "date": "12/1/1989",
-        "part": "1",
-        "total": "1",
-        "duration": "21:34",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "ECN7_95B5k8",
-        "parentid": "",
-        "soap": "LVNG",
-        "category": "A",
-        "title": "Episode",
-        "date": "12/20/1989",
-        "part": "1",
-        "total": "1",
-        "duration": "21:41",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "48ungLkOlgc",
-        "parentid": "",
-        "soap": "LVNG",
-        "category": "A",
-        "title": "Episode",
-        "date": "12/21/1989",
-        "part": "1",
-        "total": "1",
-        "duration": "21:46",
-        "channel": "jimmuneco1877"
     }
 ]

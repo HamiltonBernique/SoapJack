@@ -85,7 +85,6 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/suwFBtcs0ow"", ""Link"")",Episode,40:23,GL,07/11/1990,A,,1,1,blakemarler
 "=HYPERLINK(""https://youtu.be/yRDoc2vf0jA"", ""Link"")",Episode,40:48,GL,07/12/1990,A,,1,1,blakemarler
 "=HYPERLINK(""https://youtu.be/5H_YmUnWOF0"", ""Link"")",Episode,41:12,GL,07/13/1990,A,,1,1,blakemarler
-"=HYPERLINK(""https://youtu.be/4-rjE4f5djQ"", ""Link"")",Episode,42:09,GL,7/17/1990,A,,1,1,jimmuneco1877
 "=HYPERLINK(""https://youtu.be/tr6ZnM304BA"", ""Link"")",Episode,41:19,GL,07/17/1990,A,,1,1,blakemarler
 "=HYPERLINK(""https://youtu.be/IKJnLs3RtXQ"", ""Link"")",Episode,41:31,GL,07/18/1990,A,,1,1,blakemarler
 "=HYPERLINK(""https://youtu.be/sC6X_TUuCuw"", ""Link"")",Episode,41:25,GL,07/19/1990,A,,1,1,blakemarler
@@ -105,7 +104,6 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/yg_9fxa1Ny4"", ""Link"")",Episode,35:28,GL,08/08/1990,A,,1,1,blakemarler
 "=HYPERLINK(""https://youtu.be/PLnZMaycXxI"", ""Link"")",Episode,39:35,GL,08/09/1990,A,,1,1,blakemarler
 "=HYPERLINK(""https://youtu.be/2AtAmiyb7X8"", ""Link"")",Episode,31:06,GL,08/10/1990,A,,1,1,blakemarler
-"=HYPERLINK(""https://youtu.be/Va44_7RSyus"", ""Link"")",Episode,41:44,GL,8/13/1990,A,,1,1,jimmuneco1877
 "=HYPERLINK(""https://youtu.be/56W-rGrp0Bw"", ""Link"")",Episode,7:53,GL,08/13/1990,A,,1,1,blakemarler
 "=HYPERLINK(""https://youtu.be/JHRfvP7TYn8"", ""Link"")",Episode,39:34,GL,08/14/1990,A,,1,1,blakemarler
 "=HYPERLINK(""https://youtu.be/fx8g4pcl07c"", ""Link"")",Episode,31:06,GL,08/15/1990,A,,1,1,blakemarler
@@ -217,7 +215,6 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/XKFrc_cPG9Q"", ""Link"")",Episode,39:09,GL,04/09/1991,A,,1,1,blakemarler
 "=HYPERLINK(""https://youtu.be/M4bNpCBkO5k"", ""Link"")",Episode,40:28,GL,04/10/1991,A,,1,1,blakemarler
 "=HYPERLINK(""https://youtu.be/_nBl8rrtkEw"", ""Link"")",Episode,39:13,GL,04/11/1991,A,,1,1,blakemarler
-"=HYPERLINK(""https://youtu.be/i_vehGOCONk"", ""Link"")",Episode,25:32,GL,4/16/1991,A,,1,1,jimmuneco1877
 "=HYPERLINK(""https://youtu.be/bcK5Kj30qY8"", ""Link"")",Episode,25:29,GL,04/17/1991,A,,1,1,blakemarler
 "=HYPERLINK(""https://youtu.be/h-LXR2s7L24"", ""Link"")",Episode,40:05,GL,04/19/1991,A,,1,1,blakemarler
 "=HYPERLINK(""https://youtu.be/rEJLkRdMnPw"", ""Link"")",Episode,40:49,GL,04/22/1991,A,,1,1,blakemarler
@@ -329,10 +326,7 @@ link,title,duration,soap,date,category,parentid,part,total,channel
 "=HYPERLINK(""https://youtu.be/P1BPHcyw82s"", ""Link"")",Episode,39:47,GL,10/18/1991,A,,1,1,blakemarler
 "=HYPERLINK(""https://youtu.be/Pg4TCejvP-s"", ""Link"")",Episode,39:51,GL,10/21/1991,A,,1,1,blakemarler
 "=HYPERLINK(""https://youtu.be/42vFDD5qYl0"", ""Link"")",Episode,32:36,GL,10/30/1991,A,,1,1,blakemarler
-"=HYPERLINK(""https://youtu.be/JN3-pW-6e2I"", ""Link"")",Episode,38:45,GL,10/31/1991,A,,1,1,jimmuneco1877
-"=HYPERLINK(""https://youtu.be/WnWkjI2L3c4"", ""Link"")",Episode,38:45,GL,10/31/1991,A,,1,1,jimmuneco1877
 "=HYPERLINK(""https://youtu.be/p0RDdflfWoQ"", ""Link"")",Episode,31:49,GL,10/31/1991,A,,1,1,blakemarler
-"=HYPERLINK(""https://youtu.be/yh2Y8oMKk-Y"", ""Link"")",Episode,41:39,GL,11/4/1991,A,,1,1,jimmuneco1877
 "=HYPERLINK(""https://youtu.be/ORDK9RTHYN0"", ""Link"")",Episode,41:15,GL,11/04/1991,A,,1,1,blakemarler
 "=HYPERLINK(""https://youtu.be/dLKzhtLf9po"", ""Link"")",Clips,20:12,GL,11/05/1991,A,,1,1,blakemarler
 "=HYPERLINK(""https://youtu.be/DwV5j9uEHhY"", ""Link"")",Episode,41:10,GL,11/07/1991,A,,1,1,blakemarler

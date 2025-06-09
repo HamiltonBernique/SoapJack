@@ -132,18 +132,6 @@
         "channel": "spauldingfield"
     },
     {
-        "id": "0lBEPeFDB2k",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "2/1/1980",
-        "part": "1",
-        "total": "1",
-        "duration": "44:01",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "nq-Nj7GGE34",
         "parentid": "",
         "soap": "GL",
@@ -180,18 +168,6 @@
         "channel": "spauldingfield"
     },
     {
-        "id": "WCtEV-hj89E",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "3/1/1980",
-        "part": "1",
-        "total": "1",
-        "duration": "58:42",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "wjvFtQzROqs",
         "parentid": "",
         "soap": "GL",
@@ -202,18 +178,6 @@
         "total": "1",
         "duration": "42:55",
         "channel": "spauldingfield"
-    },
-    {
-        "id": "6ndZfsCYNlk",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "4/1/1980",
-        "part": "1",
-        "total": "1",
-        "duration": "43:11",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "U5rR5zg9lLw",
@@ -250,18 +214,6 @@
         "total": "1",
         "duration": "43:40",
         "channel": "soapsnthings4182"
-    },
-    {
-        "id": "kdMvoANhe2M",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode content",
-        "date": "5/30/1980",
-        "part": "1",
-        "total": "1",
-        "duration": "12:59",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "dI_Et7RiYBw",
@@ -312,18 +264,6 @@
         "channel": "soapsnthings4182"
     },
     {
-        "id": "qR4qKr8Ih8o",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "7/21/1980",
-        "part": "1",
-        "total": "1",
-        "duration": "42:51",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "dRb2Wao_z6k",
         "parentid": "P_884b34f0",
         "soap": "GL",
@@ -346,18 +286,6 @@
         "total": "2",
         "duration": "14:30",
         "channel": "soapsnthings4182"
-    },
-    {
-        "id": "p85ogCIS90Y",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "7/22/1980",
-        "part": "1",
-        "total": "1",
-        "duration": "42:57",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "Pr61NC0nOYM",
@@ -396,18 +324,6 @@
         "channel": "soapsnthings4182"
     },
     {
-        "id": "nd4-5GCG7gI",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "7/23/1980",
-        "part": "1",
-        "total": "1",
-        "duration": "42:59",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "cPHzmF2Q5Og",
         "parentid": "P_81aec314",
         "soap": "GL",
@@ -442,18 +358,6 @@
         "total": "3",
         "duration": "13:49",
         "channel": "soapsnthings4182"
-    },
-    {
-        "id": "5-FRxfrmcMA",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "7/24/1980",
-        "part": "1",
-        "total": "1",
-        "duration": "42:58",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "9cdfwpzzz5M",
@@ -492,18 +396,6 @@
         "channel": "soapsnthings4182"
     },
     {
-        "id": "JO9lwk9ZTAU",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "7/25/1980",
-        "part": "1",
-        "total": "1",
-        "duration": "42:59",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "unm86jFV8b0",
         "parentid": "P_6f1d1f57",
         "soap": "GL",
@@ -538,18 +430,6 @@
         "total": "3",
         "duration": "12:40",
         "channel": "soapsnthings4182"
-    },
-    {
-        "id": "2MmFxog4m8Q",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "7/30/1980",
-        "part": "1",
-        "total": "1",
-        "duration": "43:01",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "dG-0Rt8Sa_Y",
@@ -660,18 +540,6 @@
         "channel": "spauldingfield"
     },
     {
-        "id": "03L1O2H8k2E",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "1/9/1981",
-        "part": "1",
-        "total": "1",
-        "duration": "41:38",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "chE9PBbNCUQ",
         "parentid": "",
         "soap": "GL",
@@ -682,18 +550,6 @@
         "total": "1",
         "duration": "41:30",
         "channel": "spauldingfield"
-    },
-    {
-        "id": "RqRYb_Fn7H0",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "1/12/1981",
-        "part": "1",
-        "total": "1",
-        "duration": "41:43",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "mYx5EJmrzKw",
@@ -708,18 +564,6 @@
         "channel": "spauldingfield"
     },
     {
-        "id": "OWokOK1o2uU",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "1/13/1981",
-        "part": "1",
-        "total": "1",
-        "duration": "41:32",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "ONia59MEoOg",
         "parentid": "",
         "soap": "GL",
@@ -730,18 +574,6 @@
         "total": "1",
         "duration": "41:40",
         "channel": "spauldingfield"
-    },
-    {
-        "id": "IeXc94Dw5zw",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "1/14/1981",
-        "part": "1",
-        "total": "1",
-        "duration": "41:29",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "_FCWhVER_kE",
@@ -756,18 +588,6 @@
         "channel": "spauldingfield"
     },
     {
-        "id": "GyTmoq1Q8FA",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "1/15/1981",
-        "part": "1",
-        "total": "1",
-        "duration": "41:36",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "OPjVGTzXVSM",
         "parentid": "",
         "soap": "GL",
@@ -778,18 +598,6 @@
         "total": "1",
         "duration": "41:34",
         "channel": "spauldingfield"
-    },
-    {
-        "id": "m6429B4oE28",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "1/19/1981",
-        "part": "1",
-        "total": "1",
-        "duration": "41:35",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "P5QXjBUJ1tI",
@@ -828,18 +636,6 @@
         "channel": "edwynnsanchez"
     },
     {
-        "id": "6yvyXFQPV50",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "1/20/1981",
-        "part": "1",
-        "total": "1",
-        "duration": "41:34",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "GZRwWstripc",
         "parentid": "",
         "soap": "GL",
@@ -850,18 +646,6 @@
         "total": "1",
         "duration": "42:05",
         "channel": "spauldingfield"
-    },
-    {
-        "id": "A8KwZEwL_54",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "1/21/1981",
-        "part": "1",
-        "total": "1",
-        "duration": "41:33",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "lDIohlA2CbQ",
@@ -876,18 +660,6 @@
         "channel": "spauldingfield"
     },
     {
-        "id": "IXWsCE9kRUA",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "1/22/1981",
-        "part": "1",
-        "total": "1",
-        "duration": "37:19",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "Dtttlo8OuY0",
         "parentid": "",
         "soap": "GL",
@@ -900,18 +672,6 @@
         "channel": "spauldingfield"
     },
     {
-        "id": "2GOzumeGrQk",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "1/23/1981",
-        "part": "1",
-        "total": "1",
-        "duration": "41:36",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "328Z4-uVE3Y",
         "parentid": "",
         "soap": "GL",
@@ -922,42 +682,6 @@
         "total": "1",
         "duration": "41:42",
         "channel": "spauldingfield"
-    },
-    {
-        "id": "EUzHhraTrk0",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "2/9/1981",
-        "part": "1",
-        "total": "1",
-        "duration": "41:33",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "e5siGocLGIw",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "2/13/1981",
-        "part": "1",
-        "total": "1",
-        "duration": "42:10",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "sK9ffvPqJyE",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "5/19/1981",
-        "part": "1",
-        "total": "1",
-        "duration": "42:28",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "F_FtUu-mr2M",
@@ -994,18 +718,6 @@
         "total": "1",
         "duration": "44:33",
         "channel": "spauldingfield"
-    },
-    {
-        "id": "4mN5z8ZxCTY",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "8/13/1981",
-        "part": "1",
-        "total": "1",
-        "duration": "41:51",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "2O62Jg2cxKI",
@@ -1078,18 +790,6 @@
         "total": "3",
         "duration": "14:33",
         "channel": "soapsnthings4182"
-    },
-    {
-        "id": "vRVGhg-_Sas",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "8/20/1981",
-        "part": "1",
-        "total": "1",
-        "duration": "43:01",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "DwupyEb2f04",
@@ -1992,42 +1692,6 @@
         "channel": "spauldingfield"
     },
     {
-        "id": "Hk53vhFCM78",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "1/13/1982",
-        "part": "1",
-        "total": "1",
-        "duration": "42:30",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "Uab29m2-wlc",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "1/15/1982",
-        "part": "1",
-        "total": "1",
-        "duration": "42:30",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "1qm4XkXEgqY",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "2/1/1982",
-        "part": "1",
-        "total": "1",
-        "duration": "59:10",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "yGXgY8-I9OY",
         "parentid": "P_a2667e0b",
         "soap": "GL",
@@ -2254,42 +1918,6 @@
         "total": "3",
         "duration": "14:13",
         "channel": "soapsnthings4182"
-    },
-    {
-        "id": "54ysiJg3GHI",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "7/12/1982",
-        "part": "1",
-        "total": "1",
-        "duration": "41:43",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "o9PiIeoATd4",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "8/1/1982",
-        "part": "1",
-        "total": "1",
-        "duration": "42:16",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "vhTKHQ1v9PI",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "8/5/1982",
-        "part": "1",
-        "total": "1",
-        "duration": "44:37",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "5uD6SSD-BSM",
@@ -3276,18 +2904,6 @@
         "channel": "soapsnthings4182"
     },
     {
-        "id": "txl9R5vVPws",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "6/24/1983",
-        "part": "1",
-        "total": "1",
-        "duration": "41:43",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "hFfO3IfwzKs",
         "parentid": "",
         "soap": "GL",
@@ -3334,18 +2950,6 @@
         "total": "2",
         "duration": "8:03",
         "channel": "soapsnthings4182"
-    },
-    {
-        "id": "yRPREpiUfEk",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "7/21/1983",
-        "part": "1",
-        "total": "1",
-        "duration": "41:41",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "8NGwYkK6w04",
@@ -4056,54 +3660,6 @@
         "channel": "yodaluver28"
     },
     {
-        "id": "n0ICAI6zGpE",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "12/6/1983",
-        "part": "1",
-        "total": "1",
-        "duration": "39:23",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "U-_Mnb3TFB4",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "12/7/1983",
-        "part": "1",
-        "total": "1",
-        "duration": "42:25",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "C9ZtOFs_tD4",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "12/16/1983",
-        "part": "1",
-        "total": "1",
-        "duration": "42:03",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "5yVwFa9kDOg",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "12/19/1983",
-        "part": "1",
-        "total": "1",
-        "duration": "41:30",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "RhYWSOCMxQE",
         "parentid": "",
         "soap": "GL",
@@ -4332,18 +3888,6 @@
         "channel": "spauldingfield"
     },
     {
-        "id": "bXur1cJsxDk",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "2/1/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "43:26",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "s_Ghk5s0jPM",
         "parentid": "P_bd5a03fe",
         "soap": "GL",
@@ -4390,18 +3934,6 @@
         "total": "4",
         "duration": "10:26",
         "channel": "theedgeofnightman"
-    },
-    {
-        "id": "UD1s0bkkrcI",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "2/2/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "40:47",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "TU3O73pmfTs",
@@ -4884,18 +4416,6 @@
         "channel": "spauldingfield"
     },
     {
-        "id": "lI22i09t9WU",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode content",
-        "date": "3/23/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "17:35",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "SHUD4M9XOnY",
         "parentid": "",
         "soap": "GL",
@@ -4908,54 +4428,6 @@
         "channel": "spauldingfield"
     },
     {
-        "id": "wvemWV0nlh4",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "3/26/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "20:31",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "5qavKsWCG50",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode content",
-        "date": "3/27/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "15:31",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "ix-CfT5helY",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "3/28/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "33:06",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "ErtkgRzAcK0",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "3/29/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "21:09",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "ui6NDPGverk",
         "parentid": "",
         "soap": "GL",
@@ -4966,42 +4438,6 @@
         "total": "1",
         "duration": "41:42",
         "channel": "spauldingfield"
-    },
-    {
-        "id": "BUvPpqiiQU0",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "4/23/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "37:43",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "jZ4U_zXgu_g",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "4/24/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "41:18",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "Kvfzf-ucFEQ",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "4/25/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "42:08",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "PyHLBiOjdl8",
@@ -5112,30 +4548,6 @@
         "channel": "spauldingfield"
     },
     {
-        "id": "AiHIsrDyTWA",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "5/11/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "41:30",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "YVBYakUolDI",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "5/14/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "41:29",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "Xi1PD3UY47E",
         "parentid": "",
         "soap": "GL",
@@ -5146,30 +4558,6 @@
         "total": "1",
         "duration": "41:46",
         "channel": "spauldingfield"
-    },
-    {
-        "id": "6Nq3Lu6QMhY",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "5/15/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "41:35",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "EN7o6jKffII",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "5/15/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "41:35",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "QvLhS3l4Dyo",
@@ -5196,18 +4584,6 @@
         "channel": "spauldingfield"
     },
     {
-        "id": "bJnuDZzcXhk",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "5/17/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "42:07",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "mlP5Rjv9c5I",
         "parentid": "",
         "soap": "GL",
@@ -5220,18 +4596,6 @@
         "channel": "spauldingfield"
     },
     {
-        "id": "t2nlTSnaDF0",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "5/18/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "57:13",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "YXxgRPupqMY",
         "parentid": "",
         "soap": "GL",
@@ -5242,18 +4606,6 @@
         "total": "1",
         "duration": "42:13",
         "channel": "spauldingfield"
-    },
-    {
-        "id": "XZt4JJ3Gg74",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "5/22/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "40:45",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "nCsj66uHpNc",
@@ -5290,30 +4642,6 @@
         "total": "1",
         "duration": "33:38",
         "channel": "spauldingfield"
-    },
-    {
-        "id": "tH1mF7TJttA",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "5/29/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "40:48",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "3ms08LZalMQ",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "5/31/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "39:01",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "zOCEw_BP3ck",
@@ -5664,18 +4992,6 @@
         "channel": "spauldingfield"
     },
     {
-        "id": "4VowNPlVTek",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "7/4/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "40:36",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "O4SRi9jt7G8",
         "parentid": "",
         "soap": "GL",
@@ -5688,18 +5004,6 @@
         "channel": "spauldingfield"
     },
     {
-        "id": "mPzRrF20TrM",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "7/5/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "40:55",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "AK884tl4_gE",
         "parentid": "",
         "soap": "GL",
@@ -5710,18 +5014,6 @@
         "total": "1",
         "duration": "41:33",
         "channel": "spauldingfield"
-    },
-    {
-        "id": "gDy5cu1fXvE",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "7/6/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "42:00",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "dTDXnDV8JyA",
@@ -6048,18 +5340,6 @@
         "channel": "spauldingfield"
     },
     {
-        "id": "B12OqmhkcWQ",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "7/30/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "41:43",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "-H1IdwoOAXg",
         "parentid": "",
         "soap": "GL",
@@ -6082,18 +5362,6 @@
         "total": "1",
         "duration": "26:36",
         "channel": "yodaluver28"
-    },
-    {
-        "id": "c-VkbqrItUE",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "7/31/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "41:27",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "-1yCNCtdyAs",
@@ -6684,18 +5952,6 @@
         "channel": "spauldingfield"
     },
     {
-        "id": "C9f3fopjJ7A",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "9/19/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "42:54",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "PAdKBf9E-GU",
         "parentid": "",
         "soap": "GL",
@@ -6706,18 +5962,6 @@
         "total": "1",
         "duration": "40:02",
         "channel": "spauldingfield"
-    },
-    {
-        "id": "w2JYBu21wi8",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "9/26/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "42:27",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "yWlvFY2A1to",
@@ -6780,54 +6024,6 @@
         "channel": "spauldingfield"
     },
     {
-        "id": "uuSMLCsiyRo",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "10/15/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "37:34",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "c_mmsoGx8Vc",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "10/16/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "40:12",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "c2C3KzgDSCY",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "10/19/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "39:40",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "a3nGK0jKyVE",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "10/23/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "38:06",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "RTSog9BxGXY",
         "parentid": "",
         "soap": "GL",
@@ -6852,18 +6048,6 @@
         "channel": "spauldingfield"
     },
     {
-        "id": "iW-LzVxHGrA",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode content",
-        "date": "11/1/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "14:06",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "_qwK6gmuHDk",
         "parentid": "",
         "soap": "GL",
@@ -6874,18 +6058,6 @@
         "total": "1",
         "duration": "37:37",
         "channel": "spauldingfield"
-    },
-    {
-        "id": "j_3EJ4Qw3A0",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "11/15/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "20:57",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "ocVm-h39JKc",
@@ -6900,18 +6072,6 @@
         "channel": "spauldingfield"
     },
     {
-        "id": "IxgzpmplK6c",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "11/16/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "41:32",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "-lpTrX2vMIk",
         "parentid": "",
         "soap": "GL",
@@ -6922,18 +6082,6 @@
         "total": "1",
         "duration": "41:39",
         "channel": "spauldingfield"
-    },
-    {
-        "id": "MxalDKTGBmo",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "11/19/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "42:22",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "K_QdvD2TdJ8",
@@ -6948,18 +6096,6 @@
         "channel": "spauldingfield"
     },
     {
-        "id": "pPMDtL4_5yY",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode content",
-        "date": "11/20/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "18:41",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "bA_qP5yhpuo",
         "parentid": "",
         "soap": "GL",
@@ -6970,18 +6106,6 @@
         "total": "1",
         "duration": "41:19",
         "channel": "spauldingfield"
-    },
-    {
-        "id": "V5EBnW-Bsl8",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episodes",
-        "date": "11/21/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "42:00",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "GpxuBSMZ6o0",
@@ -7032,18 +6156,6 @@
         "channel": "spauldingfield"
     },
     {
-        "id": "oGztWT63Y-E",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode content",
-        "date": "11/28/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "12:43",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "koweP_9vrks",
         "parentid": "",
         "soap": "GL",
@@ -7054,30 +6166,6 @@
         "total": "1",
         "duration": "38:12",
         "channel": "spauldingfield"
-    },
-    {
-        "id": "tNdAYELc0GQ",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "11/29/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "42:04",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "s9uaZ-kS8Jg",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "12/4/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "41:16",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "JCH6wK2csK4",
@@ -7092,30 +6180,6 @@
         "channel": "pannoni"
     },
     {
-        "id": "lOPZ4YJzQH4",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "12/7/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "42:22",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "z_tUrfv_owo",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "12/12/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "42:20",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "9EOAiu7FWgo",
         "parentid": "",
         "soap": "GL",
@@ -7126,18 +6190,6 @@
         "total": "1",
         "duration": "58:50",
         "channel": "spauldingfield"
-    },
-    {
-        "id": "RixJXlhKl3M",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "12/24/1984",
-        "part": "1",
-        "total": "1",
-        "duration": "42:41",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "aFEIVdA5OF8",
@@ -7308,18 +6360,6 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "LQoH0HaEmJ4",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "2/12/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "41:19",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "aKWop6dw_fA",
         "parentid": "P_ac05091b",
         "soap": "GL",
@@ -7368,18 +6408,6 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "2qSBkBlpXE4",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "2/22/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "37:46",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "0hzQ7f0olBY",
         "parentid": "",
         "soap": "GL",
@@ -7404,18 +6432,6 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "uFafrb3u6N0",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "3/5/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "35:12",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "AcDzPGRPl7M",
         "parentid": "",
         "soap": "GL",
@@ -7426,18 +6442,6 @@
         "total": "1",
         "duration": "32:52",
         "channel": "tennbelle9"
-    },
-    {
-        "id": "1cy2jvFsQzU",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "3/6/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "39:29",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "oD-wiBbt7Vs",
@@ -7462,18 +6466,6 @@
         "total": "1",
         "duration": "11:14",
         "channel": "tennbelle9"
-    },
-    {
-        "id": "oyGFLWKVYr0",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "3/7/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "31:57",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "4xyNjfA0eGY",
@@ -8040,54 +7032,6 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "7SXsQqLWtPo",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "10/31/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "33:21",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "Se_YmujX4rc",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "11/4/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "41:58",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "LKhrwZHUqn4",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "11/5/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "41:59",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "GoYRH4o96x8",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "11/6/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "42:14",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "DuEuhmsBRWs",
         "parentid": "",
         "soap": "GL",
@@ -8112,42 +7056,6 @@
         "channel": "tennbelle9"
     },
     {
-        "id": "zEBObv-fr6w",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "11/12/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "42:18",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "J3i1qHTWzUU",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "11/13/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "42:04",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "tAh0iqrGfOo",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "11/14/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "42:15",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "lN4NVaRBHmQ",
         "parentid": "",
         "soap": "GL",
@@ -8158,102 +7066,6 @@
         "total": "1",
         "duration": "23:15",
         "channel": "pannoni"
-    },
-    {
-        "id": "BusDsZRlrpE",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "11/15/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "41:52",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "ih0jJvtcvJA",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "11/18/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "42:08",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "1arCVPnU77s",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "11/19/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "42:20",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "X7uWNaeU3Y0",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "11/20/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "41:39",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "fY6pvLeGOa8",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "11/21/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "41:52",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "nVXrxFSv5BY",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "11/22/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "43:34",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "l-jsWSt9t4g",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "11/25/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "41:57",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "QreP3771Q9U",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "11/27/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "41:33",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "E8Bp7u-18NM",
@@ -8352,102 +7164,6 @@
         "channel": "snarkweighsin"
     },
     {
-        "id": "LWc4yBjQ2Y4",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "12/2/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "42:20",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "eMuX7JMZ-vc",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "12/3/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "42:20",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "Phj1w9B91Gc",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "12/4/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "42:17",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "r0qyKcnAJrk",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "12/5/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "39:16",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "M6CnB7dttNk",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "12/6/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "41:58",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "LhkuHiRStHQ",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "12/9/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "40:27",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "R_MXTgvS3xc",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "12/10/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "42:19",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "irC-dARd4vo",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "12/11/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "42:19",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "hCmepqHkDGo",
         "parentid": "",
         "soap": "GL",
@@ -8458,102 +7174,6 @@
         "total": "1",
         "duration": "10:39",
         "channel": "tennbelle9"
-    },
-    {
-        "id": "gDz1v16nMQY",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "12/17/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "41:46",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "5VxjlrbSDL0",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "12/18/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "41:33",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "Vqx78DJ9pns",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "12/19/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "41:03",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "rpLBLnK6Mlo",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "12/20/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "41:12",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "T2V-JH8wmhQ",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "12/24/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "41:53",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "DeL6PRPDjgI",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "12/26/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "41:33",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "gOuvqmE1jTA",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "12/27/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "41:53",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "Esa3MmsP04U",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "12/30/1985",
-        "part": "1",
-        "total": "1",
-        "duration": "41:39",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "B-5IpyKbUw4",
@@ -8628,30 +7248,6 @@
         "channel": "fyi9476"
     },
     {
-        "id": "cqvGed-EX8w",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "1/2/1986",
-        "part": "1",
-        "total": "1",
-        "duration": "41:41",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "oz99-m3WY_c",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "2/18/1986",
-        "part": "1",
-        "total": "1",
-        "duration": "41:43",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "qosOAOttckw",
         "parentid": "",
         "soap": "GL",
@@ -8662,18 +7258,6 @@
         "total": "1",
         "duration": "5:50",
         "channel": "tennbelle9"
-    },
-    {
-        "id": "a1yydffcvRE",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "3/5/1986",
-        "part": "1",
-        "total": "1",
-        "duration": "41:59",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "xjKLCQcxUNg",
@@ -8866,42 +7450,6 @@
         "total": "1",
         "duration": "1:03",
         "channel": "tennbelle9"
-    },
-    {
-        "id": "8T7-TQ5Gfi4",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "5/2/1986",
-        "part": "1",
-        "total": "1",
-        "duration": "42:04",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "RiIgj_0H-20",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "5/8/1986",
-        "part": "1",
-        "total": "1",
-        "duration": "42:27",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "0IGRYj20idE",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "5/9/1986",
-        "part": "1",
-        "total": "1",
-        "duration": "43:39",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "2qYtm5DAuGw",
@@ -9204,18 +7752,6 @@
         "channel": "tennbelle9"
     },
     {
-        "id": "L2lGHUXdi-8",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "11/7/1986",
-        "part": "1",
-        "total": "1",
-        "duration": "42:00",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "VikabysWWn8",
         "parentid": "",
         "soap": "GL",
@@ -9444,18 +7980,6 @@
         "channel": "tennbelle9"
     },
     {
-        "id": "GZpMsI7O0tQ",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "12/16/1986",
-        "part": "1",
-        "total": "1",
-        "duration": "40:25",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "D4LRXt91Weg",
         "parentid": "",
         "soap": "GL",
@@ -9588,42 +8112,6 @@
         "channel": "tennbelle9"
     },
     {
-        "id": "vQFmoRRH27o",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "3/3/1987",
-        "part": "1",
-        "total": "1",
-        "duration": "35:10",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "nUnPGNuB71s",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "3/3/1987",
-        "part": "1",
-        "total": "1",
-        "duration": "35:10",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "Uf3KsOZKcr8",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "3/9/1987",
-        "part": "1",
-        "total": "1",
-        "duration": "41:59",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "SkNtm1PKTi0",
         "parentid": "",
         "soap": "GL",
@@ -9636,90 +8124,6 @@
         "channel": "pannoni"
     },
     {
-        "id": "X30kHqjg97o",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "6/15/1987",
-        "part": "1",
-        "total": "1",
-        "duration": "41:14",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "iljkdGiPFJ0",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "6/24/1987",
-        "part": "1",
-        "total": "1",
-        "duration": "42:04",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "V1jz48VnQBU",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "6/26/1987",
-        "part": "1",
-        "total": "1",
-        "duration": "42:04",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "kRgbjOqstW0",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "6/29/1987",
-        "part": "1",
-        "total": "1",
-        "duration": "40:36",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "6IVD2IgaR2Y",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "7/1/1987",
-        "part": "1",
-        "total": "1",
-        "duration": "42:12",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "AaXqKp8J08E",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "7/2/1987",
-        "part": "1",
-        "total": "1",
-        "duration": "43:28",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "5yb6jqhNE0Q",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "7/3/1987",
-        "part": "1",
-        "total": "1",
-        "duration": "42:04",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "GFOUwtSxsAI",
         "parentid": "",
         "soap": "GL",
@@ -9730,18 +8134,6 @@
         "total": "1",
         "duration": "27:04",
         "channel": "pannoni"
-    },
-    {
-        "id": "JzsrPnfxHWc",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "11/6/1987",
-        "part": "1",
-        "total": "1",
-        "duration": "20:20",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "LoHw4-1Oi4k",
@@ -9864,18 +8256,6 @@
         "channel": "chuckd79"
     },
     {
-        "id": "0wt1qIUcLgI",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "1/11/1988",
-        "part": "1",
-        "total": "1",
-        "duration": "40:27",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "4Lx1FInQ0Bs",
         "parentid": "P_509e5284",
         "soap": "GL",
@@ -9972,18 +8352,6 @@
         "channel": "tennbelle9"
     },
     {
-        "id": "VNZVJRJ1aTA",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode - end",
-        "date": "3/22/1988",
-        "part": "1",
-        "total": "1",
-        "duration": "5:03",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "GEo0lfXMTB4",
         "parentid": "",
         "soap": "GL",
@@ -10008,18 +8376,6 @@
         "channel": "tennbelle9"
     },
     {
-        "id": "iWnkZzfpV68",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "6/8/1988",
-        "part": "1",
-        "total": "1",
-        "duration": "36:42",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "K5bKWZ-TCys",
         "parentid": "",
         "soap": "GL",
@@ -10030,18 +8386,6 @@
         "total": "1",
         "duration": "41:14",
         "channel": "tennbelle9"
-    },
-    {
-        "id": "LbBbGKQCZIs",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "6/22/1988",
-        "part": "1",
-        "total": "1",
-        "duration": "41:51",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "zRhtV-JiMuc",
@@ -10080,126 +8424,6 @@
         "channel": "bluerose8508"
     },
     {
-        "id": "IYjKKl3soK0",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "9/1/1988",
-        "part": "1",
-        "total": "1",
-        "duration": "41:51",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "zTsldhFYW7Y",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "9/2/1988",
-        "part": "1",
-        "total": "1",
-        "duration": "41:36",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "Xui7-PfANCw",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "9/19/1988",
-        "part": "1",
-        "total": "1",
-        "duration": "42:01",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "v8k-d4mbmnA",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "9/20/1988",
-        "part": "1",
-        "total": "1",
-        "duration": "42:14",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "m3sZY5Ouk4M",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "9/21/1988",
-        "part": "1",
-        "total": "1",
-        "duration": "42:12",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "bqV-SJdzNoo",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "9/22/1988",
-        "part": "1",
-        "total": "1",
-        "duration": "42:15",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "tttOLwRlU8w",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "9/23/1988",
-        "part": "1",
-        "total": "1",
-        "duration": "41:51",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "cXvKrkkRhZg",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "9/26/1988",
-        "part": "1",
-        "total": "1",
-        "duration": "35:43",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "t-ie-wTK3nk",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "9/27/1988",
-        "part": "1",
-        "total": "1",
-        "duration": "42:11",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "39BLBXDRAug",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "9/28/1988",
-        "part": "1",
-        "total": "1",
-        "duration": "42:07",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "XWsFR1-EVHI",
         "parentid": "",
         "soap": "GL",
@@ -10210,30 +8434,6 @@
         "total": "1",
         "duration": "41:23",
         "channel": "tennbelle9"
-    },
-    {
-        "id": "SyB3QL0Vrys",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "9/29/1988",
-        "part": "1",
-        "total": "1",
-        "duration": "41:43",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "DXGhmhzkg68",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "9/30/1988",
-        "part": "1",
-        "total": "1",
-        "duration": "41:47",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "E0dXnSYjFZw",
@@ -10260,54 +8460,6 @@
         "channel": "tennbelle9"
     },
     {
-        "id": "JM-6mj0TZAA",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "10/11/1988",
-        "part": "1",
-        "total": "1",
-        "duration": "41:43",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "vGo6yannPrs",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "10/12/1988",
-        "part": "1",
-        "total": "1",
-        "duration": "42:10",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "C4nyhGaeg1o",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "10/13/1988",
-        "part": "1",
-        "total": "1",
-        "duration": "41:01",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "kOaKEOAHAOs",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "10/14/1988",
-        "part": "1",
-        "total": "1",
-        "duration": "20:53",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "IAP4jfTcS0w",
         "parentid": "",
         "soap": "GL",
@@ -10320,42 +8472,6 @@
         "channel": "tennbelle9"
     },
     {
-        "id": "e_w91R-wWlI",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "10/18/1988",
-        "part": "1",
-        "total": "1",
-        "duration": "41:51",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "BnPlN1AtfpY",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "10/21/1988",
-        "part": "1",
-        "total": "1",
-        "duration": "41:29",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "aK4LqRZgCSs",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "10/24/1988",
-        "part": "1",
-        "total": "1",
-        "duration": "42:13",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "Om-tFH06dfE",
         "parentid": "",
         "soap": "GL",
@@ -10366,18 +8482,6 @@
         "total": "1",
         "duration": "21:39",
         "channel": "tennbelle9"
-    },
-    {
-        "id": "oct_XKwdYqo",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "10/25/1988",
-        "part": "1",
-        "total": "1",
-        "duration": "42:39",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "5vcaDEAPk2k",
@@ -10428,18 +8532,6 @@
         "channel": "tennbelle9"
     },
     {
-        "id": "m74d6Tj0094",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "10/31/1988",
-        "part": "1",
-        "total": "1",
-        "duration": "42:33",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "UDQM6KW2CgI",
         "parentid": "",
         "soap": "GL",
@@ -10476,18 +8568,6 @@
         "channel": "tennbelle9"
     },
     {
-        "id": "ilESWt_GWSE",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "11/7/1988",
-        "part": "1",
-        "total": "1",
-        "duration": "41:52",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "-UtEBKB1wcw",
         "parentid": "",
         "soap": "GL",
@@ -10522,30 +8602,6 @@
         "total": "1",
         "duration": "15:47",
         "channel": "tennbelle9"
-    },
-    {
-        "id": "i5NQN69NpRk",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "11/18/1988",
-        "part": "1",
-        "total": "1",
-        "duration": "28:35",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "tHlDrKOaL0o",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "12/21/1988",
-        "part": "1",
-        "total": "1",
-        "duration": "27:24",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "AezxIDj6u98",
@@ -11292,18 +9348,6 @@
         "channel": "blakemarler"
     },
     {
-        "id": "8PQvvQ48ccA",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "7/20/1989",
-        "part": "1",
-        "total": "1",
-        "duration": "42:20",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "eEy5P-RXYew",
         "parentid": "",
         "soap": "GL",
@@ -11376,18 +9420,6 @@
         "channel": "blakemarler"
     },
     {
-        "id": "Uc6NLEeFP1s",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "8/14/1989",
-        "part": "1",
-        "total": "1",
-        "duration": "41:45",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "kq0FCheKEOg",
         "parentid": "",
         "soap": "GL",
@@ -11448,18 +9480,6 @@
         "channel": "blakemarler"
     },
     {
-        "id": "7r_U-xH-z9o",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "8/29/1989",
-        "part": "1",
-        "total": "1",
-        "duration": "41:52",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "nlkS6YKRzRw",
         "parentid": "",
         "soap": "GL",
@@ -11496,18 +9516,6 @@
         "channel": "blakemarler"
     },
     {
-        "id": "s-OT3iaVLnQ",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "9/1/1989",
-        "part": "1",
-        "total": "1",
-        "duration": "41:50",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "PmGa450sO5E",
         "parentid": "",
         "soap": "GL",
@@ -11518,18 +9526,6 @@
         "total": "1",
         "duration": "41:41",
         "channel": "blakemarler"
-    },
-    {
-        "id": "W9z_YbTjrKs",
-        "parentid": "",
-        "soap": "GL",
-        "category": "A",
-        "title": "Episode",
-        "date": "9/5/1989",
-        "part": "1",
-        "total": "1",
-        "duration": "42:03",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "0L_khnO1j9g",

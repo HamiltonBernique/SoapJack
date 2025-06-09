@@ -1068,42 +1068,6 @@
         "channel": "rhsharp"
     },
     {
-        "id": "jtzxiyXLJ48",
-        "parentid": "",
-        "soap": "ATWT",
-        "category": "A",
-        "title": "Episode",
-        "date": "5/30/1991",
-        "part": "1",
-        "total": "1",
-        "duration": "43:02",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "6JZAwvC3Utg",
-        "parentid": "",
-        "soap": "ATWT",
-        "category": "A",
-        "title": "Episode",
-        "date": "5/31/1991",
-        "part": "1",
-        "total": "1",
-        "duration": "43:35",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "a2lc8zJsWhw",
-        "parentid": "",
-        "soap": "ATWT",
-        "category": "A",
-        "title": "Episode",
-        "date": "6/3/1991",
-        "part": "1",
-        "total": "1",
-        "duration": "42:58",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "0J3BdvxGOYc",
         "parentid": "",
         "soap": "ATWT",
@@ -1416,54 +1380,6 @@
         "channel": "erinsimader"
     },
     {
-        "id": "NB_Wlp5iUpU",
-        "parentid": "",
-        "soap": "ATWT",
-        "category": "A",
-        "title": "Episode",
-        "date": "9/21/1992",
-        "part": "1",
-        "total": "1",
-        "duration": "43:05",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "NyRAJDyKvw4",
-        "parentid": "",
-        "soap": "ATWT",
-        "category": "A",
-        "title": "Episode",
-        "date": "9/22/1992",
-        "part": "1",
-        "total": "1",
-        "duration": "42:44",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "xs0Rfy1iFFg",
-        "parentid": "",
-        "soap": "ATWT",
-        "category": "A",
-        "title": "Episode",
-        "date": "9/23/1992",
-        "part": "1",
-        "total": "1",
-        "duration": "43:19",
-        "channel": "jimmuneco1877"
-    },
-    {
-        "id": "Xm3nVEAr3fU",
-        "parentid": "",
-        "soap": "ATWT",
-        "category": "A",
-        "title": "Episode",
-        "date": "9/24/1992",
-        "part": "1",
-        "total": "1",
-        "duration": "42:28",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "RzH6XSft7w0",
         "parentid": "",
         "soap": "ATWT",
@@ -1596,18 +1512,6 @@
         "channel": "disabled1955"
     },
     {
-        "id": "fBu7TaJ9pUQ",
-        "parentid": "",
-        "soap": "ATWT",
-        "category": "A",
-        "title": "Episode content",
-        "date": "11/15/1993",
-        "part": "1",
-        "total": "1",
-        "duration": "18:26",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "22pf9Xm2PZU",
         "parentid": "",
         "soap": "ATWT",
@@ -1728,18 +1632,6 @@
         "channel": "retronewfoundland"
     },
     {
-        "id": "L6PH3ta5gKM",
-        "parentid": "",
-        "soap": "ATWT",
-        "category": "A",
-        "title": "Episode",
-        "date": "9/7/1995",
-        "part": "1",
-        "total": "1",
-        "duration": "42:20",
-        "channel": "jimmuneco1877"
-    },
-    {
         "id": "gceCJ260PRk",
         "parentid": "",
         "soap": "ATWT",
@@ -1750,18 +1642,6 @@
         "total": "1",
         "duration": "0:30",
         "channel": "fyi9476"
-    },
-    {
-        "id": "oVYpjtc5Pvw",
-        "parentid": "",
-        "soap": "ATWT",
-        "category": "A",
-        "title": "Episode",
-        "date": "2/29/1996",
-        "part": "1",
-        "total": "1",
-        "duration": "38:57",
-        "channel": "jimmuneco1877"
     },
     {
         "id": "ItWfEx6Mkbs",
