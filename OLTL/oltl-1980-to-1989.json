@@ -24,11 +24,71 @@
         "channel": "chuckd79"
     },
     {
+        "id": "xO7gFKRsXe8",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode content",
+        "date": "01/01/1980",
+        "part": "1",
+        "total": "1",
+        "duration": "55:27",
+        "channel": "lovemystories-l9z"
+    },
+    {
+        "id": "Q2KdbmENFd0",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "02/15/1980",
+        "part": "1",
+        "total": "1",
+        "duration": "57:42",
+        "channel": "lovemystories-l9z"
+    },
+    {
+        "id": "Ns5jf_Emxgc",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "02/18/1980",
+        "part": "1",
+        "total": "1",
+        "duration": "53:41",
+        "channel": "lovemystories-l9z"
+    },
+    {
+        "id": "7zdoZYjfL_E",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "05/28/1980",
+        "part": "1",
+        "total": "1",
+        "duration": "57:44",
+        "channel": "lovemystories-l9z"
+    },
+    {
+        "id": "NQJ0yZo5P2s",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "05/29/1980",
+        "part": "1",
+        "total": "1",
+        "duration": "57:47",
+        "channel": "lovemystories-l9z"
+    },
+    {
         "id": "mMqVXbWbwJY",
         "parentid": "",
         "soap": "OLTL",
         "category": "A",
-        "title": "Asa\u2019s Party for Sam and Mimi",
+        "title": "Asa's Party for Sam and Mimi",
         "date": "6/1/1980",
         "part": "1",
         "total": "1",
@@ -60,6 +120,18 @@
         "channel": "foryourviewingpleasure966"
     },
     {
+        "id": "kINfIcHKVVU",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "09/08/1980",
+        "part": "1",
+        "total": "1",
+        "duration": "54:13",
+        "channel": "lovemystories-l9z"
+    },
+    {
         "id": "BXQB6DfEGgY",
         "parentid": "",
         "soap": "OLTL",
@@ -70,6 +142,18 @@
         "total": "1",
         "duration": "56:23",
         "channel": "foryourviewingpleasure966"
+    },
+    {
+        "id": "dBIBSjdzmjg",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "09/09/1980",
+        "part": "1",
+        "total": "1",
+        "duration": "56:23",
+        "channel": "lovemystories-l9z"
     },
     {
         "id": "SQdy4lr8xEc",
@@ -108,6 +192,18 @@
         "channel": "hamiltonbernique"
     },
     {
+        "id": "3wKCfn-87IU",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode content",
+        "date": "04/01/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "9:50",
+        "channel": "lovemystories-l9z"
+    },
+    {
         "id": "YfkWLATI2do",
         "parentid": "",
         "soap": "OLTL",
@@ -118,6 +214,102 @@
         "total": "1",
         "duration": "14:00",
         "channel": "donna515"
+    },
+    {
+        "id": "jhc3kemD-3Q",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "06/24/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "41:42",
+        "channel": "lovemystories-l9z"
+    },
+    {
+        "id": "J2C9of1-M2c",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/14/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "57:52",
+        "channel": "lovemystories-l9z"
+    },
+    {
+        "id": "UrGNs1t7nuE",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/17/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "57:48",
+        "channel": "lovemystories-l9z"
+    },
+    {
+        "id": "jDfqT4uX-tM",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/20/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "58:02",
+        "channel": "lovemystories-l9z"
+    },
+    {
+        "id": "9oW9OJtcbfQ",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/24/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "1:00:03",
+        "channel": "lovemystories-l9z"
+    },
+    {
+        "id": "BCtD0pvStv8",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/26/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "1:00:05",
+        "channel": "lovemystories-l9z"
+    },
+    {
+        "id": "f_OcCk6EM6Y",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/27/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "59:05",
+        "channel": "lovemystories-l9z"
+    },
+    {
+        "id": "FpkFYAQXkHk",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/28/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "57:45",
+        "channel": "lovemystories-l9z"
     },
     {
         "id": "g_qViQ-XPvI",
@@ -180,18 +372,6 @@
         "channel": "vickrobcal"
     },
     {
-        "id": "k7ny-RdX-Zk",
-        "parentid": "",
-        "soap": "OLTL",
-        "category": "A",
-        "title": "Viki Comes Home From Jail; Viki and Clint's Love Is Shown",
-        "date": "01/01/1982",
-        "part": "1",
-        "total": "1",
-        "duration": "27:35",
-        "channel": "vickrobcal"
-    },
-    {
         "id": "oss0r6xMDsU",
         "parentid": "",
         "soap": "OLTL",
@@ -201,6 +381,18 @@
         "part": "1",
         "total": "1",
         "duration": "11:43",
+        "channel": "vickrobcal"
+    },
+    {
+        "id": "k7ny-RdX-Zk",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Viki Comes Home From Jail; Viki and Clint's Love Is Shown",
+        "date": "06/01/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "27:35",
         "channel": "vickrobcal"
     },
     {
@@ -336,6 +528,42 @@
         "channel": "donna515"
     },
     {
+        "id": "ofrRlM7HmLY",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/01/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "55:32",
+        "channel": "lovemystories-l9z"
+    },
+    {
+        "id": "JiuS0jrwWX8",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/01/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "43:01",
+        "channel": "lovemystories-l9z"
+    },
+    {
+        "id": "Cu868rpEC6s",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "B",
+        "title": "Promo",
+        "date": "07/01/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "0:32",
+        "channel": "lovemystories-l9z"
+    },
+    {
         "id": "HWZ43_k9Gec",
         "parentid": "",
         "soap": "OLTL",
@@ -358,6 +586,18 @@
         "total": "1",
         "duration": "21:27",
         "channel": "ilovesoaps"
+    },
+    {
+        "id": "PIFrzsDIcxc",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Karen and Larry held captive",
+        "date": "09/02/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "54:12",
+        "channel": "lovemystories-l9z"
     },
     {
         "id": "mLoKixUbAaQ",
@@ -396,6 +636,42 @@
         "channel": "vickrobcal"
     },
     {
+        "id": "40UeobC3JlI",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode content",
+        "date": "01/01/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "58:06",
+        "channel": "lovemystories-l9z"
+    },
+    {
+        "id": "bGXlu_qx_9M",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode content",
+        "date": "01/01/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "55:08",
+        "channel": "lovemystories-l9z"
+    },
+    {
+        "id": "B9z_DrhLZcY",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/06/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "42:44",
+        "channel": "lovemystories-l9z"
+    },
+    {
         "id": "_nIpBmKDyM8",
         "parentid": "",
         "soap": "OLTL",
@@ -418,6 +694,30 @@
         "total": "1",
         "duration": "55:08",
         "channel": "foryourviewingpleasure966"
+    },
+    {
+        "id": "2QKz5gpqMVA",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "02/01/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "42:04",
+        "channel": "lovemystories-l9z"
+    },
+    {
+        "id": "kxRPjK-XjdE",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "04/22/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "44:20",
+        "channel": "lovemystories-l9z"
     },
     {
         "id": "gc3EpkqCpV4",
@@ -478,6 +778,42 @@
         "total": "5",
         "duration": "08:35",
         "channel": "hamiltonbernique"
+    },
+    {
+        "id": "L1Y_6aYR4Ss",
+        "parentid": "P_2d0b2899",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "05/31/1983",
+        "part": "1",
+        "total": "3",
+        "duration": "8:45",
+        "channel": "lovemystories-l9z"
+    },
+    {
+        "id": "c5_Qlb3x3k0",
+        "parentid": "P_2d0b2899",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "05/31/1983",
+        "part": "2",
+        "total": "3",
+        "duration": "9:51",
+        "channel": "lovemystories-l9z"
+    },
+    {
+        "id": "KFCLcDWp0Qs",
+        "parentid": "P_2d0b2899",
+        "soap": "OLTL",
+        "category": "A",
+        "title": "Episode",
+        "date": "05/31/1983",
+        "part": "3",
+        "total": "3",
+        "duration": "9:52",
+        "channel": "lovemystories-l9z"
     },
     {
         "id": "AnDq5AUHUTg",
@@ -766,6 +1102,18 @@
         "total": "5",
         "duration": "3:14",
         "channel": "hamiltonbernique"
+    },
+    {
+        "id": "7tq01pIdiNU",
+        "parentid": "",
+        "soap": "OLTL",
+        "category": "B",
+        "title": "Misc Credits",
+        "date": "12/01/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "0:58",
+        "channel": "lovemystories-l9z"
     },
     {
         "id": "0xduuBArWF0",
@@ -2344,7 +2692,7 @@
         "parentid": "",
         "soap": "OLTL",
         "category": "A",
-        "title": "Episode - Tina Tells Viki She\u2019s Her Sister",
+        "title": "Episode - Tina Tells Viki She's Her Sister",
         "date": "03/22/1985",
         "part": "1",
         "total": "1",
@@ -6976,7 +7324,7 @@
         "parentid": "",
         "soap": "OLTL",
         "category": "A",
-        "title": "Episode - Max and Tina\u2019s Wedding",
+        "title": "Episode - Max and Tina's Wedding",
         "date": "03/11/1988",
         "part": "1",
         "total": "1",
