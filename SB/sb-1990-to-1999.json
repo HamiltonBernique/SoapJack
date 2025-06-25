@@ -192,6 +192,18 @@
         "channel": "bestoftk"
     },
     {
+        "id": "JKUF0cWD2QI",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Episode",
+        "date": "06/8/1990",
+        "part": "1",
+        "total": "1",
+        "duration": "43:07",
+        "channel": "mitch6225"
+    },
+    {
         "id": "cVclXTEDD2w",
         "parentid": "",
         "soap": "SB",
@@ -202,6 +214,30 @@
         "total": "1",
         "duration": "2:28",
         "channel": "bestoftk"
+    },
+    {
+        "id": "441_9_-RU5E",
+        "parentid": "P_2445518a",
+        "soap": "SB",
+        "category": "A",
+        "title": "Episode",
+        "date": "10/26/1990",
+        "part": "1",
+        "total": "2",
+        "duration": "24:16",
+        "channel": "mitch6225"
+    },
+    {
+        "id": "GSU9VzFw-Qk",
+        "parentid": "P_2445518a",
+        "soap": "SB",
+        "category": "A",
+        "title": "Episode",
+        "date": "10/26/1990",
+        "part": "1",
+        "total": "2",
+        "duration": "37:11",
+        "channel": "mitch6225"
     },
     {
         "id": "ONB6Dw2bkaY",
@@ -490,6 +526,18 @@
         "total": "1",
         "duration": "0:20",
         "channel": "hazeleyes8965"
+    },
+    {
+        "id": "2_2LfUF8vlE",
+        "parentid": "",
+        "soap": "SB",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/24/1991",
+        "part": "1",
+        "total": "1",
+        "duration": "39:17",
+        "channel": "mitch6225"
     },
     {
         "id": "QHLW_dYF8qo",

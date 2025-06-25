@@ -132,6 +132,18 @@
         "channel": "spauldingfield"
     },
     {
+        "id": "YAEecWkC_nY",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "GL backstage, 1980 Marland, Stewart, Berjer, Hulswit",
+        "date": "01/01/1980",
+        "part": "1",
+        "total": "1",
+        "duration": "3:56",
+        "channel": "mitch6225"
+    },
+    {
         "id": "nq-Nj7GGE34",
         "parentid": "",
         "soap": "GL",
@@ -214,6 +226,30 @@
         "total": "1",
         "duration": "43:40",
         "channel": "soapsnthings4182"
+    },
+    {
+        "id": "Jobc3Mg7JOk",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "GL July 11, 1980",
+        "date": "07/11/1980",
+        "part": "1",
+        "total": "1",
+        "duration": "57:08",
+        "channel": "mitch6225"
+    },
+    {
+        "id": "QFacnyMewr8",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "The Guiding Light  July 11, 1980",
+        "date": "07/11/1980",
+        "part": "1",
+        "total": "1",
+        "duration": "57:15",
+        "channel": "mitch6225"
     },
     {
         "id": "dI_Et7RiYBw",
@@ -2208,6 +2244,18 @@
         "channel": "yodaluver28"
     },
     {
+        "id": "6h1PPY8gPYE",
+        "parentid": "",
+        "soap": "GL",
+        "category": "A",
+        "title": "Guiding Light January, 1983 GL",
+        "date": "01/01/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "21:53",
+        "channel": "mitch6225"
+    },
+    {
         "id": "BiJBN6RQR9U",
         "parentid": "P_bd84663d",
         "soap": "GL",
@@ -2290,6 +2338,18 @@
         "total": "1",
         "duration": "41:57",
         "channel": "spauldingfield"
+    },
+    {
+        "id": "eEaB1zLIZG0",
+        "parentid": "",
+        "soap": "GL",
+        "category": "B",
+        "title": "Promo",
+        "date": "03/01/1983",
+        "part": "1",
+        "total": "1",
+        "duration": "0:21",
+        "channel": "mitch6225"
     },
     {
         "id": "Joc8E8AohAs",
@@ -7966,6 +8026,18 @@
         "total": "3",
         "duration": "11:24",
         "channel": "bluerose8508"
+    },
+    {
+        "id": "dvn0Ri-AfiQ",
+        "parentid": "",
+        "soap": "GL",
+        "category": "B",
+        "title": "Promo - Rumors Have It Ross Vanessa, Dinah",
+        "date": "12/01/1986",
+        "part": "1",
+        "total": "1",
+        "duration": "0:23",
+        "channel": "mitch6225"
     },
     {
         "id": "pbyFFp3_QLw",

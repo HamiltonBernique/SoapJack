@@ -312,6 +312,42 @@
         "channel": "chuckd79"
     },
     {
+        "id": "V-ReGO5PtNc",
+        "parentid": "",
+        "soap": "LL",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/28/1980",
+        "part": "1",
+        "total": "1",
+        "duration": "20:28",
+        "channel": "mitch6225"
+    },
+    {
+        "id": "QAyMHJx0m0Y",
+        "parentid": "",
+        "soap": "LL",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/29/1980",
+        "part": "1",
+        "total": "1",
+        "duration": "20:26",
+        "channel": "mitch6225"
+    },
+    {
+        "id": "d3jNp7m62WY",
+        "parentid": "",
+        "soap": "LL",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/31/1980",
+        "part": "1",
+        "total": "1",
+        "duration": "23:19",
+        "channel": "mitch6225"
+    },
+    {
         "id": "8bkqLRz-UQI",
         "parentid": "",
         "soap": "LL",
@@ -322,6 +358,18 @@
         "total": "1",
         "duration": "30:14",
         "channel": "thechandlerhh"
+    },
+    {
+        "id": "mmlI53Z1oCU",
+        "parentid": "",
+        "soap": "LL",
+        "category": "A",
+        "title": "Last episode",
+        "date": "02/1/1980",
+        "part": "1",
+        "total": "1",
+        "duration": "21:57",
+        "channel": "mitch6225"
     },
     {
         "id": "OFjwKrzKdtI",

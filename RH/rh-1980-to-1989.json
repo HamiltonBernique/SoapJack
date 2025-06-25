@@ -5388,6 +5388,18 @@
         "channel": "ryanshope3316"
     },
     {
+        "id": "wqW0MVZ0DTY",
+        "parentid": "",
+        "soap": "RH",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/01/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "28:27",
+        "channel": "mitch6225"
+    },
+    {
         "id": "0rIB-S_KXd8",
         "parentid": "",
         "soap": "RH",
@@ -5398,6 +5410,18 @@
         "total": "1",
         "duration": "0:22",
         "channel": "ryanshope3316"
+    },
+    {
+        "id": "y3qC3WOlCSI",
+        "parentid": "",
+        "soap": "RH",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/01/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "23:07",
+        "channel": "mitch6225"
     },
     {
         "id": "ICywD2fqyv4",
@@ -5458,6 +5482,18 @@
         "total": "1",
         "duration": "0:52",
         "channel": "theystartedonsoaps"
+    },
+    {
+        "id": "GR3ezHPVJuU",
+        "parentid": "",
+        "soap": "RH",
+        "category": "A",
+        "title": "Episode - partial",
+        "date": "06/01/1985",
+        "part": "1",
+        "total": "1",
+        "duration": "11:51",
+        "channel": "mitch6225"
     },
     {
         "id": "a3e4rEOnaKs",

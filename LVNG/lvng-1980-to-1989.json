@@ -84,6 +84,18 @@
         "channel": "fyi9476"
     },
     {
+        "id": "5k5MDkViSyc",
+        "parentid": "",
+        "soap": "LVNG",
+        "category": "A",
+        "title": "Episode content - Loving Vietnam Memorial, Mike & Ann",
+        "date": "01/01/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "18:12",
+        "channel": "mitch6225"
+    },
+    {
         "id": "0-ZBYPOJcmQ",
         "parentid": "P_8dc41434",
         "soap": "LVNG",
@@ -180,6 +192,30 @@
         "channel": "fyi9476"
     },
     {
+        "id": "8_erMrrnPVc",
+        "parentid": "",
+        "soap": "LVNG",
+        "category": "A",
+        "title": "David Gale aka SFT Rusty",
+        "date": "01/01/1986",
+        "part": "1",
+        "total": "1",
+        "duration": "4:03",
+        "channel": "mitch6225"
+    },
+    {
+        "id": "vLikIzl_MYY",
+        "parentid": "",
+        "soap": "LVNG",
+        "category": "A",
+        "title": "Bad Seed story, Zack, Kelly",
+        "date": "01/01/1986",
+        "part": "1",
+        "total": "1",
+        "duration": "42:38",
+        "channel": "mitch6225"
+    },
+    {
         "id": "7T6DCNsZOpc",
         "parentid": "",
         "soap": "LVNG",
@@ -226,6 +262,18 @@
         "total": "1",
         "duration": "3:00",
         "channel": "theystartedonsoaps"
+    },
+    {
+        "id": "4Tz-Wgwoouw",
+        "parentid": "",
+        "soap": "LVNG",
+        "category": "A",
+        "title": "Jacqui Courtney as Diane, Luke Perry",
+        "date": "08/26/1987",
+        "part": "1",
+        "total": "1",
+        "duration": "2:41",
+        "channel": "mitch6225"
     },
     {
         "id": "Z_yGu_k7Tis",
@@ -276,6 +324,18 @@
         "channel": "chuckd79"
     },
     {
+        "id": "zF2hNrDcxOI",
+        "parentid": "",
+        "soap": "LVNG",
+        "category": "A",
+        "title": "Roya Megnot last scene, Lisa Peluso first scene soap",
+        "date": "01/01/1988",
+        "part": "1",
+        "total": "1",
+        "duration": "10:37",
+        "channel": "mitch6225"
+    },
+    {
         "id": "ml9EzaB-U_o",
         "parentid": "",
         "soap": "LVNG",
@@ -298,6 +358,18 @@
         "total": "1",
         "duration": "1:16",
         "channel": "disabled1955"
+    },
+    {
+        "id": "yVRuzmtLqm0",
+        "parentid": "",
+        "soap": "LVNG",
+        "category": "A",
+        "title": "Gwyn as played by Leslie Denniston Hastings",
+        "date": "10/13/1988",
+        "part": "1",
+        "total": "1",
+        "duration": "14:32",
+        "channel": "mitch6225"
     },
     {
         "id": "76vxpNDY1Oo",

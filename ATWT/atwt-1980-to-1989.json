@@ -72,6 +72,18 @@
         "channel": "patriciabruderdebrovner4497"
     },
     {
+        "id": "LfH3EIS43eQ",
+        "parentid": "",
+        "soap": "ATWT",
+        "category": "A",
+        "title": "Episode",
+        "date": "07/11/1980",
+        "part": "1",
+        "total": "1",
+        "duration": "58:20",
+        "channel": "mitch6225"
+    },
+    {
         "id": "eGLo2XaQ3T4",
         "parentid": "",
         "soap": "ATWT",
@@ -166,6 +178,18 @@
         "total": "1",
         "duration": "22:12",
         "channel": "patriciabruderdebrovner4497"
+    },
+    {
+        "id": "p71Clgs9wdA",
+        "parentid": "",
+        "soap": "ATWT",
+        "category": "B",
+        "title": "Promo - Who killed John Dixon",
+        "date": "01/15/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "0:23",
+        "channel": "mitch6225"
     },
     {
         "id": "ZBCBUwrenww",
@@ -358,6 +382,18 @@
         "total": "1",
         "duration": "42:19",
         "channel": "edwynnsanchez"
+    },
+    {
+        "id": "FJKGDv_IwlQ",
+        "parentid": "",
+        "soap": "ATWT",
+        "category": "B",
+        "title": "Promo - Nancy Pinkerton, Reva, Josh",
+        "date": "07/31/1984",
+        "part": "1",
+        "total": "1",
+        "duration": "0:22",
+        "channel": "mitch6225"
     },
     {
         "id": "ywC9MNKYHv8",
@@ -562,6 +598,18 @@
         "total": "1",
         "duration": "58:43",
         "channel": "pannoni"
+    },
+    {
+        "id": "2kaepqVEaaQ",
+        "parentid": "",
+        "soap": "ATWT",
+        "category": "A",
+        "title": "Episode - July 4th",
+        "date": "07/4/1985",
+        "part": "1",
+        "total": "1",
+        "duration": "43:15",
+        "channel": "mitch6225"
     },
     {
         "id": "OeBG1QdgtuA",

@@ -12,6 +12,18 @@
         "channel": "marystuart3644"
     },
     {
+        "id": "RiLQKXxwWgc",
+        "parentid": "",
+        "soap": "SFT",
+        "category": "A",
+        "title": "Episode",
+        "date": "09/3/1951",
+        "part": "1",
+        "total": "1",
+        "duration": "14:26",
+        "channel": "mitch6225"
+    },
+    {
         "id": "9aOgdn0JRFg",
         "parentid": "",
         "soap": "SFT",
@@ -22,6 +34,30 @@
         "total": "1",
         "duration": "03:34",
         "channel": "marystuart3644"
+    },
+    {
+        "id": "P3HZB1nzdEw",
+        "parentid": "",
+        "soap": "SFT",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/30/1952",
+        "part": "1",
+        "total": "1",
+        "duration": "14:28",
+        "channel": "mitch6225"
+    },
+    {
+        "id": "ZJNkkDCUh6o",
+        "parentid": "",
+        "soap": "SFT",
+        "category": "A",
+        "title": "Episode",
+        "date": "03/2/1952",
+        "part": "1",
+        "total": "1",
+        "duration": "14:38",
+        "channel": "mitch6225"
     },
     {
         "id": "9wwBI4Iv6do",
@@ -82,6 +118,18 @@
         "total": "1",
         "duration": "14:46",
         "channel": "moviecraft"
+    },
+    {
+        "id": "JlPkaOtLE3Q",
+        "parentid": "",
+        "soap": "SFT",
+        "category": "A",
+        "title": "Episode",
+        "date": "04/4/1953",
+        "part": "1",
+        "total": "1",
+        "duration": "14:32",
+        "channel": "mitch6225"
     },
     {
         "id": "ry75s3HJaTc",
@@ -202,6 +250,78 @@
         "total": "1",
         "duration": "15:02",
         "channel": "classicsoapoperas"
+    },
+    {
+        "id": "9V92NcRzAPg",
+        "parentid": "P_036c0ebe",
+        "soap": "SFT",
+        "category": "A",
+        "title": "Summer of 1966",
+        "date": "07/01/1966",
+        "part": "1",
+        "total": "6",
+        "duration": "2:47:04",
+        "channel": "mitch6225"
+    },
+    {
+        "id": "pAQWWtO6cCE",
+        "parentid": "P_036c0ebe",
+        "soap": "SFT",
+        "category": "A",
+        "title": "Summer of 1966",
+        "date": "07/01/1966",
+        "part": "2",
+        "total": "6",
+        "duration": "3:20:01",
+        "channel": "mitch6225"
+    },
+    {
+        "id": "x2nplH8-L_o",
+        "parentid": "P_036c0ebe",
+        "soap": "SFT",
+        "category": "A",
+        "title": "Summer of 1966",
+        "date": "07/01/1966",
+        "part": "3",
+        "total": "6",
+        "duration": "1:01:33",
+        "channel": "mitch6225"
+    },
+    {
+        "id": "2475ROGhmls",
+        "parentid": "P_036c0ebe",
+        "soap": "SFT",
+        "category": "A",
+        "title": "Summer of 1966",
+        "date": "07/01/1966",
+        "part": "4",
+        "total": "6",
+        "duration": "59:52",
+        "channel": "mitch6225"
+    },
+    {
+        "id": "4l_EI7BDFgA",
+        "parentid": "P_036c0ebe",
+        "soap": "SFT",
+        "category": "A",
+        "title": "Summer of 1966",
+        "date": "07/01/1966",
+        "part": "5",
+        "total": "6",
+        "duration": "1:15:26",
+        "channel": "mitch6225"
+    },
+    {
+        "id": "HXRT5BCvmZs",
+        "parentid": "P_036c0ebe",
+        "soap": "SFT",
+        "category": "A",
+        "title": "Summer of 1966",
+        "date": "07/01/1966",
+        "part": "6",
+        "total": "6",
+        "duration": "1:33:32",
+        "channel": "mitch6225"
     },
     {
         "id": "b0v-4FPKZTk",
@@ -384,6 +504,18 @@
         "channel": "marystuart3644"
     },
     {
+        "id": "BZJShcFE52I",
+        "parentid": "",
+        "soap": "SFT",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/01/1977",
+        "part": "1",
+        "total": "1",
+        "duration": "1:25",
+        "channel": "mitch6225"
+    },
+    {
         "id": "vYFNytTvKtM",
         "parentid": "",
         "soap": "SFT",
@@ -442,6 +574,42 @@
         "total": "1",
         "duration": "00:21",
         "channel": "theystartedonsoaps"
+    },
+    {
+        "id": "KlGE-B7XfGs",
+        "parentid": "",
+        "soap": "SFT",
+        "category": "A",
+        "title": "Travis and Liza make love",
+        "date": "01/01/1978",
+        "part": "1",
+        "total": "1",
+        "duration": "2:42",
+        "channel": "mitch6225"
+    },
+    {
+        "id": "U2wrl8ZpILY",
+        "parentid": "",
+        "soap": "SFT",
+        "category": "A",
+        "title": "Episode clip",
+        "date": "01/01/1978",
+        "part": "1",
+        "total": "1",
+        "duration": "5:03",
+        "channel": "mitch6225"
+    },
+    {
+        "id": "XUml23T2SvI",
+        "parentid": "",
+        "soap": "SFT",
+        "category": "A",
+        "title": "The Adamson's",
+        "date": "01/01/1978",
+        "part": "1",
+        "total": "1",
+        "duration": "6:23",
+        "channel": "mitch6225"
     },
     {
         "id": "-TWWQ8nAhAE",
@@ -528,6 +696,42 @@
         "channel": "chuckd79"
     },
     {
+        "id": "Fb7RuB6ZgHU",
+        "parentid": "",
+        "soap": "SFT",
+        "category": "B",
+        "title": "Promo",
+        "date": "01/01/1979",
+        "part": "1",
+        "total": "1",
+        "duration": "0:24",
+        "channel": "mitch6225"
+    },
+    {
+        "id": "BGMnoX1MhWg",
+        "parentid": "",
+        "soap": "SFT",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/01/1979",
+        "part": "1",
+        "total": "1",
+        "duration": "2:00",
+        "channel": "mitch6225"
+    },
+    {
+        "id": "QC-gn6NCqyM",
+        "parentid": "",
+        "soap": "SFT",
+        "category": "A",
+        "title": "Episode",
+        "date": "01/01/1979",
+        "part": "1",
+        "total": "1",
+        "duration": "54:51",
+        "channel": "mitch6225"
+    },
+    {
         "id": "9EIyLtGN6ZY",
         "parentid": "",
         "soap": "SFT",
@@ -550,6 +754,18 @@
         "total": "1",
         "duration": "02:00",
         "channel": "marystuart3644"
+    },
+    {
+        "id": "QMBA3P_VN70",
+        "parentid": "",
+        "soap": "SFT",
+        "category": "B",
+        "title": "Promo",
+        "date": "03/01/1979",
+        "part": "1",
+        "total": "1",
+        "duration": "0:22",
+        "channel": "mitch6225"
     },
     {
         "id": "C1RyFUj7jeE",

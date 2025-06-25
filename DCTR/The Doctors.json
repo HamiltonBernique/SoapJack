@@ -36,6 +36,78 @@
         "channel": "retronewfoundland"
     },
     {
+        "id": "56AnbWl7Lao",
+        "parentid": "",
+        "soap": "DCTR",
+        "category": "A",
+        "title": "Episode",
+        "date": "02/04/1970",
+        "part": "1",
+        "total": "1",
+        "duration": "22:34",
+        "channel": "mitch6225"
+    },
+    {
+        "id": "8Jw27Vml2co",
+        "parentid": "",
+        "soap": "DCTR",
+        "category": "A",
+        "title": "Episode",
+        "date": "03/02/1970",
+        "part": "1",
+        "total": "1",
+        "duration": "22:21",
+        "channel": "mitch6225"
+    },
+    {
+        "id": "pI0L2Krqf4c",
+        "parentid": "",
+        "soap": "DCTR",
+        "category": "A",
+        "title": "Episode",
+        "date": "03/17/1970",
+        "part": "1",
+        "total": "1",
+        "duration": "29:00",
+        "channel": "mitch6225"
+    },
+    {
+        "id": "y0BbLu7SlGo",
+        "parentid": "",
+        "soap": "DCTR",
+        "category": "A",
+        "title": "Episode",
+        "date": "03/31/1970",
+        "part": "1",
+        "total": "1",
+        "duration": "27:58",
+        "channel": "mitch6225"
+    },
+    {
+        "id": "ZEujpKXSIMI",
+        "parentid": "",
+        "soap": "DCTR",
+        "category": "A",
+        "title": "Episode",
+        "date": "04/20/1970",
+        "part": "1",
+        "total": "1",
+        "duration": "29:30",
+        "channel": "mitch6225"
+    },
+    {
+        "id": "U9X6apm6x60",
+        "parentid": "",
+        "soap": "DCTR",
+        "category": "A",
+        "title": "Episode",
+        "date": "06/30/1970",
+        "part": "1",
+        "total": "1",
+        "duration": "29:14",
+        "channel": "mitch6225"
+    },
+    {
         "id": "S_I5sxa79pk",
         "parentid": "",
         "soap": "DCTR",
@@ -46,6 +118,18 @@
         "total": "1",
         "duration": "10:06",
         "channel": "pimlicocalico"
+    },
+    {
+        "id": "amcUksNvYVQ",
+        "parentid": "",
+        "soap": "DCTR",
+        "category": "A",
+        "title": "Episode",
+        "date": "03/15/1971",
+        "part": "1",
+        "total": "1",
+        "duration": "13:25",
+        "channel": "mitch6225"
     },
     {
         "id": "KWNsylOE1aI",
@@ -300,6 +384,42 @@
         "channel": "chuckd79"
     },
     {
+        "id": "ioxJ2clAj7A",
+        "parentid": "",
+        "soap": "DCTR",
+        "category": "A",
+        "title": "Episode",
+        "date": "02/16/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "21:54",
+        "channel": "mitch6225"
+    },
+    {
+        "id": "eT_t7Jo1u28",
+        "parentid": "",
+        "soap": "DCTR",
+        "category": "A",
+        "title": "Episode",
+        "date": "04/21/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "26:13",
+        "channel": "mitch6225"
+    },
+    {
+        "id": "GGUmus1rgxM",
+        "parentid": "",
+        "soap": "DCTR",
+        "category": "A",
+        "title": "Episode",
+        "date": "05/01/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "19:02",
+        "channel": "mitch6225"
+    },
+    {
         "id": "V26fzZfqhTQ",
         "parentid": "",
         "soap": "DCTR",
@@ -312,6 +432,90 @@
         "channel": "theystartedonsoaps"
     },
     {
+        "id": "mehWVUzZNU0",
+        "parentid": "",
+        "soap": "DCTR",
+        "category": "A",
+        "title": "Episode",
+        "date": "06/03/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "22:04",
+        "channel": "mitch6225"
+    },
+    {
+        "id": "wwvDUCcJ728",
+        "parentid": "",
+        "soap": "DCTR",
+        "category": "A",
+        "title": "Episode",
+        "date": "09/25/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "22:17",
+        "channel": "mitch6225"
+    },
+    {
+        "id": "k0DmQfjPRIU",
+        "parentid": "",
+        "soap": "DCTR",
+        "category": "A",
+        "title": "Episode",
+        "date": "10/01/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "47:57",
+        "channel": "mitch6225"
+    },
+    {
+        "id": "bhQArfcp1h8",
+        "parentid": "",
+        "soap": "DCTR",
+        "category": "A",
+        "title": "Episode",
+        "date": "10/21/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "22:09",
+        "channel": "mitch6225"
+    },
+    {
+        "id": "fJvQkGCHgxI",
+        "parentid": "",
+        "soap": "DCTR",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/04/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "22:09",
+        "channel": "mitch6225"
+    },
+    {
+        "id": "OkZNZMTHkP4",
+        "parentid": "",
+        "soap": "DCTR",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/12/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "28:26",
+        "channel": "mitch6225"
+    },
+    {
+        "id": "W-1sMjKx5Hw",
+        "parentid": "",
+        "soap": "DCTR",
+        "category": "A",
+        "title": "Episode",
+        "date": "12/31/1981",
+        "part": "1",
+        "total": "1",
+        "duration": "22:15",
+        "channel": "mitch6225"
+    },
+    {
         "id": "_HIfdQ0dhDE",
         "parentid": "",
         "soap": "DCTR",
@@ -322,5 +526,65 @@
         "total": "1",
         "duration": "01:20",
         "channel": "theystartedonsoaps"
+    },
+    {
+        "id": "JqNsBg8Tzxg",
+        "parentid": "",
+        "soap": "DCTR",
+        "category": "A",
+        "title": "Episode",
+        "date": "04/01/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "22:13",
+        "channel": "mitch6225"
+    },
+    {
+        "id": "sGkWV88H1H4",
+        "parentid": "",
+        "soap": "DCTR",
+        "category": "A",
+        "title": "Episode",
+        "date": "04/19/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "21:51",
+        "channel": "mitch6225"
+    },
+    {
+        "id": "oojyngzrunw",
+        "parentid": "",
+        "soap": "DCTR",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/22/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "27:44",
+        "channel": "mitch6225"
+    },
+    {
+        "id": "FnJNSF4TYD8",
+        "parentid": "",
+        "soap": "DCTR",
+        "category": "A",
+        "title": "Episode",
+        "date": "11/23/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "26:41",
+        "channel": "mitch6225"
+    },
+    {
+        "id": "Z4ZMTdLqW3c",
+        "parentid": "",
+        "soap": "DCTR",
+        "category": "A",
+        "title": "Episode",
+        "date": "12/20/1982",
+        "part": "1",
+        "total": "1",
+        "duration": "23:10",
+        "channel": "mitch6225"
     }
 ]

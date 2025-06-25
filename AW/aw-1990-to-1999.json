@@ -4896,6 +4896,18 @@
         "channel": "chuckd79"
     },
     {
+        "id": "JglNudCgHZQ",
+        "parentid": "",
+        "soap": "AW",
+        "category": "A",
+        "title": "Episode - last 15 min",
+        "date": "01/01/1993",
+        "part": "1",
+        "total": "1",
+        "duration": "15:18",
+        "channel": "mitch6225"
+    },
+    {
         "id": "2RgRmqBNELY",
         "parentid": "P_13bc45bc",
         "soap": "AW",
@@ -14916,6 +14928,18 @@
         "channel": "pimlicocalico"
     },
     {
+        "id": "lZnYztFTyLg",
+        "parentid": "",
+        "soap": "AW",
+        "category": "A",
+        "title": "Episode",
+        "date": "03/01/1996",
+        "part": "1",
+        "total": "1",
+        "duration": "14:25",
+        "channel": "mitch6225"
+    },
+    {
         "id": "PtrUgmSBil4",
         "parentid": "",
         "soap": "AW",
@@ -16332,6 +16356,18 @@
         "channel": "pimlicocalico"
     },
     {
+        "id": "xaLuYS3ufz4",
+        "parentid": "",
+        "soap": "AW",
+        "category": "A",
+        "title": "Episode",
+        "date": "08/19/1997",
+        "part": "1",
+        "total": "1",
+        "duration": "48:09",
+        "channel": "mitch6225"
+    },
+    {
         "id": "lVCFiBC5nWE",
         "parentid": "",
         "soap": "AW",
@@ -17100,6 +17136,18 @@
         "channel": "chase4everchase"
     },
     {
+        "id": "0TgFykQvbaA",
+        "parentid": "",
+        "soap": "AW",
+        "category": "A",
+        "title": "Episode - last 20 min",
+        "date": "02/19/1998",
+        "part": "1",
+        "total": "1",
+        "duration": "20:17",
+        "channel": "mitch6225"
+    },
+    {
         "id": "_a8RHd9nKAs",
         "parentid": "",
         "soap": "AW",
@@ -17482,6 +17530,18 @@
         "total": "27",
         "duration": "8:48",
         "channel": "chase4everchase"
+    },
+    {
+        "id": "sPG8xbPs9gc",
+        "parentid": "",
+        "soap": "AW",
+        "category": "A",
+        "title": "Episode",
+        "date": "03/5/1998",
+        "part": "1",
+        "total": "1",
+        "duration": "58:31",
+        "channel": "mitch6225"
     },
     {
         "id": "vBmpLMXIsng",
