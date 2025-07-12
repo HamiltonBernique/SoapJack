@@ -1,4 +1,4 @@
 link,title,duration,soap,date,category,parentid,part,total,channel
-"=HYPERLINK(""https://youtu.be/gphGlnjJ3AQ"", ""Link"")",Episode,29:04,SSET,11/07/1972,A,,1,1,robwargo
-"=HYPERLINK(""https://youtu.be/bbBdHURROVw"", ""Link"")",Closing theme,1:35,SSET,01/01/1973,B,,1,1,edwynnsanchez
-"=HYPERLINK(""https://youtu.be/7O6viQxUCtA"", ""Link"")",Episode clip,2:06,SSET,08/01/1975,A,,1,1,mitch6225
+"=HYPERLINK(""https://youtu.be/gphGlnjJ3AQ"", ""Link"")",Episode,0:29:04,SSET,11/07/1972,A,,1,1,robwargo
+"=HYPERLINK(""https://youtu.be/bbBdHURROVw"", ""Link"")",Closing theme,0:01:35,SSET,01/01/1973,B,,1,1,edwynnsanchez
+"=HYPERLINK(""https://youtu.be/7O6viQxUCtA"", ""Link"")",Episode clip,0:02:06,SSET,08/01/1975,A,,1,1,mitch6225
