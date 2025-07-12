@@ -8,7 +8,7 @@
         "date": "1/1/1989",
         "part": "1",
         "total": "1",
-        "duration": "29:10",
+        "duration": "0:29:10",
         "channel": "cfs89"
     },
     {
@@ -20,7 +20,7 @@
         "date": "1/1/1989",
         "part": "1",
         "total": "1",
-        "duration": "28:27",
+        "duration": "0:28:27",
         "channel": "cfs89"
     },
     {
@@ -32,7 +32,7 @@
         "date": "1/1/1989",
         "part": "1",
         "total": "1",
-        "duration": "28:37",
+        "duration": "0:28:37",
         "channel": "cfs89"
     },
     {
@@ -44,7 +44,7 @@
         "date": "01/01/1989",
         "part": "1",
         "total": "5",
-        "duration": "7:34",
+        "duration": "0:07:34",
         "channel": "justininatlanta"
     },
     {
@@ -56,7 +56,7 @@
         "date": "01/01/1989",
         "part": "2",
         "total": "5",
-        "duration": "04:39",
+        "duration": "0:04:39",
         "channel": "justininatlanta"
     },
     {
@@ -68,7 +68,7 @@
         "date": "01/01/1989",
         "part": "3",
         "total": "5",
-        "duration": "5:16",
+        "duration": "0:05:16",
         "channel": "justininatlanta"
     },
     {
@@ -80,7 +80,7 @@
         "date": "01/01/1989",
         "part": "4",
         "total": "5",
-        "duration": "3:25",
+        "duration": "0:03:25",
         "channel": "justininatlanta"
     },
     {
@@ -92,7 +92,7 @@
         "date": "01/01/1989",
         "part": "5",
         "total": "5",
-        "duration": "0:38",
+        "duration": "0:00:38",
         "channel": "justininatlanta"
     },
     {
@@ -104,7 +104,7 @@
         "date": "01/01/1990",
         "part": "1",
         "total": "1",
-        "duration": "04:11",
+        "duration": "0:04:11",
         "channel": "steverutherford"
     },
     {
@@ -116,7 +116,7 @@
         "date": "01/01/1990",
         "part": "1",
         "total": "1",
-        "duration": "04:12",
+        "duration": "0:04:12",
         "channel": "steverutherford"
     },
     {
@@ -128,7 +128,7 @@
         "date": "01/01/1990",
         "part": "1",
         "total": "1",
-        "duration": "06:52",
+        "duration": "0:06:52",
         "channel": "steverutherford"
     },
     {
@@ -140,7 +140,7 @@
         "date": "01/01/1990",
         "part": "1",
         "total": "1",
-        "duration": "30:37",
+        "duration": "0:30:37",
         "channel": "steverutherford"
     },
     {
@@ -152,7 +152,7 @@
         "date": "01/01/1990",
         "part": "1",
         "total": "1",
-        "duration": "29:00",
+        "duration": "0:29:00",
         "channel": "steverutherford"
     },
     {
@@ -164,7 +164,7 @@
         "date": "01/01/1990",
         "part": "1",
         "total": "1",
-        "duration": "11:52",
+        "duration": "0:11:52",
         "channel": "steverutherford"
     },
     {
@@ -176,7 +176,7 @@
         "date": "01/01/1990",
         "part": "1",
         "total": "1",
-        "duration": "30:53",
+        "duration": "0:30:53",
         "channel": "steverutherford"
     },
     {
@@ -188,7 +188,7 @@
         "date": "01/01/1990",
         "part": "1",
         "total": "1",
-        "duration": "28:08",
+        "duration": "0:28:08",
         "channel": "steverutherford"
     },
     {
@@ -200,7 +200,7 @@
         "date": "1/1/1990",
         "part": "1",
         "total": "1",
-        "duration": "0:21",
+        "duration": "0:00:21",
         "channel": "chuckd79"
     },
     {
@@ -212,7 +212,7 @@
         "date": "01/01/1990",
         "part": "1",
         "total": "2",
-        "duration": "15:00",
+        "duration": "0:15:00",
         "channel": "steverutherford"
     },
     {
@@ -224,7 +224,7 @@
         "date": "01/01/1990",
         "part": "2",
         "total": "2",
-        "duration": "7:13",
+        "duration": "0:07:13",
         "channel": "steverutherford"
     },
     {
@@ -236,7 +236,7 @@
         "date": "01/01/1990",
         "part": "1",
         "total": "3",
-        "duration": "29:54",
+        "duration": "0:29:54",
         "channel": "steverutherford"
     },
     {
@@ -248,7 +248,7 @@
         "date": "01/01/1990",
         "part": "2",
         "total": "3",
-        "duration": "29:46",
+        "duration": "0:29:46",
         "channel": "steverutherford"
     },
     {
@@ -260,7 +260,7 @@
         "date": "01/01/1990",
         "part": "3",
         "total": "3",
-        "duration": "30:40",
+        "duration": "0:30:40",
         "channel": "steverutherford"
     },
     {
@@ -272,7 +272,7 @@
         "date": "01/01/1991",
         "part": "1",
         "total": "1",
-        "duration": "4:46",
+        "duration": "0:04:46",
         "channel": "justininatlanta"
     },
     {
@@ -284,7 +284,7 @@
         "date": "1/1/1991",
         "part": "1",
         "total": "1",
-        "duration": "14:59",
+        "duration": "0:14:59",
         "channel": "steverutherford"
     },
     {
@@ -296,7 +296,7 @@
         "date": "01/01/1991",
         "part": "1",
         "total": "5",
-        "duration": "5:38",
+        "duration": "0:05:38",
         "channel": "justininatlanta"
     },
     {
@@ -308,7 +308,7 @@
         "date": "01/01/1991",
         "part": "2",
         "total": "5",
-        "duration": "4:44",
+        "duration": "0:04:44",
         "channel": "justininatlanta"
     },
     {
@@ -320,7 +320,7 @@
         "date": "01/01/1991",
         "part": "3",
         "total": "5",
-        "duration": "4:21",
+        "duration": "0:04:21",
         "channel": "justininatlanta"
     },
     {
@@ -332,7 +332,7 @@
         "date": "01/01/1991",
         "part": "4",
         "total": "5",
-        "duration": "05:29",
+        "duration": "0:05:29",
         "channel": "justininatlanta"
     },
     {
@@ -344,7 +344,7 @@
         "date": "01/01/1991",
         "part": "5",
         "total": "5",
-        "duration": "00:25",
+        "duration": "0:00:25",
         "channel": "justininatlanta"
     }
 ]
