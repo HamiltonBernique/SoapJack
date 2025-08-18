@@ -1,8 +1,8 @@
-link,title,duration,soap,date,category,parentid,part,total,channel
-"=HYPERLINK(""https://youtu.be/b8Z5Oyfws5U"", ""Link"")",Drew Bell as Thomas Forrester,0:06:02,BB,08/27/2010,A,,1,1,ryanshope3316
-"=HYPERLINK(""https://youtu.be/OZN6AjhlrPQ"", ""Link"")",Adam Gregory as Thomas Forrester,0:04:16,BB,09/22/2010,A,,1,1,ryanshope3316
-"=HYPERLINK(""https://youtu.be/zRGE5d5W_fw"", ""Link"")",Steffy Slaps Quinn,0:01:18,BB,08/2/2016,A,,1,1,novelasdomundo
-"=HYPERLINK(""https://youtu.be/QhD5HNncIb8"", ""Link"")",Quinn Models The Forrester Showstopper,0:03:04,BB,11/11/2016,A,,1,1,novelasdomundo
-"=HYPERLINK(""https://youtu.be/ghGdqu6i-hI"", ""Link"")",Quinn And Ridge Kiss & Ivy Slaps Quinn,0:03:04,BB,02/17/2017,A,,1,1,novelasdomundo
-"=HYPERLINK(""https://youtu.be/9s-Uj5X_TZ0"", ""Link"")",Annika Noelle's First Scene As Hope Logan Spencer,0:02:32,BB,01/01/2018,A,,1,1,novelasdomundo
-"=HYPERLINK(""https://youtu.be/b_He5Lz0EEg"", ""Link"")","Stephanie Forrester's ""Return""",0:01:31,BB,02/9/2018,A,,1,1,novelasdomundo
+YouTube link,id,title,duration,soap,date,category,parentid,part,total,channel
+"=HYPERLINK(""https://youtu.be/b8Z5Oyfws5U"", ""Link"")",b8Z5Oyfws5U,Drew Bell as Thomas Forrester,0:06:02,BB,08/27/2010,A,,1,1,ryanshope3316
+"=HYPERLINK(""https://youtu.be/OZN6AjhlrPQ"", ""Link"")",OZN6AjhlrPQ,Adam Gregory as Thomas Forrester,0:04:16,BB,09/22/2010,A,,1,1,ryanshope3316
+"=HYPERLINK(""https://youtu.be/zRGE5d5W_fw"", ""Link"")",zRGE5d5W_fw,Steffy Slaps Quinn,0:01:18,BB,08/2/2016,A,,1,1,novelasdomundo
+"=HYPERLINK(""https://youtu.be/QhD5HNncIb8"", ""Link"")",QhD5HNncIb8,Quinn Models The Forrester Showstopper,0:03:04,BB,11/11/2016,A,,1,1,novelasdomundo
+"=HYPERLINK(""https://youtu.be/ghGdqu6i-hI"", ""Link"")",ghGdqu6i-hI,Quinn And Ridge Kiss & Ivy Slaps Quinn,0:03:04,BB,02/17/2017,A,,1,1,novelasdomundo
+"=HYPERLINK(""https://youtu.be/9s-Uj5X_TZ0"", ""Link"")",9s-Uj5X_TZ0,Annika Noelle's First Scene As Hope Logan Spencer,0:02:32,BB,01/01/2018,A,,1,1,novelasdomundo
+"=HYPERLINK(""https://youtu.be/b_He5Lz0EEg"", ""Link"")",b_He5Lz0EEg,"Stephanie Forrester's ""Return""",0:01:31,BB,02/9/2018,A,,1,1,novelasdomundo

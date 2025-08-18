@@ -1,11 +1,11 @@
-link,title,duration,soap,date,category,parentid,part,total,channel
-"=HYPERLINK(""https://youtu.be/V_4mjbOBB98"", ""Link"")",Episode,0:22:13,DAYS,11/08/1965,A,,1,1,classicsoapoperas
-"=HYPERLINK(""https://youtu.be/-czRQ16JA_A"", ""Link"")",Episode,0:21:06,DAYS,11/09/1965,A,,1,1,classicsoapoperas
-"=HYPERLINK(""https://youtu.be/AFywcCz4B_4"", ""Link"")",Promo,0:00:57,DAYS,01/01/1974,B,,1,1,robwargo
-"=HYPERLINK(""https://youtu.be/ui8n_s_MKf0"", ""Link"")",Horton Thanksgiving Prayer,0:01:47,DAYS,11/28/1974,A,,1,1,doolflashbacks8309
-"=HYPERLINK(""https://youtu.be/82VD5DimctA"", ""Link"")",Kitty Lester,0:07:06,DAYS,01/01/1976,A,,1,1,theystartedonsoaps
-"=HYPERLINK(""https://youtu.be/iotyfHR47lU"", ""Link"")",Episode,0:42:14,DAYS,08/01/1976,A,,1,1,classicsoapoperas
-"=HYPERLINK(""https://youtu.be/MjVbfEL6jtY"", ""Link"")",Samantha and Marlena,0:01:14,DAYS,01/01/1977,A,,1,1,doolflashbacks8309
-"=HYPERLINK(""https://youtu.be/ER0QrkfDMiI"", ""Link"")",Marlena Confronts Samantha,0:01:37,DAYS,01/01/1977,A,,1,1,doolflashbacks8309
-"=HYPERLINK(""https://youtu.be/N-j09rfcyN0"", ""Link"")",The Hortons Sing 'Always',0:02:24,DAYS,01/01/1979,A,,1,1,ackgh73994
-"=HYPERLINK(""https://youtu.be/SQmMB2NRWU8"", ""Link"")",Closing,0:00:18,DAYS,2/22/1979,B,,1,1,chuckd79
+YouTube link,id,title,duration,soap,date,category,parentid,part,total,channel
+"=HYPERLINK(""https://youtu.be/V_4mjbOBB98"", ""Link"")",V_4mjbOBB98,Episode,0:22:13,DAYS,11/08/1965,A,,1,1,classicsoapoperas
+"=HYPERLINK(""https://youtu.be/-czRQ16JA_A"", ""Link"")",-czRQ16JA_A,Episode,0:21:06,DAYS,11/09/1965,A,,1,1,classicsoapoperas
+"=HYPERLINK(""https://youtu.be/AFywcCz4B_4"", ""Link"")",AFywcCz4B_4,Promo,0:00:57,DAYS,01/01/1974,B,,1,1,robwargo
+"=HYPERLINK(""https://youtu.be/ui8n_s_MKf0"", ""Link"")",ui8n_s_MKf0,Horton Thanksgiving Prayer,0:01:47,DAYS,11/28/1974,A,,1,1,doolflashbacks8309
+"=HYPERLINK(""https://youtu.be/82VD5DimctA"", ""Link"")",82VD5DimctA,Kitty Lester,0:07:06,DAYS,01/01/1976,A,,1,1,theystartedonsoaps
+"=HYPERLINK(""https://youtu.be/iotyfHR47lU"", ""Link"")",iotyfHR47lU,Episode,0:42:14,DAYS,08/01/1976,A,,1,1,classicsoapoperas
+"=HYPERLINK(""https://youtu.be/MjVbfEL6jtY"", ""Link"")",MjVbfEL6jtY,Samantha and Marlena,0:01:14,DAYS,01/01/1977,A,,1,1,doolflashbacks8309
+"=HYPERLINK(""https://youtu.be/ER0QrkfDMiI"", ""Link"")",ER0QrkfDMiI,Marlena Confronts Samantha,0:01:37,DAYS,01/01/1977,A,,1,1,doolflashbacks8309
+"=HYPERLINK(""https://youtu.be/N-j09rfcyN0"", ""Link"")",N-j09rfcyN0,The Hortons Sing 'Always',0:02:24,DAYS,01/01/1979,A,,1,1,ackgh73994
+"=HYPERLINK(""https://youtu.be/SQmMB2NRWU8"", ""Link"")",SQmMB2NRWU8,Closing,0:00:18,DAYS,2/22/1979,B,,1,1,chuckd79

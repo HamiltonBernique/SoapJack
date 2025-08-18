@@ -1,2 +1,2 @@
-link,title,duration,soap,date,category,parentid,part,total,channel
-"=HYPERLINK(""https://youtu.be/Kp91sMCzRq4"", ""Link"")",Promo,0:00:31,EMMY,1/1/1978,B,,1,1,chuckd79
+YouTube link,id,title,duration,soap,date,category,parentid,part,total,channel
+"=HYPERLINK(""https://youtu.be/Kp91sMCzRq4"", ""Link"")",Kp91sMCzRq4,Promo,0:00:31,EMMY,1/1/1978,B,,1,1,chuckd79
