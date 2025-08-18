@@ -1,2 +1,2 @@
-link,title,duration,soap,date,category,parentid,part,total,channel
-"=HYPERLINK(""https://youtu.be/V3GbwoTKtR0"", ""Link"")",Closing,0:02:07,TX,1/1/1992,B,,1,1,cfs89
+YouTube link,id,title,duration,soap,date,category,parentid,part,total,channel
+"=HYPERLINK(""https://youtu.be/V3GbwoTKtR0"", ""Link"")",V3GbwoTKtR0,Closing,0:02:07,TX,1/1/1992,B,,1,1,cfs89
